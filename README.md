@@ -60,6 +60,7 @@ Preprocessing contohnya :
 - Description
 - Specification
 - How to use
+- Ideas and innovations in utilizing the data
 - JSON Structure
 - Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
 - Reference (Library used, etc)
