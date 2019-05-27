@@ -102,16 +102,12 @@ This is a program to get restaurants informations from https://kulineran.com.
 
 # Screenshot Program
 ### Source Code:
-```
 ![screenshot1](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/4.png)
 ![screenshot2](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/5.png)
 ![screenshot3](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/6.png)
-```
 ### JSON Data:
-```
 ![screenshot4](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/9.png)
 ![screenshot5](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/10.png)
-```
 
 # Reference
 ### The program used the following library:
