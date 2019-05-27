@@ -15,6 +15,11 @@ module.exports = async function(date) {
         return retrieve_without_date();
 };
 
+/**
+ * Retrieve webpage WITH date parameter set
+ * @param date date in YYYY-MM-DD
+ * @returns {Promise<*>}
+ */
 async function retrieve_with_date(date) {
     console.log(" [*] Retrieving raw HTML page from " + URL + ", with date = " + date + "...");
 
@@ -22,14 +27,26 @@ async function retrieve_with_date(date) {
     let str_date = parsed_date.format('YYYYMMDD');
     let id = parsed_date.format('MM/DD/YYYY');
 
-    let raw = await axios.post(URL, qs.stringify({strDate: str_date, id: id}));
+    let raw = await axios.post(URL, qs.stringify({strDate: str_date, id: id}), {
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64); Basis Data/Admin Basis Data/basisdata@std.stei.itb.ac.id'
+        }
+    });
     console.log(" [*] HTML retrieved.");
     return raw.data;
 }
 
+/**
+ * Retrieve webpage WITHOUT date parameter set
+ * @returns {Promise<*>}
+ */
 async function retrieve_without_date() {
     console.log(" [*] Retrieving raw HTML page from " + URL + "...");
-    let raw = await axios.get(URL);
+    let raw = await axios.get(URL, null, {
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64); Basis Data/Admin Basis Data/basisdata@std.stei.itb.ac.id'
+        }
+    });
     console.log(" [*] HTML retrieved.");
     return raw.data;
 }

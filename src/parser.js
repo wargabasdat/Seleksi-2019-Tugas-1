@@ -20,6 +20,11 @@ const months = {
     'Desember': 12
 };
 
+/**
+ * Extracts <table/> element from raw HTML string
+ * @param raw Raw HTML string
+ * @returns Array of Cheerio <table> DOMs
+ */
 module.exports.extract_tables = function(raw) {
     const $ = cheerio.load(raw);
     let table = $('table');
@@ -40,6 +45,11 @@ module.exports.extract_tables = function(raw) {
     return data;
 };
 
+/**
+ * Extract the begin date of the records
+ * @param raw Raw HTML string
+ * @returns YYYY-MM-DD representation of the date
+ */
 module.exports.extract_begin_date = function(raw) {
     const $ = cheerio.load(raw);
     let em_block = $('.text-muted > em');
@@ -51,6 +61,11 @@ module.exports.extract_begin_date = function(raw) {
     return format_date(begin_date);
 };
 
+/**
+ * Extract the end date of the records
+ * @param raw Raw HTML string
+ * @returns YYYY-MM-DD representation of the date
+ */
 module.exports.extract_end_date = function(raw) {
     const $ = cheerio.load(raw);
     let em_block = $('.text-muted > em');
@@ -62,6 +77,11 @@ module.exports.extract_end_date = function(raw) {
     return format_date(end_date);
 };
 
+/**
+ * Format date
+ * @param str (Inconsistent) date string in the webpage
+ * @returns Standardized date, format: YYYY-MM-DD
+ */
 function format_date(str) {
     let date_components = str.split(' ');
     if(!months[date_components[1]]) throw "Month not found!";
@@ -70,6 +90,12 @@ function format_date(str) {
     return date_str;
 }
 
+/**
+ * Extract rows from table
+ * @param cheerio Cheerio instance
+ * @param table Cheerio table DOM
+ * @returns Array of Cheerio <tr> DOMs
+ */
 function extract_rows(cheerio, table) {
     let rows = [];
     table.find('tr').each(function(i, elem) {
@@ -79,6 +105,12 @@ function extract_rows(cheerio, table) {
     return rows;
 }
 
+/**
+ * Extract fields from table's td
+ * @param cheerio Cheerio instance
+ * @param row Cheerio <tr> DOM
+ * @returns Array of String of retrieved fields
+ */
 function extract_fields(cheerio, row) {
     let fields = [];
     row.find('td').each(function(i, elem) {
@@ -88,6 +120,12 @@ function extract_fields(cheerio, row) {
     return fields;
 }
 
+/**
+ * Parse row
+ * Convert row fields into Object
+ * @param row row fields
+ * @returns {{currency: *, currency_code: *, value, change}}
+ */
 function parse_row(row) {
     return {
         currency: get_currency_name(row[1]),
@@ -97,19 +135,41 @@ function parse_row(row) {
     }
 }
 
+/**
+ * Preprocess currency value
+ * @param value_str unformatted value string
+ * @returns float of value
+ */
 function preprocess_value(value_str) {
     let value_str_clean = value_str.replace(/ /g, '').replace(/,/g, '');
     return parseFloat(value_str_clean);
 }
 
+/**
+ * Extract currency name from combined currency name string
+ * @param str Combined currency name string
+ * @returns Currency name
+ */
 function get_currency_name(str) {
     return str.replace(` (${get_currency_code(str)})`, '');
 }
 
+/**
+ * Extract currency code from combined currency name string
+ * @param str Combined currency name string
+ * @returns Currency code
+ */
 function get_currency_code(str) {
     return str.match(/\((.*?)\)/)[1];
 }
 
+/**
+ * Pad integer with zeroes
+ * @param n
+ * @param width
+ * @param z
+ * @returns {*}
+ */
 function pad(n, width, z) {
     z = z || '0';
     n = n + '';

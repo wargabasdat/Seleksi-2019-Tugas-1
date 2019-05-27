@@ -1,7 +1,7 @@
 all: clean build run
 
-clean: # remove data and binary folder
+clean: # remove data and binary folder, not implemented
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+build: # compile to binary, not implemented
 
-run: # run your binary
+run: npm run start
