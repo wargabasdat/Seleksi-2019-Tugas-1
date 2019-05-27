@@ -2,7 +2,7 @@
 	Nama file : scrape.py
 	Topik     : Data Scraping
 	Tanggal   : 31 Mei 2019
-	Deskripsi : Program untuk melakukan data scraping dari kulineran.com '''
+	Deskripsi : Program to do data scraping from kulineran.com '''
 
 #Library
 import bs4
