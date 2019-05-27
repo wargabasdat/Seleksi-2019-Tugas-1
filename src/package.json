@@ -1,0 +1,16 @@
+{
+  "name": "seleksi-basdat-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Muhammad Aditya Hilmy / 18217025",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0"
+  }
+}
