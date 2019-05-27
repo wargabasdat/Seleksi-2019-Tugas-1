@@ -13,20 +13,20 @@ import re
 import requests
 import time
 
-#Inisialisasi Variabel Global
+#Global Variable Initialization
 global header
 global restaurant_link
 global result
 
-#Inisialisasi Variabel
+#Variable Initialization
 useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
 email = '13517137@std.stei.itb.ac.id'
 header = {'user-agent' : useragent, 'from': email}
 restaurant_link = []
 result = []
 
-#Fungsi dan Prosedur
-#Prosedur untuk melakukan data scraping untuk mendapatkan semua link restoran dari list restoran kulineran.com
+#Function and Procedure
+#Procedure to scrape all restaurant links from kulineran.com
 def scrape_kulineran():
 	global header
 	global restaurant_link
@@ -35,6 +35,8 @@ def scrape_kulineran():
 		url = 'https://kulineran.com/?action=restoran.list&page=' + str(i)
 		request = requests.get(url, headers = header, timeout = 5)
 		soup = bs4.BeautifulSoup(request.text, 'html.parser')
+
+		#Get each restaurant's link
 		restaurant_list = soup.find_all('a', href = True)
 
 		for j in restaurant_list:
@@ -49,41 +51,55 @@ def scrape_kulineran():
 	restaurant_link.sort()
 	get_result()
 
-#Prosedur untuk menyimpan hasil data scraping setiap restoran
+#Procedure to store the results of scraping data for each restaurant
 def get_result():
 	global restaurant_link
 	global result
 
 	for link in restaurant_link:
 		restaurant_url = 'https:' + link
-		temp = get_data(restaurant_url)
-		print(temp)
-		result.append(temp)
+		result.append(get_data(restaurant_url))
 		time.sleep(2)
 
-#Fungsi untuk mengembalikan hasil data scraping setiap restoran
+#Function to scrape data from each restaurant
 def get_data(url):
 	global header
 
 	request = requests.get(url, headers = header)
 	soup = bs4.BeautifulSoup(request.content.decode('utf-8', 'ignore').replace('\u200b', ''), 'html.parser')
+	
+	#Get restaurant's basic information
 	info = soup.find(attrs = {'class': 'gerai-info'}).find_all('li')
+
+	#Get restaurant's category
 	category = info[0].text.split(", ")
+
+	#Get restaurant's name
 	name = soup.find(attrs = {'class': 'gerai-name'}).get_text(strip = True)
 
 	if (('TUTUP' in name) or ('LIBUR' in name)):
 		name = name[:-5]
 
+	#Get restaurant's address
 	address = info[1].get_text(strip = True)[8:]
+
+	#Get restaurant's phone number
 	phone = re.sub('[^0123456789/]', '', (info[2].get_text(strip = True)[7:].replace(',', '/'))).split('/')
 	
 	for i in range(len(phone)):
 		if (len(phone[i]) < 6):
 			del phone[i]
 
+	#Get restaurant's likes
 	likes = soup.find(attrs = {'class': 'like'}).get_text(strip = True)
+
+	#Get restaurant's dislikes
 	dislikes = soup.find(attrs = {'class': 'dislike'}).get_text(strip = True)
+	
+	#Get restaurant's logo link
 	logo = soup.find(attrs = {'class': 'gerai-logo'}).find('img')['src']
+
+	#Get restaurant's menu id, name, price, and description
 	menu = []
 	menu_list = soup.find(attrs = {'class': 'menu-list'}).find_all('tr')
 
@@ -100,7 +116,7 @@ def get_data(url):
 					else:
 						price = item[1]
 					
-					food = [menu_list[j]['id'], menu_list[j].find('br').previous_sibling.replace('\t', '').replace('\n', ''), price, re.sub('[(){}]', '', (menu_list[j].find('br').next_sibling.get_text(strip = True)))]
+					food = [menu_list[j]['id'], menu_list[j].find('br').previous_sibling.replace('\t', '').replace('\n', ''), price, re.sub('[()]', '', (menu_list[j].find('br').next_sibling.get_text(strip = True)))]
 				else:
 					if (len(item) < 2):
 						item.append('-')
@@ -110,6 +126,8 @@ def get_data(url):
 				menu.append(food)
 
 	menu.sort()
+
+	#Get restaurant's menu picture link
 	photo = []
 	photo_list = soup.find(attrs = {'class': 'gerai-images'}).find_all('img', attrs = {'u': 'image'})
 
@@ -121,13 +139,14 @@ def get_data(url):
 
 	return [category, name, address, phone, likes, dislikes, logo, menu, photo]
 
-#Prosedur untuk menyimpan hasil data scraping ke dalam file berformat .json
+#Procedure to convert the results of scraping data into a .json file
 def get_json():
 	global result
 
 	jdata = {}
 	data = []
-
+	
+	#Convert result to json
 	for res in result:
 		menu = []
 		photo = []
@@ -152,6 +171,7 @@ def get_json():
 		jdata['Photos'] = photo
 		data.append(copy.deepcopy(jdata))
 	
+	#Creating .json file
 	path = '../data/'
 	filename = 'data.json'
 
