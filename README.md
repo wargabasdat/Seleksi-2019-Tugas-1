@@ -74,7 +74,7 @@ This is a program to get restaurants informations from https://kulineran.com.
 3. Enter this command -> make
 ```
 
-# Ideas and innovations in utilizing the data
+# Ideas and Innovations in Utilizing the Data
 ### The data can be utilized for:
 ```
 1. To compare the price of a menu from one restaurant with another
@@ -100,7 +100,7 @@ This is a program to get restaurants informations from https://kulineran.com.
 9. A list of restaurant's food/drink photos
 ```
 
-# Screenshot Program
+# Screenshots Program
 ### Source Code:
 ![screenshot1](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/4.png)
 ![screenshot2](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/5.png)
@@ -109,7 +109,7 @@ This is a program to get restaurants informations from https://kulineran.com.
 ![screenshot4](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/9.png)
 ![screenshot5](https://github.com/vincentbudianto/Seleksi-2019-Tugas-1/blob/master/screenshots/10.png)
 
-# Reference
+# References
 ### The program used the following library:
 ```
 1. bs4             - for data scraping
