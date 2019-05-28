@@ -17,6 +17,8 @@ Script ini melakukan *scraping* pada laman [Kurs Pajak Badan Kebijakan Fiskal, K
 ## How to use
 Jalankan script dengan menjalankan perintah ini di CLI:
 ```
+$ cd src
+$ npm install
 $ npm run start
 ```
 File hasil *scraping* akan ditulis ke dalam direktori ```/data```.
