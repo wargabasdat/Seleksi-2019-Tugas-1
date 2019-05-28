@@ -48,7 +48,7 @@ build: # if any (optional)
 clean: # clean node_modules
 ```
 
-> Template `runjs
+> Template `runjs`
 ```javascript
 import { run } from 'runjs'
 
