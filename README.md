@@ -40,11 +40,10 @@ run: # run your binary
 
 > Template `npm scripts`
 
-```json
+```javascript
 "scripts": {
-  "start": //run your js scripts (default in npm)
-  "build": //if any (optional)
-  "clean": //clean node_modules
+  "build": // if any (optional)
+  "clean": // delete node_modules
 }
 ```
 
