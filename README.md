@@ -1,82 +1,101 @@
-<h1 align="center">
-  <br>
-  Seleksi 1 Warga Basdat 2019
-  <br>
-  <br>
-</h1>
+# Histori Kurs Pajak
+**Muhammad Aditya Hilmy, NIM 18217025**
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+## Description
+Kurs Pajak merupakan kurs resmi pemerintah yang digunakan dalam perhitungan pajak yang melibatkan mata uang asing. Adapun Kurs Pajak memiliki nilai yang tetap selama periode waktu tertentu, yang dituangkan dalam Keputusan Menteri Keuangan RI.
+ 
+Script ini melakukan *scraping* pada laman [Kurs Pajak Badan Kebijakan Fiskal, Kementerian Keuangan RI](https://fiskal.kemenkeu.go.id/dw-kurs-db.asp) untuk mendapatkan informasi Kurs Pajak historis. Informasi yang didapatkan adalah:
+- Nama mata uang
+- Kode mata uang
+- Nilai mata uang saat ini dibandingkan dengan Rupiah
+- Tanggal mulai berlaku
+- Tanggal akhir berlaku
 
+## Specification
+- Runtime: Node JS 10
+- Libraries:
+  - [Axios](https://github.com/axios/axios)
+  - [Cheerio](https://github.com/cheeriojs/cheerio)
+  - [Moment.js](https://github.com/moment/moment)
 
-## Specifications
+## How to use
+Jalankan script dengan menjalankan perintah ini di CLI:
+```
+$ cd src
+$ npm install
+$ npm run start
+```
+File hasil *scraping* akan ditulis ke dalam direktori ```/data```.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
+## Ideas and Innovation
+Data Kurs Pajak yang terstruktur dapat digunakan dalam perhitungan pajak otomatis, terutama di perusahaan besar yang menggunakan vaulta asing dalam operasionalnya.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
+Data Kurs Pajak historis juga dapat digunakan untuk mengekstrapolasi nilai Kurs Pajak kedepannya agar bisnis dapat melakukan langkah antisipasi.
 
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+## JSON Structure
+Ada dua file JSON yang di-output oleh script ini: ```kurs_pajak.json``` dan ```kurs_pajak_rdb_normalized.json```.
 
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+#### kurs_pajak.json
+Pada file ini, JSON masih dalam format *nested* yang dibagi berdasarkan tentang tanggal kurs tersebut berlaku.
+```
+[
+    {
+        "begin_date": "2019-05-22",
+        "end_date": "2019-05-28",
+        "data": [
+            {
+                "currency": "Dolar Amerika Serikat",
+                "currency_code": "USD",
+                "value": 14467,
+                "change": 137
+            },
+            ...
+        ]
+    },
+    ...
+]
 ```
 
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
+#### kurs_pajak_rdb_normalized.json
+Pada file ini, JSON sudah dinormalisasi menjadi bentuk relasional. Terdapat dua relasi, yaitu currencies yang berisi nama dan kode mata uang, dan records yang berisi nilai kurs setiap mata uang dan rentang tanggal.
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+{
+    "currencies": [
+        {
+            "currency": "Dolar Amerika Serikat",
+            "currency_code": "USD"
+        },
+        ...
+    ],
+    "records": [
+        {
+            "currency_code": "USD",
+            "value": 14467,
+            "change": 137,
+            "begin_date": "2019-05-22",
+            "end_date": "2019-05-28"
+        },
+        {
+            "currency_code": "AUD",
+            "value": 9986.6,
+            "change": -34.52,
+            "begin_date": "2019-05-22",
+            "end_date": "2019-05-28"
+        },
+        ...
+    ]
+}
+``` 
 
-12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
-```
-- Description
-- Specification
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+## Screenshot
+![](screenshots/scr1.png)
 
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
+## References
+Script ini menggunakan library dan framework:
+1. [Node JS](https://nodejs.org)
+2. [Axios](https://github.com/axios/axios)
+3. [Cheerio](https://github.com/cheeriojs/cheerio)
+4. [Moment.js](https://github.com/moment/moment)
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+## License
+See [LICENSE](LICENSE) file.
