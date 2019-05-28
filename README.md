@@ -1,7 +1,7 @@
 # Histori Kurs Pajak
 **Muhammad Aditya Hilmy, NIM 18217025**
 
-## Deskripsi
+## Description
 Kurs Pajak merupakan kurs resmi pemerintah yang digunakan dalam perhitungan pajak yang melibatkan mata uang asing. Adapun Kurs Pajak memiliki nilai yang tetap selama periode waktu tertentu, yang dituangkan dalam Keputusan Menteri Keuangan RI.
  
 Script ini melakukan *scraping* pada laman [Kurs Pajak Badan Kebijakan Fiskal, Kementerian Keuangan RI](https://fiskal.kemenkeu.go.id/dw-kurs-db.asp) untuk mendapatkan informasi Kurs Pajak historis. Informasi yang didapatkan adalah:
@@ -11,12 +11,12 @@ Script ini melakukan *scraping* pada laman [Kurs Pajak Badan Kebijakan Fiskal, K
 - Tanggal mulai berlaku
 - Tanggal akhir berlaku
 
-## Spesifikasi
+## Specification
 - Runtime: Node JS 10
 - Libraries:
-  2. [Axios](https://github.com/axios/axios)
-  3. [Cheerio](https://github.com/cheeriojs/cheerio)
-  4. [Moment.js](https://github.com/moment/moment)
+  - [Axios](https://github.com/axios/axios)
+  - [Cheerio](https://github.com/cheeriojs/cheerio)
+  - [Moment.js](https://github.com/moment/moment)
 
 ## How to use
 Jalankan script dengan menjalankan perintah ini di CLI:
