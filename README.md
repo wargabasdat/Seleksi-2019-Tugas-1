@@ -23,7 +23,9 @@
 
 4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
 
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
+5. Peserta juga diminta untuk membuat _script_ semacam `Makefile`, `npm scripts`, `runjs` yang bertujuan untuk membuat _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_.
+
+> Template `makefile`
 
 ```Makefile
 all: clean build run
@@ -34,6 +36,31 @@ build: # compile to binary (if you use interpreter, then do not implement it)
 
 run: # run your binary
 
+```
+
+> Template `npm scripts`
+
+```
+start: # run your js scripts
+
+build: # if any (optional)
+
+clean: # clean node_modules
+```
+
+> Template `runjs
+```javascript
+import { run } from 'runjs'
+
+export function clean () {
+}
+
+export function start () {
+}
+
+export function build () {
+  // if any (optional)
+}
 ```
 
 6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
@@ -58,7 +85,7 @@ Preprocessing contohnya :
 12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
 ```
 - Description
-- Specification
+- Specification (optional)
 - How to use
 - Ideas and innovations in utilizing the data
 - JSON Structure
