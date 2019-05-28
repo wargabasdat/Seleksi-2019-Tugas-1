@@ -96,3 +96,6 @@ Script ini menggunakan library dan framework:
 2. [Axios](https://github.com/axios/axios)
 3. [Cheerio](https://github.com/cheeriojs/cheerio)
 4. [Moment.js](https://github.com/moment/moment)
+
+## License
+See [LICENSE](LICENSE) file.
