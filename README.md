@@ -12,7 +12,11 @@ Script ini melakukan *scraping* pada laman [Kurs Pajak Badan Kebijakan Fiskal, K
 - Tanggal akhir berlaku
 
 ## Spesifikasi
-#### TODO
+- Runtime: Node JS 10
+- Libraries:
+  2. [Axios](https://github.com/axios/axios)
+  3. [Cheerio](https://github.com/cheeriojs/cheerio)
+  4. [Moment.js](https://github.com/moment/moment)
 
 ## How to use
 Jalankan script dengan menjalankan perintah ini di CLI:
@@ -24,7 +28,9 @@ $ npm run start
 File hasil *scraping* akan ditulis ke dalam direktori ```/data```.
 
 ## Ideas and Innovation
-#### TODO
+Data Kurs Pajak yang terstruktur dapat digunakan dalam perhitungan pajak otomatis, terutama di perusahaan besar yang menggunakan vaulta asing dalam operasionalnya.
+
+Data Kurs Pajak historis juga dapat digunakan untuk mengekstrapolasi nilai Kurs Pajak kedepannya agar bisnis dapat melakukan langkah antisipasi.
 
 ## JSON Structure
 Ada dua file JSON yang di-output oleh script ini: ```kurs_pajak.json``` dan ```kurs_pajak_rdb_normalized.json```.
