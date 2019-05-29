@@ -26,11 +26,28 @@ This is a program to get restaurants informations from https://kulineran.com.
 4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
 
 5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
-   Makefile
+
+   Template `makefile`
    all: clean build run
    clean: # remove data and binary folder
    build: # compile to binary (if you use interpreter, then do not implement it)
    run: # run your binary
+   
+   Template `npm scripts`
+   "scripts": {
+   "build": // if any (optional)
+   "clean": // delete node_modules
+   }
+
+   Template `runjs`
+   import { run } from 'runjs'
+   export function clean () {
+   }
+   export function start () {
+   }
+   export function build () {
+   // if any (optional)
+   }
 
 6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
 
