@@ -1,82 +1,65 @@
 <h1 align="center">
   <br>
   Seleksi 1 Warga Basdat 2019
-  <br>
-  <br>
 </h1>
 
 <h2 align="center">
-  <br>
   Data Scraping
-  <br>
-  <br>
 </h2>
 
+<h5 align="center">
+  <em>Oleh: Abda Shaffan Diva 13517021</em>
+</h5>
 
-## Specifications
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
+<br>
+<br>
+### Scrape data buku dari [books.toscrape.com](http://books.toscrape.com)
+<br>
 
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+#### Deskripsi dan Spesifikasi
+_Source code_ ini digunakan untuk mengambil data dari semua buku yang ada di [books.toscrape.com](http://books.toscrape.com).
 
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
+#### _How to Use_
+1. _Download_ atau _clone repository_ dari [sini](https://github.com/abdashaffan/Seleksi-2019-Tugas-1).
+2. Masuk ke dalam  _root_ repository ini (**_/Seleksi-2019-Tugas-1_**), lalu jalankan perintah `make` pada terminal anda.
 
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
+#### _Using the data_
 
-```Makefile
-all: clean build run
+Data dapat digunakan sebagai referensi untuk membeli suatu buku, atau mencari buku berdasarkan _genre_-nya. (Data lain seperti harga dan jumlah stok tidak dapat dijadikan referensi karena data pada website hanya berupa _dummy data_ saja).
 
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+#### _JSON Structure_
+Contoh _instance_ data JSON: 
 ```
-
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
+ {
+        "category": "Poetry",
+        "link": "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "price_in_euro": 51.77,
+        "rating": 3,
+        "stock": 22,
+        "summary": "It's hard to imagine a world without A Light in the Attic. This now-classic collection of poetry...",
+        "title": "A Light in the Attic",
+        "upc": "a897fe39b1053632"
+    },
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+<br>
 
-12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
-```
-- Description
-- Specification
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+`category`: Jenis kategori atau _genre_ buku.
+`link`: link untuk melihat detail buku tersebut.
+`price_in_euro`: Harga buku dalam euro.
+`rating`: Rating buku.
+`stock`: Stok buku yang masih tersedia.
+`summary`: Pendahuluan dari buku.
+`title`: Judul buku.
+`upc`: Kode _UPC_ buku.
 
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
+Data hasil _scrape_ akan disimpan di dalam dua file berbeda pada folder **_data_**, yaitu **_books.json_** dan **_books.normalized.csv_** .
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+#### _Reference_
+
+1. `BeautifulSoup`: Modul  scraping menggunakan bahasa pemrograman _python_.
+2. `w2n`: Modul pembantu untuk merubah string jadi angka.
+3. `requests`: Modul untuk penanganan _request_ URL .
+5. `pandas.io.json`: Modul pandas untuk normalisasi JSON .
+
