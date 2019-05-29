@@ -18,12 +18,11 @@ Script ini melakukan <i>data scraping</i> pada laman https://www.jobs.id/lowonga
 
 ## Spesifikasi
 
-<lu> Runtime: Python 3 </lu>
-<lu> Library: 
-  <lu> BeautifulSoup </lu>
-  <lu> urllib </lu>
-  <lu> json </lu>
-</lu>
+Runtime: Python 3
+Library: 
+1. BeautifulSoup
+2. urllib
+3. json
 
 ## Cara Penggunaan
 
@@ -34,12 +33,18 @@ Jalankan script dengan memasukan perintah dibawah di Command Line:
 Hasil <i>data scraping</i> akan disimpan di direktori /data dengan nama result.json
 
 ## Ide Penggunaan Data
+Data 
 
 ## Struktur JSON
 
 ## Screenshot
 
 ## Reference
+
+Library yang digunakan adalah:
+1. BeautifulSoup
+2. urllib
+3. json
 
 ## Author
 Vincent Chuardi
