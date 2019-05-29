@@ -1,15 +1,10 @@
 <h2>
-  <br>
   Daftar Pekerjaan
-  <br>
-  <br>
   <hr>
 </h2>
 
 <h4>
-  <br>
   Vincent Chuardi (13517103)
-  <br>
   <hr>
 </h4>
 
