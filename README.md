@@ -6,103 +6,106 @@
 </h1>
 
 <h2 align="center">
-  <br>
   Data Scraping
-  <br>
-  <br>
 </h2>
 
 
-## Specifications
-
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
-
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. <span style="color:blue;">Peserta juga diminta untuk membuat _simple build tools_ semacam `Makefile`, `npm scripts`, `runjs` yang bertujuan untuk membuat _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_.</span>
-
-> Template `makefile`
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
-```
-
-> Template `npm scripts`
-
-```javascript
-"scripts": {
-  "build": // if any (optional)
-  "clean": // delete node_modules
-}
-```
-
-> Template `runjs`
-```javascript
-import { run } from 'runjs'
-
-export function clean () {
-}
-
-export function start () {
-}
-
-export function build () {
-  // if any (optional)
-}
-```
-
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-12. <span style="color:blue">Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :</span>
-```
-- Description
-- Specification (optional)
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
+<h3 align="center">
+  Peminat SBMPTN tahun 2018
   <br>
   <br>
-</h1>
+  <br>
+  oleh:
+  <br>
+  Fata Nugraha/13517109
+  <br>
+</h3>
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+
+## Description
+
+Kode untuk mendapatkan data peminat SBMPTN tahun 2018 dari http://sbmptn.ltmpt.ac.id
+
+## How to Use
+
+Masuk ke folder src lalu jalankan perintah 'python data_scraping.py' di cmd (Windows) atau jalankan Makefile dengan perintah 'make' di terminal (Linux)
+
+## Ideas and innovations in utilizing the data
+
+1. Membandingkan daya tampung dan peminat antar program studi di berbagai universitas
+2. Menentukan program studi yang paling diminati
+3. Mengamati persebaran peminat berdasarkan wilayah dan program studi di berbagai program studi dan universitas
+4. Membandingkan banyaknya peminat yang berasal dari satu provinsi dengan universitas tersebut dengan yang berasal dari luar provinsi
+
+## JSON Structure
+
+#### Contoh:
+```
+[
+    ...
+    {
+        "Kode Universitas": "113",
+        "Nama Universitas": "UNIVERSITAS TEUKU UMAR",
+        "Daftar Prodi": [
+            {
+                "Kode Prodi": "1131011",
+                "Nama Prodi": "TEKNIK SIPIL",
+                "Kapasitas": "60",
+                "Total Peminat": "262",
+                "Rincian Peminat": [
+                    {
+                        "Asal Daerah": "Aceh",
+                        "Peminat": "243"
+                    },
+                    {
+                        "Asal Daerah": "Sumatera Utara",
+                        "Peminat": "7"
+                    },
+                    {
+                        "Asal Daerah": "Sumatera Barat",
+                        "Peminat": "9"
+                    },
+                    {
+                        "Asal Daerah": "Riau",
+                        "Peminat": "1"
+                    },
+                    {
+                        "Asal Daerah": "DKI Jakarta",
+                        "Peminat": "1"
+                    },
+                    {
+                        "Asal Daerah": "Kalimantan Timur",
+                        "Peminat": "1"
+                    }
+                ]
+            },
+            ...
+            ]
+        },
+    ...
+]
+```
+
+Sebuah universitas terdiri dari:<br>
+`Kode Universitas`: Kode dari universitas tersebut.<br>
+`Nama Universitas`: Nama dari universitas tersebut.<br>
+`Daftar Prodi`: List yang berisikan program studi yang dimiliki universitas tersebut.<br><br>
+Sebuah program studi terdiri dari:<br>
+`Kode Prodi`: Kode dari program studi tersebut.<br>
+`Nama Prodi`: Nama dari program studi tersebut.<br>
+`Daya Tampung`: Daya tampung program studi tersebut.<br>
+`Total Peminat`: Total peminat program studi tersebut.<br>
+`Rincian Peminat`: List yang berisikan banyaknya peminat untuk provinsi-provinsi tertentu.<br>
+
+## Screenshot program
+
+![SS_1](https://github.com/Ft-N/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_1.png)
+![SS_2](https://github.com/Ft-N/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_2.png)
+![SS_3](https://github.com/Ft-N/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_3.png)
+
+## Reference
+
+1. bs4, BeautifulSoup: Library untuk melakukan data scraping
+2. requests: Library untuk request ke suatu URL
+3. re: Library regex, untuk string matching
+4. json, copy, os: Library untuk formatting json (file keluaran)
