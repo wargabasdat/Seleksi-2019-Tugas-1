@@ -1,82 +1,69 @@
-<h1 align="center">
-  <br>
-  Seleksi 1 Warga Basdat 2019
-  <br>
-  <br>
-</h1>
-
 <h2 align="center">
   <br>
-  Data Scraping
+  Data Scraping Nilai Ekspor Impor 2010-2018 dari Badan Pusat Statistik
   <br>
   <br>
 </h2>
 
 
-## Specifications
+# Description
+Data scraping dilakukan pada laman website <a href = "www.bps.go.id">www.bps.go.id</a> untuk mendapatkan nilai ekspor dan impor Indonesia dari tahun 2010 - 2019 setiap bulannya. Selain nilai dalam US dolar, didapatkan juga berat dalam kg yang diekspor ataupun diimpor dari Indonesia.  
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
+# Specification
+Project ini terdiri dari 3 direktori yaitu data, src dan screenshots. Pada folder src terdiri dari file scraping.ipynb dan program.py . File scraping.ipynb dibuat dalam jupyter notebook dan merupakan program untuk melakukan scraping data dari website <a href = "www.bps.go.id">www.bps.go.id</a>. Data yang diperoleh dari web disimpan dalam bentuk json pada folder data. File program.py merupakan program yang memanfaatkan hasil data scraping agar pengguna bisa mendapatkan data ekspor impor pada bulan dan tahun tertentu, membandingkan satu data dengan data lainnya serta mendapatkan jumlah nilai atau berat ekspor impor pada tahun tertentu. 
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
+# How to use
+__Linux__ :
+Pastikan perangkat sudah terinstall Jupyter notebook, python3 dan library BeautifulSoup
+Untuk menjalankan program data scraping:
+'''
+1. Dari Terminal, run jupyter notebook'
+2. Pilh file scraping.ipynb
+3. Pilih kernel dan pilih pilihan Restart & Run All
+'''
 
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+Untuk menjalankan program program.py :
+'''
+1. Masuk ke direktori src
+2. Pada terminal ketik python3 program.py
+'''
 
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
+# Ideas and innovations in utilizing the data
+- Data dapat digunakan untuk mengetahui nilai ekspor impor pada bulan dan tahun tertentu
+- Data dapat digunakan bagaimana apakah nilai ekspor impor mengalami kenaikan atau penurunan dalam setiap bulannya per satu tahun
+- Data dapat digunakan untuk mengetahui bagaimana perubahan nilai ekspor impor dari satu tahun ke tahun lainnya
 
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
+# JSON Structure
+[{"Tahun": "2010", 
+  "Bulan/Month": "Januari/January", 
+  "Nilai/Value (US $)": "11 595 867 120,00", 
+  "Berat/Weight (KG)": "43 728 031 415,00"},{}]
 
-```Makefile
-all: clean build run
+# Screenshot program
+JSON
+![Screenshot](screenshots/json.png)
 
-clean: # remove data and binary folder
+Hasil Tampilan Program
+![Screenshot](screenshots/hasil1.png)
+![Screenshot](screenshots/hasil2.png)
+![Screenshot](screenshots/hasil3.png)
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+# Reference
+Libarary yang digunakan :
+- BeautifulSoup
+- url.request
+- time
+- json
 
-run: # run your binary
+Referensi web :
+- https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059
 
-```
 
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
-```
-- Description
-- Specification
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
+# Author
 
 <p align="center">
   <br>
-  Basdat Industries - Lab Basdat 2019
+  <b> Vivianni - 13517060  </b>
   <br>
   <br>
 </p>
