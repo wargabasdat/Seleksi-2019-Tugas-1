@@ -89,9 +89,9 @@ def content(tipe):
             print("Tahun salah! Input Tahun(2010-2018)")
             tahun = int(input())
         if (pilihan2 == 1):
-            print("Jumlah nilai pada tahun " + str(tahun) + " sebesar " + sum(tahun,1,tipe) + " US dollar")
+            print("Jumlah nilai pada tahun " + str(tahun) + " sebesar " + str(sum(tahun,1,tipe)) + " US dollar")
         elif (pilihan2 == 2):
-            print("Jumlah massa pada tahun " + str(tahun) + " sebesar " + sum(tahun,2,tipe) + " kg")
+            print("Jumlah massa pada tahun " + str(tahun) + " sebesar " + str(sum(tahun,2,tipe)) + " kg")
     elif pilihan1 == 2 :
         print("Masukkan bulan (dalam angka) dan tahun awal")
         masukan = input().split(' ')
@@ -129,21 +129,36 @@ def content(tipe):
 expor, impor = load_data()
 proses(expor)
 proses(impor)
-print("Ingin melihat data ekspor/impor")
-print("1. Ekspor")
-print("2. Impor")
-pilihan = int(input())
-print("Ingin melihat: ")
-print("1. Jumlah per Tahun")
-print("2. Perkembangan")
-print("3. Data")
-pilihan1 = int(input())
-print("1. Nilai")
-print("2. Berat")
-pilihan2 = int(input())
-if pilihan == 1:
-    content(expor)
-    print("--Ekspor--")
-elif pilihan == 2:
-    content(impor)
-    print("--Impor--")
+running = True
+while running:
+    print("Ingin melihat data ekspor/impor")
+    print("1. Ekspor")
+    print("2. Impor")
+    print("3. Quit")
+    pilihan = int(input())
+    if pilihan == 1:
+        print("Ingin melihat: ")
+        print("1. Jumlah per Tahun")
+        print("2. Perkembangan")
+        print("3. Data")
+        pilihan1 = int(input())
+        print("1. Nilai")
+        print("2. Berat")
+        pilihan2 = int(input())
+        content(expor)
+        print("--Ekspor--\n")
+    elif pilihan == 2:
+        print("Ingin melihat: ")
+        print("1. Jumlah per Tahun")
+        print("2. Perkembangan")
+        print("3. Data")
+        pilihan1 = int(input())
+        print("1. Nilai")
+        print("2. Berat")
+        pilihan2 = int(input())
+        content(impor)
+        print("--Impor--\n")
+    elif pilihan == 3:
+        running = False
+    else :
+        print("Wrong input")
