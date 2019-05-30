@@ -149,7 +149,6 @@ def get_json():
 	#Convert result to json
 	for res in result:
 		menu = []
-		photo = []
 		jdata['Category'] = res[0]
 		jdata['Name'] = res[1]
 		jdata['Address'] = res[2]
@@ -163,12 +162,7 @@ def get_json():
 			menu.append({'Menu_ID': menu_list[i][0], 'Menu_Name': menu_list[i][1], 'Price': menu_list[i][2], 'Description': menu_list[i][3]})
 
 		jdata['Menu'] = menu
-		photo_list = res[8]
-
-		for j in range(len(photo_list)):
-			photo.append({'Photo_Link': photo_list[j]})
-
-		jdata['Photos'] = photo
+		jdata['Photos'] = res[8]
 		data.append(copy.deepcopy(jdata))
 	
 	#Creating .json file
