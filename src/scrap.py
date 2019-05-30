@@ -32,16 +32,16 @@ def getBrand(url):
     response = requests.get('https://www.bukalapak.com' + url, headers)
     product_brand = BeautifulSoup(response.content, 'lxml').find('div', class_='js-collapsible-product-detail').a
     if product_brand is not None:
-        return product_brand.string.strip().split(' ')[0].lower().capitalize()
+        return product_brand.string.strip().split(' ')[0]
     else: 
         return 'NULL'
 
 # Write data to the File
 def writeData(data, file):
-    print('Writing Data...')
+    print('Writing data...')
     with open(file, 'w') as outfile:
         json.dump(data, outfile, indent=4)
-    print('Finished Writing Data')
+    print('Finished writing data')
 
 # Get data from the page
 def getData(data, headers, page=1):
@@ -81,12 +81,35 @@ def getData(data, headers, page=1):
     return data
 
 # Get data from all multiple page
-def multiGetData(data, headers, start_page=1, end_page=5, workers=30):
-    with ThreadPoolExecutor(max_workers=workers) as executor:
-        [executor.submit(getData, data=data, headers=headers, page=i) for i in range(start_page, end_page+1)]
+def multiGetData(data, headers, start_page=1, end_page=5):
+    workers = end_page-start_page+10
 
-    print('Finished parsing data')
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        exe = {executor.submit(getData, data=data, headers=headers, page=i) for i in range(start_page, end_page+1)}
+
+    print('Finished parsing page')
     return data
+
+# Clean the data
+def cleanData(data):
+    print('Cleaning data...')
+    # Delete all product that have wrong or unknown brand
+    for product in data[:]:
+        if (product['brand'].lower() in 'apple' and 'iphone' in product['name'].lower()):
+            continue
+        if (product['brand'].lower() in 'null' or product['brand'].lower() not in product['name'].lower()):
+            data.remove(product)
+    print('Finished cleaning data')
+    
+# Parse tha data
+def parseData(data):
+    print('Parsing data...')
+    # Map name to be capitalized, price string to integer, and brand to be capitalized
+    for product in data:
+        product['name'] = product['name'].lower().capitalize()
+        product['price'] = int(product['price'])
+        product['brand'] = product['brand'].lower().capitalize()
+    print('Finished parsing data')
 
 # GLOBAL VARIABLE
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0'}
@@ -95,7 +118,13 @@ data = []
 # MAIN PROGRAM
 if __name__ == '__main__':
     # Run the web scraping to get data
-    multiGetData(data, headers)    
+    multiGetData(data, headers, end_page=20)
+
+    # Cleaning data
+    cleanData(data)
+
+    # Parsing data
+    parseData(data)
 
     # Write data to the json formatted file in the folder 'data'
     writeData(data, '../data/data.json')

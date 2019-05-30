@@ -1,1202 +1,3634 @@
 [
     {
-        "name": "SAMSUNG GALAXY S7 EDGE DUAL 4G MULUS",
-        "price": "2699000",
+        "name": "Samsung galaxy s10 plus ram 8 gb internal 512 gb sein",
+        "price": 14500000,
         "condition": "Bekas",
-        "seller": "GPS",
-        "location": "Bandung",
+        "seller": "YM",
+        "location": "Jakarta Selatan",
         "brand": "Samsung"
     },
     {
-        "name": "BLACKVIEW BV9600 PRO 6GB 128GB NEW BNIB",
-        "price": "5270000",
+        "name": "Apple iphone 6 16gb grey - free tempered glass",
+        "price": 1949000,
         "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Sharp Aquos SH-04H TERMURAH ",
-        "price": "700000",
-        "condition": "Bekas",
-        "seller": "Dareen Store",
-        "location": "Jakarta Barat",
-        "brand": "Merklainnya"
-    },
-    {
-        "name": "Oppo A71 Ram 3",
-        "price": "1280000",
-        "condition": "Baru",
-        "seller": "Wukanda cell",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Iphone XS MAX Rom 64gb Internasional",
-        "price": "16250000",
-        "condition": "Baru",
-        "seller": "Pabrik CellularShop",
+        "seller": "MatahariCell",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "REALME C2 RAM 2GB INTERNAL 16GB RESMI",
-        "price": "1400000",
+        "name": "Xiaomi redmi note  4x 4-64 ",
+        "price": 1700000,
         "condition": "Baru",
-        "seller": "KingkongMas",
-        "location": "Jakarta Barat",
+        "seller": "Global Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Realme 3 pro - resmi",
+        "price": 3150000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
         "brand": "Realme"
     },
     {
-        "name": "Oppo A5S New Smartphone 2019 - RAM 2 INTERNAL 32 GB",
-        "price": "1999000",
+        "name": "Sony z3 big mulus ram 3gb rom 32gb docomo japan bergaransi",
+        "price": 725000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Infinix note 2 - x600 ",
+        "price": 800000,
+        "condition": "Bekas",
+        "seller": "Ira",
+        "location": "Jakarta Timur",
+        "brand": "Infinix"
+    },
+    {
+        "name": "Apple iphone xr 128 giga byte",
+        "price": 12650000,
         "condition": "Baru",
-        "seller": "POLINDO PHONE OFFICIAL",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Vivo y 95 ram 4 rom 64 gb ",
+        "price": 2183200,
+        "condition": "Baru",
+        "seller": "Tian Komunika",
+        "location": "Bandung Barat",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone 7 256gb ",
+        "price": 4600000,
+        "condition": "Baru",
+        "seller": "Global Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi mi note bamboo 3gb - 16gb",
+        "price": 1100000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy s9 new original garansi internasional",
+        "price": 6980000,
+        "condition": "Baru",
+        "seller": "Mobile_Cellular",
+        "location": "Batam",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Iphone 6s 16gb",
+        "price": 2350000,
+        "condition": "Baru",
+        "seller": "All shop",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6 16gb",
+        "price": 1780000,
+        "condition": "Bekas",
+        "seller": "Muhammad Saiful",
+        "location": "Kab. Malang",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 plus 256",
+        "price": 6600000,
+        "condition": "Baru",
+        "seller": "Global Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Oppo f11 pro garansi resmi",
+        "price": 4475000,
+        "condition": "Baru",
+        "seller": "Gesrek Cellular",
         "location": "Depok",
         "brand": "Oppo"
     },
     {
-        "name": "BLACKVIEW MAX 1 6GB 64GB PROJECTOR PHONE INFOKUS",
-        "price": "6520000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Blackview"
+        "name": "Samsung galaxy j2 prime",
+        "price": 1062500,
+        "condition": "Bekas",
+        "seller": "Nando",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
     },
     {
-        "name": "Oppo F1S Ram 3 Internal 32giga",
-        "price": "1450000",
+        "name": "Apple iphone xs max 64 giga byte",
+        "price": 17250000,
         "condition": "Baru",
-        "seller": "Wukanda cell",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
-        "brand": "Oppo"
+        "brand": "Apple"
     },
     {
-        "name": "Xiaomi Redmi Note 7 GARANSI RESMI TAM RAM 3 INTERNAL 32",
-        "price": "2275000",
+        "name": "Xiaomi mi a2 lite 4gb 64 gb - hitam black",
+        "price": 2150000,
         "condition": "Baru",
-        "seller": "Didhis",
-        "location": "Tulungagung",
+        "seller": "Ferdi",
+        "location": "Jakarta Selatan",
         "brand": "Xiaomi"
     },
     {
-        "name": "Oppo F5 4gb - 32gb Free Case",
-        "price": "1650000",
+        "name": "Xiaomi note 3 silver",
+        "price": 1100000,
         "condition": "Baru",
-        "seller": "Wukanda cell",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
+        "seller": "Ainie_chika",
+        "location": "Cilegon",
+        "brand": "Xiaomi"
     },
     {
-        "name": "Xiaomi MI 8 Lite Ready stock - Garansi Distributor",
-        "price": "2735000",
+        "name": "Iphone 64 gb 6s gold garansi distributor",
+        "price": 3575000,
         "condition": "Baru",
-        "seller": "POLINDO PHONE OFFICIAL",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Realme 2 pro ram 6 garansi resmi",
+        "price": 3000000,
+        "condition": "Baru",
+        "seller": "Gesrek Cellular",
         "location": "Depok",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Iphone X  256GB Garansi Internasional",
-        "price": "13500000",
-        "condition": "Baru",
-        "seller": "Pabrik CellularShop",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "Iphone 7 Plus Internal 256GB",
-        "price": "6500000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "OPPO R17 PRO",
-        "price": "7700000",
-        "condition": "Baru",
-        "seller": "lecky",
-        "location": "Pringsewu",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Hp Oppo F11 4 128",
-        "price": "3450000",
-        "condition": "Baru",
-        "seller": "WinnerCellular",
-        "location": "Jakarta Pusat",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Xiaomi Mi 9 SE 6GB 64GB Global Version Bukan Mi9 Explore EE",
-        "price": "4230000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Oppo F5 Ram 4 Internal 64 Giga",
-        "price": "1750000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Samsung Galaxy S7 Blue Coral.",
-        "price": "3500000",
-        "condition": "Bekas",
-        "seller": "dinda star",
-        "location": "Tabanan",
-        "brand": "Samsung"
-    },
-    {
-        "name": "OPPO F9 4GB PROMO CASHBACK ",
-        "price": "3600000",
-        "condition": "Baru",
-        "seller": "WinnerCellular",
-        "location": "Jakarta Pusat",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Xiaomi Mi 9 SE 6GB 128GB Global Version Bukan Mi9 Explore EE - Hitam",
-        "price": "4580000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Xiaomi Redmi 6 - RAM 4GB ROM 64GB - Garansi Resmi TAM 1 Tahun",
-        "price": "1690000",
-        "condition": "Baru",
-        "seller": "Gadget Mart",
-        "location": "Jakarta Selatan",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Vivo V15 Ram 6 Internal 64 Garansi Resmi RED BLUE",
-        "price": "3800000",
-        "condition": "Baru",
-        "seller": "WinnerCellular",
-        "location": "Jakarta Pusat",
-        "brand": "Vivo"
-    },
-    {
-        "name": "Oppo A37 2gb-16gb",
-        "price": "1075000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "SAMSUNG GALAXY S9 Plus 64 Gb",
-        "price": "5700000",
-        "condition": "Bekas",
-        "seller": "ilham sah",
-        "location": "Blitar",
-        "brand": "Samsung"
-    },
-    {
-        "name": "SAMSUNG GALAXY A30 64GB RAM 4GB - NEW - BNIB - ORI",
-        "price": "2880000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Vivo Y17 4GB 128GB",
-        "price": "2800000",
-        "condition": "Baru",
-        "seller": "WinnerCellular",
-        "location": "Jakarta Pusat",
-        "brand": "Acer"
-    },
-    {
-        "name": "IPHONE 8 PLUS 64GB - RED - SECOND ORIGINAL AKTIF ",
-        "price": "8099000",
-        "condition": "Bekas",
-        "seller": "BEDJO STORE",
-        "location": "Jakarta Selatan",
-        "brand": "Apple"
-    },
-    {
-        "name": "Iphone 7 Plus - Rom 32gb",
-        "price": "5400000",
-        "condition": "Baru",
-        "seller": "Pabrik CellularShop",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "Vivo V15 Pro 6Gb 128Gb",
-        "price": "5300000",
-        "condition": "Baru",
-        "seller": "WinnerCellular",
-        "location": "Jakarta Pusat",
-        "brand": "Vivo"
-    },
-    {
-        "name": "SAMSUNG GALAXY A50 128GB RAM 6GB - NEW - BNIB - ORI",
-        "price": "3970000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Vivo Y 91c Ram 2 Rom 32Gb ",
-        "price": "1529200",
-        "condition": "Baru",
-        "seller": "Tian Komunika",
-        "location": "Bandung Barat",
-        "brand": "Vivo"
-    },
-    {
-        "name": "SAMSUNG GALAXY S7 EDGE DUAL 4G RESMI SEIN",
-        "price": "2599000",
-        "condition": "Bekas",
-        "seller": "GPS",
-        "location": "Bandung",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Oppo A71 Ram 2 Rom 16 GIGA",
-        "price": "1270000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Iphone 6S - 64GB",
-        "price": "3050000",
-        "condition": "Baru",
-        "seller": "Pabrik CellularShop",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "oppo a37 2-16 ",
-        "price": "1100000",
-        "condition": "Baru",
-        "seller": "Wukanda cell",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Vivo Y 95 Ram 4 ROM 64 GB ",
-        "price": "2183200",
-        "condition": "Baru",
-        "seller": "Tian Komunika",
-        "location": "Bandung Barat",
-        "brand": "Vivo"
-    },
-    {
-        "name": "SAMSUNG GALAXY A70 128GB RAM 8GB - NEW - BNIB - ORI",
-        "price": "6640000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Black Shark 8 128GB Fullset ROM China Global Terinstal Layanan Google ",
-        "price": "4900000",
-        "condition": "Bekas",
-        "seller": "Anaknexus85 Store",
-        "location": "Jakarta Selatan",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Iphone X Internal 256GB Internasional",
-        "price": "12500000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "OPPO F1S RAM 4GB INTERNAL MEMORY 32GB FREE CASE",
-        "price": "1525000",
-        "condition": "Baru",
-        "seller": "Pabrik CellularShop",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Apple Iphone 7 256 GIGA",
-        "price": "4600000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "Realme 3 pro Ram 4Gb Rom 64Gb",
-        "price": "2999000",
-        "condition": "Baru",
-        "seller": "Tian Komunika",
-        "location": "Bandung Barat",
         "brand": "Realme"
     },
     {
-        "name": "SAMSUNG GALAXY M30 64GB 4GB 5000MAH Bukan m10 m20",
-        "price": "3499000",
+        "name": "Iphone 6 plus 16 gb spacegrey / free tempered glass",
+        "price": 2299000,
         "condition": "Baru",
-        "seller": "As Gadget",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 5 ram 3gb internal 32gb garansi resmi tam",
+        "price": 1670000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi mi8 se - mi 8 se - ram 6gb - internal 64gb - garansi distributor",
+        "price": 3399000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Vivo v15 ram 6 rom 64 gb ",
+        "price": 3739200,
+        "condition": "Baru",
+        "seller": "Tian Komunika",
+        "location": "Bandung Barat",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone 6 64gb",
+        "price": 2350000,
+        "condition": "Baru",
+        "seller": "All shop",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Huawei mate 20 pro - twilight - dual sim - mulus",
+        "price": 8299000,
+        "condition": "Baru",
+        "seller": "Kenzoe",
+        "location": "Tangerang",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Samsung galaxy note 8 new original segel",
+        "price": 7150000,
+        "condition": "Baru",
+        "seller": "Mobile_Cellular",
         "location": "Batam",
         "brand": "Samsung"
     },
     {
-        "name": "Redmi Note 7 Ram 4 Rom 64GB",
-        "price": "2850000",
+        "name": "Xiaomi redmi note 4x ram 3gb-16gb. black only",
+        "price": 1275000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
         "brand": "Xiaomi"
     },
     {
-        "name": "Iphone XS 512GB Internasional Apple",
-        "price": "19250000",
+        "name": "Xiaomi redmi note 5 pro - 3gb - 32gb - garansi distributor 1 tahun",
+        "price": 1829000,
         "condition": "Baru",
-        "seller": "Pabrik CellularShop",
-        "location": "Jakarta Utara",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi mi 8 pro eksplorer 8-128 - mi8",
+        "price": 6080000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Vivo y 17",
+        "price": 2699100,
+        "condition": "Baru",
+        "seller": "Tian Komunika",
+        "location": "Bandung Barat",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone 6 16gb ",
+        "price": 2150000,
+        "condition": "Baru",
+        "seller": "All shop",
+        "location": "Kab. Bogor",
         "brand": "Apple"
     },
     {
-        "name": "Oppo A71 Ram 3 Internal 16gb",
-        "price": "1300000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
+        "name": "Oppo f9 fullset normal mulus garansi",
+        "price": 2600000,
+        "condition": "Bekas",
+        "seller": "Gesrek Cellular",
+        "location": "Depok",
         "brand": "Oppo"
     },
     {
-        "name": "Vivo V15 Ram 6 Rom 64 GB ",
-        "price": "3739200",
+        "name": "Realme 2 pro ram 4gb internal 64gb garansi resmi oppo ",
+        "price": 2875000,
         "condition": "Baru",
-        "seller": "Tian Komunika",
-        "location": "Bandung Barat",
-        "brand": "Vivo"
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Oppo"
     },
     {
-        "name": "iphone 7 32GB gold",
-        "price": "3700000",
+        "name": "Apple iphone xr 256 giga byte",
+        "price": 13750000,
         "condition": "Baru",
-        "seller": "Pabrik CellularShop",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "APPLE IPHONE X 64GB INTER NEW",
-        "price": "11750000",
+        "name": "Xiaomi redmi 4x. ram 2gb -  16gb. black only ",
+        "price": 1139100,
         "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "Iphone 6S Internal 16 Gb Apple",
-        "price": "2500000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "ONE PLUS 7 PRO ONEPLUS 6GB 128GB BNIB ",
-        "price": "10180000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Oneplus"
-    },
-    {
-        "name": "redmi note 4G 2-8",
-        "price": "800000",
-        "condition": "Baru",
-        "seller": "Pabrik CellularShop",
-        "location": "Jakarta Utara",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
         "brand": "Xiaomi"
     },
     {
-        "name": "Vivo Y 17",
-        "price": "2699100",
+        "name": "Realme c2 3gb 32gb",
+        "price": 1500000,
         "condition": "Baru",
-        "seller": "Tian Komunika",
-        "location": "Bandung Barat",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Apple iphone xr 64 giga byte",
+        "price": 11500000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 7 128gb - free tempred glass",
+        "price": 3649000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 5 - 6gb - 64gb - resmi tam",
+        "price": 3021600,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Vivo v15 garansi resmi",
+        "price": 3600000,
+        "condition": "Baru",
+        "seller": "Gesrek Cellular",
+        "location": "Depok",
         "brand": "Vivo"
     },
     {
-        "name": "Android phone 7plus 3G Ram 1gb Rom 8gb ",
-        "price": "995000",
+        "name": "Infinix hot s3x garansi resmi",
+        "price": 1550000,
         "condition": "Baru",
-        "seller": "Phillip galery",
+        "seller": "All shop",
+        "location": "Kab. Bogor",
+        "brand": "Infinix"
+    },
+    {
+        "name": "Xiaomi mi8 - mi 8 - ram 6gb - internal 128gb - garansi distributor",
+        "price": 4789000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Apple iphone xs 512 giga byte",
+        "price": 19500000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi mi 9 ram 8gb internal 128gb garansi distributo 1 tahun",
+        "price": 7099000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung a10 ram 2 rom 32gb ",
+        "price": 1700000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Iphone 6 plus 16 gb gold / free tempered glass",
+        "price": 2299000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi mi note 3 - ram 6gb - rom 128gb - black",
+        "price": 3329000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 6 pro - ram 4gb - internal 64gb  - garansi resmi 1 tahun - tam",
+        "price": 2449000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 4x ram 2gb. black only ",
+        "price": 1139100,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Apple iphone xs 64 giga byte",
+        "price": 15750000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Motorola ex226 dual sim",
+        "price": 250000,
+        "condition": "Baru",
+        "seller": "wiwin",
+        "location": "Lebak",
+        "brand": "Motorola"
+    },
+    {
+        "name": "Apple iphone 6s 16gb gold - free tempered glass",
+        "price": 2199000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 3s prime",
+        "price": 1129900,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 4x ram 4gb asli original ",
+        "price": 1490000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 6 pro - ram 4gb - internal 64gb  - garansi distributor 1 tahun",
+        "price": 2299000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Apple iphone 6 16gb  gold - free tempered glass",
+        "price": 1949000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone xs 256giga",
+        "price": 18250000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone xr 64gb original",
+        "price": 11500000,
+        "condition": "Baru",
+        "seller": "central phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Realme 3 pro ram 6 rom 128gb",
+        "price": 3699000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Realme"
+    },
+    {
+        "name": "Xiaomi redmi note 4x - 4gb ram 64gb rom - black",
+        "price": 1560000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi mi 8 lite garansi tam resmi 4gb 64gb - blue bekas",
+        "price": 2491000,
+        "condition": "Bekas",
+        "seller": "Senta Store",
+        "location": "Tasikmalaya",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone 6s 16 giga new",
+        "price": 2400000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Realme c2 ram 2-16gb",
+        "price": 1300000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Realme"
+    },
+    {
+        "name": "Asus zenfone 3 ze520kl - ram 4gb - rom 32gb - resmi",
+        "price": 2379000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Asus"
+    },
+    {
+        "name": "Vivo v15 blue super mulus",
+        "price": 3750000,
+        "condition": "Bekas",
+        "seller": "wiwin",
+        "location": "Lebak",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Xiaomi mi play ram 4gb internal 64gb garansi distributor",
+        "price": 1740000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 4gb internal 64gb garansi distributor 1 tahun",
+        "price": 2540000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 6gb rom 64gb garansi distri 1 tahun ",
+        "price": 3299000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone xs 512gb original",
+        "price": 19500000,
+        "condition": "Baru",
+        "seller": "central phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi pocophone f1 ram 6gb internal 128gb garansi distributor 1 tahun",
+        "price": 4290000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Hp second sony z5 premium docomo mulus bergaransi ",
+        "price": 1150000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Realme 3 pro",
+        "price": 3150000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 4gb rom 64gb garansi distri 1 tahun ",
+        "price": 2560000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Vivo v5 lite gold bisa nego",
+        "price": 1980000,
+        "condition": "Bekas",
+        "seller": "gfresh shop",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Xiaomi redmi 5 plus ram 4gb rom 64gb garansi resmi tam",
+        "price": 2285000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 7pro 6gb 128gb ",
+        "price": 2250000,
+        "condition": "Baru",
+        "seller": "Agungcs",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Vivo x6 ram 4gb - 32gb",
+        "price": 1385000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Samsung a70 a705 kamera 32 mp resmi sein",
+        "price": 5350000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi redmi 7 ram 2gb internal 16gb garansi distributor 1tahun",
+        "price": 1570000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Vivo y81 ram 2gb rom 16gb bnib",
+        "price": 1450000,
+        "condition": "Baru",
+        "seller": "3R CORNER Shop",
+        "location": "Jakarta Pusat",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 4gb internal 64gb garansi resmi tam",
+        "price": 2700000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 5 pro - 4gb - 64gb - garansi distributor",
+        "price": 1979000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 6 pro - ram 4gb - internal 64gb - garansi distributor 1 tahun",
+        "price": 2079000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy s10 128gb sein bnib black",
+        "price": 10800000,
+        "condition": "Baru",
+        "seller": "M Taufiqul Furqan",
+        "location": "Bekasi",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Nokia 105 jadul baru fullset",
+        "price": 150000,
+        "condition": "Baru",
+        "seller": "Star_cell",
         "location": "Batam",
         "brand": "Nokia"
     },
     {
-        "name": "ONEPLUS 7 PRO ONE PLUS 8GB 256GB BNIB ",
-        "price": "11630000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Oneplus"
+        "name": "Iphone 8 64gb termurah",
+        "price": 3990000,
+        "condition": "Bekas",
+        "seller": "Reape store",
+        "location": "Yogyakarta",
+        "brand": "Apple"
     },
     {
-        "name": "GOOGLE PIXEL 2 XL RAM 4GB ROM 64GB NEW",
-        "price": "6650000",
+        "name": "Iphone 6 plus 64gb gray",
+        "price": 3800000,
         "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Google"
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
     },
     {
-        "name": "XIAOMI REDMI NOTE 7 PRO 6GB 128GB RESMI",
-        "price": "2400000",
+        "name": "Iphone 8 64gb original",
+        "price": 6600000,
         "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "BLACKVIEW BV7000 PRO  64GB RAM 4GB BARU",
-        "price": "2480000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Blackview"
-    },
-    {
-        "name": "Iphone XS 512gb Apple Internasional",
-        "price": "18500000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
+        "seller": "central phone",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "HUAWEI MATE 20 PRO RAM 6GB MEMORY 128GB NEW",
-        "price": "9300000",
+        "name": "Xiaomi redmi 4a, 2 /16, garansi 1 thn ",
+        "price": 940000,
         "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Huawei"
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
     },
     {
-        "name": "Apple Iphone 6 Plus 64GIGA",
-        "price": "2900000",
+        "name": "Apple iphone 6s plus 16 gb gold - free tempered glass",
+        "price": 2999000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "MatahariCell",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "XIAOMI REDMI NOTE 7 PRO 4GB 64GB RESMI",
-        "price": "2100000",
+        "name": "Xiaomi redmi note 3 pro - 3/32gb - gold",
+        "price": 1299900,
         "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
         "brand": "Xiaomi"
     },
     {
-        "name": "ASUS ROG PHONE 512GB NEW",
-        "price": "14000000",
+        "name": "Xiaomi redmi note 5 pro - 4gb - 64gb - garansi resmi tam",
+        "price": 2350000,
         "condition": "Baru",
-        "seller": "TMT Store",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Realme 3 pro resmi",
+        "price": 3650000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Xiaomi redmi 7 ram 2 rom 16",
+        "price": 1620000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone x gray 256gb ex inter zpa mulus bisa tt",
+        "price": 9300000,
+        "condition": "Bekas",
+        "seller": "Boy Gunawan",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 6 pro 4 gb 32 gb garansi distributor",
+        "price": 1735000,
+        "condition": "Baru",
+        "seller": "Gudang HP",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung s9 plus duos ",
+        "price": 4562900,
+        "condition": "Baru",
+        "seller": "Reape store",
+        "location": "Yogyakarta",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Realme 3 pro 6gb 128gb",
+        "price": 3650000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Hp xiaomi redmi note 4x  ram 4 rom 64gb",
+        "price": 1535000,
+        "condition": "Baru",
+        "seller": "jordan gadget",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Apple iphone 6s plus 64giga new",
+        "price": 3700000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 6s plus 64 gb gold - free tempered glass",
+        "price": 3299000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 4 - 3/64gb - gold",
+        "price": 1399000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi mi8 lite ram 4gb internal 64gb - mi 8 - garansi distributor",
+        "price": 2549000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone xs max 256giga byte",
+        "price": 19500000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 8 256gb inter resmi",
+        "price": 5900000,
+        "condition": "Baru",
+        "seller": "Reape store",
+        "location": "Yogyakarta",
+        "brand": "Apple"
+    },
+    {
+        "name": "Realme c2",
+        "price": 1310000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Iphone xs max 64 gb dual nano sim",
+        "price": 12000000,
+        "condition": "Bekas",
+        "seller": "Saraswati",
+        "location": "Jakarta Barat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone x ten 256 gb bekas original fullset",
+        "price": 8200000,
+        "condition": "Bekas",
+        "seller": "Rahim Ismail",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 8 64gb inter ausie termurah",
+        "price": 4984000,
+        "condition": "Baru",
+        "seller": "Reape store",
+        "location": "Yogyakarta",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung lipat s3600",
+        "price": 302400,
+        "condition": "Baru",
+        "seller": "Star_cell",
         "location": "Batam",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Asus zenfone 2 ze551ml second ram 4gb rom 16gb fullset mulus original",
+        "price": 850000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
         "brand": "Asus"
     },
     {
-        "name": "Apple Iphone 7 128 GIGA",
-        "price": "4350000",
+        "name": "Apple iphone 7 32giga new",
+        "price": 3700000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "Iphone 8 Plus 64gb Apple New",
-        "price": "7850000",
+        "name": "Xiaomi redmi note 5 pro - 3gb - 32gb - resmi",
+        "price": 2079000,
         "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
     },
     {
-        "name": "ONE PLUS 7 PRO ONEPLUS 12GB 256GB BNIB ONE",
-        "price": "13170000",
+        "name": "Oppo f5 ram 4gb-64gb",
+        "price": 1850000,
         "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Oneplus"
-    },
-    {
-        "name": "RAZER PHONE 2 RAM 8GB MEMORY 64GB NEW",
-        "price": "9600000",
-        "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Razer"
-    },
-    {
-        "name": "Oppo F1S 3gb-32gb Bonus Silikon",
-        "price": "1425000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
+        "seller": "Global Cellular",
         "location": "Jakarta Utara",
         "brand": "Oppo"
     },
     {
-        "name": "APPLE IPHONE X 256GB inter non aktif",
-        "price": "13000000",
+        "name": "Vivo x6 4-64gb original",
+        "price": 1550000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "VIVO V15 PRO 6GB 128 GB GARANSI RESMI",
-        "price": "2300000",
-        "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
         "brand": "Vivo"
     },
     {
-        "name": "GOOGLE PIXEL 3 XL RAM 4GB MEMORY 64GB NEW",
-        "price": "11900000",
+        "name": "Gome u7 ram 4gb internal 64gb garansi distributor 1 tahun",
+        "price": 1310000,
         "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Google"
-    },
-    {
-        "name": "Apple Iphone 7 PLUS 256 GIGA",
-        "price": "6600000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "BLACKVIEW BV8000 PRO 64GB RAM 6GB BARU ",
-        "price": "3140000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Blackview"
-    },
-    {
-        "name": "OPPO F11 PRO 6GB 64GB  GARANSI RESMI",
-        "price": "2300000",
-        "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Iphone X 256 Black",
-        "price": "11650000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "BLACKVIEW BV9000 PRO 6GB 128GB BARU ORIGINAL SEGEL",
-        "price": "3860000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Blackview"
-    },
-    {
-        "name": "Handphone  Samsung galaxy S10 plus Black Termurah dan Terlaris",
-        "price": "13999000",
-        "condition": "Baru",
-        "seller": "G2 STORE",
-        "location": "Semarang",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Lenovo K320T Ram 2 Rom 16gb",
-        "price": "1075000",
-        "condition": "Baru",
-        "seller": "Respect cellular",
-        "location": "Jakarta Utara",
-        "brand": "Lenovo"
-    },
-    {
-        "name": "NEW IPHONE XS MAX 512GB BNIB",
-        "price": "18000000",
-        "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Apple"
-    },
-    {
-        "name": "IPHONE 8PLUS 256 GIGA",
-        "price": "9500000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "Xiaomi Redmi note 4 Ram 3 Rom 64 GIGA",
-        "price": "1350000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "XIAOMI MI 9 8GB 128GB GARANSI RESMI",
-        "price": "3200000",
-        "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "HUAWEI MATE 20 X MEMORY 128GB RAM 6GB NEW",
-        "price": "9280000",
-        "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Huawei"
-    },
-    {
-        "name": "Apple Iphone 6S 128 GIGA BYTE",
-        "price": "3150000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "Handphone Samsung Galaxy A20 ram 3 rom 32 GB ",
-        "price": "2184100",
-        "condition": "Baru",
-        "seller": "G2 STORE",
-        "location": "Semarang",
-        "brand": "Samsung"
-    },
-    {
-        "name": "OPPO F1 S Distributor 3Gb - 32Gb Gold-Rose",
-        "price": "1450000",
-        "condition": "Baru",
-        "seller": "Ken Store",
+        "seller": "Senjaya Selindo",
         "location": "Jakarta Pusat",
-        "brand": "Oppo"
+        "brand": "Gome"
     },
     {
-        "name": "Oppo F5 RAM 4 ROM 32 GIGA",
-        "price": "1675000",
+        "name": "Xiaomi redmi note 2 prime. 4g lte. 32gb ",
+        "price": 999000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "HUAWEI HONOR NOTE 10 RAM 6GB MEMORY 128GB NEW",
-        "price": "6200000",
-        "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Huawei"
-    },
-    {
-        "name": "BLACKVIEW BV9500 PRO 128GB 6GB 10.000 Mah",
-        "price": "4670000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Blackview"
-    },
-    {
-        "name": "SAMSUNG GALAXY A50 6GB 128GB RESMI",
-        "price": "2500000",
-        "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Xiaomi Redmi Pro Ram 3 Rom 64GB",
-        "price": "1420000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
         "brand": "Xiaomi"
     },
     {
-        "name": "GALAXY S10 PLUS RAM 12GB MEMORY 1TB NEW",
-        "price": "19580000",
+        "name": "Xiaomi redmi 7 ram 3gb internal 32gb garansi distributor 1 tahun",
+        "price": 1760000,
         "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Samsung"
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
     },
     {
-        "name": "Hp Oppo A37 Ram 2Gb Rom 16Gb Gold ",
-        "price": "950000",
+        "name": "Realme c2 resmi",
+        "price": 1310000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Sony xperia z4 big au softbank seken bekas orginal",
+        "price": 750000,
         "condition": "Bekas",
-        "seller": "Ken Store",
-        "location": "Jakarta Pusat",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo f11",
+        "price": 3366100,
+        "condition": "Baru",
+        "seller": "Vi_Store",
+        "location": "Madiun",
         "brand": "Oppo"
     },
     {
-        "name": "PROMO BULAN RAMADHAN XIAOMI REDMI K20 6GB 128GB ",
-        "price": "2600000",
-        "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
+        "name": "Xiaomi mi8 256gb",
+        "price": 5394000,
+        "condition": "Bekas",
+        "seller": "gopalbl123",
+        "location": "Surabaya",
         "brand": "Xiaomi"
     },
     {
-        "name": "Lenovo K320T Ram 2 Rom 16GB Dual Camera",
-        "price": "1075000",
+        "name": "Iphone x 64gb original garansi 1 tahun",
+        "price": 11750000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "Global Cellular",
         "location": "Jakarta Utara",
-        "brand": "Lenovo"
+        "brand": "Apple"
     },
     {
-        "name": "GALAXY S10 PLUS RAM 8GB MEMORY 128GB NEW",
-        "price": "11500000",
+        "name": "Vivo x6 4-32giga new",
+        "price": 1450000,
         "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
+        "seller": "central phone",
+        "location": "Jakarta Utara",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Xiaomi redmi 2 rom 8gb 4g lte bergaransi ",
+        "price": 599000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Apple iphone 7 128giga new",
+        "price": 4100000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Oppo f11 pro",
+        "price": 4549100,
+        "condition": "Baru",
+        "seller": "Vi_Store",
+        "location": "Madiun",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Sony xperia xz second seken lecet",
+        "price": 960000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Ready stock samsung s10 plus 128gb ram 8gb garansi samsung 1 tahun segel termurah black - white - green 128",
+        "price": 11350000,
+        "condition": "Baru",
+        "seller": "putragroup",
+        "location": "Jakarta Barat",
         "brand": "Samsung"
     },
     {
-        "name": "Oppo F5 Ram 4 Rom 32 Giga Bite",
-        "price": "1650000",
+        "name": "Vivo x6 4-32gb original",
+        "price": 1450000,
         "condition": "Baru",
-        "seller": "Respect cellular",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Oppo a37 ram 2 - internal 16 giga",
+        "price": 1050000,
+        "condition": "Baru",
+        "seller": "Global Cellular",
         "location": "Jakarta Utara",
         "brand": "Oppo"
     },
     {
-        "name": "Handphone Samsung Galaxy A50 Ram 4GB termurah dan terlaris",
-        "price": "3607200",
+        "name": "Apple iphone 7 plus 32gigabyte",
+        "price": 5350000,
         "condition": "Baru",
-        "seller": "G2 STORE",
-        "location": "Semarang",
-        "brand": "Samsung"
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
     },
     {
-        "name": "XIAOMI REDMI NOTE 6 PRO 64GB 4GB 4 Kamera 4000Mah Baterai Baru Segel",
-        "price": "2530000",
+        "name": "Iphone 7 plus 128 gb baterai 95persen",
+        "price": 5000000,
+        "condition": "Bekas",
+        "seller": "Emman Jaya",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 6s plus 16 gb spacegrey - free tempered glass",
+        "price": 2999000,
         "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 5 plus ",
+        "price": 1550000,
+        "condition": "Bekas",
+        "seller": "Jfashion store",
+        "location": "Singkawang",
         "brand": "Xiaomi"
     },
     {
-        "name": "Xiaomi Mi Play Ram 4 GB RAM 64 GB Internal Garansi Distributor 1 Tahun",
-        "price": "1745000",
+        "name": "Xiaomi redmi 6a - ram 2 gb internal 16 gb garansi distributor",
+        "price": 1155000,
         "condition": "Baru",
         "seller": "Gudang HP",
         "location": "Jakarta Pusat",
         "brand": "Xiaomi"
     },
     {
-        "name": "Oppo F1S 4-32GB Bonus Case dan Anti Gores",
-        "price": "1525000",
+        "name": "Iphone 6 16 grey garansi distributor",
+        "price": 1925000,
         "condition": "Baru",
-        "seller": "Respect cellular",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 6s 64gb gold - free tempered glass",
+        "price": 2499000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Oppo a39 ram 3gb - 32gb",
+        "price": 1240000,
+        "condition": "Baru",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Oppo"
     },
     {
-        "name": "HUAWEI P30 PRO RAM 8GB MEMORY 256GB NEW",
-        "price": "12600000",
-        "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
+        "name": "Huawei p30 pro ram 8 256 gb fullset mulus",
+        "price": 7000000,
+        "condition": "Bekas",
+        "seller": "Abba Nabang",
+        "location": "Semarang",
         "brand": "Huawei"
     },
     {
-        "name": "Handphone samsung Galaxy A10 32 GB ",
-        "price": "1709100",
+        "name": "Apple iphone 6 plus 16giga",
+        "price": 2450000,
         "condition": "Baru",
-        "seller": "G2 STORE",
-        "location": "Semarang",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Iphone XS 256GB new",
-        "price": "17200000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "PROMO BULAN RAMADHAN XIAOMI REDMI K20 PRO RESMI ",
-        "price": "2600000",
+        "name": "Iphone 6s 64 gb gold & rose gold garansi distributor ",
+        "price": 2525000,
         "condition": "Baru",
-        "seller": "Budiman Cell",
-        "location": "Bekasi",
-        "brand": "Xiaomi"
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
     },
     {
-        "name": "ONEPLUS 7 PRO RAM 6GB MEMORY 128GB NEW",
-        "price": "10450000",
+        "name": "Apple iphone 6 64giga",
+        "price": 2250000,
         "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Oneplus"
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
     },
     {
-        "name": "Oppo F5 Ram 4GB-32GB",
-        "price": "1650000",
+        "name": "Oppo f1s ram 3gb-32gb",
+        "price": 1425000,
         "condition": "Baru",
-        "seller": "Pro Cellular",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Oppo"
     },
     {
-        "name": "Apple Iphone 7 32 GIGA",
-        "price": "4300000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Apple"
-    },
-    {
-        "name": "ONEPLUS 7 PRO RAM 8GB MEMORY 256GB NEW",
-        "price": "11850000",
+        "name": "Jual huawei p30 pro ram 8 gb 256 gb fullset mulus",
+        "price": 5700000,
         "condition": "Bekas",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Oneplus"
-    },
-    {
-        "name": "Oppo A37 Ram 2 Rom 16 GIGA",
-        "price": "1050000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Handphone Samsung Galaxy A30 white terlaris dan termanis",
-        "price": "3255000",
-        "condition": "Baru",
-        "seller": "G2 STORE",
+        "seller": "Ida Dahlang",
         "location": "Semarang",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Samsung j6plus",
+        "price": 2000000,
+        "condition": "Bekas",
+        "seller": "Jfashion store",
+        "location": "Singkawang",
         "brand": "Samsung"
     },
     {
-        "name": "XIAOMI MI MIX 3 - MIMIX 3 128GB RAM 6GB - NEW - BNIB - ORI",
-        "price": "6150000",
+        "name": "Iphone 6s plus 16gb grey garansi distributor 1 tahun",
+        "price": 2999000,
         "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
     },
     {
-        "name": "Apple Iphone 6S 16 GIGA",
-        "price": "2500000",
+        "name": "Sony xperia z2 compact seken",
+        "price": 540000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Apple iphone 6s plus 16 gb rose gold - free tempered glass",
+        "price": 2999000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "MatahariCell",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "Samsung galaxy A70 ",
-        "price": "5400000",
+        "name": "Oppo a71 ram 3gb-16gb",
+        "price": 1275000,
         "condition": "Baru",
-        "seller": "ALL SHOPE",
-        "location": "Jakarta Timur",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Oppo F7 4-64GB",
-        "price": "2850000",
-        "condition": "Baru",
-        "seller": "Pro Cellular",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Oppo"
     },
     {
-        "name": "Realme 3 pro ram 4 rom 64",
-        "price": "3100000",
+        "name": "Oppo a5s ram 2 rom 32 gb resmi ",
+        "price": 1900000,
         "condition": "Baru",
-        "seller": "ALL SHOPE",
-        "location": "Jakarta Timur",
-        "brand": "Realme"
-    },
-    {
-        "name": "oppo f5 4gb-64gb",
-        "price": "1765000",
-        "condition": "Baru",
-        "seller": "Pro Cellular",
-        "location": "Jakarta Utara",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
         "brand": "Oppo"
     },
     {
-        "name": "ONEPLUS 6T 128GB RAM 8GB - NEW - BNIB - ORIGINAL",
-        "price": "7450000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Oneplus"
-    },
-    {
-        "name": "Iphone 8 64GB",
-        "price": "6600000",
-        "condition": "Baru",
-        "seller": "Sumber Communication",
+        "name": "Iphone 7 128gb second fullset ex garansi singapore",
+        "price": 4200000,
+        "condition": "Bekas",
+        "seller": "Andrew",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "ONEPLUS 7 PRO RAM 12GB MEMORY 256GB NEW",
-        "price": "13480000",
-        "condition": "Baru",
-        "seller": "TMT Store",
-        "location": "Batam",
-        "brand": "Acer"
+        "name": "Sony xperia z3 big seken",
+        "price": 710000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
     },
     {
-        "name": "Xiaomi Redmi Note 7 Resmi Tam",
-        "price": "2375000",
+        "name": "Apple iphone 6s 16gb grey - free tempered glass",
+        "price": 2199000,
         "condition": "Baru",
-        "seller": "ALL SHOPE",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia xa ultra dualsim 16gb",
+        "price": 1900000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
         "location": "Jakarta Timur",
-        "brand": "Xiaomi"
+        "brand": "Sony"
     },
     {
-        "name": "OPPO a37 Black",
-        "price": "1075000",
-        "condition": "Baru",
-        "seller": "Pro Cellular",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "XIAOMI NOTE 7 4GB 64GB NOT MI8 LITE NOTE 5 6 PRO MIA2 MIMIX",
-        "price": "2740000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Samsung Galaxy S7 Edge Garansi Resmi SEIN - BNIB",
-        "price": "3989100",
-        "condition": "Baru",
-        "seller": "ANTERO_ID",
-        "location": "Jakarta Utara",
-        "brand": "Samsung"
-    },
-    {
-        "name": "Asus Zenfone Max Pro M1 - RAM 3GB INTERNAL 32 GB - Dual Camera 16 MP",
-        "price": "1650000",
-        "condition": "Baru",
-        "seller": "POLINDO PHONE OFFICIAL",
-        "location": "Depok",
+        "name": "Asus zenfone 2 ze551ml second ram 4gb rom 64gb fullset mulus original",
+        "price": 975000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
         "brand": "Asus"
     },
     {
-        "name": "oppo f5 4gb-32gb",
-        "price": "1675000",
+        "name": "Apple iphone 6 plus 64gb gold - free tempered glass",
+        "price": 2749000,
         "condition": "Baru",
-        "seller": "Pro Cellular",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Jual huawei p30 pro ram 8 256 gb fullset resmi",
+        "price": 7000000,
+        "condition": "Bekas",
+        "seller": "Luk Hakim Luk",
+        "location": "Pekalongan",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Iphone 6s plus 64 gb grey garansi distributor 1 tahun",
+        "price": 3450000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia x performance seken bekas - kondisi lecet",
+        "price": 780000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Samsung galaxy a70 resmi",
+        "price": 5300000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Huawei p20 pro - twilight - 128gb - 6gb - garansi resmi",
+        "price": 6499000,
+        "condition": "Baru",
+        "seller": "Kenzoe",
+        "location": "Tangerang",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Samsung galaxy a10  garansi resmi sein 1 tahun ram 3gb internal memory 32gb",
+        "price": 1559000,
+        "condition": "Baru",
+        "seller": "Zydni Teleshop",
+        "location": "Kab. Tangerang",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Sony xperia xa ultra dualsim 16gb green",
+        "price": 1900000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Realme 3 ram 3 rom 32",
+        "price": 1850000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Realme"
+    },
+    {
+        "name": "Apple iphone 6 64gb grey - free tempered glass",
+        "price": 2199000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung galaxy a10",
+        "price": 1570000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Sony xperia xa1 plus dualsim 32gb",
+        "price": 2150000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Sony xperia x compact sony x compact",
+        "price": 750000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone 6 64 gb grey & gold  refurbished garansi distributor 1 tahun ",
+        "price": 2175000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 3gb internal 32gb garansi distributor",
+        "price": 2280000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 7 blue red black tam",
+        "price": 2399900,
+        "condition": "Baru",
+        "seller": "ibawa",
+        "location": "Pati",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 3 ram 3gb ",
+        "price": 1069000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 4gb - 64gb tam",
+        "price": 2650000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy m20",
+        "price": 2300000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Sony xperia z4 compact - bekas",
+        "price": 520000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi mi 8 lite ram 4gb internal 64gb garansi distributor 1 tahun",
+        "price": 2480000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Asus zenfone live",
+        "price": 1099000,
+        "condition": "Baru",
+        "seller": "ZEYN CELLULAR",
+        "location": "Jakarta Timur",
+        "brand": "Asus"
+    },
+    {
+        "name": "Xiaomi redminote 5 pro gold bnib ram 4gb rom 64gb grs 1 tahun distributor",
+        "price": 1990000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone xs max 256gb dual sim seken",
+        "price": 16300000,
+        "condition": "Bekas",
+        "seller": "4G CELLULER",
+        "location": "Kab. Tangerang",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 3, 4g lte,  2/16, 5\"",
+        "price": 850000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia z2 compact seken original",
+        "price": 540000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Samsung galaxy m10",
+        "price": 1590000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Honor huawei 9 lite smartphone new bnib",
+        "price": 1700000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Apple iphone 7 plus 128gb garansi distributor",
+        "price": 5900000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 5a 3gb-32gb distributor",
+        "price": 1499000,
+        "condition": "Baru",
+        "seller": "sabrinahcell",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Oppo f1s ram 4gb - 32gb",
+        "price": 1490000,
+        "condition": "Baru",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
         "brand": "Oppo"
     },
     {
-        "name": "New Smartphone Huangmi RAM 2 Internal 16GB",
-        "price": "999000",
+        "name": "Samsung j4",
+        "price": 1499000,
         "condition": "Baru",
-        "seller": "POLINDO PHONE OFFICIAL",
+        "seller": "ZEYN CELLULAR",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Sony xperia z2 seken original",
+        "price": 640000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi 3x. rom 32gb ram 2gb ",
+        "price": 1039000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone 6 plus 16giga byte",
+        "price": 2450000,
+        "condition": "Baru",
+        "seller": "central phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Huawei honor 7x gold new bnib ram 4gb rom 32gb ",
+        "price": 1725000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Iphone x silver 256 gb",
+        "price": 9700000,
+        "condition": "Bekas",
+        "seller": "Irfan Hakim",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Lenovo k5 black & blue",
+        "price": 1550000,
+        "condition": "Baru",
+        "seller": "ZEYN CELLULAR",
+        "location": "Jakarta Timur",
+        "brand": "Lenovo"
+    },
+    {
+        "name": "Sony xperia z3 docomo",
+        "price": 710000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi note 7",
+        "price": 2740000,
+        "condition": "Baru",
+        "seller": "Helmi Wahyudin",
         "location": "Depok",
-        "brand": "Acer"
+        "brand": "Xiaomi"
     },
     {
-        "name": "OPPO F1s 4-32GB",
-        "price": "1500000",
+        "name": "Huawei y7 pro",
+        "price": 1819100,
+        "condition": "Baru",
+        "seller": "Vi_Store",
+        "location": "Madiun",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Apple iphone 7 plus 128gb - free tempred glass",
+        "price": 5499000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 6s plus 16gigabyte",
+        "price": 3150000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 3s. ram 2gb.  16gb ",
+        "price": 899000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Realme 3 ram 3gb internal 32gb garansi resmi oppo ",
+        "price": 1820000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Realme"
+    },
+    {
+        "name": "Lenovo z5 l78011 aurora new bnib ram 6gb rom 128gb zui os ",
+        "price": 3150000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Lenovo"
+    },
+    {
+        "name": "Huawei p30 lite",
+        "price": 3998100,
+        "condition": "Baru",
+        "seller": "Vi_Store",
+        "location": "Madiun",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Apple iphone 7 plus 256giga",
+        "price": 6350000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6 plus 16 gold & grey refurbished garansi distributor 1 tahun",
+        "price": 2350000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 7 plus 32gb - free tempred glass",
+        "price": 4699000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi mi 9 se ram 6gb internal 128gb garansi distributor 1 tahun",
+        "price": 4750000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone 6 64gb - gold / free tempered glass",
+        "price": 2199000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6s plus 64gb",
+        "price": 3975000,
         "condition": "Baru",
         "seller": "Pro Cellular",
         "location": "Jakarta Utara",
-        "brand": "Oppo"
+        "brand": "Apple"
     },
     {
-        "name": "XIAOMI NOTE 7 RAM 3GB INTERNAL 32GB DISTRIBUTOR",
-        "price": "2200000",
+        "name": "Xiaomi redmi 3s. ram 2gb. original xiaomi ",
+        "price": 975000,
         "condition": "Baru",
-        "seller": "KingkongMas",
+        "seller": "AFANKA CELL",
         "location": "Jakarta Barat",
         "brand": "Xiaomi"
     },
     {
-        "name": "SAMSUNG GALAXY A9 2018 128GB RAM 6GB - NEW - BNIB - ORI",
-        "price": "5030000",
+        "name": "Apple iphone 7 plus 128giga",
+        "price": 5900000,
         "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Samsung"
-    },
-    {
-        "name": "xiaomi note 7 ram 4gb internal 64gb distributor",
-        "price": "2500000",
-        "condition": "Baru",
-        "seller": "KingkongMas",
-        "location": "Jakarta Barat",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "XIAOMI MI 9 MI9 6GB 128GB NEW BNIB Bukan MI 8 MIMIX 3 PRO",
-        "price": "6820000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "XIAOMI REDMI 7 RAM 3GB INTERNAL 64GB",
-        "price": "1915000",
-        "condition": "Baru",
-        "seller": "KingkongMas",
-        "location": "Jakarta Barat",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "XIAOMI MI 9 MI9 8GB 128GB NEW BNIB Bukan MI 8 MIMIX 3 PRO",
-        "price": "7120000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "XIAOMI REDMI 7 RAM 3GB INTERNAL 32GB VERSI GLOBAL",
-        "price": "1760000",
-        "condition": "Baru",
-        "seller": "KingkongMas",
-        "location": "Jakarta Barat",
-        "brand": "Xiaomi"
-    },
-    {
-        "name": "Oppo A39 Gold",
-        "price": "1270000",
-        "condition": "Baru",
-        "seller": "Pro Cellular",
+        "seller": "JM Store",
         "location": "Jakarta Utara",
-        "brand": "Oppo"
+        "brand": "Apple"
     },
     {
-        "name": "xiaomi redmi note 4x 4-64Gb",
-        "price": "1475000",
+        "name": "Iphone 6plus 64 grey refurbish garansi distributor 1 tahun",
+        "price": 2699000,
         "condition": "Baru",
-        "seller": "KingkongMas",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi s2 ram 3gb rom 32gb garansi dist",
+        "price": 1725000,
+        "condition": "Baru",
+        "seller": "sabrinahcell",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Realme c2 ram 2gb internal 16gb garansi resmi oppo",
+        "price": 1299000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Realme"
+    },
+    {
+        "name": "Sony xperia x perfomance 1 sim docomo jepang  ",
+        "price": 815000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Apple iphone 7 256 giga byte new",
+        "price": 4350000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6 - 64gb ex garansi ibox",
+        "price": 2300000,
+        "condition": "Bekas",
+        "seller": "Benny",
+        "location": "Medan",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 3s. ram 3gb. dijamin asli xiaomi ",
+        "price": 1125000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
         "location": "Jakarta Barat",
         "brand": "Xiaomi"
     },
     {
-        "name": "SAMSUNG GALAXY S10 S 10 128GB RAM 8GB - NEW - BNIB - ORIGINAL",
-        "price": "9948000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Samsung"
-    },
-    {
-        "name": "OPPO a37 Gold",
-        "price": "1050000",
-        "condition": "Baru",
-        "seller": "Pro Cellular",
-        "location": "Jakarta Utara",
-        "brand": "Oppo"
-    },
-    {
-        "name": "OPPO A5S RAM 3GB INTERNAL 32GB RESMI",
-        "price": "1950000",
-        "condition": "Baru",
-        "seller": "KingkongMas",
-        "location": "Jakarta Barat",
-        "brand": "Oppo"
-    },
-    {
-        "name": "Xiaomi Note 7 Ram 4 Internal 128 GB Garansi Resmi TAM 1 Tahun",
-        "price": "3125000",
+        "name": "Xiaomi mi play ram 4 gb ram 64 gb internal garansi distributor 1 tahun",
+        "price": 1745000,
         "condition": "Baru",
         "seller": "Gudang HP",
         "location": "Jakarta Pusat",
         "brand": "Xiaomi"
     },
     {
-        "name": "REALME C2 RAM 3GB INTERNAL 32GB RRESMI",
-        "price": "1500000",
+        "name": "Samsung s8 64gb bekas",
+        "price": 3800000,
+        "condition": "Bekas",
+        "seller": "4G CELLULER",
+        "location": "Kab. Tangerang",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Apple iphone 7 32gb garansi distributor 1 tahun",
+        "price": 5100000,
         "condition": "Baru",
-        "seller": "KingkongMas",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 6s plus 64 gb rose gold - free tempered glass",
+        "price": 3299000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Oppo a37 - 16gb new",
+        "price": 1075000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Vivo v11 pro second mulus baru pakai 2 minggu ram 6gb internal 64gb",
+        "price": 2700000,
+        "condition": "Bekas",
+        "seller": "PREMIERE CELLULAR",
         "location": "Jakarta Barat",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone xr 128gb seken",
+        "price": 9800000,
+        "condition": "Bekas",
+        "seller": "4G CELLULER",
+        "location": "Kab. Tangerang",
+        "brand": "Apple"
+    },
+    {
+        "name": "Realme c2 resmi ram 2-16gb",
+        "price": 1310000,
+        "condition": "Baru",
+        "seller": "Borneo Ponsel",
+        "location": "Jakarta Timur",
         "brand": "Realme"
     },
     {
-        "name": "SAMSUNG GALAXY S7 EDGE DUAL 4G MULUS",
-        "price": "2699000",
+        "name": "Iphone 6 plus 64gb spacegrey - free tempered glass",
+        "price": 2749000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 8 plus 64gb",
+        "price": 7850000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 7 256gb garansi distributor 1 tahun",
+        "price": 6500000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia z1 docomo seken original",
+        "price": 590000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Sony xperia xz docomo single sim mulus ",
+        "price": 1080000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone 6s plus 64gb grey ",
+        "price": 4275000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 6 blue",
+        "price": 2200000,
+        "condition": "Bekas",
+        "seller": "jati ubay",
+        "location": "Langsa",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia z5 premium seken original",
+        "price": 1120000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone 6s 16gb grey & gold & rose gold garansi distributor 1 tahun",
+        "price": 2299000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Huawei p30 aurora bnib garansi internasional - bukan pro atau lite - bonus rock hydrogel screen protector",
+        "price": 8455000,
+        "condition": "Baru",
+        "seller": "Cahaya Corp",
+        "location": "Kab. Bandung",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Iphone 8 64gb new",
+        "price": 6500000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Huawei p20 pro fullset garansi resmi indonesia",
+        "price": 6950000,
+        "condition": "Bekas",
+        "seller": "BAMBANG SURATNO MARBUN",
+        "location": "Muaro Jambi",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Oppo f9 pro ram 6 - 64gb garansi resmi ",
+        "price": 4350000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Apple iphone x 256 giga byte",
+        "price": 11650000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6s 128 gb gold  grey & rose gold garansi distributor 1 tahun",
+        "price": 2799000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Jual iphone 7 128gb red edition bekas ex internasional lengkap mulus no minus murah",
+        "price": 6500000,
+        "condition": "Bekas",
+        "seller": "Wandi Raja",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6 128gb - gold",
+        "price": 2200000,
+        "condition": "Bekas",
+        "seller": "JNJ Store",
+        "location": "Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Acer liquid z520 3g ram 2gb rom 16gb fullset original",
+        "price": 485000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Acer"
+    },
+    {
+        "name": "Lenovo vibe shot",
+        "price": 1200000,
+        "condition": "Bekas",
+        "seller": "surya_2472",
+        "location": "Tangerang Selatan",
+        "brand": "Lenovo"
+    },
+    {
+        "name": "Sony xperia xa2 dualsim 32gb green",
+        "price": 2150000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo a71 ram 3 rom 16",
+        "price": 1280000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Oppo f11 resmi",
+        "price": 3699000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Iphone 5s gold 64gb",
+        "price": 1300000,
+        "condition": "Bekas",
+        "seller": "Asrul A.K",
+        "location": "Kab. Tangerang",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung j2 prime new sein",
+        "price": 1180000,
+        "condition": "Baru",
+        "seller": "New Com",
+        "location": "Kab. Bogor",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi redmi note 4   3-64gb gold garansi distributor",
+        "price": 1350000,
+        "condition": "Baru",
+        "seller": "sabrinahcell",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note - 7 tam",
+        "price": 2650000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi note white ram 3gb 16gb lte",
+        "price": 1359000,
+        "condition": "Baru",
+        "seller": "New Com",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone 6s plus 128",
+        "price": 5000000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6s 64gb",
+        "price": 3100000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 128gb ",
+        "price": 4100000,
+        "condition": "Baru",
+        "seller": "Global Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung galaxy s7 edge dual 4g mulus",
+        "price": 2699000,
         "condition": "Bekas",
         "seller": "GPS",
         "location": "Bandung",
         "brand": "Samsung"
     },
     {
-        "name": "SAMSUNG GALAXY S10 PLUS S 10 PLUS 128GB RAM 8GB - NEW - BNIB - ORI",
-        "price": "11190000",
-        "condition": "Baru",
-        "seller": "As Gadget",
-        "location": "Batam",
-        "brand": "Samsung"
+        "name": "Blackberry bb belagio - onyx 3 - 9790 - special edition pink",
+        "price": 130000,
+        "condition": "Bekas",
+        "seller": "erwin roxi",
+        "location": "Depok",
+        "brand": "Blackberry"
     },
     {
-        "name": "ASUS L2 RAM 2GB INTERNAL 16GB TAM",
-        "price": "1030000",
-        "condition": "Baru",
-        "seller": "KingkongMas",
-        "location": "Jakarta Barat",
-        "brand": "NULL"
+        "name": "Oneplus 6t a6010 midnight black 8 gb 128 gb ",
+        "price": 7000000,
+        "condition": "Bekas",
+        "seller": "Ferry Pratama",
+        "location": "Depok",
+        "brand": "Oneplus"
     },
     {
-        "name": "VIVO X6 Ram 4 Rom 32 GIGA Byte",
-        "price": "1325000",
+        "name": "Iphone xr 256gb original",
+        "price": 13750000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "central phone",
         "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 7 ram 2 rom 16 gb",
+        "price": 1630000,
+        "condition": "Baru",
+        "seller": "New Com",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Huawei p20 pro twilight fullset original",
+        "price": 5000000,
+        "condition": "Bekas",
+        "seller": "anas carles",
+        "location": "Bandung",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Iphone 64 gb 6s plus gold garansi distributor",
+        "price": 4275000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Iphone"
+    },
+    {
+        "name": "Realme 3",
+        "price": 1820000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Vivo v15 pro",
+        "price": 5104000,
+        "condition": "Baru",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
         "brand": "Vivo"
     },
     {
-        "name": "Apple Iphone 6PLUS 16GB",
-        "price": "3100000",
+        "name": "Oppo f9 pro gransi resmi oppo indonesia ram 6gb internal 64gb ",
+        "price": 2437500,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "Senal Agrah",
+        "location": "Cianjur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Sony xperia x performance seken original",
+        "price": 800000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Apple iphone 7 128gb garansi distributor 1 tahun",
+        "price": 5750000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Gome fenmmy note ram 4gb internal 64gb garansi distributor 1 tahun",
+        "price": 1280000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Gome"
+    },
+    {
+        "name": "Iphone x 256gb gray fullset mulus like new",
+        "price": 8700000,
+        "condition": "Bekas",
+        "seller": "Lukman 678",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Vivo v15",
+        "price": 3664000,
+        "condition": "Baru",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone x 64gb pemakaian pribadi",
+        "price": 10000000,
+        "condition": "Bekas",
+        "seller": "hermansyah",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia xz seken original",
+        "price": 1010000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Realme 3 pro ram 6 gb snapdragon 710 camera slowmotion 960fps",
+        "price": 3690000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Oppo a37 ",
+        "price": 1180000,
+        "condition": "Baru",
+        "seller": "sabrinahcell",
+        "location": "Jakarta Timur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Xiaomi mi 8 pro ram 8gb internal 128gb",
+        "price": 6200000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone 7 plus 128gb",
+        "price": 5950000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "APPLE IPHONE X 64GB GREY",
-        "price": "10500000",
+        "name": "Sony xperia z5 compact docomo seken original",
+        "price": 610000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Vivo y95",
+        "price": 2174000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone x 64gb silver mulus",
+        "price": 9800000,
+        "condition": "Bekas",
+        "seller": "Aep Permadi",
+        "location": "Purwakarta",
+        "brand": "Apple"
+    },
+    {
+        "name": "Oppo f7 fulset ",
+        "price": 2700000,
+        "condition": "Baru",
+        "seller": "saprudin",
+        "location": "Jakarta Barat",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Samsung galaxy s9 plus 128gb black",
+        "price": 5300000,
+        "condition": "Bekas",
+        "seller": "Yusuf Bahar",
+        "location": "Jakarta Utara",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Iphone 7 plus 256gb",
+        "price": 6600000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
         "location": "Jakarta Utara",
         "brand": "Apple"
     },
     {
-        "name": "Apple Iphone 7 PLUS 128 GIGA",
-        "price": "5950000",
+        "name": "Xiaomi redmi 6 32 gb  distri",
+        "price": 1525000,
         "condition": "Baru",
-        "seller": "Sumber Communication",
+        "seller": "Yupitha Hiasinta",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Oppo a71",
+        "price": 1300000,
+        "condition": "Baru",
+        "seller": "New Com",
+        "location": "Kab. Bogor",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Realme c2 bat 4000 mah resmi",
+        "price": 1310000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Apple iphone 6s 64gb grey - free tempered glass",
+        "price": 2499000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
         "location": "Jakarta Utara",
         "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia z4 compact seken",
+        "price": 520000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Vivo y95 ram 4gb rom 32gb garansi resmi",
+        "price": 2150000,
+        "condition": "Baru",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Samsung gt-e1272 caramel",
+        "price": 179000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Iphone x 256gb",
+        "price": 8950000,
+        "condition": "Bekas",
+        "seller": "Aep Permadi",
+        "location": "Purwakarta",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6 plus 64gb gold",
+        "price": 3800000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone xr 128gb original",
+        "price": 12750000,
+        "condition": "Baru",
+        "seller": "central phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Lg g6 ex indo aurora black",
+        "price": 2600000,
+        "condition": "Bekas",
+        "seller": "Dzakya cell",
+        "location": "Jakarta Pusat",
+        "brand": "Lg"
+    },
+    {
+        "name": "Vivo y93 ",
+        "price": 1784000,
+        "condition": "Baru",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Samsung galaxy a70",
+        "price": 5300000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Vivo y91c ",
+        "price": 1504000,
+        "condition": "Baru",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Sony xperia z5 compact docomo - bekas",
+        "price": 610000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Vivo y91 garansi resmi",
+        "price": 1504000,
+        "condition": "Baru",
+        "seller": "JJ SHOP",
+        "location": "Bekasi",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Sony xperia z3 compact",
+        "price": 550000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Realme 3 pro ram 6 gb dan ram 4 gb snapdragon 710 bat 4045 mah vooc resmi ",
+        "price": 3690000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Xiaomi mi mix 3 ram 6gb internal 128gb garansi 1 tahun",
+        "price": 6200000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung a50 sein",
+        "price": 4225000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Sony xperia z4 docomo seken ",
+        "price": 700000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi note 6 pro ram 4gb internal 64gb garansi distributor 1 tahun",
+        "price": 2275000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Realme c2 ram 3 gb 32gb  prosesor helio p22 bat 4000 mah resmi",
+        "price": 1550000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Realme"
+    },
+    {
+        "name": "Oppo a3s 4g lte ram2-16 gb -berjayamitra",
+        "price": 1700000,
+        "condition": "Baru",
+        "seller": "BERJAYAMITRAGADGET",
+        "location": "Bandung",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Sony xperia z4 z3 plus - bekas",
+        "price": 700000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo a37",
+        "price": 1180000,
+        "condition": "Baru",
+        "seller": "ECHA CELL",
+        "location": "Jakarta Timur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Apple iphone 6s 16gb rose gold - free tempered glass",
+        "price": 2199000,
+        "condition": "Baru",
+        "seller": "MatahariCell",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 8 256gb gold - bekas",
+        "price": 8500000,
+        "condition": "Bekas",
+        "seller": "Nicken Asteria",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 2 4g lte ram 1gb rom 8gb bhs indo",
+        "price": 550000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung m10 sein",
+        "price": 1590000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi redmi 6 4-64gb resmi tam",
+        "price": 1654000,
+        "condition": "Baru",
+        "seller": "blantik gadget",
+        "location": "Sidoarjo",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia x performance bekas",
+        "price": 800000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo a37 black dan gold",
+        "price": 1180000,
+        "condition": "Baru",
+        "seller": "Yupitha Hiasinta",
+        "location": "Jakarta Timur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Vivo y93 garansi resmi",
+        "price": 1850000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Xiaomi redmi 6 resmi tam 3-32gb ",
+        "price": 1479000,
+        "condition": "Baru",
+        "seller": "blantik gadget",
+        "location": "Sidoarjo",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia x compact seken original",
+        "price": 750000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone se 32gb second murah",
+        "price": 1800000,
+        "condition": "Bekas",
+        "seller": "Lite Shop",
+        "location": "Bekasi",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 64 gb 6s rosegold garansi dsitributor",
+        "price": 3575000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Iphone"
+    },
+    {
+        "name": "Sony xperia z5 premium 4g lte bekas",
+        "price": 1120000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Huawei p20 pro - twilight - beli 23 agustus 2018 ",
+        "price": 4850000,
+        "condition": "Baru",
+        "seller": "Gege Aprillio",
+        "location": "Mamuju",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Sony xperia z1 docomo bekas",
+        "price": 590000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone 7 plus 32gb gold",
+        "price": 5450000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 7 3-32 tam",
+        "price": 1940000,
+        "condition": "Baru",
+        "seller": "Pusat Handphone",
+        "location": "Jakarta Timur",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Oppo f11 pro 6gb 128gb ",
+        "price": 2150000,
+        "condition": "Baru",
+        "seller": "Agungcs",
+        "location": "Jakarta Pusat",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Vivo v15 camera 32 megapixel popup garansi resmi",
+        "price": 3670000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Nokia 106 dual sim 2018 garansi resmi",
+        "price": 215000,
+        "condition": "Baru",
+        "seller": "blantik gadget",
+        "location": "Sidoarjo",
+        "brand": "Nokia"
+    },
+    {
+        "name": "Sony xperia z3 compact docomo bekas",
+        "price": 550000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi 6 pro ram 4gb internal 64gb garansi distributor",
+        "price": 1999000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 6 pro ram 4gb rom 64gb",
+        "price": 2080000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia x performance seken kondisi lecet pemakaian",
+        "price": 780000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo a5s 3gb 32gb",
+        "price": 2099000,
+        "condition": "Baru",
+        "seller": "Tiophone Cell",
+        "location": "Depok",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Sony xperia z5 bekas",
+        "price": 780000,
+        "condition": "Bekas",
+        "seller": "Good Seller",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi 6a ram 2gb rom 16gb",
+        "price": 1160000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 4x ram 3gb-32gb",
+        "price": 1320000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 6 pro ram 4gb rom 64gb",
+        "price": 2250000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia xz dualsim 64gb",
+        "price": 2150000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Asus zenfone q5 4gb internal 64gb",
+        "price": 1975000,
+        "condition": "Baru",
+        "seller": "Tiophone Cell",
+        "location": "Depok",
+        "brand": "Asus"
+    },
+    {
+        "name": "Iphone 6s plus 64gb rosegold garansi distributor 1 tahun",
+        "price": 4275000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone xs 64giga",
+        "price": 15500000,
+        "condition": "Baru",
+        "seller": "Global Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone 6s plus 16 giga  byte",
+        "price": 3140000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6s 16gb grey garansi distributor 1 tahun",
+        "price": 2300000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia xa2 dualsim 32gb",
+        "price": 2150000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone 7 jet black ",
+        "price": 1500000,
+        "condition": "Bekas",
+        "seller": "lucky agustinus setyawan",
+        "location": "Tarakan",
+        "brand": "Apple"
+    },
+    {
+        "name": "Apple iphone x internal 64",
+        "price": 10650000,
+        "condition": "Baru",
+        "seller": "JM Store",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung a7 2018 ram 6 gb internal 128 gb garansi resmi panjang",
+        "price": 3510000,
+        "condition": "Bekas",
+        "seller": "Ginanjar",
+        "location": "Tangerang Selatan",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi mi a2 lite - ram 4gb internal 64gb - garansi distributor",
+        "price": 1949000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Oppo f7",
+        "price": 2400000,
+        "condition": "Bekas",
+        "seller": "SMARTHP",
+        "location": "Jakarta Timur",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Samsung resmi a 10 ram 2 - rom 32gb",
+        "price": 1645000,
+        "condition": "Baru",
+        "seller": "Borneo Ponsel",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi mi 8 lite ",
+        "price": 2480000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy a7 sm-a750gn dualsim 6gb-128gb 2nd",
+        "price": 4195000,
+        "condition": "Bekas",
+        "seller": "uNGu",
+        "location": "Depok",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi mi 9 se - ram 6gb - internal 128gb - mi9",
+        "price": 4959000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Hp jadul oke nokia e71 warna putih",
+        "price": 273000,
+        "condition": "Bekas",
+        "seller": "tokomasagus",
+        "location": "Tanah Laut",
+        "brand": "Nokia"
+    },
+    {
+        "name": "Lenovo k5",
+        "price": 1550000,
+        "condition": "Baru",
+        "seller": "sabrinahcell",
+        "location": "Jakarta Timur",
+        "brand": "Lenovo"
+    },
+    {
+        "name": "Xiaomi redmi note 5 ram 4gb rom 64gb garansi resmi tam",
+        "price": 2670000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 7",
+        "price": 1760000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 4 - 3gb - 32gb - gold - snapdragon - resmi tam",
+        "price": 1699000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi 6a 2gb 16gb tam",
+        "price": 1199000,
+        "condition": "Baru",
+        "seller": "OnlinneShop",
+        "location": "Solo",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Oppo a37 2-16gb",
+        "price": 1075000,
+        "condition": "Baru",
+        "seller": "Pabrik CellularShop",
+        "location": "Jakarta Utara",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Iphone 7 128 red",
+        "price": 3650000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone x 256gb gray normal lengkap",
+        "price": 9500000,
+        "condition": "Bekas",
+        "seller": "Ciwin 999",
+        "location": "Banjarmasin",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia z3 plus  z4 docomo ram 3gb rom 32gb secondhand mulus",
+        "price": 740000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi mi a2 - ram 4gb internal 64gb - garansi resmi tam",
+        "price": 2329000,
+        "condition": "Baru",
+        "seller": "SELL MARON",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi redmi note 7 ram 3gb rom 32gb",
+        "price": 2200000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia x compact mulus seken original",
+        "price": 850000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Iphone 6 32gb 2nd kondisi normal fisik 95 persen",
+        "price": 2500000,
+        "condition": "Baru",
+        "seller": "Harry Kurniawan",
+        "location": "Jakarta Selatan",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 32gb gold",
+        "price": 3700000,
+        "condition": "Baru",
+        "seller": "Pabrik CellularShop",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung galaxy a20",
+        "price": 2099000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Sony xperia xa2 dualsim 32gb grey",
+        "price": 2150000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Asus zenfone max pro m1- ram 3gb internal 32gb zb602kl garansi resmi",
+        "price": 1579000,
+        "condition": "Baru",
+        "seller": "Gudang HP",
+        "location": "Jakarta Pusat",
+        "brand": "Asus"
+    },
+    {
+        "name": "Sony xperia x dualsim 64gb",
+        "price": 1850000,
+        "condition": "Bekas",
+        "seller": "Blue Moon",
+        "location": "Jakarta Timur",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo a37 black",
+        "price": 1075000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Sony xperia x compact docomo 1 sim ram 3gb rom 32gb ",
+        "price": 775000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi mi play ram 4gb rom 64gb",
+        "price": 1760000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Iphone 6s 16gb gold garansi distributor",
+        "price": 2450000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung galaxy j2 core - ram 1gb internal 8gb garansi resmi sein",
+        "price": 1099000,
+        "condition": "Baru",
+        "seller": "Gudang HP",
+        "location": "Jakarta Pusat",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi mi5c bnib 4g lte ram 3gb rom 64gb grs 1 tahun ",
+        "price": 1400000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Lenovo k320t",
+        "price": 1110000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Lenovo"
+    },
+    {
+        "name": "Apple iphone 7 plus 128gb blackmatte garansi distributor 1 tahun",
+        "price": 6100000,
+        "condition": "Baru",
+        "seller": "Senjaya Selindo",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 7 ram 2gb rom 16gb",
+        "price": 1560000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Oppo a39 ram 3-32gb",
+        "price": 1280000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Xiaomi note 4x 3-16gb",
+        "price": 1455000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Huawei honor 8x jsn al00 purple new bnib ram 6gb rom 128gb ",
+        "price": 4050000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Huawei"
+    },
+    {
+        "name": "Iphone 7 plus 32gb",
+        "price": 5500000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 7 -garansi tam",
+        "price": 2699000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia z4 au - softbank seken original",
+        "price": 750000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi 7 ram 2gb rom 16gb -garansi tam",
+        "price": 1650000,
+        "condition": "Baru",
+        "seller": "INTERNAL ONLINE SHOP",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi mi note lte bamboo - 3gb - 16gb",
+        "price": 1100000,
+        "condition": "Baru",
+        "seller": "Pro Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xperia xz seken kondisi lecet ",
+        "price": 960000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Xiaomi redmi note 2 16gb - 2gb ram gray",
+        "price": 870000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Handphone vivo y91c resmi baterai 4.000 mah y 91 c",
+        "price": 1510000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Xiaomi redmi 2 4g lte 8gb white",
+        "price": 620000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony xz global garansi 1 tahun ",
+        "price": 2070000,
+        "condition": "Baru",
+        "seller": "muhammad khaerul",
+        "location": "Indramayu",
+        "brand": "Sony"
+    },
+    {
+        "name": "Sony xperia z docomo seken original",
+        "price": 510000,
+        "condition": "Bekas",
+        "seller": "auto shop",
+        "location": "Kab. Tangerang",
+        "brand": "Sony"
+    },
+    {
+        "name": "Samsung galaxy s7 edge 32gb ram 4gb pink gold msh garansi resmi sein indonesia 11 bulan",
+        "price": 4250000,
+        "condition": "Bekas",
+        "seller": "Alvin Nodee",
+        "location": "Tangerang Selatan",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Apple iphone 6 plus 64gb gold",
+        "price": 3600000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony x performance global garansi 1 tahun ",
+        "price": 1610000,
+        "condition": "Baru",
+        "seller": "muhammad khaerul",
+        "location": "Indramayu",
+        "brand": "Sony"
+    },
+    {
+        "name": "Promo vivo y17 resmi triple kamera bat 5000 mah fast charging ",
+        "price": 2690000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Oppo f1s ram3gb rom 32gb",
+        "price": 1400000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Asus zenfone max pro m1",
+        "price": 1579000,
+        "condition": "Baru",
+        "seller": "aanandersen smartphone",
+        "location": "Tangerang",
+        "brand": "Asus"
+    },
+    {
+        "name": "Xiaomi redmi 6a resmi tam",
+        "price": 1219000,
+        "condition": "Baru",
+        "seller": "aanandersen smartphone",
+        "location": "Tangerang",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Sony z5 big global fullset like new garansi 6 bulan stok terbatas",
+        "price": 1760000,
+        "condition": "Baru",
+        "seller": "muhammad khaerul",
+        "location": "Indramayu",
+        "brand": "Sony"
+    },
+    {
+        "name": "Vivo v15 pro ram 6 gb 128 gb kamera 48 mp qualcomm snapdragon 675aie resmi",
+        "price": 5390000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone 7 plus 256 gb apple",
+        "price": 6700000,
+        "condition": "Baru",
+        "seller": "Pabrik CellularShop",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia x performance au ram 3gb rom 32gb mulus grs ",
+        "price": 835000,
+        "condition": "Bekas",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Vivo v15 pro ram 6 gb 128 gb kamrea 48 mp snapdragon 675aie  resmi",
+        "price": 5090000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Handphone sony docomo experia z1 ",
+        "price": 450000,
+        "condition": "Bekas",
+        "seller": "Item SALE",
+        "location": "Depok",
+        "brand": "Sony"
+    },
+    {
+        "name": "Promo vivo y95 ram 4 gb 64 gb pro snapdragon 439 kamera 20mp resmi",
+        "price": 2110000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    {
+        "name": "Iphone 6 32gb paa",
+        "price": 1950000,
+        "condition": "Bekas",
+        "seller": "ALYA CELL",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 plus 32",
+        "price": 5300000,
+        "condition": "Baru",
+        "seller": "Global Cellular",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung s7 edge silver 1 sim new segel box",
+        "price": 3150000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Iphone 8plus icloud",
+        "price": 2600000,
+        "condition": "Bekas",
+        "seller": "ALYA CELL",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi 6a garansi resmi tam",
+        "price": 1179900,
+        "condition": "Baru",
+        "seller": "DA_STORE",
+        "location": "Cilacap",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Lenovo k320t ram 2 - internal 16gb black",
+        "price": 1075000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Lenovo"
+    },
+    {
+        "name": "Iphone x 64gb lock icloud",
+        "price": 4100000,
+        "condition": "Bekas",
+        "seller": "ALYA CELL",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung galaxy j4 2018 garansi resmi",
+        "price": 1500000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi redmi  note 4x ram 3 - internal 32gb",
+        "price": 1300000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Coolpad fancy e561 grs resmi 1th ram 2gb rom 16gb 4g lte bhs indo fingerprint ",
+        "price": 715000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Coolpad"
+    },
+    {
+        "name": "Oppo f11 pro fullset ori mulus",
+        "price": 3300000,
+        "condition": "Bekas",
+        "seller": "Permata",
+        "location": "Bandung",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Apple iphone 7 plus 32gb",
+        "price": 5350000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung galaxy a7 2018 cam 24mp garansi resmi sein",
+        "price": 3899000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi redmi 4x . 4g lte ",
+        "price": 1199000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy a9 2018 ram 6 rom 128gb garansi resmi sein",
+        "price": 6250000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Samsung galaxy note 9 lavender purple 128gb garansi resmi sein ",
+        "price": 11300000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Blackberry 9360 apollo jaringan 3g like new grs x resmi ",
+        "price": 265000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Blackberry"
+    },
+    {
+        "name": "Xiaomi redmi note 4x. 4g lte. ram 4gb 64gb . 5.5 inch ",
+        "price": 1680000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy m20 bat 5000 mah garansi sein ",
+        "price": 2350000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Apple iphone 6s plus 128gb",
+        "price": 3900000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 4x. 4g lte.ram 3 rom 32",
+        "price": 1339000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung galaxy s10 plus ram 8gb 128gb garansi sein",
+        "price": 12300000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Apple iphone 6s plus 64gb",
+        "price": 3700000,
+        "condition": "Baru",
+        "seller": "Apple phone",
+        "location": "Jakarta Utara",
+        "brand": "Apple"
+    },
+    {
+        "name": "Xiaomi redmi note 4x ram 3-16gb. ",
+        "price": 1379000,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung a30 sein ",
+        "price": 2820000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Xiaomi redmi 4x prime. 3gb. 32gb",
+        "price": 1234100,
+        "condition": "Baru",
+        "seller": "AFANKA CELL",
+        "location": "Jakarta Barat",
+        "brand": "Xiaomi"
+    },
+    {
+        "name": "Samsung a10 sein",
+        "price": 1590000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Apple iphone 6s 16 gb rose grs 1 tahun distributor",
+        "price": 2575000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6s 64gb",
+        "price": 3700000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung caramel dual sim",
+        "price": 200000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Samsung galaxy s10e sein",
+        "price": 10200000,
+        "condition": "Baru",
+        "seller": "Maintech Gadget",
+        "location": "Jakarta Timur",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Iphone 7 plus 128",
+        "price": 5700000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Apple"
+    },
+    {
+        "name": "Sony xperia c4 dual e5333 bnib grs 1 tahun distributor ",
+        "price": 1060000,
+        "condition": "Baru",
+        "seller": "MM PLATINUM",
+        "location": "Jakarta Pusat",
+        "brand": "Sony"
+    },
+    {
+        "name": "Oppo f1s ram 4gb rom 32gb",
+        "price": 1500000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Oppo a37 ram 2 gb rom 16gb",
+        "price": 1170000,
+        "condition": "Baru",
+        "seller": "Toko Laku ID",
+        "location": "Kab. Bogor",
+        "brand": "Oppo"
+    },
+    {
+        "name": "Iphone 6s plus 128 gb gold  grey & rose gold garansi distributor 1 tahun",
+        "price": 3750000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 6 128 gb grey & gold garansi distributor 1 tahun",
+        "price": 2475000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 32 gb garansi distributor 1 tahun",
+        "price": 3350000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 128 gb garansi distributor 1 tahun",
+        "price": 3699000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 plus 256 gb garansi distributor 1 tahun",
+        "price": 5650000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Iphone 7 256 gb garansi distributor 1 tahun",
+        "price": 4099000,
+        "condition": "Baru",
+        "seller": "MC ONLINE",
+        "location": "Jakarta Pusat",
+        "brand": "Apple"
+    },
+    {
+        "name": "Motorola moto g5s plus ram 4.32gb fullset resmi termurah",
+        "price": 1650000,
+        "condition": "Bekas",
+        "seller": "Cecep NP",
+        "location": "Bandung Barat",
+        "brand": "Motorola"
     }
 ]
