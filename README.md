@@ -16,17 +16,17 @@ Project ini terdiri dari 3 direktori yaitu data, src dan screenshots. Pada folde
 __Linux__ :
 Pastikan perangkat sudah terinstall Jupyter notebook, python3 dan library BeautifulSoup
 Untuk menjalankan program data scraping:
-'''
+```
 1. Dari Terminal, run jupyter notebook'
 2. Pilh file scraping.ipynb
 3. Pilih kernel dan pilih pilihan Restart & Run All
-'''
+```
 
 Untuk menjalankan program program.py :
-'''
+```
 1. Masuk ke direktori src
 2. Pada terminal ketik python3 program.py
-'''
+```
 
 # Ideas and innovations in utilizing the data
 - Data dapat digunakan untuk mengetahui nilai ekspor impor pada bulan dan tahun tertentu
