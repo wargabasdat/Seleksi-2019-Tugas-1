@@ -12,7 +12,7 @@ Script ini melakukan *scraping* pada laman [Kurs Pajak Badan Kebijakan Fiskal, K
 - Tanggal akhir berlaku
 
 ## Specification
-- Runtime: Node JS 10
+- Runtime: Node JS
 - Libraries:
   - [Axios](https://github.com/axios/axios)
   - [Cheerio](https://github.com/cheeriojs/cheerio)
