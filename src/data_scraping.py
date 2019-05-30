@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import json
-import time
 import copy
 import os
 
