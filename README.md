@@ -53,7 +53,7 @@ Sebelum menjalankannya, dilakukan tahap ini untuk menginstalasi _python_ dan lib
 6. Install _requests_ dengan menuliskan _pip install requests_ pada CLI
 ```
 
-Setelah instalasi, terdapat 2 cara untuk menjalankan program ini, yaitu:
+Setelah instalasi, terdapat 2 cara untuk menjalankan program ini, yaitu:<br/>
 _Command Line Interface_
 ```
 1. Membuka folder _Seleksi-2019-Tugas-1_ pada CLI
@@ -137,28 +137,28 @@ Library yang digunakan:
 
 
 ## Screenshot kode program
-__Screenshot kode__
-Pencarian Link
-![Pencarian link](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_1.png)
-Pembuat JSON
-![Pembuat JSON](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_2.png)
-Pemanggil Request
-![Pemanggil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_3.png)
-Kontrol Hasil Request
-![Kontrol hasil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_4.png)
-Main
-![Main](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_5.png)
+__Screenshot kode__<br/>
+Pencarian Link<br/>
+![Pencarian link](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_1.png)<br/>
+Pembuat JSON<br/>
+![Pembuat JSON](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_2.png)<br/>
+Pemanggil Request<br/>
+![Pemanggil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_3.png)<br/>
+Kontrol Hasil Request<br/>
+![Kontrol hasil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_4.png)<br/>
+Main<br/>
+![Main](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_5.png)<br/>
 
-__Screenshot json__
-RaceData
-![RaceData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_racedata.png)
-ResultData
-![ResultData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_resultdata.png)
-SeasonData
-![SeasonData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_seasondata.png)
+__Screenshot json__<br/>
+RaceData<br/>
+![RaceData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_racedata.png)<br/>
+ResultData<br/>
+![ResultData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_resultdata.png)<br/>
+SeasonData<br/>
+![SeasonData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_seasondata.png)<br/>
 
-__Screenshot program saat dieksekusi__
-Run
+__Screenshot program saat dieksekusi__<br/>
+Run<br/>
 ![Run](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_run.png)
 
 
