@@ -39,7 +39,7 @@ A sample data from the .json file:
 ```
 {
   "MATCH UP":"Apr 10, 2019 - GSW @ MEM",
-  "W\/L":"L",
+  "W/L":"L",
   "MIN":48.0,
   "PTS":117.0,
   "FGM":46.0,
@@ -59,7 +59,7 @@ A sample data from the .json file:
   "STL":3.0,
   "BLK":5.0,
   "PF":17.0,
-  "+\/-":-15.0
+  "+/-":-15.0
 }
 ```
 
