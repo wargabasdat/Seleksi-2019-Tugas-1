@@ -83,6 +83,11 @@ https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e57
 https://stackoverflow.com/
 https://www.datacamp.com/community/tutorials/web-scraping-using-python
 https://nodejs.org/
+https://pandas.pydata.org/
+https://askubuntu.com/
+https://quora.com/
+https://www.guru99.com/
+https://www.codepolitan.com/
 ```
 
 Sumber data
