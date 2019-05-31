@@ -1,7 +1,7 @@
 all: clean run
 
 clean:
-    find . -name '*.pyc' -exec rm -f {} +
+    	find . -name '*.pyc' -exec rm -f {} +
 	find . -name '*.pyo' -exec rm -f {} +
 
 run:
