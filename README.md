@@ -27,21 +27,21 @@ Berikut adalah data scraping pada website http://www.duniainvestasi.com yang mem
 
 ## How to use
 
-How to use makefile:
+- How to use makefile:
 ```
 1. Open Command Prompt
 2. Move to master/root folder
 3. Type "make"
 ```
 
-How to use npm scripts:
+- How to use npm scripts:
 ```
 1. Open Command Prompt
 2. Move to master/root folder
 3. Type "npm run scripts"
 ```
 
-How to use runjs:
+- How to use runjs:
 ```
 1. Open Command Prompt
 2. Move to master/root folder
@@ -81,6 +81,8 @@ Referensi bacaan
 ```
 https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e578278162
 https://stackoverflow.com/
+https://www.datacamp.com/community/tutorials/web-scraping-using-python
+https://nodejs.org/
 ```
 
 Sumber data
