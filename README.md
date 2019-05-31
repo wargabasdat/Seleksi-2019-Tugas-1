@@ -1,4 +1,4 @@
-#Description:
+#Description
 Untuk memenuhi ketentuan tugas seleksi pertama warga basdat 2019, saya membuat beberapa proyek yaitu:
 1. GR_TopBooks_Spider (PROJECT UTAMA)
 2. GR_Trivia_Spider (PROJECT SAMPINGAN untuk fun & exploration ^^ )
