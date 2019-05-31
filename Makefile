@@ -1,6 +1,6 @@
 all: clean build run
 
-clean: # remove data and binary folder, not implemented
+clean: npm run clean # remove data and binary folder
 
 build: npm install
 
