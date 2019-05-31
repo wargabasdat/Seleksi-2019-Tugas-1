@@ -1,4 +1,4 @@
-<h1>
+<h1
   Daftar Pekerjaan
 </h1>
 
@@ -8,21 +8,28 @@
 
 ## Deskripsi
 
-Script ini melakukan <i>data scraping</i> pada laman https://www.jobs.id/lowongan-kerja. Data yang didapatkan dan dipakai terdiri dari:
+Script ini melakukan <i>data scraping</i> pada laman [Jobs.id](https://www.jobs.id/lowongan-kerja)
+<br>
+Data yang didapatkan dan dipakai terdiri dari:
 1. Nama Pekerjaan
 2. Perusahaan Pekerjaan
 3. Lokasi Pekerjaan
 4. Rentang Gaji Pekerjaan
-5. Tanggal Lowongan Pekerjaan di-<i>upload</i> di laman jobs.id
+5. Tanggal Lowongan Pekerjaan di-<i>upload</i> di laman [Jobs.id](https://www.jobs.id)
 6. Deskripsi Singkat Pekerjaan
 
 ## Spesifikasi
 
 Runtime: Python 3
-Library: 
+<p>
+Library:
+<br>
 1. BeautifulSoup
+  <br>
 2. urllib
+  <br>
 3. json
+</p>
 
 ## Cara Penggunaan
 
@@ -33,11 +40,32 @@ Jalankan script dengan memasukan perintah dibawah di Command Line:
 Hasil <i>data scraping</i> akan disimpan di direktori /data dengan nama result.json
 
 ## Ide Penggunaan Data
-Data 
+
+Data-data yang didapatkan digunakan untuk melihat kondisi lapangan-lapangan pekerjaan yang tersedia di Indonesia. Aspek yang diperhatikan bisa berupa penyebaran lokasi lapangan pekerjaan, pekerjaan jenis apa yang dibutuhkan, beserta gaji-gaji yang ditawarkan oleh perusahaan pemberi lowongan pekerjaan.
 
 ## Struktur JSON
 
+JSON memiliki format sebuah key 'jobs' yang menyimpan data-data dari pekerjaan-pekerjaan yang didapatkan.
+
+```
+{
+  "jobs": [
+    {
+      "job_title": <i> title </i>
+      "company": <i> company </i>
+      "location": <i> location </i>
+      "salary": <i> salary </i>
+      "upload_date": <i> date </i>
+      "short_description": <i> description </i>
+    },
+    ...
+  ]
+}
+```
+
 ## Screenshot
+
+![screenshot](/screenshots/screenshot1.jpg)
 
 ## Reference
 
