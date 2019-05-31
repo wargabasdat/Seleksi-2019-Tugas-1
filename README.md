@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Data Scraping Part PC dari [NanoKomputer](http://www.nanokomputer.com/)
+  Data Scraping Part PC dari NanoKomputer
   <br>
   <br>
 </h1>
