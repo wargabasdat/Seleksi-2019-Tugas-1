@@ -1,7 +1,8 @@
-all: clean build run
+all: clean run
 
-clean: # remove data and binary folder
+clean:
+    find . -name '*.pyc' -exec rm -f {} +
+	find . -name '*.pyo' -exec rm -f {} +
 
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
+run:
+	python3 src/main.py
