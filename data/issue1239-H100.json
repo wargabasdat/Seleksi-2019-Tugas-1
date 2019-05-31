@@ -1,0 +1,1304 @@
+{
+    "songs": [
+        {
+            "position": 1,
+            "songInfo": {
+                "title": "I Don't Care",
+                "artist": "Ed Sheeran & Justin Bieber",
+                "label": "WMA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "1",
+                "timeSpent": 3,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 2,
+            "songInfo": {
+                "title": "Sucker",
+                "artist": "Jonas Brothers",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "2",
+                "timeSpent": 13,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 3,
+            "songInfo": {
+                "title": "ME!",
+                "artist": "Taylor Swift ft. Brendon Urie",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "4",
+                "timeSpent": 5,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 4,
+            "songInfo": {
+                "title": "If I Can't Have You",
+                "artist": "Shawn Mendes",
+                "label": "ISL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "3",
+                "timeSpent": 4,
+                "highestPosition": 3
+            }
+        },
+        {
+            "position": 5,
+            "songInfo": {
+                "title": "Can We Pretend",
+                "artist": "Pink ft. Cash Cash",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "29",
+                "timeSpent": 2,
+                "highestPosition": 5
+            }
+        },
+        {
+            "position": 6,
+            "songInfo": {
+                "title": "Someone You Loved",
+                "artist": "Lewis Capaldi",
+                "label": "UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "6",
+                "timeSpent": 11,
+                "highestPosition": 6
+            }
+        },
+        {
+            "position": 7,
+            "songInfo": {
+                "title": "Don't Call Me Up",
+                "artist": "Mabel",
+                "label": "POL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "9",
+                "timeSpent": 12,
+                "highestPosition": 7
+            }
+        },
+        {
+            "position": 8,
+            "songInfo": {
+                "title": "bad guy",
+                "artist": "Billie Eilish",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "5",
+                "timeSpent": 9,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 9,
+            "songInfo": {
+                "title": "Dancing With A Stranger",
+                "artist": "Sam Smith & Normani",
+                "label": "CAP/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "7",
+                "timeSpent": 20,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 10,
+            "songInfo": {
+                "title": "Woke Up Late",
+                "artist": "Drax Project ft. Hailee Steinfeld",
+                "label": "UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "18",
+                "timeSpent": 12,
+                "highestPosition": 10
+            }
+        },
+        {
+            "position": 11,
+            "songInfo": {
+                "title": "Talk",
+                "artist": "Khalid",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "8",
+                "timeSpent": 16,
+                "highestPosition": 8
+            }
+        },
+        {
+            "position": 12,
+            "songInfo": {
+                "title": "Cross Me",
+                "artist": "Ed Sheeran ft. Chance The Rapper & PnB Rock",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 12
+            }
+        },
+        {
+            "position": 13,
+            "songInfo": {
+                "title": "Old Town Road (Remix)",
+                "artist": "Lil Nas X ft. Billy Ray Cyrus",
+                "label": "COL/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "11",
+                "timeSpent": 8,
+                "highestPosition": 11
+            }
+        },
+        {
+            "position": 14,
+            "songInfo": {
+                "title": "SOS",
+                "artist": "Avicii ft. Aloe Blacc",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "12",
+                "timeSpent": 7,
+                "highestPosition": 5
+            }
+        },
+        {
+            "position": 15,
+            "songInfo": {
+                "title": "So Am I",
+                "artist": "Ava Max",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "14",
+                "timeSpent": 12,
+                "highestPosition": 3
+            }
+        },
+        {
+            "position": 16,
+            "songInfo": {
+                "title": "Who Do You Love",
+                "artist": "The Chainsmokers ft. 5 Seconds Of Summer",
+                "label": "COL/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "13",
+                "timeSpent": 16,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 17,
+            "songInfo": {
+                "title": "Nightmare",
+                "artist": "Halsey",
+                "label": "CAP/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "45",
+                "timeSpent": 2,
+                "highestPosition": 17
+            }
+        },
+        {
+            "position": 18,
+            "songInfo": {
+                "title": "Good Lord",
+                "artist": "Birds Of Tokyo",
+                "label": "EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "17",
+                "timeSpent": 13,
+                "highestPosition": 5
+            }
+        },
+        {
+            "position": 19,
+            "songInfo": {
+                "title": "Here With Me",
+                "artist": "Marshmello ft. CHVRCHES",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "22",
+                "timeSpent": 11,
+                "highestPosition": 7
+            }
+        },
+        {
+            "position": 20,
+            "songInfo": {
+                "title": "3 Nights",
+                "artist": "Dominic Fike",
+                "label": "COL/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "15",
+                "timeSpent": 20,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 21,
+            "songInfo": {
+                "title": "i'm so tired...",
+                "artist": "Lauv & Troye Sivan",
+                "label": "EMI/IND"
+            },
+            "chartInfo": {
+                "lastWeek": "16",
+                "timeSpent": 17,
+                "highestPosition": 13
+            }
+        },
+        {
+            "position": 22,
+            "songInfo": {
+                "title": "Walk Me Home",
+                "artist": "Pink",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "10",
+                "timeSpent": 14,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 23,
+            "songInfo": {
+                "title": "Easier",
+                "artist": "5 Seconds Of Summer",
+                "label": "EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 23
+            }
+        },
+        {
+            "position": 24,
+            "songInfo": {
+                "title": "Body",
+                "artist": "Loud Luxury ft. brando",
+                "label": "UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "20",
+                "timeSpent": 37,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 25,
+            "songInfo": {
+                "title": "Nothing Breaks Like A Heart",
+                "artist": "Mark Ronson ft. Miley Cyrus",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "19",
+                "timeSpent": 21,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 26,
+            "songInfo": {
+                "title": "Bad Liar",
+                "artist": "Imagine Dragons",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "23",
+                "timeSpent": 22,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 27,
+            "songInfo": {
+                "title": "Then What",
+                "artist": "Illy",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 27
+            }
+        },
+        {
+            "position": 28,
+            "songInfo": {
+                "title": "Piece Of Your Heart",
+                "artist": "Meduza ft. Goodboys",
+                "label": "NEON/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "30",
+                "timeSpent": 4,
+                "highestPosition": 28
+            }
+        },
+        {
+            "position": 29,
+            "songInfo": {
+                "title": "Love Someone",
+                "artist": "Lukas Graham",
+                "label": "WB/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "26",
+                "timeSpent": 30,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 30,
+            "songInfo": {
+                "title": "Exit Sign",
+                "artist": "Hilltop Hoods ft. Illy & Ecca Vandal",
+                "label": "HTH/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "31",
+                "timeSpent": 14,
+                "highestPosition": 21
+            }
+        },
+        {
+            "position": 31,
+            "songInfo": {
+                "title": "Sunflower",
+                "artist": "Post Malone & Swae Lee",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "25",
+                "timeSpent": 27,
+                "highestPosition": 15
+            }
+        },
+        {
+            "position": 32,
+            "songInfo": {
+                "title": "Young Again",
+                "artist": "Morgan Evans",
+                "label": "WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "47",
+                "timeSpent": 3,
+                "highestPosition": 32
+            }
+        },
+        {
+            "position": 33,
+            "songInfo": {
+                "title": "Joy",
+                "artist": "Bastille",
+                "label": "VIR/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "21",
+                "timeSpent": 3,
+                "highestPosition": 21
+            }
+        },
+        {
+            "position": 34,
+            "songInfo": {
+                "title": "7 Minutes",
+                "artist": "Dean Lewis",
+                "label": "ISL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "33",
+                "timeSpent": 19,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 35,
+            "songInfo": {
+                "title": "Paradise",
+                "artist": "Bazzi",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "50",
+                "timeSpent": 7,
+                "highestPosition": 35
+            }
+        },
+        {
+            "position": 36,
+            "songInfo": {
+                "title": "Sweet But Psycho",
+                "artist": "Ava Max",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "37",
+                "timeSpent": 23,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 37,
+            "songInfo": {
+                "title": "Stay Awake",
+                "artist": "Dean Lewis",
+                "label": "ISL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "28",
+                "timeSpent": 10,
+                "highestPosition": 11
+            }
+        },
+        {
+            "position": 38,
+            "songInfo": {
+                "title": "Painkiller",
+                "artist": "Ruel",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "44",
+                "timeSpent": 4,
+                "highestPosition": 38
+            }
+        },
+        {
+            "position": 39,
+            "songInfo": {
+                "title": "Summer Days",
+                "artist": "Martin Garrix ft. Macklemore & Patrick Stump",
+                "label": "EPIC/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "35",
+                "timeSpent": 4,
+                "highestPosition": 35
+            }
+        },
+        {
+            "position": 40,
+            "songInfo": {
+                "title": "Mess Her Up",
+                "artist": "Amy Shark",
+                "label": "WL/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "24",
+                "timeSpent": 13,
+                "highestPosition": 7
+            }
+        },
+        {
+            "position": 41,
+            "songInfo": {
+                "title": "Waiting",
+                "artist": "KIAN",
+                "label": "EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "38",
+                "timeSpent": 27,
+                "highestPosition": 10
+            }
+        },
+        {
+            "position": 42,
+            "songInfo": {
+                "title": "Girls Like You",
+                "artist": "Maroon 5 ft. Cardi B",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "34",
+                "timeSpent": 47,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 43,
+            "songInfo": {
+                "title": "Promises",
+                "artist": "Calvin Harris & Sam Smith ft. Jessie Reyez",
+                "label": "EMI/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "36",
+                "timeSpent": 36,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 44,
+            "songInfo": {
+                "title": "Hold My Girl",
+                "artist": "George Ezra",
+                "label": "COL/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "55",
+                "timeSpent": 18,
+                "highestPosition": 10
+            }
+        },
+        {
+            "position": 45,
+            "songInfo": {
+                "title": "Without Me",
+                "artist": "Halsey",
+                "label": "CAP/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "41",
+                "timeSpent": 28,
+                "highestPosition": 9
+            }
+        },
+        {
+            "position": 46,
+            "songInfo": {
+                "title": "Sunday",
+                "artist": "Jessica Mauboy",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "32",
+                "timeSpent": 7,
+                "highestPosition": 30
+            }
+        },
+        {
+            "position": 47,
+            "songInfo": {
+                "title": "Don't Feel Like Crying",
+                "artist": "Sigrid",
+                "label": "ISL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "46",
+                "timeSpent": 3,
+                "highestPosition": 46
+            }
+        },
+        {
+            "position": 48,
+            "songInfo": {
+                "title": "Happier",
+                "artist": "Marshmello & Bastille",
+                "label": "AST/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "40",
+                "timeSpent": 35,
+                "highestPosition": 3
+            }
+        },
+        {
+            "position": 49,
+            "songInfo": {
+                "title": "You Say",
+                "artist": "Lauren Daigle",
+                "label": "ADA/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "58",
+                "timeSpent": 19,
+                "highestPosition": 16
+            }
+        },
+        {
+            "position": 50,
+            "songInfo": {
+                "title": "Johnny Run Away",
+                "artist": "Tones And I",
+                "label": "IND/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "27",
+                "timeSpent": 12,
+                "highestPosition": 27
+            }
+        },
+        {
+            "position": 51,
+            "songInfo": {
+                "title": "Hurt Somebody",
+                "artist": "Noah Kahan & Julia Michaels",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "53",
+                "timeSpent": 64,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 52,
+            "songInfo": {
+                "title": "High Hopes",
+                "artist": "Panic! At The Disco",
+                "label": "FBR/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "49",
+                "timeSpent": 47,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 53,
+            "songInfo": {
+                "title": "Youngblood",
+                "artist": "5 Seconds Of Summer",
+                "label": "CAP/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "42",
+                "timeSpent": 53,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 54,
+            "songInfo": {
+                "title": "Truth Hurts",
+                "artist": "Lizzo",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "64",
+                "timeSpent": 3,
+                "highestPosition": 54
+            }
+        },
+        {
+            "position": 55,
+            "songInfo": {
+                "title": "Blame It On Your Love",
+                "artist": "Charli XCX ft. Lizzo",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 55
+            }
+        },
+        {
+            "position": 56,
+            "songInfo": {
+                "title": "What I Like About You",
+                "artist": "Jonas Blue ft. Theresa Rex",
+                "label": "VIR/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 7,
+                "highestPosition": 41
+            }
+        },
+        {
+            "position": 57,
+            "songInfo": {
+                "title": "Close To Me",
+                "artist": "Ellie Goulding & Diplo ft. Swae Lee",
+                "label": "POL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "52",
+                "timeSpent": 21,
+                "highestPosition": 8
+            }
+        },
+        {
+            "position": 58,
+            "songInfo": {
+                "title": "Rewrite The Stars",
+                "artist": "Anne-Marie & James Arthur",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "77",
+                "timeSpent": 17,
+                "highestPosition": 19
+            }
+        },
+        {
+            "position": 59,
+            "songInfo": {
+                "title": "Shotgun",
+                "artist": "George Ezra",
+                "label": "COL/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "59",
+                "timeSpent": 44,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 60,
+            "songInfo": {
+                "title": "No Tears Left To Cry",
+                "artist": "Ariana Grande",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "98",
+                "timeSpent": 51,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 61,
+            "songInfo": {
+                "title": "Stay",
+                "artist": "Zedd & Alessia Cara",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "51",
+                "timeSpent": 64,
+                "highestPosition": 3
+            }
+        },
+        {
+            "position": 62,
+            "songInfo": {
+                "title": "Solid Gold",
+                "artist": "PNAU ft. Kira Divine & Marques Toliver",
+                "label": "IND"
+            },
+            "chartInfo": {
+                "lastWeek": "54",
+                "timeSpent": 3,
+                "highestPosition": 54
+            }
+        },
+        {
+            "position": 63,
+            "songInfo": {
+                "title": "thank u, next",
+                "artist": "Ariana Grande",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "48",
+                "timeSpent": 25,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 64,
+            "songInfo": {
+                "title": "A Million Dreams",
+                "artist": "Pink",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "62",
+                "timeSpent": 25,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 65,
+            "songInfo": {
+                "title": "break up with your girlfriend, i\ufffdm bored",
+                "artist": "Ariana Grande",
+                "label": "REP/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "39",
+                "timeSpent": 16,
+                "highestPosition": 19
+            }
+        },
+        {
+            "position": 66,
+            "songInfo": {
+                "title": "Remind Me To Forget",
+                "artist": "Kygo ft. Miguel",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "68",
+                "timeSpent": 55,
+                "highestPosition": 5
+            }
+        },
+        {
+            "position": 67,
+            "songInfo": {
+                "title": "IDGAF",
+                "artist": "Dua Lipa",
+                "label": "WB/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "66",
+                "timeSpent": 48,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 68,
+            "songInfo": {
+                "title": "Mama",
+                "artist": "Jonas Blue ft. William Singe",
+                "label": "VIR/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "69",
+                "timeSpent": 83,
+                "highestPosition": 5
+            }
+        },
+        {
+            "position": 69,
+            "songInfo": {
+                "title": "Shallow",
+                "artist": "Lady Gaga & Bradley Cooper",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "72",
+                "timeSpent": 29,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 70,
+            "songInfo": {
+                "title": "Can't Stop The Feeling!",
+                "artist": "Justin Timberlake",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "63",
+                "timeSpent": 134,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 71,
+            "songInfo": {
+                "title": "What Lovers Do",
+                "artist": "Maroon 5 ft. SZA",
+                "label": "A&M/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "94",
+                "timeSpent": 73,
+                "highestPosition": 10
+            }
+        },
+        {
+            "position": 72,
+            "songInfo": {
+                "title": "Think Of Me",
+                "artist": "The Veronicas",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "43",
+                "timeSpent": 9,
+                "highestPosition": 7
+            }
+        },
+        {
+            "position": 73,
+            "songInfo": {
+                "title": "Dance Monkey",
+                "artist": "Tones And I",
+                "label": "IND/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 73
+            }
+        },
+        {
+            "position": 74,
+            "songInfo": {
+                "title": "Wake Me Up",
+                "artist": "Avicii",
+                "label": "UNI/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "74",
+                "timeSpent": 159,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 75,
+            "songInfo": {
+                "title": "Power Is Power",
+                "artist": "SZA, The Weeknd & Travis Scott",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "61",
+                "timeSpent": 4,
+                "highestPosition": 50
+            }
+        },
+        {
+            "position": 76,
+            "songInfo": {
+                "title": "LIFE",
+                "artist": "Conrad Sewell",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 76
+            }
+        },
+        {
+            "position": 77,
+            "songInfo": {
+                "title": "1999",
+                "artist": "Charli XCX & Troye Sivan",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "57",
+                "timeSpent": 28,
+                "highestPosition": 16
+            }
+        },
+        {
+            "position": 78,
+            "songInfo": {
+                "title": "Day Drunk",
+                "artist": "Morgan Evans",
+                "label": "WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "70",
+                "timeSpent": 37,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 79,
+            "songInfo": {
+                "title": "Let You Love Me",
+                "artist": "Rita Ora",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "71",
+                "timeSpent": 30,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 80,
+            "songInfo": {
+                "title": "Earth",
+                "artist": "Lil Dicky",
+                "label": "BMG"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 3,
+                "highestPosition": 80
+            }
+        },
+        {
+            "position": 81,
+            "songInfo": {
+                "title": "There's Nothing Holdin' Me Back",
+                "artist": "Shawn Mendes",
+                "label": "ISL/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "89",
+                "timeSpent": 101,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 82,
+            "songInfo": {
+                "title": "Cheap Thrills",
+                "artist": "Sia",
+                "label": "INERTIA"
+            },
+            "chartInfo": {
+                "lastWeek": "79",
+                "timeSpent": 122,
+                "highestPosition": 6
+            }
+        },
+        {
+            "position": 83,
+            "songInfo": {
+                "title": "The Middle",
+                "artist": "Zedd, Maren Morris & Grey",
+                "label": "IGA/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "83",
+                "timeSpent": 64,
+                "highestPosition": 3
+            }
+        },
+        {
+            "position": 84,
+            "songInfo": {
+                "title": "Vossi Bop",
+                "artist": "Stormzy",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "97",
+                "timeSpent": 3,
+                "highestPosition": 84
+            }
+        },
+        {
+            "position": 85,
+            "songInfo": {
+                "title": "Locked Out Of Heaven",
+                "artist": "Bruno Mars",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 97,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 86,
+            "songInfo": {
+                "title": "Before I Go",
+                "artist": "Guy Sebastian",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "78",
+                "timeSpent": 25,
+                "highestPosition": 6
+            }
+        },
+        {
+            "position": 87,
+            "songInfo": {
+                "title": "Gimme",
+                "artist": "BANKS",
+                "label": "EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 2,
+                "highestPosition": 87
+            }
+        },
+        {
+            "position": 88,
+            "songInfo": {
+                "title": "Nowhere To Go",
+                "artist": "Hayden James & NAATIONS",
+                "label": "FC"
+            },
+            "chartInfo": {
+                "lastWeek": "93",
+                "timeSpent": 3,
+                "highestPosition": 88
+            }
+        },
+        {
+            "position": 89,
+            "songInfo": {
+                "title": "Cheerleader",
+                "artist": "OMI",
+                "label": "SME"
+            },
+            "chartInfo": {
+                "lastWeek": "92",
+                "timeSpent": 62,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 90,
+            "songInfo": {
+                "title": "Undrunk",
+                "artist": "FLETCHER",
+                "label": "CAP/EMI"
+            },
+            "chartInfo": {
+                "lastWeek": "67",
+                "timeSpent": 2,
+                "highestPosition": 67
+            }
+        },
+        {
+            "position": 91,
+            "songInfo": {
+                "title": "Shutting Down Our Town",
+                "artist": "Jimmy Barnes",
+                "label": "MUSHROOM"
+            },
+            "chartInfo": {
+                "lastWeek": "NEW",
+                "timeSpent": 1,
+                "highestPosition": 91
+            }
+        },
+        {
+            "position": 92,
+            "songInfo": {
+                "title": "Elastic Heart",
+                "artist": "Sia",
+                "label": "INERTIA"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 51,
+                "highestPosition": 2
+            }
+        },
+        {
+            "position": 93,
+            "songInfo": {
+                "title": "You Little Beauty",
+                "artist": "FISHER",
+                "label": "IND"
+            },
+            "chartInfo": {
+                "lastWeek": "88",
+                "timeSpent": 2,
+                "highestPosition": 88
+            }
+        },
+        {
+            "position": 94,
+            "songInfo": {
+                "title": "Carry On",
+                "artist": "Kygo & Rita Ora",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "56",
+                "timeSpent": 3,
+                "highestPosition": 56
+            }
+        },
+        {
+            "position": 95,
+            "songInfo": {
+                "title": "Feel It Still",
+                "artist": "Portugal. The Man",
+                "label": "ATL/WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 77,
+                "highestPosition": 5
+            }
+        },
+        {
+            "position": 96,
+            "songInfo": {
+                "title": "Better In Blak",
+                "artist": "Thelma Plum",
+                "label": "WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "96",
+                "timeSpent": 4,
+                "highestPosition": 87
+            }
+        },
+        {
+            "position": 97,
+            "songInfo": {
+                "title": "Only Girl (In The World)",
+                "artist": "Rihanna",
+                "label": "IDJ/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 44,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 98,
+            "songInfo": {
+                "title": "These Days",
+                "artist": "Rudimental ft. Jess Glynne, Macklemore & Dan Caplen",
+                "label": "WMA"
+            },
+            "chartInfo": {
+                "lastWeek": "80",
+                "timeSpent": 66,
+                "highestPosition": 1
+            }
+        },
+        {
+            "position": 99,
+            "songInfo": {
+                "title": "Jubel",
+                "artist": "Klingande",
+                "label": "NEON/UMA"
+            },
+            "chartInfo": {
+                "lastWeek": "R/E",
+                "timeSpent": 45,
+                "highestPosition": 4
+            }
+        },
+        {
+            "position": 100,
+            "songInfo": {
+                "title": "Uptown Funk",
+                "artist": "Mark Ronson ft. Bruno Mars",
+                "label": "RCA/SME"
+            },
+            "chartInfo": {
+                "lastWeek": "84",
+                "timeSpent": 171,
+                "highestPosition": 1
+            }
+        }
+    ]
+}
