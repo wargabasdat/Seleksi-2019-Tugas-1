@@ -3,10 +3,10 @@ Untuk memenuhi ketentuan tugas seleksi pertama warga basdat 2019, saya membuat b
 1. GR_TopBooks_Spider (PROJECT UTAMA)
 2. GR_Trivia_Spider (PROJECT SAMPINGAN untuk fun & exploration ^^ )
 
-# 1 GR_TopBooks_Spider
+# #1 GR_TopBooks_Spider
 Ini adalah program spider yang akan scraping data buku-buku secara lengkap dari www.goodreads.com. Andai kata anda masih belum familiar dengan nama tersebut, Goodreads adalah salah satu website terbesar dan paling digemari (termasuk saya) bagi para pembaca buku di seluruh dunia untuk eksplorasi buku baru, mencari data lengkap mengenai sebuah buku, melihat resensi buku dari reviewer yang professional tingkat dunia, platform untuk diskusi buku, penyedia komunitas untuk pembaca (dalam bentuk forum), quiz & trivia mengenai dunia literatur, dan lain-lain. Website goodreads adalah bagaikan pulau berharta karun bagi para data scraper dilihat dari data disana yang berlimpah-limpah.
 
-Program ini dibuat dengan menggunakan framework scrapy yang menganut library Twisted yang bersifat asynchronous. Spider scrapy diimplementasikan bersamaan dengan library beautifulsoup. Sebenarnya scrapy saja sudah cukup, namun saya ingin eksplorasi kedua library tersebut. Alhasil, scrapy digunakan untuk mengirim request, baik GET(mengambil HTML data dari page) dan POST(untuk login), dan beautifulsoup digunakan untuk extract dan parse HTML content hasil dari request.
+Program ini dibuat dengan menggunakan framework scrapy yang menganut library Twisted yang bersifat asynchronous. Spider scrapy diimplementasikan bersamaan dengan library beautifulsoup. Sebenarnya scrapy saja sudah cukup, namun saya ingin eksplorasi kedua library tersebut. Alhasil, scrapy digunakan untuk mengirim request, baik GET(mengambil HTML data dari page) dan POST(untuk login), dan beautifulsoup digunakan untuk extract dan parse HTML content hasil dari request. Scrapy dipilih sebenarnya karena dia asynchronous, sehingga seharusnya jauh lebih cepat daripada its synchronous counterparts. (Selenium is much slower!)
 
 Hal yang akan dilakukan program adalah:
 1. Melakukan sign-in ke Goodreads dengan credentials account yang diberikan (atau jika tidak, akan otomatis digunakan default dummy account). HAL INI PENTING, karena apparently, website Goodreads ada bug (intentional?) yang menyebabkan kita tidak bisa melihat top books dari genre apapun pada page selain page pertama. (Goodreads, I love you, but this kind of nonsense really makes me wanna pull my hair out...)
@@ -21,12 +21,24 @@ Hal yang akan dilakukan program adalah:
 
 6. Setelah program spider ditutup, akan dijalankan data_organizer.py yang akan mengkonversi .csv menjadi .json, dan melakukan sort tabel hasil berdasarkan id.
 
+# #2 GR_Trivia_Spider
+Ini adalah program selenium yang menggunakan chromedriver untuk mengsimulasikan user input pada browser untuk login, pindah ke page trivia, dan menjawab secara asal pada setiap pertanyaan untuk mendapatkan jawaban yang benar (setelah dikoreksi oleh Goodreads, hehe), lalu akan disimpan jawaban yang benar ke .json file menjadi cheatsheet :). Cheatsheet yang berada di folder data adalah data yang didapatkan sebagai hasil dari eksekusi spider ini selama 12 jam. Ternyata, spider ini hanya mengorek 2.4% dari seluruh pertanyaan trivia yang ada pada goodreads. wow...
+
+tl;dr : Anda dapat menjadi master trivia di Goodreads dengan menggunakan cheatsheet hasil spider ini. No effort at all. lol. (unless making the spider counts as effort).
+
+Selenium digunakan karena Goodreads' trivia page dimanage oleh javascript & AJAX requests, sehingga HTML link tidak berubah meskipun laman berganti, jadi tidak bisa di-scrape dengan Scrapy atau beautifulsoup. (?)
+
 # Specification
 1. Disarankan untuk menggunakan UNIX environment seperti linux dalam menjalankan makefile.
 2. Install scrapy dulu dengan pip: 
     pip install Scrapy
 3. Install Beautifulsoup:
     pip install beautifulsoup4
+    
+UNTUK TRIVIA SPIDER:
+1. Letakkan chromedriver di directory yang sama dengan spider trivia.
+2. Install Selenium
+    pip install selenium
 
 # How to use
 Disediakan makefile (MAKEFILE YANG DIBUAT DISESUAIKAN DENGAN ENVIRONMENT UNIX), hanya perlu menjalankan command:
