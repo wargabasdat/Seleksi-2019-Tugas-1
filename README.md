@@ -32,7 +32,7 @@ $ npm run start
 File hasil *scraping* akan ditulis ke dalam direktori ```/data```.
 
 ## Ideas and Innovation
-Data 1000 film terbaik ini dapat digunakan 
+Data 1000 film terbaik ini dapat digunakan untuk memberikan rekomendasi kepada para penikmat film untuk menentukan film apa yang bagus untuk ditonton
 
 ## JSON Structure
 ```
