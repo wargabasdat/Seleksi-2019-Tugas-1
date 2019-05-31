@@ -69,10 +69,9 @@ JSON memiliki format sebuah key 'jobs' yang menyimpan data-data dari pekerjaan-p
 
 ## Reference
 
-Library yang digunakan adalah:
-1. BeautifulSoup
-2. urllib
-3. json
+1. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+2. [urllib](https://docs.python.org/3/library/urllib.html)
+3. [json](https://docs.python.org/3/library/json.html?highlight=json#module-json)
 
 ## Author
 Vincent Chuardi
