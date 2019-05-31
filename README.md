@@ -24,22 +24,22 @@ mvn exec:java -DHttpRequest -Dexec.args="https://www.kompas.com/"
 ```
 
 ## JSON Structure
-[{
-  "title" : string,
-  "dateInfo" : string,
-  "category" : string,
-  "imgHref" : string,
-  "imgSrc" : string
-}]
+<br>[{
+<br>  "title" : string,
+<br>  "dateInfo" : string,
+<br>  "category" : string,
+<br>  "imgHref" : string,
+<br>  "imgSrc" : string
+<br>}]
 
 ## Screenshots
-![Screenshot](screenshots/compile.png)
-![Screenshot](screenshots/run.png)
-![Screenshot](screenshots/data.png)
+![Screenshot](./screenshots/compile.PNG)
+![Screenshot](./screenshots/run.PNG)
+![Screenshot](./screenshots/data.PNG)
 
 ## Reference
 The libraries used :
-- <a href = "https://jsoup.org/">JSOUP</a>
+- <a href = "https://jsoup.org/">Jsoup</a>
 - <a href = "https://en.wikipedia.org/wiki/Jackson_(API)">Jackson</a>
 - HttpsURLConnection
 

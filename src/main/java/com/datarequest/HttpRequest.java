@@ -100,7 +100,7 @@ public class HttpRequest {
 
         ObjectMapper mapper = new ObjectMapper();
 
-        mapper.writerWithDefaultPrettyPrinter().writeValue(new File("data/dataJson.json"), Data.getList());
+        mapper.writerWithDefaultPrettyPrinter().writeValue(new File("./data/dataJson.json"), Data.getList());
 
     }
 }
