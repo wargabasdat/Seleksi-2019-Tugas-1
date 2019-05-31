@@ -100,8 +100,8 @@ Example :
 
 
 ### Screenshot
-![Screenshot](screenshots/screenshot_1.png)
-![Screenshot](screenshots/screenshot_2.png)
+![Screenshot](screenshots/screenshot_1.PNG)
+![Screenshot](screenshots/screenshot_2.PNG)
 
 
 ### Reference
