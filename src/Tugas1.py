@@ -4,11 +4,15 @@
 
 import requests
 import bs4
-import pandas
 import time
+import json
 
 #Fungsi yang mengembalikan sebuah soup hasil dari konfigurasi text dari request get
 def requestAndGetSoup(link):
+    user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36'
+    email = '13517066@std.stei.itb.ac.id'
+    header = headers = {'user-agent' : user_agent, 'from' : email}
+    
     try:
         time.sleep(5)
         res = requests.get(link, headers = header, timeout=10)
@@ -17,6 +21,7 @@ def requestAndGetSoup(link):
         print("Connection refused")
     except requests.exceptions.Timeout:
         print ("Timeout occurred")
+        
     return soup
 
 #Fungsi yang mengembalikan sebuah list yang berisi link yang ditunjuk pada laman yang dikonfigurasi menjadi parameter soup
@@ -252,51 +257,60 @@ def getCases():
 
     return data
 
+#Prosedur untuk melakukan export data dalam bentuk file dengan format json
+def exportJson(dataPartPC, filename):
+    dataJson = {}
+    dataExport =[]
+
+    filename = '../data/' + filename
+
+    for item in dataPartPC:
+        dataJson['ID'] = item[0]
+        dataJson['Nama Optical Drive'] = item[1]
+        dataJson['Deskripsi'] = item[2]
+        dataJson['Harga'] = item[3]
+        dataJson['Image Link'] = item[4]
+        dataExport.append(dataJson)
+
+    with open(filename, 'w') as fileout:
+        json.dump(dataExport, fileout, indent = 4)
+
 #Main Program
 if __name__ == "__main__":
-    header = headers = {'user-agent' : 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36', 'from' : '13517066@std.stei.itb.ac.id'}
-
     #Export file json database for processor 
     dataProcessor = getProcessor()
-    export = pandas.DataFrame(dataProcessor, columns=['ID','Nama Processor', 'Deskripsi', 'Harga','Link Image'])
-    export.to_json('../data/Processor.json')
+    exportJson(dataProcessor,'Processor.json')
 
     #Export file json database for motherboard
     dataMotherboard = getMotherboard()
-    export = pandas.DataFrame(dataMotherboard, columns=['ID', 'Nama Motherboard', 'Deskripsi', 'Harga', 'Link Image'])
-    export.to_json('../data/Motherboard.json')
+    exportJson(dataMotherboard,'Motherboard.json')
 
     #Export file json database for Memory
     dataMemory = getMemory()
-    export = pandas.DataFrame(dataMemory, columns=['ID','Nama Memory', 'Deskripsi', 'Harga', 'Image Link'])
-    export.to_json('../data/Memory.json')
+    exportJson(dataMemory,'Memory.json')
 
     #Export file json database for GraphicCards
     dataGraphicCards = getGraphicCards()
-    export = pandas.DataFrame(dataGraphicCards, columns=['ID','Nama GraphicCards', 'Deskripsi', 'Harga', 'Image Link'])
-    export.to_json('../data/GraphicCards.json')
+    exportJson(dataGraphicCards,'GraphicCards.json')
 
     #Export file json database for Storage
     dataStorage = getStorage()
-    export = pandas.DataFrame(dataStorage, columns=['ID','Nama Storage', 'Harga', 'Deskripsi', 'Link Image'])
-    export = export.to_json('../data/Storage.json', orient='index')
+    exportJson(dataStorage,'Storage.json')
 
     #Export file json database for PowerSupply
     dataPowerSupply = getPowerSupply()
-    export = pandas.DataFrame(dataPowerSupply, columns=['ID','Nama PowerSupply', 'Deskripsi', 'Harga','Image Link'])
-    export.to_json('../data/PowerSupply.json')
+    (dataPowerSupply,'PowerSupply.json')
 
     #Export file json database for Cooling
     dataCooling = getCooling()
-    export = pandas.DataFrame(dataCooling, columns=['ID','Nama Cooling', 'Deskripsi', 'Harga','Image Link'])
-    export.to_json('../data/Cooling.json')
+    exportJson(dataCooling,'Cooling.json')
 
     #Export file json database for OpticalDrive
     dataOpticalDrive = getOpticalDrive()
-    export = pandas.DataFrame(dataOpticalDrive, columns=['ID','Nama OpticalDrive', 'Deskripsi', 'Harga','Image Link'])
-    export.to_json('../data/OpticalDrive.json')
+    exportJson(dataOpticalDrive,'OpticalDive.json')
 
     #Export file json database for Cases
     dataCases = getCases()
-    export = pandas.DataFrame(dataCases, columns=['ID','Nama Cases', 'Deskripsi', 'Harga','Image Link'])
-    export.to_json('../data/Cases.json')
+    exportJson(dataCases,'Cases.json')
+
+    print('SCRAPING SUCCESS')

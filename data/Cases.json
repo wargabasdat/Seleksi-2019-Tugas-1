@@ -1,1 +1,1101 @@
-{"ID":{"0":"[FD-CA-NODE-202-BK]","1":"[SST-GD06B]","2":"[SST-RVZ01B]","3":"[SST-RVZ02B-W]","4":"[]","5":"[RC-130-KKN1]","6":"[FD-CA-DEF-NANO-S-BK-W]","7":"[FD-CA-DEF-MINI-C-BK-TG]","8":"[CA-H200W-WB]","9":"[Cronos 350M]","10":"[Tengri 350M]","11":"[NSE-200-KWN1]","12":"[MCW-L3S2-KW5N]","13":"[MCW-L3B3-KANN-01]","14":"[CC-9011136-WW]","15":"[CC-9011134-WW]","16":"[CC-9011137-WW]","17":"[CC-9011135-WW]","18":"[Core 1000 USB 3.0]","19":"[Define Mini]","20":"[FD-CA-DEF-MINI-C-BK-W]","21":"[Dragonslayer CQ2]","22":"[Enthoo Evolv mATX]","23":"[PH-ES414M_BK]","24":"[TUF Gaming GT501 Case]","25":"[Cronos 650]","26":"[Tengri 550]","27":"[Tengri 650]","28":"[Bolt]","29":"[Klaw]","30":"[Playa]","31":"[Shard]","32":"[Tor]","33":"[JESM Dream MX400]","34":"[Prometheus]","35":"[Starship 2 full transparent]","36":"[T10]","37":"[BGW07]","38":"[Silent Base 600 Window Orange]","39":"[RC-102C-KKN2]","40":"[RC-431P-KWN2]","41":"[SGC-1000-KWN1]","42":"[RC-922XM-KWN1]","43":"[RC-K282-KWN1]","44":"[RC-K350-KWN1-EN]","45":"[RC-K380-KWN1]","46":"[NSE-400-KWN2]","47":"[MCW-L5S3-KANN-01]","48":"[MCW-L5S3-KANN-A1]","49":"[MCW-L5S3-KGNN-03]","50":"[MCB-B500D-KGNN-S00]","51":"[MasterBox MB510L]","52":"[MasterBox MB511]","53":"[MCB-B520-KGNN-RGB]","54":"[MCB-B530P-KHNN-S01]","55":"[MCB-MS600-SGNN-S00]","56":"[MCY-B5P2-KWGN-01]","57":"[MCM-H500-IGNN-S00]","58":"[MCM-H500M-IHNN-S00]","59":"[MCM-H500P-MGNN-S00]","60":"[MCM-H500P-MGNN-S10]","61":"[MCM-M500T-RH5N-S00]","62":"[MCM-SL600M-SGNN-S00]","63":"[CC-9011171-WW]","64":"[CC-9011081-WW]","65":"[CC-9011095-WW]","66":"[CC-9011167-WW]","67":"[CC-9011050-WW]","68":"[CC-9011051-WW]","69":"[CC-9011117-WW]","70":"[CC-9011138-WW]","71":"[CC-9011144-WW]","72":"[CC\u20109011147\u2010WW]","73":"[CC\u20109011146\u2010WW]","74":"[CC\u20109011145\u2010WW]","75":"[CC-9011166-WW]","76":"[CC-9011141-WW]","77":"[CC-9011140-WW]","78":"[CC-9011101-WW]","79":"[CC-9011129-WW]","80":"[CC-9011098-WW]","81":"[CC-9011110-WW]","82":"[CC-9011168-WW]","83":"[CC-9011169-WW]","84":"[CC-9011139-WW]","85":"[Arc Midi R2]","86":"[FD-CA-CORE-2300-BL]","87":"[FD-CA-CORE-3300-BL]","88":"[FD-CA-DEF-C-BK-W]","89":"[FD-CA-DEF-C-BK-TG]","90":"[FD-CA-DEF-R5-BK]","91":"[FD-CA-DEF-R5-BK-W]","92":"[FD-CA-DEF-R5-BKO-W]","93":"[FD-CA-DEF-R5-WT]","94":"[FD-CA-DEF-R5-WT-W]","95":"[FD-CA-DEF-R6-BK-TG]","96":"[FD-CA-DEF-R6-WT-TG]","97":"[Define S - Window]","98":"[FD-CA-MESH-C-BKO-TGL]","99":"[FD-CA-MESH-C-WT-TGC]","100":"[CA-H500B-B1]","101":"[CA-H500B-W1]","102":"[CA-H500B-OW]","103":"[CA-H500W-B1]","104":"[CA-H500W-W1]","105":"[CA-H700B-B1]","106":"[CA-H700B-W1]","107":"[CA-H700W-WB]","108":"[Eclipse P300]","109":"[PH-EC416PSTG_BR]","110":"[PH-EC416PSTG_BK]","111":"[PH-EC416PTG_WT]","112":"[PH-ES515ETG_AG]","113":"[PH-ES515ETG_GS]","114":"[PH-ES515ETG_BK]","115":"[PH-ESS18XTG]","116":"[PH-ES515PTG_BK]","117":"[PH-ES614PTG_BK]","118":"[Ananta L08]","119":"[Dominion LE 01]","120":"[Kushinada G08]","121":"[Masamune C303]","122":"[Orpheus C856]","123":"[Santanael C951]","124":"[C-701]","125":"[Nexus C Black]","126":"[Versa N27 Snow]","127":"[Ramesses 310]","128":"[Ramesses 320]","129":"[Ramesses 760]","130":"[Ramesses 780]","131":"[Silent Base 800 Window Black]","132":"[Silent Base 800 Window Silver]","133":"[Silent Base 800 Window Red]","134":"[Dark Base 900 Black]","135":"[Dark Base 900 Silver]","136":"[Dark Base 900 Orange]","137":"[Dark Base Pro 900 Black]","138":"[Dark Base Pro 900 Orange]","139":"[Dark Base Pro 900 Silver]","140":"[MCC-C700P-MG5N-S00]","141":"[Arc XL]","142":"[Define XL R2 Black Pearl]","143":"[Define XL R2 Titanium Grey]","144":"[SST-RV04B-W]","145":"[SST-TJ11B-W]","146":"[CC-9011096-WW]","147":"[FD-CA-CORE-500-BK]","148":"[Node 304 Black]","149":"[Node 304 White]","150":"[FD-CA-NODE-804-BL-W]","151":"[SST-SG13B]","152":"[MasterCase Pro 3 LED Partition Plate]","153":"[MCA-0005-KUH00]","154":"[MCA-U000R-KGHT00]","155":"[MCA-C3P1-KGW00]","156":"[MCA-0005-KGW00]"},"Nama Cases":{"0":"Fractal Design - Node 202","1":"SilverStone - SST-GD06B","2":"SilverStone - SST-RVZ01B","3":"SilverStone - SST-RVZ02B-W","4":"Cooler Master - Elite 110A","5":"Cooler Master - Elite 130","6":"Fractal Design - Define Nano S - Window","7":"Fractal Design - Define Mini C Tempered Glass","8":"NZXT - H200i Matte White","9":"Abkoncore - Cronos 350M","10":"Abkoncore - Tengri 350M","11":"Cooler Master - N200","12":"Cooler Master - MasterBox Lite 3 Side Window","13":"Cooler Master - MasterBox Lite 3.1","14":"Corsair - Crystal 280X White","15":"Corsair - Crystal 280X Black","16":"Corsair - Crystal 280X RGB White","17":"Corsair - Crystal 280X RGB Black","18":"Fractal Design - Core 1000 USB 3.0","19":"Fractal Design - Define Mini","20":"Fractal Design - Define Mini C - Window","21":"Paradox Gaming - Dragonslayer CQ2","22":"Phanteks - Enthoo Evolv mATX Tempered Glass Black","23":"Phanteks - Enthoo Mini XL","24":"Asus - TUF Gaming GT501 Case","25":"Abkoncore - Cronos 650","26":"Abkoncore - Tengri 550","27":"Abkoncore - Tengri 650","28":"AeroCool - Bolt","29":"AeroCool - Klaw","30":"AeroCool - Playa","31":"AeroCool - Shard","32":"AeroCool - Tor","33":"Aigo - JESM Dream MX400","34":"Aigo - Prometheus White","35":"Aigo - Starship 2 full transparent","36":"Aigo - T10","37":"be quite! - Silent Base 600 Window Black","38":"be quite! - Silent Base 600 Window Orange","39":"Cooler Master - CMP 102","40":"Cooler Master - Elite 431 Plus","41":"Cooler Master - Enforcer","42":"Cooler Master - HAF XM","43":"Cooler Master - K282","44":"Cooler Master - K350","45":"Cooler Master - K380","46":"Cooler Master - N400","47":"Cooler Master - MasterBox Lite 5","48":"Cooler Master - MasterBox Lite 5 AMD","49":"Cooler Master - MasterBox Lite 5 RGB","50":"Cooler Master - MasterBox MB500","51":"Cooler Master - MasterBox MB510L","52":"Cooler Master - MasterBox MB511","53":"Cooler Master - MasterBox MB520 RGB","54":"Cooler Master - MasterBox MB530P","55":"Cooler Master - MasterBox MS600 Silver","56":"Cooler Master - MasterBox Pro 5 RGB","57":"Cooler Master - MasterCase H500","58":"Cooler Master - MasterCase H500M","59":"Cooler Master - MasterCase H500P","60":"Cooler Master - MasterCase H500P Mesh","61":"Cooler Master - MasterCase MC500Mt","62":"Cooler Master - MasterCase SL600M","63":"Corsair - Carbide 175R RGB","64":"Corsair - Carbide 400C Black","65":"Corsair - Carbide 400C White","66":"Corsair - Carbide 678C Black","67":"Corsair - Carbide Spec-01","68":"Corsair - Carbide Spec-02","69":"Corsair - Carbide Spec-04 Tempered Glass","70":"Corsair - Carbide Spec-05 Black","71":"Corsair - Carbide Spec-06 Black","72":"Corsair - Carbide Spec-06 RGB White","73":"Corsair - Carbide Spec-06 RGB Black","74":"Corsair - Carbide Spec-06 White","75":"Corsair - Carbide Spec-Delta RGB Black","76":"Corsair - Carbide Spec-Omega RGB White","77":"Corsair - Carbide Spec-Omega RGB Black","78":"Corsair - Crystal 460X RGB Black","79":"Corsair - Crystal 460X RGB White","80":"Corsair - Crystal 570X RGB Black","81":"Corsair - Crystal 570X RGB White","82":"Corsair - Crystal 680X RGB Black","83":"Corsair - Crystal 680X RGB White","84":"Corsair - Obsidian 500D RGB SE","85":"Fractal Design - Arc Midi R2","86":"Fractal Design - Core 2300","87":"Fractal Design - Core 3300","88":"Fractal Design - Define C - Window","89":"Fractal Design - Define C Tempered Glass","90":"Fractal Design - Define R5 Black","91":"Fractal Design - Define R5 Black Window","92":"Fractal Design - Define R5 Blackout Edition - Window","93":"Fractal Design - Define R5 White","94":"Fractal Design - Define R5 White Window","95":"Fractal Design - Define R6 TG Black","96":"Fractal Design - Define R6 TG White","97":"Fractal Design - Define S - Window","98":"Fractal Design - Meshify C TG Black","99":"Fractal Design - Meshify C TG White","100":"NZXT - H500 Matte Black","101":"NZXT - H500 Matte White","102":"NZXT - H500 Overwatch Edition","103":"NZXT - H500i Matte Black","104":"NZXT - H500i Matte White","105":"NZXT - H700 Matte Black","106":"NZXT - H700 Matte White","107":"NZXT - H700i Matte White","108":"Phanteks - Eclipse P300 TG Black","109":"Phanteks - Eclipse P400S TG Black-Red","110":"Phanteks - Eclipse P400S TG Black","111":"Phanteks - Eclipse P400S TG White","112":"Phanteks - Enthoo EvoLV ATX Glass - Anthracite Grey","113":"Phanteks - Enthoo EvoLV ATX Glass - Galaxy Silver","114":"Phanteks - Enthoo EvoLV ATX Glass - Satin Black","115":"Phanteks - Enthoo Evolv X Tempered Glass","116":"Phanteks - Enthoo Pro M Tempered Glass","117":"Phanteks - Enthoo Pro Tempered Glass","118":"Paradox Gaming - Ananta L08","119":"Paradox Gaming - Dominion LE 01","120":"Paradox Gaming - Kushinada G08","121":"Paradox Gaming - Masamune C303","122":"Paradox Gaming - Orpheus C856","123":"Paradox Gaming - Santanael C951","124":"Paradox Gaming - Trickster 7","125":"Tecware - Nexus C Black","126":"Thermaltake - Versa N27 Snow Edition","127":"Abkoncore - Ramesses 310","128":"Abkoncore - Ramesses 320","129":"Abkoncore - Ramesses 760","130":"Abkoncore - Ramesses 780","131":"be quite! - Silent Base 800 Window Black","132":"be quite! - Silent Base 800 Window Silver","133":"be quite! - Silent Base 800 Window Red","134":"be quite! - Dark Base 900 Black","135":"be quite! - Dark Base 900 Silver","136":"be quite! - Dark Base 900 Orange","137":"be quite! - Dark Base Pro 900 Black","138":"be quite! - Dark Base Pro 900 Orange","139":"be quite! - Dark Base Pro 900 Silver","140":"Cooler Master - COSMOS C700P","141":"Fractal Design - Arc XL","142":"Fractal Design - Define XL R2 Black Pearl","143":"Fractal Design - Define XL R2 Titanium Grey","144":"SilverStone - SST-RV04B-W","145":"SilverStone - SST-TJ11B-W","146":"Corsair - Carbide Air 740","147":"Fractal Design - Core 500","148":"Fractal Design - Node 304 Black","149":"Fractal Design - Node 304 White","150":"Fractal Design - Node 804","151":"SilverStone - SST-SG13B","152":"Cooler Master - MasterCase Pro 3 LED Partition Plate","153":"Cooler Master - Universal Graphics Card Holder (2 Supports)","154":"Cooler Master - Universal Graphics Card Holder (3 Supports)","155":"Cooler Master - MasterCase 3 Tempered Glass Side Panel","156":"Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel"},"Deskripsi":{"0":"SFF Case, Mini-ITX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","1":"SFF,\u00a0Micro-ATX, DTX, Mini-ITX Motherboard Support,\u00a0I\/O ports : USB 3.0 x 2, Audio x 1, MIC x 1, Power Supply Not included","2":"SFF, Mini-DTX, Mini-ITX Motherboard Support, I\/O ports : USB 3.0 x 2, audio x 1, MIC x 1 , Power Supply Not included","3":"SFF, Mini-ITX, Motherboard Support, I\/O ports : USB 3.0 x 2, audio x 1, MIC x 1 , Power Supply Not included","4":"Mini ITX, (Mini-ITX), Black2 x USB 3.0, Audio in & out","5":"Mini ITX, (Mini-ITX), Black2 x USB 3.0, 1 x USB 2.0, Audio in & out","6":"Mini-ITX Tower, Mini-ITX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","7":"Tempered Glass Side PanelMini-ITX Tower, Mini-ITX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","8":"CAM-powered Premium Mini-ITX CaseMini ITX Tower, Mini-ITX, White2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","9":"Micro-ATX Tower, (Mini-ITX, Micro ATX), Black1x USB 3.0, 2 x USB 2.0, HD Audio, Window Side Panel","10":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX), Black,(FAN Not Included)2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","11":"Micro-ATX Tower, (Mini-ITX, Micro ATX), Black1 x USB 3.0, 1 x USB 2.0, Audio in & out","12":"Micro-ATX Tower, (Mini-ITX, Micro ATX), Black1x USB 3.0, Audio in \/ out, Window Side Panel","13":"Micro-ATX Tower, (Mini-ITX, Micro ATX), Black1 x USB 3.0, 1 x USB 2.0, Audio in \/ out, Window Side Panel","14":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX), White2x USB 3.0, 1 x HD Audio, Window Side Panel","15":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX), White2x USB 3.0, 1 x HD Audio, Window Side Panel","16":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX), White2x USB 3.0, 1 x HD Audio, Window Side Panel","17":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX), White2x USB 3.0, 1 x HD Audio, Window Side Panel","18":"Micro ATX, Micro ATX and Mini-ITX Motherboard Support,\u00a0 I\/O ports : 1x USB 3.0,\u00a01x USB 2.0 and Audio I\/O, Power Supply Not included","19":"Micro ATX, Mini ITX and Micro ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 2.0, 1x USB 3.0 and Audio I\/O, Power Supply Not included","20":"Micro-ATX Tower, Mini-ITX, Micro ATX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","21":"Mid Tower, (Mini-ITX, Micro ATX,), Black, Fan Include : x 1pcs1 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, RGB Control, Window Side Panel","22":"Micro-ATX Tower, Mini-ITX, Micro ATX, Black2 x USB 3.0, 1 x HD Audio, RGB control, Window Side Panel","23":"Micro-ATX Tower, Mini-ITX, Micro ATX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","24":"Tempered Glass Side PanelMid Tower, (ATX\/micro ATX\/Mini ITX\/EATX), Black \/ Grey2 x USB 3.1 Gen1, Audio in \/ out","25":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","26":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black,(FAN Not Included)2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","27":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black,(FAN Not Included)2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","28":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","29":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","30":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, HD Audio & Mic, Window Side Panel","31":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","32":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","33":"ATX, Micro ATX, Black2 x USB2.0, 1 x USB3.0, HD Audio Mic + Headphone Jack, LED Controller, Transparent Acrylic Side Panel and Top Panel","34":"ATX, Micro ATX, White2 x USB2.0, 1 x USB3.0, HD Audio Mic + Headphone Jack, Acrylic Windowed Side Panel","35":"ATX, Micro ATX, White2 x USB2.0, 1 x USB3.0, HD Audio Mic + Headphone Jack, Acrylic Windowed Side Panel","36":"ATX, Micro ATX, White2 x USB2.0, 1 x USB3.0, HD Audio Mic + Headphone Jack, Windowed Side Panel","37":"Mid Tower, Mini-ITX, Micro ATX & ATX, Black2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","38":"Mid Tower, Mini-ITX, Micro ATX & ATX, Black\/Orange2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","39":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 2.0, 1 x Mic, 1 x Audio","40":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, 1 x Mic, 1 x Audio, Window Side Panel","41":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 2 x USB 2.0, Audio in & out, Window Side Panel","42":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 2 x USB 2.0, Audio in & out, LED switch, Window Side Panel","43":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x Mic, 1 x Audio","44":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 1 x USB 2.0, 1 x Mic, 1 x\u00a0 Audio, Window Side Panel","45":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 1 x USB 2.0, 1 x Mic, 1 x Audio, Window Side Panel","46":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 2 x USB 2.0, 1 x Mic, 1 x Audio","47":"Mid Tower, (Mini-ITX, Micro-ATX, ATX), Black1 x USB 3.0, Audio in \/ out, Window Side Panel","48":"Mid Tower, (Mini-ITX, Micro-ATX), ATX, Black1 x USB 3.0, Audio in \/ out, Window Side Panel","49":"Mid Tower, (Mini-ITX, Micro-ATX), ATX, Black2 x USB 3.0, Audio in \/ out, Window Side Panel","50":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, Audio in \/ out, Window Side Panel","51":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, Audio in \/ out, Window Side Panel","52":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, Audio in \/ out, Window Side Panel","53":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, Audio in \/ out, Window Side Panel","54":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 2 x USB 2.0 Audio in \/ out,\u00a0ARGB control, Window Side Panel","55":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Silver2 x USB 3.0, Audio in \/ out, Window Side Panel","56":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, Audio in & out, Window Side Panel","57":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro-ATX, ATX), Iron GreyUSB 2.0 x 2, USB 3.0 x 2 , HD Audio, Window Side Panel","58":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro-ATX, ATX, E-ATX), Iron GreyUSB 3.1 Type-C x 1, USB 3.0 Type-A x 4 , HD Audio, Window Side Panel","59":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.0, 2 x USB 2.0, Audio In & Out, Window Side Panel","60":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Gun Metal2 x USB 3.0, 2 x USB 2.0, Audio In & Out, Window Side Panel","61":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black1 x USB 3.0, 1 x USB type C, Audio In & Out, Fan & RGB control, Window Side Panel","62":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro-ATX, ATX, E-ATX), Iron GreyUSB 3.1 Type-C x 1, USB 3.0 x 2, USB 2.0 x 2, HD Audio, Window Side Panel","63":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.1, 1 x HD Audio, Window Side Panel","64":"Best Selling in ATX Middle Tower casesMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","65":"Best Selling in ATX Middle Tower casesMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), White2 x USB 3.0, 1 x HD Audio, Window Side Panel","66":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.1, 1 x USB Type-C, 1 x HD Audio, Window Side Panel","67":"ATX Mid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 1 x USB 2.0, 1 x HD Audio, Window Side Panel","68":"ATX Mid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","69":"Tempered Glass Side PanelATX Mid Tower, (Mini-ITX, Micro ATX, ATX), Black-Red1 x USB 3.0, 1 x USB 2.0, 1 x HD Audio,\u00a0Tempered Glass Side Panel","70":"ATX Mid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 1 x USB 2.0, 1 x HD Audio,Window Side Panel","71":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX) , Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","72":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), White2 x USB 3.0, 1 x HD Audio, Window Side Panel","73":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","74":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX) , Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","75":"Tempered Glass Side PanelMid Tower, Mini-ITX, Micro ATX, ATX, Black2 x USB 3.1, 1 x HD Audio, Window Side Panel","76":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), White2 x USB 3.0, 1 x HD Audio, Window Side Panel","77":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","78":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","79":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), White2 x USB 3.0, 1 x HD Audio, Window Side Panel","80":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","81":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), White2 x USB 3.0, 1 x HD Audio, Window Side Panel","82":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.1, 1 x USB Type-C, 1 x HD Audio, Window Side Panel","83":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), White2 x USB 3.1, 1 x USB Type-C, 1 x HD Audio, Window Side Panel","84":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black1x USB 3.0, 1 x HD Audio, Window Side Panel","85":"Mid Tower, Mini ITX, Micro ATX and ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 3.0 and Audio I\/O, Power Supply Not included","86":"Mid Tower, Mini ITX, Micro ATX and ATX Motherboard Support, I\/O ports : 1x USB 3.0, 1x USB 2.0 and Audio I\/O, Power Supply Not included","87":"Mid Tower, ATX, E-ATX, Micro ATX, Mini ITX Motherboard Support, I\/O ports : 2x USB 3.0 and Audio I\/O, Power Supply Not included","88":"Mid Tower, Mini-ITX, Micro ATX, ATX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","89":"Tempered Glass Side PanelE-ATX, Mid Tower, Mini-ITX, Micro ATX, ATX, Black3 x USB 3.0, 2x USB 2.0 1 x HD Audio","90":"Mid Tower, Mini ITX, Micro ATX and ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 3.0, 2x USB 2.0 and Audio I\/O, Power Supply Not included","91":"Mid Tower, Mini ITX, Micro ATX and ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 3.0, 2x USB 2.0 and Audio I\/O, Power Supply Not included","92":"Mid Tower, Mini-ITX, Micro ATX, ATX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","93":"Mid Tower, Mini ITX, Micro ATX and ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 3.0, 2x USB 2.0 and Audio I\/O, Power Supply Not included","94":"Mid Tower, Mini ITX, Micro ATX and ATX Motherboard Support, I\/O ports : 2x USB 3.0, 2x USB 2.0 and Audio I\/O, Power Supply Not included","95":"Tempered Glass Side PanelE-ATX, Mid Tower, Mini-ITX, Micro ATX, ATX, Black3 x USB 3.0, 2x USB 2.0 1 x HD Audio","96":"Tempered Glass Side PanelMid Tower, Mini-ITX, Micro ATX, ATX, E-ATX, Black3 x USB 3.0, 2x USB 2.0 1 x HD Audio","97":"Mid Tower, Mini-ITX, Micro ATX, ATX, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","98":"Tempered Glass Side PanelMid Tower, Mini-ITX, Micro ATX, ATX, Black3 x USB 3.0, 2x USB 2.0 1 x HD Audio","99":"Tempered Glass Side PanelMid Tower, Mini-ITX, Micro ATX, ATX, White3 x USB 3.0, 2x USB 2.0 1 x HD Audio","100":"Compact Mid-Tower Case with Tempered GlassMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","101":"Compact Mid-Tower Case with Tempered GlassMid Tower, (Mini-ITX, Micro ATX, ATX), White2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","102":"Special Edition Compact ATX Mid-Tower caseMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","103":"Compact Mid-Tower with Lighting and Fan ControlMid Tower, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","104":"Compact Mid-Tower with Lighting and Fan ControlMid Tower, (Mini-ITX, Micro ATX, ATX), White2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","105":"Mid-Tower Case with Tempered GlassMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 2.0, 2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","106":"Mid-Tower Case with Tempered GlassMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), White2 x USB 2.0, 2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","107":"Mid-Tower with Lighting and Fan ControlMid Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), White2 x USB 2.0, 2 x USB 3.1, 1 x HD Audio, Tempered Side Panel","108":"Tempered Glass Side PanelMid Tower, ATX, Micro ATX, Mini-ITX, Black2 x USB 3.0, 1 x HD Audio, LED Control, Window Side Panel","109":"Tempered Glass Side PanelMid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Black-Red2 x USB 3.0, 1 x HD Audio, LED Control, Window Side Panel","110":"Tempered Glass Side PanelMid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Black2 x USB 3.0, 1 x HD Audio, LED Control, Window Side Panel","111":"Tempered Glass Side PanelMid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Black2 x USB 3.0, 1 x HD Audio, LED Control, Window Side Panel","112":"Mid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Grey2 x USB 3.0, 1 x HD Audio, Window Side Panel","113":"Mid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Silver2 x USB 3.0, 1 x HD Audio, Window Side Panel","114":"Mid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","115":"Mid Tower, E-ATX, ATX, Micro ATX, Mini ITX1x USB 3.1 GEN 2 Type-C, 2x USB 3.0","116":"Mid Tower, ATX, Micro ATX, Mini ITX, E-ATX*, Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","117":"Tempered Glass Side PanelMid Tower, ATX, Micro ATX, Mini-ITX, SS IEEB Black2 x USB 3.0, 1 x HD Audio,Window Side Panel","118":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Include : x 1pcs2 x USB 3.0, 3 x USB 2.0, 1 x HD Audio, Window Side Panel","119":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Include : x 1pcs1 x USB 3.0, 3 x USB 2.0, 1 x HD Audio, Window Side Panel","120":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Include : x 1pcs1 x USB 3.0, 3 x USB 2.0, 1 x HD Audio, Window Side Panel","121":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Not Include1 x USB 3.0, 1 x USB 2.0, 1 x HD Audio, Window Side Panel","122":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Include : x 1pcs2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","123":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Include : x 3pcs1 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","124":"Mid Tower, (Mini-ITX, Micro ATX, ATX), Black, Fan Include : x 3pcs2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","125":"Tempered Glass Side PanelMid Tower, (Mini-ITX, Micro ATX, ATX), Black1 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","126":"Mid Tower, (ATX, Micro ATX, Mini ITX), Black1 x USB 3.0, 1 x USB 2.0, 1 x HD Audio, Full Window Side Panel","127":"Tempered Glass Side PanelFull Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","128":"Tempered Glass Side PanelFull Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","129":"Tempered Glass Side PanelFull Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","130":"Tempered Glass Side PanelFull Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Black2 x USB 3.0, 2 x USB 2.0, HD Audio & Mic, Window Side Panel","131":"Full Tower, Mini-ITX, Micro ATX & ATX, Black2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","132":"Full Tower, Mini-ITX, Micro ATX & ATX, Black\/Silver2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","133":"Full Tower, Mini-ITX, Micro ATX & ATX, Black\/Red2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","134":"Full Tower, E-ATX, XL-ATX, ATX, M-ATX, Mini-ITX2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio","135":"Full Tower, E-ATX, XL-ATX, ATX, M-ATX, Mini-ITX2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio","136":"Full Tower, E-ATX, XL-ATX, ATX, M-ATX, Mini-ITX2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio","137":"Full Tower, E-ATX, XL-ATX, ATX, M-ATX, Mini-ITX2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","138":"Full Tower, E-ATX, XL-ATX, ATX, M-ATX, Mini-ITX2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","139":"Full Tower, E-ATX, XL-ATX, ATX, M-ATX, Mini-ITX2 x USB 3.0, 2 x USB 2.0, 1 x HD Audio, Window Side Panel","140":"Tempered Glass Side PanelFull Tower, (Mini-ITX, Micro ATX, ATX, E-ATX), Gun Metal4 x USB 3.0, 1 x USB Type C, Audio In \/ Out, Fan & RGB control, Window Side Panel","141":"Full Tower, ATX, Micro ATX, Mini ITX, E-ATX, XL-ATX Motherboard Support, I\/O ports : 2x USB 3.0, 2x USB 2.0 and Audio I\/O, Power Supply Not included","142":"Full Tower, Mini ITX, Micro ATX and ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 3.0,\u00a02x USB 2.0 and Audio I\/O, Power Supply Not included","143":"Full Tower, Mini ITX, Micro ATX and ATX Motherboard Support,\u00a0 I\/O ports : 2x USB 3.0,\u00a02x USB 2.0 and Audio I\/O, Power Supply Not included","144":"Full Tower, SSI-EEB*, SSI-CEB, Extended ATX, ATX, Micro-ATX Motherboard Support, I\/O ports : USB 3.0 x 2, audio x 1, MIC x 1, Power Supply Not included","145":"Super Tower, SSI-CEB, XL-ATX, ATX, Micro-ATX Motherboard Support, I\/O ports: USB 3.0 x 2, USB 2.0 x 2, Audio x1, Mic x1, Power Supply Not included","146":"Cube Case, (Mini-ITX, Micro ATX, ATX), Black2 x USB 3.0, 1 x HD Audio, Window Side Panel","147":"Cube Case, Mini ITX, Mini DTX, Black2 x USB 3.0, 1 x HD Audio","148":"Cube, Mini-ITX Motherboard Support, I\/O ports :USB 3.0 x 2, HD Audio, Power Supply Not included","149":"Cube, Mini-ITX Motherboard Support, I\/O ports :USB 3.0 x 2, HD Audio, Power Supply Not included","150":"Cube, Micro ATX, Mini ITX Motherboard Support, I\/O ports : 2x USB 3.0 and Audio I\/O, Power Supply Not included","151":"Cube, Mini-ITX Motherboard Support, I\/O ports : USB 3.0 x 2, audio x 1, MIC x 1, Power Supply Not Included","152":"Available Color: Blue \/ Red \/ WhiteMasterCase Pro 3 LED Partition Plate","153":"Universal Graphics Card Holder with two supports","154":"Universal Graphics Card Holder with three supports","155":"Tempered Glass Side Panel for Cooler Master MasterCase 3 Only","156":"Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only"},"Harga":{"0":"Rp.1.400.000,-","1":"Rp.1.913.000,-","2":"Rp.1.507.000,-","3":"Rp.1.613.000,-","4":"Rp.621.000,-","5":"Rp.698.000,-","6":"Rp.1.250.000,-","7":"CALL","8":"Rp.2.030.000,-","9":"Rp.450.000,-","10":"Rp.1.200.000,-","11":"Rp.815.000,-","12":"Rp.647.000,-","13":"Rp.681.000,-","14":"Rp.1.735.000,-","15":"Rp.1.735.000,-","16":"Rp.2.460.000,-","17":"Rp.2.460.000,-","18":"Rp.625.000,-","19":"CALL","20":"CALL","21":"Rp.460.000,-","22":"CALL","23":"Rp.2.500.000,-","24":"Rp.2.499.000,-","25":"Rp.700.000,-","26":"Rp.1.400.000,-","27":"Rp.1.700.000,-","28":"Rp.435.000,-","29":"Rp.875.000,-","30":"Rp.585.000,-","31":"Rp.495.000,-","32":"Rp.875.000,-","33":"Rp.450.000,-","34":"Rp.350.000,-","35":"Rp.425.000,-","36":"Rp.495.000,-","37":"Rp.1.990.000,-","38":"Rp.1.990.000,-","39":"Rp.460.000,-","40":"Rp.848.000,-","41":"Rp.1.359.000,-","42":"Rp.1.615.000,-","43":"Rp.899.000,-","44":"Rp.760.000,-","45":"Rp.782.000,-","46":"Rp.877.000,-","47":"Rp.825.000,-","48":"Rp.823.000,-","49":"Rp.999.000,-","50":"Rp.1.122.000,-","51":"Rp.830.000,-","52":"Rp.830.000,-","53":"Rp.1.116.000,-","54":"Rp.1.660.000,-","55":"Rp.977.000,-","56":"Rp.1.557.000,-","57":"Rp.1.877.000,-","58":"Rp.3.110.000,-","59":"Rp.2.193.000,-","60":"Rp.2.193.000,-","61":"Rp.3.230.000,-","62":"Rp.3.288.000,-","63":"Rp.990.000,-","64":"Rp.1.685.000,-","65":"Rp.1.685.000,-","66":"Rp.2.605.000,-","67":"Rp.810.000,-","68":"Rp.985.000,-","69":"Rp.985.000,-","70":"Rp.810.000,-","71":"Rp.1.310.000,-","72":"Rp.1.460.000,-","73":"Rp.1.460.000,-","74":"Rp.1.310.000,-","75":"Rp.1.165.000,-","76":"Rp.2.160.000,-","77":"Rp.2.160.000,-","78":"Rp.2.310.000,-","79":"Rp.2.310.000,-","80":"Rp.2.910.000,-","81":"Rp.2.910.000,-","82":"Rp.3.805.000,-","83":"Rp.3.805.000,-","84":"Rp.3.910.000,-","85":"CALL","86":"CALL","87":"CALL","88":"CALL","89":"Rp.1.650.000,-","90":"CALL","91":"CALL","92":"CALL","93":"CALL","94":"CALL","95":"CALL","96":"Rp.2.750.000,-","97":"Rp.1.400.000,-","98":"Rp.1.700.000,-","99":"Rp.1.650.000,-","100":"Rp.1.220.000,-","101":"Rp.1.220.000,-","102":"Rp.2.330.000,-","103":"Rp.1.620.000,-","104":"Rp.1.620.000,-","105":"Rp.2.340.000,-","106":"Rp.2.340.000,-","107":"Rp.2.970.000,-","108":"Rp.1.050.000,-","109":"Rp.1.500.000,-","110":"Rp.1.500.000,-","111":"CALL","112":"CALL","113":"CALL","114":"Rp.2.900.000,-","115":"CALL","116":"Rp.1.700.000,-","117":"Rp.1.950.000,-","118":"Rp.575.000,-","119":"Rp.600.000,-","120":"Rp.400.000,-","121":"Rp.445.000,-","122":"Rp.475.000,-","123":"Rp.685.000,-","124":"Rp.1.350.000,-","125":"Rp.485.000,-","126":"Rp.850.000,-","127":"Rp.2.600.000,-","128":"Rp.2.800.000,-","129":"Rp.3.800.000,-","130":"Rp.4.000.000,-","131":"Rp.2.450.000,-","132":"Rp.2.450.000,-","133":"Rp.2.450.000,-","134":"Rp.2.750.000,-","135":"Rp.2.750.000,-","136":"Rp.2.750.000,-","137":"Rp.3.990.000,-","138":"Rp.3.990.000,-","139":"Rp.3.990.000,-","140":"Rp.4.880.000,-","141":"CALL","142":"CALL","143":"CALL","144":"Rp.2.535.000,-","145":"Rp.7.542.000,-","146":"Rp.2.560.000,-","147":"Rp.1.050.000,-","148":"CALL","149":"CALL","150":"CALL","151":"Rp.1.001.000,-","152":"Rp.390.000,-","153":"Rp.250.000,-","154":"Rp.294.000,-","155":"Rp.547.000,-","156":"Rp.690.000,-"},"Image Link":{"0":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/HTPC Cases\/Node 202.jpg?osCsid=e76e16afda65114b01fbe17fc4999beb","1":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/ITX\/GD06.jpg?osCsid=9cb20fad4a7a95857d87f285f1cfec69","2":"http:\/\/www.nanokomputer.com\/images\/products\/HTPC Cases\/silverstone_RVZ01.jpg?osCsid=ac6f8d39e2ad1262bfbedb6ee385038d","3":"http:\/\/www.nanokomputer.com\/images\/products\/HTPC Cases\/silverstone_RVZ02.jpg?osCsid=aed8352dd8845e2c9231edee54898a62","4":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Mini-ITX Tower\/Elite 110A.jpg?osCsid=1b8727edce0ea481461e9449b1a507a5","5":"http:\/\/www.nanokomputer.com\/images\/products\/Mini-ITX Tower\/Elite 130_00.jpg?osCsid=be121780edddf1e79d6db9ce86b60953","6":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Mini-ITX Tower\/Define Nano S - Window.jpg?osCsid=3c7561522c02bde82b0d0e52c8c31ee0","7":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Mini-ITX Tower\/Define Mini C TG.jpg?osCsid=b6db69959641cc6db71bb54a6cdc7eb6","8":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Mini-ITX Tower\/NZXT_H200i_White.jpg?osCsid=c98f1ff7b732ce77e99ab41edb583d36","9":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Micro-ATX Tower\/CRONOS 350M.jpg?osCsid=5292c82625d1f04e2d7683365b5b01f6","10":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Micro-ATX Tower\/TENGRI 350M.jpg?osCsid=c05b32389f0d7149ca5e7538f2d0ea13","11":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/N200.jpg?osCsid=e9345ca5e72506c24a2b8ffd9834e9e9","12":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/MasterBox Lite 3 Side Window.jpg?osCsid=227fe7c624b9c4f78b43d193d25b245c","13":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/MasterBox Lite 3.1.jpg?osCsid=256d3d9b172577079fcf4e066618a428","14":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/Crystal 280X White_00.jpg?osCsid=72a86a83fb413161cddf2131904ee913","15":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/Crystal 280X Black_00.jpg?osCsid=bd11726533ca7f5e6f069253f75de470","16":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/Crystal 280X RGB White_00.jpg?osCsid=8a7b58503fc5bd4a7d9bcd979ed7ebd7","17":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/Crystal 280X RGB Black_00.jpg?osCsid=9e49f902174f715425a7d08e3c70c4ae","18":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/Fractal_Design_Core_1000.jpg?osCsid=e43bafdf314452164b433420352d7a11","19":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/Fractal_Design_Define_mini.jpg?osCsid=38676229c0426364dd0dc217334c66d9","20":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Micro-ATX Tower\/Define Mini C - Window.jpg?osCsid=8354f5b110458b75b51f0dc20e60dbb0","21":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Dragonslayer CQ2.jpg?osCsid=a7b19af414fa639e682d4a5d7db2091d","22":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Micro-ATX Tower\/Enthoo Evolv mATX Tempered Glass Black.jpg?osCsid=f22cd00c5080734827c66b54768f8667","23":"http:\/\/www.nanokomputer.com\/images\/products\/Micro-ATX Tower\/Enthoo Mini XL.jpg?osCsid=311ddf09633f31fc2131df3e24db302c","24":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/ASUS TUF Gaming GT501.jpg?osCsid=29b0c87a7dc8ff557884d6e7849c4899","25":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/CRONOS 650.jpg?osCsid=629af7bde82a36372ed1c0f655e585d7","26":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/TENGRI 550.jpg?osCsid=1011bf5a8a6c8ab1fd74d42d0061668a","27":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Tengri 650.jpg?osCsid=5ea52cbcc695bcfc4a13faf152115a71","28":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Bolt_00.jpg?osCsid=fdfd93fbae3a73088da2723719888990","29":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Klaw_00.jpg?osCsid=ceac813043dd5563d425164942bea4cc","30":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Playa_00.jpg?osCsid=51cecf59413d4dafbb698dde595bb295","31":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Shard_00.jpg?osCsid=91a6069ad88ba64b2e993eea0e04f521","32":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Tor_00.jpg?osCsid=1c94ea20b3aef8f4088603e91873de85","33":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/JESM Dream MX400.jpg?osCsid=02cadb9861b9e41edca7ad48fff3f067","34":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Prometheus.jpg?osCsid=1302bd0d7fd9b243a8a8a44d8562dac0","35":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Starship 2 full transparent.jpg?osCsid=992a98801f7e0c08e8607a66f2f307ec","36":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/T10.jpg?osCsid=0baa7065069a1c7d50f9c11e17411ee3","37":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/SILENT BASE 600 WINDOW BLACK 1.jpg?osCsid=ae4ddd9329ee33ed8ff3ab37a33c74d5","38":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/beQuite_Silent_Base_600_Orange.jpg?osCsid=32ee474a51f1bbf51881256a3095ba02","39":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/CMP 102.jpg?osCsid=61113182cabb646ffa6c0d4c815cfbe1","40":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Elite 431 Plus.jpg?osCsid=0fad87e2e34ac4c5489c119f5fac5c21","41":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Enforcer.jpg?osCsid=85b4fcb9a1bd9e982e826d488252f35e","42":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/HAF XM.jpg?osCsid=0d14108d4e142491c1429fed33c6a1d6","43":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/K282.jpg?osCsid=d0ebe4cafa95fbfef77edb52daf5bd97","44":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/K350.jpg?osCsid=a1c26c43d1a4e2e269b5ea32edf041a3","45":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/K380.jpg?osCsid=95622efe2340ae1e111416aaed4925b9","46":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/N400.jpg?osCsid=264bd216b5194fec5e23596ea2f1ecba","47":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/MasterBox Lite 5.jpg?osCsid=264283c496f1c2bfed587aac1105d35f","48":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/MasterBox Lite 5 AMD.jpg?osCsid=2c3b10d2381ca398eb357816ba313150","49":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox Lite 5 RGB_00.jpg?osCsid=fce4110ef3b0138e5859c884cab597eb","50":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox MB500.jpg?osCsid=cf7f97d3312cf537824198cba69ec414","51":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox MB510L.jpg?osCsid=e985a6e83c2191b9ee75a09598489897","52":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox MB511.jpg?osCsid=820f471e92587ce229dbfc471c5f2864","53":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/MasterBox MB520 RGB.jpg?osCsid=a79a7484c3bf0999a2ab1fb893e1851d","54":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox MB530P.jpg?osCsid=2221ba4de7e6586ca519ee3124a7ee4f","55":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox MS600 Silver.jpg?osCsid=f589e7b98062a2676bb870d060894a0e","56":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterBox Pro 5 RGB_00.jpg?osCsid=ffe8d6f924ef105743f75360aed3b25d","57":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterCase H500.jpg?osCsid=d64ab8dd8d88dd2b93ca6678617ed7c3","58":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterCase H500M_00.jpg?osCsid=48b5c3f103848c19f7d4dcb762e02cee","59":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterCase H500P_00.jpg?osCsid=93a28f4efc1f96c8ab42d644a5b4a4f4","60":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterCase H500P Mesh_00.jpg?osCsid=b79317eb33b38f17da9266426f86ceab","61":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/MasterCase MC500Mt_00.jpg?osCsid=fbc92e23def13babf09fb84fbe83e3a1","62":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/MasterCase SL600M.jpg?osCsid=9eb984e545854e0ade31fb070d64b0ad","63":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Carbide 175R RGB_00.jpg?osCsid=90cb789d38a0fbc32c9f6134d36be3f2","64":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Carbide 400C Black.jpg?osCsid=bb589724df7028177b96eea60cf3f6f7","65":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Carbide 400C White_00.jpg?osCsid=afbc2a054202cc30fa9501b84b8cdce0","66":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Carbide 678C Black_00.jpg?osCsid=0d7898d9ea52ce7ec4e97a251a0d6536","67":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-01_00.jpg?osCsid=745c6e09452fe534d5f9fb62a4a5ce6f","68":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-02_00.jpg?osCsid=22af059b19dd33e800cdfd7f876b855c","69":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-04 Tempered Glass _00.jpg?osCsid=88dd13208893f5d106392b8b7a422ca5","70":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-05 Black_00.jpg?osCsid=c8cd32276b10cb7a9b844fddadfb4fa3","71":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-06 Black_00.jpg?osCsid=30620ec276579e6abf1bcc5e8f0c714b","72":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-06 RGB White_00.jpg?osCsid=04764d5685de1d155007b04e79fdfb5e","73":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-06 RGB_00.jpg?osCsid=aeea6115444464f5158f5af5e548ae7a","74":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Carbide Spec-06 White _00.jpg?osCsid=0611d9270509ce36663c1adbd0d00941","75":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Spec Delta RGB.jpg?osCsid=48fa2667024b0aaf5e6a7cef7add8e0a","76":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-Omega RGB.jpg?osCsid=85ee76a1bf904b209844383709c77fc3","77":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Carbide Spec-Omega RGB Black.jpg?osCsid=85b022609059c1cd19d2c86a12e2b05b","78":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Crystal 460X RGB Black.jpg?osCsid=4037a0d73e5d01795c2a0a588232717e","79":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Crystal 460X RGB White.jpg?osCsid=9c00fa4597ed83be010a8931e80a4103","80":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Crystal 570X RGB Black.jpg?osCsid=6bbf2e05cd05b9380e81325b0255d561","81":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Crystal 570X RGB White.jpg?osCsid=bd713e6f27bc3a2d61a42b770863b0c7","82":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Crystal 680X RGB Black.jpg?osCsid=2616eff1cad1cac218c304a92fb6e572","83":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Crystal 680X RGB White.jpg?osCsid=caf7a82868cc24251e12932b4340d232","84":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Obsidian 500D RGB SE.jpg?osCsid=c6f9efd5d9f85925e27022908cb08bd0","85":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/arc_midi_r2.jpg?osCsid=f1fa39d184acaaad65ef7d316ff90ead","86":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Fractal_Design_Core2300.jpg?osCsid=08ce8331307256407b70536e00781c20","87":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Fractal_Design_Core3300.jpg?osCsid=c6f034654603c91d0e981ad4265484cd","88":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Define C - Window.jpg?osCsid=1b7219675388fa29bb252d766b660200","89":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Define C TG.jpg?osCsid=51f3579cfa5a81be8702e0ac9606f2c2","90":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Fractal_Design_Define_R5_Black.jpg?osCsid=9362ec7ca3aae72c46f0f7cbb91b20fe","91":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Fractal_Design_Define_R5_Black_Window.jpg?osCsid=d1c03bd540cb6b6279bd2ebccdca72fb","92":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Define R5 Blackout Edition - Window.jpg?osCsid=b014387b739132af85e38c1fb0f3db40","93":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Fractal_Design_Define_R5_White.jpg?osCsid=9f7a24a534b452bc2b19f57a74e14964","94":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Fractal_Design_Define_R5_White_Window.jpg?osCsid=2a1b1f52250e34ec09170a4e41381ac4","95":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Define R6 Black TG.jpg?osCsid=580a97c0c5e50987724cec6ebdf630f6","96":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Define R6 White TG.jpg?osCsid=6143500a3b0d8859d54a13312b0a6b87","97":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Define S - Window.jpg?osCsid=ba97e6044f9b3afb51ecced977a425cb","98":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Fractal Design - Meshify C Temper Glass.jpg?osCsid=747bdc821df4683c0eb043ca07c28286","99":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Meshify C TG White.jpg?osCsid=aec4ccaf020793ec61cc619e3917b4e3","100":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/NZXT_H500_Black.jpg?osCsid=5c6afef0e295ee07bf5eb285a8b0a37d","101":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/NZXT_H500_White.jpg?osCsid=263fec01f67e0b216b5180927910037a","102":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/H500 Overwatch.jpg?osCsid=d946db201bb074852710366a50d6bafb","103":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/NZXT_H500i_Black.jpg?osCsid=31a98ee573136d3d939fcc7a48696010","104":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/NZXT_H500i_White.jpg?osCsid=1dd4dadd69258167087dd1a363f99efa","105":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/NZXT_H700_Black.jpg?osCsid=5f2365f64e222f8bdcabbbb41e6f3c4d","106":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/NZXT_H700_White.jpg?osCsid=c7f70586f5db74eb581a3783d4108d44","107":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/NZXT_H700i_White.jpg?osCsid=bb77a145c9cc53c182ff65ea43e39565","108":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/P300 Tempered Glass.jpg?osCsid=6dda2e46d9d014074ec4231959d8a454","109":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/P400s.jpg?osCsid=d63a862773039036fefc55eb02c63242","110":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Eclipse P400S Tempered Glass_Black.jpg?osCsid=c6c1206941baff95ae7410a921b84626","111":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Eclipse P400 Tempered Glass White.jpg?osCsid=438230ce3284029a5825400f438b7786","112":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Phanteks_ Enthoo_Evolv_ATX_Glass_Silver.jpg?osCsid=233a7bdd4032b8b81bbb2fe85fed3f51","113":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Phanteks_ Enthoo_Evolv_ATX_Glass_White.jpg?osCsid=ca5efc087e72d73c240ff82036316de6","114":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Mid-Tower\/Phanteks_ Enthoo_Evolv_ATX_Glass_Black.jpg?osCsid=db0f4b47f6f7bf16763ecf17844c6d41","115":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Enthoo Evolv ATX Tempered Glass Black.jpg?osCsid=aadcaa5d9f3845b6e81bd5ac2503f00a","116":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Enthoo Pro M Tempered Glass.jpg?osCsid=fe6abce155f320dfbb4fea54a462b893","117":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Enthoo Pro Tempered Glass.jpg?osCsid=e39ace20704856260fd2379e5c6dd8c6","118":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Ananta L08.jpg?osCsid=4dcec7e25d065374cfa83b79ce45ec3e","119":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Dominion LE 01.jpg?osCsid=8b971fb2fb407afaa1b7632bb16700e2","120":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Kushinada G08.jpg?osCsid=79db77e47540820ceabf28c4afc8c8bf","121":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Masamune C303.jpg?osCsid=c74717b3af18dd95ccc32de62d2e7422","122":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Orpheus C856.jpg?osCsid=bd55feae75a8f600ae11d9d1e866c191","123":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Santanael C951.jpg?osCsid=bd96292822c7283561105a293ceb0085","124":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/Trickster 7.jpg?osCsid=d67bdc3d0ba0efd3235dd7b399975169","125":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Mid-Tower\/NEXUS C Black.jpg?osCsid=b7116bf524bdd09c7caaeb73c76fffdb","126":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Versa N27 Snow.jpg?osCsid=e39e9ff1b647ae7125a4a000941b642d","127":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Full-Tower\/Ramesses 310.jpg?osCsid=140c9eb1ba425e8dfa99a8348ace2554","128":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/Ramesses 320.jpg?osCsid=749a4976b312aa61a4ee671d2f1da031","129":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/Ramesses 760.jpg?osCsid=cda36d5f7f4e45c1abde06142b51c4b1","130":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/Ramesses 780.jpg?osCsid=7d32a12840489448b98151808d33eca7","131":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Silent_Base_800_Black.jpg?osCsid=fa80184beceb579e9cdfe335e700e070","132":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Silent_Base_800_Silver.jpg?osCsid=bc13b23ce56ea512aa062bccb1a18894","133":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Silent_Base_800_Red.jpg?osCsid=db4835feedab8c182bf954b5a94dc047","134":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Dark_Base_Pro_Black.jpg?osCsid=1a235dfe0054a95c14321cd5a79ea3b9","135":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Dark_Base_900_Silver.jpg?osCsid=3b2e8622ef2dc2dea97c4dc0f173d245","136":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Dark_Base_Pro_Orange.jpg?osCsid=72296e9b016c11ec2b77cd85c4f5a4bc","137":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Dark_Base_Pro_900_Black.jpg?osCsid=de29311a28264e8ab43ad02db5bd591b","138":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Dark_Base_Pro_900_Orange.jpg?osCsid=133a92a4cd031e87e07b9bf1a3e0946e","139":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/ATX Full-Tower\/beQuite_Dark_Base_Pro_900_Silver.jpg?osCsid=8d22f16ec47cefd8cfbee97c9af2ab71","140":"http:\/\/www.nanokomputer.com\/images\/products\/ATX Full-Tower\/COSMOS C700P_00.jpg?osCsid=ea1f0e57e048196b7b2680f740ec63d6","141":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/arc_xl.jpg?osCsid=9fac8d861dfcc94aafe728ce349f35d4","142":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/Fractal_Design_Define_XL_B.jpg?osCsid=2242111e4d0cc9c8386bdc392524c437","143":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/Fractal_Design_Define_XL_G.jpg?osCsid=53a6f326d858f4fbcd61d506009396e4","144":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/silverstone_SST-RV04B-W.jpg?osCsid=3179b17e7eea8f09439eda930e6d6cda","145":"http:\/\/www.nanokomputer.com\/images\/products\/Full Tower\/TJ11.jpg?osCsid=267c5f930b692b8dbb20ff5ec6bcbe4e","146":"http:\/\/www.nanokomputer.com\/images\/products\/Cube Case\/Carbide Air 740.jpg?osCsid=dce713329e9888360da2cec1d5811823","147":"http:\/\/www.nanokomputer.com\/images\/products\/Computer Cases\/Cube Case\/Core 500.jpg?osCsid=285dc03807b9d3cfd46e2bf06b2c8812","148":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/node_304_black.jpg?osCsid=8c72a37248c4afc272b80261e6ea4349","149":"http:\/\/www.nanokomputer.com\/images\/products\/Cases\/node_304_white.jpg?osCsid=f0acb966f548b14a3b06d34938312f2a","150":"http:\/\/www.nanokomputer.com\/images\/products\/Cube Case\/Fractal_Design_Node804.jpg?osCsid=a17c05b6ce9b711296faa465a770dc57","151":"http:\/\/www.nanokomputer.com\/images\/products\/Cube Case\/silverstone_SST-SG13B.jpg?osCsid=c76f91c26136e4893e6675dfe195d780","152":"http:\/\/www.nanokomputer.com\/images\/products\/Internal Accessories\/MasterCase Pro 3 LED Partition Plate.jpg?osCsid=0f14661bb087daa78339eac56c06de55","153":"http:\/\/www.nanokomputer.com\/images\/products\/Internal Accessories\/Universal Graphics Card Holder (2 supports).jpg?osCsid=4781f3c6f59b8a99bf4a51e1d94d9fb3","154":"http:\/\/www.nanokomputer.com\/images\/products\/Internal Accessories\/Universal Graphics Card Holder (3 supports).jpg?osCsid=3f534248e6d7c54050cdb7d07120e54b","155":"http:\/\/www.nanokomputer.com\/images\/products\/Case Accessories\/Side Panel\/Cooler Master MasterCase 3 Tempered Glass Side Panel.jpg?osCsid=d685e091315c4d584029048dde25b24b","156":"http:\/\/www.nanokomputer.com\/images\/products\/Case Accessories\/Side Panel\/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=77b607e61e68532ae55315ec7d65fee8"}}
+[
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    },
+    {
+        "ID": "[MCA-0005-KGW00]",
+        "Nama Optical Drive": "Cooler Master - MasterCase 5 And 6 Tempered Glass Side Panel",
+        "Deskripsi": "Tempered Glass Side Panel for Cooler Master MasterCase 5 And 6 Only",
+        "Harga": "Rp.690.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Case Accessories/Side Panel/Cooler Master MasterCase 5 Tempered Glass Side Panel.jpg?osCsid=068de6022578fcdab33ed6b2bcffb996"
+    }
+]

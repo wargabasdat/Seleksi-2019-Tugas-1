@@ -1,1 +1,933 @@
-{"ID":{"0":"[TPD32GM1600HC110]","1":"[2GB PC3-12800]","2":"[CMV4GX3M1A1600C11]","3":"[CMZ4GX3M1A1600C9]","4":"[TPD34G1600HC1101]","5":"[4GB PC3-12800]","6":"[CMV8GX3M1A1600C11]","7":"[CMZ8GX3M1A1600C9]","8":"[TPD38G1600HC1101]","9":"[8GB PC3-12800]","10":"[CMZ16GX3M2A1600C9]","11":"[CMV4GX4M1A2400C16]","12":"[CMV4GX4M1A2666C18]","13":"[CMK4GX4M1A2400C16]","14":"[CMK4GX4M1A2400C16R]","15":"[CMK8GX4M1A2400C16]","16":"[CMK8GX4M1A2400C16R]","17":"[CMK8GX4M1A2666C16]","18":"[CMK16GX4M1A2666C16]","19":"[BLS4G4D240FSE]","20":"[BLS4G4D240FSC]","21":"[BLS4G4D240FSB]","22":"[BLS4G4D26BFSE]","23":"[CT8G4DFS824A]","24":"[BLS8G4D240FSEK]","25":"[BLS8G4D240FSBK]","26":"[CT8G4DFS8266]","27":"[BLS8G4D26BFSE]","28":"[F4-2666C19S-8GNT]","29":"[TLRED416G2400HC15B01]","30":"[TPD416G2400HC1601]","31":"[TPD44G2400HC1601]","32":"[TPRD44G2400HC1601]","33":"[TPRD416G2400HC1601]","34":"[TPRD48G2400HC1601]","35":"[TS512MLH64V4H]","36":"[JM2400HLB-8G]","37":"[TS1GLH64V4B]","38":"[JM2400HLH-4G]","39":"[TS2GLH64V4B]","40":"[TS1GLH64V6B]","41":"[4GB PC4-17000]","42":"[8GB PC4-17000]","43":"[16GB PC4-17000]","44":"[CMK8GX4M2A2666C16]","45":"[CMK8GX4M2A2666C16R]","46":"[BLS2K4G4D240FSE]","47":"[BLS2K4G4D240FSC]","48":"[BLS2K4G4D240FSB]","49":"[BLS2K4G4D26BFSE]","50":"[BLS2K4G4D26BFSC]","51":"[BLS2K4G4D26BFSB]","52":"[F4-2400C17D-8GIS]","53":"[TPD48G2400HC16DC01]","54":"[TLRED48G2400HC14DC01]","55":"[TLRED48G3000HC16CDC01]","56":"[CMD16GX4M2B3000C15]","57":"[CMK16GX4M2A2666C16]","58":"[CMK16GX4M2A2666C16R]","59":"[CMK16GX4M2B3000C15]","60":"[CMK16GX4M2B3200C16]","61":"[CMK16GX4M2Z2666C16]","62":"[CMW16GX4M2A2666C16]","63":"[CMW16GX4M2A2666C16W]","64":"[CMW16GX4M2C3000C15]","65":"[CMW16GX4M2C3000C15W]","66":"[CMW16GX4M2C3200C14]","67":"[CMW16GX4M2C3200C16]","68":"[CMW16GX4M2C3200C16W]","69":"[CMW16GX4M2C3600C18]","70":"[CMT16GX4M2C3200C16]","71":"[CMT16GX4M2C3600C18]","72":"[BLS2K8G4D240FSB]","73":"[BLS2K8G4D26BFSE]","74":"[BLS2K8G4D26BFSC]","75":"[BLS2K8G4D26BFSB]","76":"[BLT2K8G4D26BFT4K]","77":"[BLT2K8G4D30BET4K]","78":"[F4-2400C17D-16GIS]","79":"[F4-2400C16D-16GFT]","80":"[F4-2400C15D-16GTZR]","81":"[F4-2666C19D-16GVR]","82":"[F4-2800C15D-16GTZB]","83":"[F4-2933C16D-16GTZRX]","84":"[F4-2933C14D-16GTZRX]","85":"[F4-3200C16D-16GTZB]","86":"[F4-3200C16D-16GTZR]","87":"[F4-3200C16D-16GTRS]","88":"[F4-3200C14D-16GFX]","89":"[F4-3200C14D-16GTZ]","90":"[F4-3200C14D-16GTZKW]","91":"[F4-3200C14D-16GTZSK]","92":"[F4-3200C14D-16GTZSW]","93":"[F4-3200C14D-16GTZR]","94":"[F4-3600C19D-16GSXKB]","95":"[F4-3600C15D-16GTZ]","96":"[F4-3600C19D-16GTZRB]","97":"[F4-4266C19D-16GTRS]","98":"[TF8D416G3200HC16CDC01]","99":"[TF9D416G2666HC18HDC01]","100":"[TLRED416G2400HC14DC01]","101":"[TLRED416G3000HC16CDC01]","102":"[TPD416G2400HC16DC01]","103":"[TXGD416G3600HC18FDC01]","104":"[TXGD416G4133HC18FDC01]","105":"[CMW32GX4M4C3200C14]","106":"[CMD32GX4M4C3200C14T]","107":"[CMD32GX4M4C3466C16W]","108":"[CMW32GX4M4C3600C18]","109":"[F4-2800C15Q-32GVRB]","110":"[F4-3200C15Q-32GTZ]","111":"[F4-4000C17Q-32GTZR]","112":"[CMK32GX4M2A2666C16]","113":"[CMK32GX4M2B3000C15]","114":"[CMW32GX4M2C3200C16]","115":"[CMD32GX4M2B3000C15]","116":"[CMT32GX4M2C3200C16]","117":"[BLS2K16G4D26BFSE]","118":"[BLT2K16G4D26BFT4]","119":"[F4-2400C15D-32GTZR]","120":"[F4-2666C15D-32GVR]","121":"[F4-2800C14D-32GTZ]","122":"[F4-3200C15D-32GTZR]","123":"[F4-3200C16D-32GSXKB]","124":"[F4-3200C16D-32GVK]","125":"[F4-3466C16D-32GTZ]","126":"[F4-3600C19D-32GSXKB]","127":"[F4-3866C18D-32GTZR]","128":"[TF1D432G3200HC16CDC01]","129":"[TF2D432G3200HC16CDC01]","130":"[TF9D432G2666HC18HDC01]","131":"[F4-3200C14Q-64GVK]","132":"[F4-4000C18Q2-64GTZR]"},"Nama Memory":{"0":"Team - TPD32GM1600HC1101","1":"V-Gen - 2GB PC3-12800","2":"Corsair - CMV4GX3M1A1600C11","3":"Corsair - CMZ4GX3M1A1600C9","4":"Team - TPD34G1600HC1101","5":"V-Gen - 4GB PC3-12800","6":"Corsair - CMV8GX3M1A1600C11","7":"Corsair - CMZ8GX3M1A1600C9","8":"Team - TPD38G1600HC1101","9":"V-Gen - 8GB PC3-12800","10":"Corsair - CMZ16GX3M2A1600C9","11":"Corsair - CMV4GX4M1A2400C16","12":"Corsair - CMV4GX4M1A2666C18","13":"Corsair - CMK4GX4M1A2400C16","14":"Corsair - CMK4GX4M1A2400C16R","15":"Corsair - CMK8GX4M1A2400C16","16":"Corsair - CMK8GX4M1A2400C16R","17":"Corsair - CMK8GX4M1A2666C16","18":"Corsair - CMK16GX4M1A2666C16","19":"Crucial - Ballistix Sport LT Red 4GB DDR4-2400","20":"Crucial - Ballistix Sport LT White 4GB DDR4-2400","21":"Crucial - Ballistix Sport LT Gray 4GB DDR4-2400","22":"Crucial - Ballistix Sport LT Red 4GB DDR4-2666","23":"Crucial - 8GB DDR4-2400","24":"Crucial - Ballistix Sport LT Red 8GB DDR4-2400","25":"Crucial - Ballistix Sport LT Gray 8GB DDR4-2400","26":"Crucial - 8GB DDR4-2666","27":"Crucial - Ballistix Sport LT Red 8GB DDR4-2666","28":"G.Skill - F4-2666C19S-8GNT","29":"Team - TLRED416G2400HC15B01","30":"Team - TPD416G2400HC1601","31":"Team - TPD44G2400HC1601","32":"Team - TPRD44G2400HC1601","33":"Team - TPRD416G2400HC1601","34":"Team - TPRD48G2400HC1601","35":"Transcend - 4GB PC4-2400","36":"Transcend - 4GB PC4-2400 JetRam","37":"Transcend - 8GB PC4-2400","38":"Transcend - 8GB PC4-2400 JetRam","39":"Transcend - 16GB PC4-2400","40":"Transcend - 16GB PC4-2666","41":"V-Gen - 4GB PC4-17000","42":"V-Gen - 8GB PC4-17000","43":"V-Gen - 16GB PC4-17000","44":"Corsair - CMK8GX4M2A2666C16","45":"Corsair - CMK8GX4M2A2666C16R","46":"Crucial - Ballistix Sport LT Red 8GB Kit (2 x 4GB) DDR4-2400","47":"Crucial - Ballistix Sport LT White 8GB Kit (2 x 4GB) DDR4-2400","48":"Crucial - Ballistix Sport LT Gray 8GB Kit (2 x 4GB) DDR4-2400","49":"Crucial - Ballistix Sport LT Red 8GB Kit (2 x 4GB) DDR4-2666","50":"Crucial - Ballistix Sport LT White 8GB Kit (2 x 4GB) DDR4-2666","51":"Crucial - Ballistix Sport LT Gray 8GB Kit (2 x 4GB) DDR4-2666","52":"G.Skill - F4-2400C17D-8GIS","53":"Team - TPD48G2400HC16DC01","54":"Team - TLRED48G2400HC14DC01","55":"Team - TLRED48G3000HC16CDC01","56":"Corsair - CMD16GX4M2B3000C15","57":"Corsair - CMK16GX4M2A2666C16","58":"Corsair - CMK16GX4M2A2666C16R","59":"Corsair - CMK16GX4M2B3000C15","60":"Corsair - CMK16GX4M2B3200C16","61":"Corsair - CMK16GX4M2Z2666C16","62":"Corsair - CMW16GX4M2A2666C16","63":"Corsair - CMW16GX4M2A2666C16W","64":"Corsair - CMW16GX4M2C3000C15","65":"Corsair - CMW16GX4M2C3000C15W","66":"Corsair - CMW16GX4M2C3200C14","67":"Corsair - CMW16GX4M2C3200C16","68":"Corsair - CMW16GX4M2C3200C16W","69":"Corsair - CMW16GX4M2C3600C18","70":"Corsair - CMT16GX4M2C3200C16","71":"Corsair - CMT16GX4M2C3600C18","72":"Crucial - Ballistix Sport LT Gray 16GB Kit (2 x 8GB) DDR4-2400","73":"Crucial - Ballistix Sport LT Red 16GB Kit (2 x 8GB) DDR4-2666","74":"Crucial - Ballistix Sport LT White 16GB Kit (2 x 8GB) DDR4-2666","75":"Crucial - Ballistix Sport LT Gray 16GB Kit (2 x 8GB) DDR4-2666","76":"Crucial - Ballistix Tracer RGB 16GB Kit (2 x 8GB) DDR4-2666","77":"Crucial - Ballistix Tracer RGB 16GB Kit (2 x 8GB) DDR4-3000","78":"G.Skill - F4-2400C17D-16GIS","79":"G.Skill - F4-2400C16D-16GFT","80":"G.Skill - F4-2400C15D-16GTZR","81":"G.Skill - F4-2666C19D-16GVR","82":"G.Skill - F4-2800C15D-16GTZB","83":"G.Skill - F4-2933C16D-16GTZRX","84":"G.Skill - F4-2933C14D-16GTZRX","85":"G.Skill - F4-3200C16D-16GTZB","86":"G.Skill - F4-3200C16D-16GTZR","87":"G.Skill - F4-3200C16D-16GTRS","88":"G.Skill - F4-3200C14D-16GFX","89":"G.Skill - F4-3200C14D-16GTZ","90":"G.Skill - F4-3200C14D-16GTZKW","91":"G.Skill - F4-3200C14D-16GTZSK","92":"G.Skill - F4-3200C14D-16GTZSW","93":"G.Skill - F4-3200C14D-16GTZR","94":"G.Skill - F4-3600C19D-16GSXKB","95":"G.Skill - F4-3600C15D-16GTZ","96":"G.Skill - F4-3600C19D-16GTZRB","97":"G.Skill - F4-4266C19D-16GTRS","98":"Team - TF8D416G3200HC16CDC01","99":"Team - TF9D416G2666HC18HDC01","100":"Team - TLRED416G2400HC14DC01","101":"Team - TLRED416G3000HC16CDC01","102":"Team - TPD416G2400HC16DC01","103":"Team - TXGD416G3600HC18FDC01","104":"Team - TXGD416G4133HC18FDC01","105":"Corsair - CMW32GX4M4C3200C14","106":"Corsair - CMD32GX4M4C3200C14T","107":"Corsair - CMD32GX4M4C3466C16W","108":"Corsair - CMW32GX4M4C3600C18","109":"G.Skill - F4-2800C15Q-32GVRB","110":"G.Skill - F4-3200C15Q-32GTZ","111":"G.Skill - F4-4000C17Q-32GTZR","112":"Corsair - CMK32GX4M2A2666C16","113":"Corsair - CMK32GX4M2B3000C15","114":"Corsair - CMW32GX4M2C3200C16","115":"Corsair - CMD32GX4M2B3000C15","116":"Corsair - CMT32GX4M2C3200C16","117":"Crucial - Ballistix Sport LT Red 32GB Kit (2 x 16GB) DDR4-2666","118":"Crucial - Ballistix Tracer RGB 32GB Kit (2 x 16GB) DDR4-2666","119":"G.Skill - F4-2400C15D-32GTZR","120":"G.Skill - F4-2666C15D-32GVR","121":"G.Skill - F4-2800C14D-32GTZ","122":"G.Skill - F4-3200C15D-32GTZR","123":"G.Skill - F4-3200C16D-32GSXKB","124":"G.Skill - F4-3200C16D-32GVK","125":"G.Skill - F4-3466C16D-32GTZ","126":"G.Skill - F4-3600C19D-32GSXKB","127":"G.Skill - F4-3866C18D-32GTZR","128":"Team - TF1D432G3200HC16CDC01","129":"Team - TF2D432G3200HC16CDC01","130":"Team - TF9D432G2666HC18HDC01","131":"G.Skill - F4-3200C14Q-64GVK","132":"G.Skill - F4-4000C18Q2-64GTZR"},"Deskripsi":{"0":"Elite Plus, 2GB DDR3 1600MHz (PC3 12800), 11-11-11-28, 1.5V","1":"2GB DDR3 1600MHz (PC3-12800)","2":"Value Select, 4GB DDR3 1600MHz (PC3-12800), 11-11-11-30, 1.5V","3":"Vengeance, 4GB DDR3 1600MHz (PC3-12800), 9-9-9-24, 1.5V","4":"Elite Plus, 4GB DDR3 1600MHz (PC3 12800), 11-11-11-28, 1.5V","5":"4GB DDR3 1600MHz (PC3-12800)","6":"Value Select, 8GB DDR3 1600MHz (PC3-12800), 11-11-11-30, 1.5V","7":"Vengeance, 8GB DDR3 1600MHz (PC3-12800), 9-9-9-24, 1.5V","8":"Elite Plus, 8GB DDR3 1600MHz (PC3 12800), 11-11-11-28, 1.5V","9":"8GB DDR3 1600MHz (PC3-12800)","10":"Vengeance, 16GB (2x8GB) DDR3 1600 (PC3-12800), 9-9-9-24, 1.5V","11":"Value Select, 4GB DDR4 2400MHz (PC4-19200), 16-16-16-39, 1.2V","12":"Value Select, 4GB DDR4\u00a02666MHz (PC4-21300), 15-15-15-36, 1.2V","13":"Black HeatspreaderVengeane LPX, 4GB DDR4 2400MHz (PC4-19200), 16-16-16-39, 1.2V","14":"Red HeatspreaderVengeane LPX, 4GB DDR4 2400MHz (PC4-19200), 16-16-16-39, 1.2V","15":"Black HeatspreaderVengeane LPX, 8GB DDR4 2400MHz (PC4-19200), 16-16-16-39, 1.2V","16":"Red HeatspreaderVengeane LPX, 8GB DDR4 2400MHz (PC4-19200), 16-16-16-39, 1.2V","17":"Black HeatspreaderVengeane LPX, 8GB DDR4 2666MHz (PC4-21300), 16-18-18-35, 1.2V","18":"Black HeatspreaderVengeane LPX, 16GB DDR4 2666MHz (PC4-21300 ), 15-15-15-36, 1.2V","19":"Red Heat SpreaderBallistix Sport LT, 4GB (1x4GB) DDR4 2400Mhz (PC4-21300), 16-16-16, 1.2V","20":"White Heat SpreaderBallistix Sport LT, 4GB (1x4GB) DDR4 2400Mhz (PC4-21300), 16-16-16, 1.2V","21":"Gray Heat SpreaderBallistix Sport LT, 4GB (1x4GB) DDR4 2400Mhz (PC4-21300), 16-16-16, 1.2V","22":"Red Heat SpreaderBallistix Sport LT, 4GB (1x4GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","23":"Desktop MemoryDesktop, 8GB DDR4 2400MHz (PC4-19200), CL17, 1.2V","24":"Red Heat SpreaderBallistix Sport LT, 8GB (1x8GB) DDR4 2400Mhz (PC4-21300), 16-16-16, 1.2V","25":"Gray Heat SpreaderBallistix Sport LT, 8GB (1x8GB) DDR4 2400Mhz (PC4-21300), 16-16-16, 1.2V","26":"Desktop MemoryDesktop, 8GB DDR4 2666MHz (PC4-21300), CL19, 1.2V","27":"Red Heat SpreaderBallistix Sport LT, 8GB (1x8GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","28":"Value, 8GB DDR4 2666MHz (PC4-19200), 19-19-19-43, 1.2V","29":"Vulcan, 16GB DDR4 2400 (PC4-19200), 15-17-17-35, 1.2V","30":"Elite Plus, 16GB DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","31":"Elite Plus, 4GB DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","32":"Elite Plus, 4GB DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","33":"Elite Plus, 16GB DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","34":"Elite Plus, 8GB DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","35":"Desktop, 4GB DDR4 2400MHz (PC4-19200), CL17, 1Rx8 1.2V","36":"Desktop JetRam, 4GB DDR4 2400MHz (PC4-19200), CL17, 1Rx8 1.2V","37":"Desktop, 8GB DDR4 2400MHz (PC4-19200), CL17, 1Rx8 1.2V","38":"Desktop JetRam, 8GB DDR4 2400MHz (PC4-19200), CL17, 1Rx8 1.2V","39":"Desktop, 16GB DDR4 2400MHz (PC4-19200), CL17, 2Rx8 1.2V","40":"Desktop, 8GB DDR4 2666MHz (PC4-21300), CL19, 2Rx8 1.2V","41":"4GB DDR4 2133 (PC4-17000)","42":"8GB DDR4 2133 (PC4-17000)","43":"16GB DDR4 2133 (PC4-17000)","44":"Black Heatspreader, Dual Channel MemoryVengeance LPX, 8GB (2x4GB) DDR4 2666 (PC4-21300), 16-18-18-35, 1.2V","45":"Red Heatspreader, Dual Channel MemoryVengeance LPX, 8GB (2x4GB) DDR4 2666 (PC4-21300), 16-18-18-35, 1.2V","46":"Dual Channel, Red Heat SpreaderBallistix\u00a0Sport LT, 8GB (2x4GB) DDR4 2400Mhz (PC4-19200), 16-16-16, 1.2V","47":"Dual Channel, White Heat SpreaderBallistix\u00a0Sport LT, 8GB (2x4GB) DDR4 2400Mhz (PC4-19200), 16-16-16, 1.2V","48":"Dual Channel, Gray Heat SpreaderBallistix\u00a0Sport LT, 8GB (2x4GB) DDR4 2400Mhz (PC4-19200), 16-16-16, 1.2V","49":"Dual Channel, Red Heat SpreaderBallistixSport LT, 8GB (2x4GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","50":"Dual Channel, White Heat SpreaderBallistix\u00a0Sport LT, 8GB (2x4GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","51":"Dual Channel, Gray Heat SpreaderBallistix Sport LT, 8GB (2x4GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","52":"The Ideal Solution for Gaming PCsAegis, 8GB (2x4GB) DDR4 2400 (PC4-19200), 17-17-17-39, 1.2V","53":"Elite Plus, 8GB (2x4GB) DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","54":"T-Force Vulcan, 8GB (2x4GB) DDR4 2400 (PC4-19200), 14-16-16-31, 1.2V","55":"T-Force Vulcan, 8GB (2x4GB) DDR4 3000 (PC4-24000), 16-18-18-38, 1.35V","56":"Black-Grey Heatspreader, Dual Channel MemoryDominator Platinum, 16GB (2x8GB) DDR4 3000 (PC4-24000), 15-17-17-35, 1.35V","57":"Black Heatspreader, Dual Channel MemoryVengeance LPX, 16GB (2x8GB) DDR4 2666 (PC4-21300), 16-18-18-35, 1.2V","58":"Red Heatspreader, Dual Channel MemoryVengeance LPX, 16GB (2x8GB) DDR4 2666 (PC4-21300), 16-18-18-35, 1.2V","59":"Black Heatspreader, Dual Channel MemoryVengeance LPX, 16GB (2x8GB) DDR4 3000 (PC4-24000), 15-17-17-35, 1.35V","60":"Vengeance LPX, 16GB (2x8GB) DDR4 3200 (PC4-25600), 16-18-18-36, 1.35V","61":"Black Heatspreader, Dual Channel Memory,Supports AMD RyzenVengeance LPX, 16GB (2x8GB) DDR4 2666 (PC4-21300), 16-18-18-35, 1.2V","62":"Black Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 2666 (PC4-21300), 16-18-18-35 1.2V","63":"White Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 2666 (PC4-21300), 16-18-18-35, 1.2V","64":"Black Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 3000 (PC4-24000), 15-17-17-35, 1.35V","65":"White Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 3000 (PC4-24000), 15-17-17-35, 1.35V","66":"Black Heatspreader, Dual Channel Memory, RGB LED, Supports AMD RyzenVengeance RGB Pro, 16GB (2x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","67":"Black Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 3200 (PC4-25600), 16-18-18-36, 1.35V","68":"White Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 3200 (PC4-25600), 16-18-18-36, 1.35V","69":"Black Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB Pro, 16GB (2x8GB) DDR4 3600 (PC4-28800), 18-19-19-39, 1.35V","70":"Black Heatspreader, Dual Channel Memory, RGB LEDDominator Platinum RGB, 16GB (2x8GB) DDR4 3200 (PC4-25600), 16-18-18-36, 1.35V","71":"Black Heatspreader, Dual Channel Memory, RGB LEDDominator Platinum RGB, 16GB (2x8GB) DDR4 3600 (PC4-28800), 18-19-19-39, 1.35V","72":"Dual Channel, Gray Heat SpreaderBallistix Sport LT ,16GB (2x8GB) DDR4 2666Mhz (PC4-21300), 16-16-16, 1.2V","73":"Dual Channel, Red Heat SpreaderBallistix Sport LT, 16GB (2x8GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","74":"Dual Channel, White Heat SpreaderBallistix Sport LT, 16GB (2x8GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","75":"Dual Channel, Gray Heat SpreaderBallistix Sport LT, 16GB (2x8GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","76":"Dual Channel, Grey Heat Spreader, RGB LEDBallistix Tracer RGB, 16GB (2x8GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","77":"Dual Channel, Grey Heat Spreader, RGB LEDBallistix Tracer RGB, 16GB (2x8GB) DDR4 3000Mhz (PC4-24000), 16-18-18, 1.2V","78":"The Ideal Solution for Gaming PCsAegis, 16GB (2x8GB) DDR4 2400 (PC4-19200), 17-17-17-39, 1.2V","79":"Designed for Gaming with AMD Ryzen\u2122 processorsFortis, 16GB (2x8GB) DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","80":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 16GB (2x8GB) DDR4 2400Mhz (PC4-19200), 15-15-15-35, 1.2V","81":"Feel the Rush of Ripjaws VRipjawsV, 16GB (2x8GB) DDR4 2666 (PC4-21300), 19-19-19-43, 1.2V","82":"TridentZ, 16GB (2x8GB) DDR4 2800Mhz (PC4-22400), 15-16-16-35, 1.35V","83":"Ryzen Ready!!Trident Z RGB for AMD Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 16GB (2x8GB) DDR4 2933Mhz (PC4-24000), 16-16-16-36, 1.35V","84":"Ryzen Ready!!Trident Z RGB for AMD Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 16GB (2x8GB) DDR4 2933Mhz (PC4-24000), 14-14-14-34, 1.35V","85":"TridentZ, 16GB (2x8GB) DDR4 3200Mhz (PC4-25600), 16-18-18-38, 1.35V","86":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 16GB (2x8GB) DDR4 3200Mhz (PC4-25600), 16-18-18-38, 1.35V","87":"Trident Z Royal Series - High-Class RGB Performance DDR4 MemoryTrident Z Royal, 16GB (2x8GB) DDR4 3200Mhz (PC4-25600), 16-18-18-38, 1.35V","88":"Rebirth of the Legendary AMD Performance SeriesFlareX, 16GB (2x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","89":"Ryzen Ready!!TridentZ, 16GB (2x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","90":"Ryzen Ready!!TridentZ, 16GB (2x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","91":"Ryzen Ready!!TridentZ, 16GB (2x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","92":"Ryzen Ready!!TridentZ, 16GB (2x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","93":"Ryzen Ready!!Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 16GB (2x8GB) DDR4 3200Mhz (PC4-25600), 14-14-14-34, 1.35V","94":"Next Level Gaming Performance DDR4SniperX, 16GB (2x8GB) DDR4 3600 (PC4-28800), 19-20-20-40, 1.35V","95":"TridentZ, 16GB (2x8GB) DDR4 3600 (PC4-28800), 15-15-15-35, 1.35V","96":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 16GB (2x8GB) DDR4 3600Mhz (PC4-28800), 19-20-20-40, 1.35V","97":"Trident Z Royal Series - High-Class RGB Performance DDR4 MemoryTrident Z Royal, 16GB (2x8GB) DDR4 4266Mhz (PC4-34100), 19-19-19-39, 1.35V","98":"T-Force Xcalibur RGB, 16GB (2x8GB) DDR4 3200 (PC4-25600), 16-18-18-38, 1.35V","99":"Delta TUF Gaming RGB, 16GB (2x8GB) DDR4 2666 (PC4-21300), 18-18-18-43, 1.2V","100":"T-Force Vulcan, 16GB (2x8GB) DDR4 2400 (PC4-19200), 14-16-16-31, 1.2V","101":"T-Force Vulcan, 16GB (2x8GB) DDR4 3000 (PC4-24000), 16-18-18-38, 1.35V","102":"Elite Plus, 16GB (2x8GB) DDR4 2400 (PC4-19200), 16-16-16-39, 1.2V","103":"T-Force Xtreem, 16GB (2x8GB) DDR4 3600 (PC4-28800), 18-20-20-39, 1.35V","104":"T-Force Xtreem, 16GB (2x8GB) DDR4 4133 (PC4-33000), 18-18-18-38, 1.35V","105":"Black Heatspreader, Dual\/Quad Channel Memory, RGB LED, Supports AMD RyzenVengeance RGB Pro, 32GB (4x8GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","106":"DOMINATOR\u00ae PLATINUM Special Edition Torque, Limited EditionDominator Platinum SE, 32GB (4x8GB) DDR4 3200 (PC4-25600), 14-16-16-36, 1.35V","107":"DOMINATOR\u00ae PLATINUM Special Edition Contrast, Limited EditionDominator Platinum SE, 32GB (4x8GB) DDR4 3466 (PC4-27700), 16-18-18-36, 1.2V","108":"Black Heatspreader, Dual\/Quad Channel Memory, RGB LEDVengeance RGB Pro, 32GB (4x8GB) DDR4 3600 (PC4-28800), 18-19-19-39, 1.35V","109":"Feel the Rush of Ripjaws VRipjawsV, 32GB (4x8GB) DDR4 2800 (PC4-22400), 15-16-16-35, 1.25V","110":"TridentZ, 32GB (4x8GB) DDR4 3200 (PC4-25600), 15-15-15-35, 1.35V","111":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 32GB (4x8GB) DDR4 4000 (PC4-32000), 17-17-17-37, 1.35V","112":"Black Heatspreader, Dual Channel MemoryVengeance LPX, 32GB (2x16GB) DDR4 2666 (PC4-21300), 15-15-15-36, 1.2V","113":"Black Heatspreader, Dual Channel MemoryVengeance LPX, 32GB (2x16GB) DDR4 3000 (PC4-24000), 15-17-17-35 , 1.35V","114":"Black Heatspreader, Dual Channel Memory, RGB LEDVengeance RGB, 32GB (2x16GB) DDR4 3200 (PC4-25600), 16-18-18-36, 1.35V","115":"Black-Grey Heatspreader, Dual Channel MemoryDominator Platinum, 32GB (2x16GB) DDR4 3000 (PC4-24000), 15-17-17-35, 1.35V","116":"Black Heatspreader, Dual Channel Memory, RGB LEDDominator Platinum RGB, 32GB (2x16GB) DDR4 3200 (PC4-25600), 16-18-18-36, 1.35V","117":"Dual Channel, Red Heat SpreaderBallistix Sport LT, 32GB (2x16GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","118":"Dual Channel, Grey Heat Spreader, RGB LEDBallistix Tracer RGB, 32GB (2x16GB) DDR4 2666Mhz (PC4-21300), 16-18-18, 1.2V","119":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 32GB (2x16GB) DDR4 2400Mhz (PC4-19200), 15-15-15-35, 1.2V","120":"Feel the Rush of Ripjaws VRipjawsV, 32GB (2x16GB) DDR4 2666 (PC4-21300), 15-15-15-35, 1.20V","121":"TridentZ, 32GB (2x16GB) DDR4 2800 (PC4-22400), 14-14-14-35, 1.35V","122":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 32GB (2x16GB) DDR4 3200Mhz (PC4-25600), 15-15-15-35, 1.2V","123":"Next Level Gaming Performance DDR4SniperX, 32GB (2x16GB) DDR4 3200 (PC4-25600), 16-18-18-38, 1.35V","124":"Feel the Rush of Ripjaws VRipjawsV, 32GB (2x16GB) DDR4 3200 (PC4-25600), 16-18-18-38, 1.35V","125":"TridentZ, 32GB (2x16GB) DDR4 3466 (PC4-27700), 16-18-18-38, 1.35V","126":"Next Level Gaming Performance DDR4SniperX, 32GB (2x16GB) DDR4 3600 (PC4-28800), 19-20-20-40, 1.35V","127":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTrident Z RGB, 32GB (2x16GB) DDR4 3866Mhz (PC4-31000), 18-18-18-38, 1.35V","128":"T-Force Night Hawk RGB, 32GB (2x16GB) DDR4 3200 (PC4-25600), 16-18-18-38, 1.35V","129":"T-Force Night Hawk RGB, 32GB (2x16GB) DDR4 3200 (PC4-25600), 16-18-18-38, 1.35V","130":"Delta TUF Gaming RGB, 32GB (2x16GB) DDR4 2666 (PC4-21300), 18-18-18-43, 1.2V","131":"Feel the Rush of Ripjaws VRipjawsV, 64GB (4x16GB) DDR4 3200 (PC4-25600), 14-14-14-34, 1.35V","132":"Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V"},"Harga":{"0":"Rp.240.000,-","1":"Rp.290.000,-","2":"Rp.360.000,-","3":"Rp.415.000,-","4":"Rp.320.000,-","5":"Rp.500.000,-","6":"Rp.605.000,-","7":"Rp.665.000,-","8":"Rp.570.000,-","9":"Rp.920.000,-","10":"Rp.1.285.000,-","11":"Rp.445.000,-","12":"Rp.455.000,-","13":"Rp.445.000,-","14":"Rp.445.000,-","15":"Rp.675.000,-","16":"Rp.675.000,-","17":"Rp.705.000,-","18":"Rp.1.305.000,-","19":"Rp.400.000,-","20":"Rp.400.000,-","21":"Rp.400.000,-","22":"Rp.410.000,-","23":"Rp.690.000,-","24":"CALL","25":"Rp.690.000,-","26":"Rp.700.000,-","27":"Rp.729.000,-","28":"Rp.640.000,-","29":"Rp.1.350.000,-","30":"Rp.1.265.000,-","31":"Rp.365.000,-","32":"Rp.365.000,-","33":"Rp.1.265.000,-","34":"Rp.640.000,-","35":"Rp.595.000,-","36":"Rp.490.000,-","37":"Rp.1.130.000,-","38":"Rp.910.000,-","39":"Rp.2.210.000,-","40":"Rp.1.185.000,-","41":"Rp.700.000,-","42":"Rp.1.290.000,-","43":"Rp.2.400.000,-","44":"Rp.860.000,-","45":"Rp.860.000,-","46":"CALL","47":"CALL","48":"Rp.819.000,-","49":"CALL","50":"Rp.875.000,-","51":"Rp.875.000,-","52":"Rp.758.000,-","53":"Rp.718.000,-","54":"Rp.798.000,-","55":"Rp.845.000,-","56":"Rp.2.260.000,-","57":"Rp.1.365.000,-","58":"Rp.1.365.000,-","59":"Rp.1.560.000,-","60":"Rp.1.685.000,-","61":"Rp.1.365.000,-","62":"Rp.1.705.000,-","63":"Rp.1.705.000,-","64":"Rp.1.905.000,-","65":"Rp.1.905.000,-","66":"Rp.3.705.000,-","67":"Rp.2.005.000,-","68":"Rp.2.005.000,-","69":"Rp.2.905.000,-","70":"Rp.2.405.000,-","71":"Rp.3.105.000,-","72":"Rp.1.275.000,-","73":"Rp.1.325.000,-","74":"CALL","75":"Rp.1.325.000,-","76":"Rp.1.675.000,-","77":"Rp.1.775.000,-","78":"Rp.1.500.000,-","79":"Rp.1.500.000,-","80":"Rp.1.774.000,-","81":"Rp.1.312.000,-","82":"Rp.1.620.000,-","83":"Rp.3.820.000,-","84":"Rp.3.725.000,-","85":"Rp.1.750.000,-","86":"Rp.2.120.000,-","87":"Rp.2.560.000,-","88":"Rp.2.620.000,-","89":"Rp.3.820.000,-","90":"Rp.3.820.000,-","91":"Rp.3.820.000,-","92":"Rp.3.820.000,-","93":"Rp.4.060.000,-","94":"Rp.2.120.000,-","95":"Rp.2.445.000,-","96":"Rp.2.565.000,-","97":"Rp.5.270.000,-","98":"Rp.1.940.000,-","99":"Rp.1.595.000,-","100":"Rp.1.368.000,-","101":"Rp.1.405.000,-","102":"Rp.1.268.000,-","103":"Rp.3.280.000,-","104":"Rp.3.900.000,-","105":"Rp.7.310.000,-","106":"Rp.8.499.000,-","107":"Rp.8.799.000,-","108":"CALL","109":"Rp.3.885.000,-","110":"Rp.3.785.000,-","111":"Rp.9.945.000,-","112":"Rp.2.585.000,-","113":"Rp.3.005.000,-","114":"Rp.3.560.000,-","115":"Rp.4.210.000,-","116":"Rp.4.060.000,-","117":"Rp.2.625.000,-","118":"Rp.2.875.000,-","119":"Rp.3.000.000,-","120":"Rp.2.780.000,-","121":"Rp.2.780.000,-","122":"Rp.4.215.000,-","123":"Rp.3.995.000,-","124":"Rp.3.060.000,-","125":"Rp.5.000.000,-","126":"Rp.3.995.000,-","127":"Rp.6.745.000,-","128":"Rp.3.310.000,-","129":"Rp.3.310.000,-","130":"Rp.2.935.000,-","131":"Rp.5.555.000,-","132":"Rp.18.745.000,-"},"Image Link":{"0":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Elite Plus DDR3.jpg?osCsid=545e3d7d9b3a379835392ea17a980c9c","1":"http:\/\/www.nanokomputer.com\/images\/products\/DDR3\/Single\/vgen.jpg?osCsid=e225e5a5c1f34f8a333e89db217e107a","2":"http:\/\/www.nanokomputer.com\/images\/products\/DDR3 - Single Channel\/CMV4GX3M1A1600C11.jpg?osCsid=b88f8a165fecd806716a30c862902b76","3":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR3 - Single Channel\/4GB\/CMZ4GX3M1A1600C9.jpg?osCsid=b4ec2599fe245405ad7d47ba7ae8c29e","4":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Elite Plus DDR3.jpg?osCsid=b759dfbd4fda8b0f7c3dd8b569a23b65","5":"http:\/\/www.nanokomputer.com\/images\/products\/DDR3\/Single\/vgen.jpg?osCsid=1cd0f2e980d02ac686d90a0b633ac0b1","6":"http:\/\/www.nanokomputer.com\/images\/products\/DDR3 - Single Channel\/CMV4GX3M1A1600C11.jpg?osCsid=b585043390944b11c21fa741ca6c0af7","7":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR3 - Single Channel\/8GB\/CMZ4GX3M1A1600C9.jpg?osCsid=18ea54c39debe25e8f0cdfbc918ca127","8":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Elite Plus DDR3.jpg?osCsid=5d08b658fe34828558f51ee740a34da4","9":"http:\/\/www.nanokomputer.com\/images\/products\/DDR3\/Single\/vgen.jpg?osCsid=5be9c601f061b4e3a2e8a6a41884d6f3","10":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR3 - Dual Channel\/16GB Kit (2 x 8GB)\/CMZ8GX3M2A1600C9.jpg?osCsid=8743e86e7662d188e40ae9c2da775896","11":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_Value_Select_Single.jpg?osCsid=eda35af962fe130554e0de510994ef7e","12":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_Value_Select_Single.jpg?osCsid=f080bf18bb20ff24f0b7386f7edb3427","13":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_CMK_Black_Single.jpg?osCsid=e09accab641caa8bd231e0d38d5dd3ca","14":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_CMK_Red_Single.jpg?osCsid=96e8e15aca529464e7f7f9949853b33d","15":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_CMK_Black_Single.jpg?osCsid=a19fbab90c8e53a94bcd0249b3d1b401","16":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_CMK_Red_Single.jpg?osCsid=9e046f797256687d45631fe95e134a5d","17":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_CMK_Black_Single.jpg?osCsid=e6cd444d5cff3097d446633990ba85f1","18":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Corsair_CMK_Black_Single.jpg?osCsid=390b9c0a6e25216f2bf5864b82e3b6f8","19":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/BLS4G4D26BFSE.jpg?osCsid=50f88b79cb40fea13ddef1cbbd4f6485","20":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Ballistix_White_Single.jpg?osCsid=d4e75739ec41d80118772849b27c6298","21":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Ballistix_Gray_Single.jpg?osCsid=338998aa13449877374b02f5321d8afa","22":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/BLS4G4D26BFSE.jpg?osCsid=0b90dd75b93daafbcde22c4c4f043f09","23":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Crucial - Value.jpg?osCsid=63faae578a0c6939bcb54e9f9c207757","24":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/BLS4G4D26BFSE.jpg?osCsid=d5506e3775a9862e59de3a05d6693826","25":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Ballistix_Gray_Single.jpg?osCsid=b14fc07971ff43f67d17afc49bdc57cf","26":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Single\/Crucial - Value.jpg?osCsid=ba33fb82cab18d9cf9f83a3782062e30","27":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/BLS4G4D26BFSE.jpg?osCsid=58b7e4aa20db2eab4ed086b2f8532145","28":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_GBNT_Single.jpg?osCsid=0da2b4ead2f31f88f9ade992a7c316d9","29":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/Vulcan Red DDR4.jpg?osCsid=7bb9480e826f92ca38bccdccc8a17ef3","30":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Team - TPD48G2400HC1601.jpg?osCsid=4438aa30b82e1aca5b031f426450a75f","31":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Team - TPD48G2400HC1601.jpg?osCsid=30affae32d7e3c6ca7ebe338072a5e54","32":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/DDR4 - Single\/Elite Plus Red-Black.jpg?osCsid=8d188876d59b72bb0498ffd46142c884","33":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/DDR4 - Single\/Elite Plus Red-Black.jpg?osCsid=4971d2c2f0518afbd06a767403a688c6","34":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/DDR4 - Single\/Elite Plus Red-Black.jpg?osCsid=c6dff5582f2c20544625229a89bb257a","35":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Trandscend_Memory_Single.jpg?osCsid=09ba7d056291c45baede67157eb3a5a9","36":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Trandscend_Memory_Single.jpg?osCsid=16c9626dfd9a96c716a9b0370c31c25f","37":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Trandscend_Memory_Single.jpg?osCsid=c602393b6521edf840cff2fb2fc50946","38":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Trandscend_Memory_Single.jpg?osCsid=7fa6713b3efe7f6c6c550746b30a3f4d","39":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Trandscend_Memory_Single.jpg?osCsid=072dd918e68fd238256373dd606ae1e6","40":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/Trandscend_Memory_Single.jpg?osCsid=ce30bfa12ac7b5d958e082bbb6d12e28","41":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/vgen.jpg?osCsid=296994bdeee58a2b01fec1924a408589","42":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/vgen.jpg?osCsid=f1abb630be43c6caf7bdc6576a5307e7","43":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Single\/vgen.jpg?osCsid=672cad5c1123cef09b43c3466d3ca132","44":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/Corsair_CMK_Black_Dual.jpg?osCsid=44514fae49ab542bf020aa9bcf509c54","45":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Corsair_CMK_Red_Dual.jpg?osCsid=ae584fc85ab326b8bbe90e66a2f9c56e","46":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/BLS4G4D26BFSE2.jpg?osCsid=04e18846446821fcfdcd8297c4836afb","47":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Ballistix_Gray_White.jpg?osCsid=858bb3677c831a15f625db27c3d9a8b0","48":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Ballistix_Gray_Dual.jpg?osCsid=7bd2e712e04b971168b5f95cc29a99c5","49":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/BLS4G4D26BFSE2.jpg?osCsid=e74539a9139d03ed7e8cf244ceac6f48","50":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Ballistix_Gray_White.jpg?osCsid=dee33345a7cefa9203f0024f6735069b","51":"http:\/\/www.nanokomputer.com\/images\/products\/8GB Kit (2 x 4GB)\/Ballistix_Gray_Dual.jpg?osCsid=91a932a88a99c1b36d555d9d2b266758","52":"http:\/\/www.nanokomputer.com\/images\/products\/8GB Kit (2 x 4GB)\/G.Skill_Aegis_dual.jpg?osCsid=4ef30d4dfd897ac066eb7d639858bcc5","53":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Elite Plus Gold-Black_Dual.jpg?osCsid=530849334d1a188cdd1881a470d1f3ee","54":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Vulcan Red DDR4_Dual.jpg?osCsid=6613b73f3201066c10558da9c10c0626","55":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/Vulcan Red DDR4_Dual.jpg?osCsid=d5e2bba1a09e8433b5cddc0abf4274a3","56":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/Corsair_CMD_Dual.jpg?osCsid=51171f4b8261bc812bd2c67e1772e157","57":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMK_Black_Dual.jpg?osCsid=2e326645f3b6b7bb88adce469546bf79","58":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMK_Red_Dual.jpg?osCsid=771399c1dc43bca3f9ccb48d71bed903","59":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMK_Black_Dual.jpg?osCsid=0cb0ceb0ee09d0fe0f71a189a04b0f1e","60":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Corsair_CMK_Black_Dual.jpg?osCsid=263c4e191213b3a98d2378f0ac571bb3","61":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMK_Black_Dual.jpg?osCsid=076b911923b89fc80c2afc4239ac918e","62":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Corsair - CMW.jpg?osCsid=7a963a6aa61a63a193a6aba3a735bd4d","63":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/Corsair_Vengeane_RGB_Pro_White_Dual.jpg?osCsid=42800ab05fdde19fc1f6847b326b54b9","64":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Corsair - CMW.jpg?osCsid=7052b5c7dede9984c51b8fe5c0e43d19","65":"http:\/\/www.nanokomputer.com\/images\/products\/Desktop Memory\/Corsair_Vengeane_RGB_Pro_White_Dual.jpg?osCsid=49e140fcfc79b5db59da0e75b94c7e27","66":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/Corsair_Vengeance_RGB_Pro_Dual_Black.jpg?osCsid=96f091a8b59057a46a7808409213e8fa","67":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Corsair - CMW.jpg?osCsid=171c7c2dc7d4ae193564b0101d3df9a7","68":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/CMW16GX4M2C3200C16W.jpg?osCsid=db67c2298b107a318b6ee9f88f8ca9dc","69":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Corsair - CMW.jpg?osCsid=bf0f02eb3ebb348b2eeecad4b33f8b35","70":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/Dominator_Platinum_RGB_Dual.jpg?osCsid=7fd5efe6ba9df15c885382e0ffc6a577","71":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/5373285_71f0c514-543c-46f4-ae75-e14abbfc99d1_800_800.jpg?osCsid=1ebe9b06149a042cf723559453e6972e","72":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Ballistix_Gray_Dual.jpg?osCsid=4b0480dd569768d4df1922a202db93fc","73":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/BLS4G4D26BFSE2.jpg?osCsid=fe7da72562eee74887055e765077415e","74":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Ballistix_Gray_White.jpg?osCsid=703e6d04c562ebb32d076cd1e624d059","75":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Ballistix_Gray_Dual.jpg?osCsid=dd996b230442316d2c8552acb4cef85d","76":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/BLT2K8G4D26BFT4K.jpg?osCsid=7e09cd968424315dc23fe7d53cee3d89","77":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/BLT2K8G4D26BFT4K.jpg?osCsid=c04b278df5ec4ba47ff86173e03c80f6","78":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_Aegis_dual.jpg?osCsid=f72bf5ee02a20f15d0d0ce17b19b56e8","79":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_Fortis_dual.jpg?osCsid=304963319c82a8dceeb8f0efafb2fb82","80":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=aacaf68f34acc92b01893c0f681fa76a","81":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/F4-2666C15D-16GVR.jpg?osCsid=71839ef0dff68908f746f90478c8985b","82":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Trident Z_Dual.jpg?osCsid=2fc6e2cdc527811c2f39707809c390cf","83":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=c8c9eb546f2f4be1f60261f788f49de1","84":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=f6e69afe751e59ab2c08396efa40dbbf","85":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Trident Z_Dual.jpg?osCsid=8ce83f91916245cbd39d073f69367a80","86":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=963de3bd56a6f672c564c23cdc1f3415","87":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/GSKill_GTRS_Dual.jpg?osCsid=87ffc299869ef6c17caabda16b72ea06","88":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_FlareX_dual.jpg?osCsid=870c37f76b9c3664f5e4aa18fc161bdf","89":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Trident Z_Dual.jpg?osCsid=8e1381e0fd0e4ffdb4462a4083f68487","90":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_Trident_Z_dual_GTZKW.jpg?osCsid=f414d5d924fd99c03531c5ed72b51312","91":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_Trident_Z_dual_GTZSK.jpg?osCsid=9fec21ddca1a5c95afa13dd5408050b4","92":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_Trident_Z_dual_GTZSW.jpg?osCsid=6e79931c3e24dca655db7a7c834e13bc","93":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=d7f3128a76b5d36af2a71bce40ea8411","94":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/GSKill_SniperX_SXKB_Dual.jpg?osCsid=ba7e19af761b3814e062420be611fec5","95":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Trident Z_Dual.jpg?osCsid=ada13ba12851e6669231cc60d1b29fa9","96":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=dfad2955938691680c2b7bc5c30813ba","97":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/F4-4266C19D-16GTRS.jpg?osCsid=df2a91cbcb5b81c4c31412b9c18d0dee","98":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/Xcalibur Phantom RGB.jpg?osCsid=8800e180ba794dbebeb543a2bae0a121","99":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/DELTA TUF Gaming.jpg?osCsid=783686ce29311d3721a10af35deef33d","100":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Vulcan Red DDR4_Dual.jpg?osCsid=cb1ad813421b02dc8788e4991b94ed34","101":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Vulcan Red DDR4_Dual.jpg?osCsid=34257cea5bb452c351d7b9b9b9a7527d","102":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/Elite Plus Gold-Black_Dual.jpg?osCsid=7292c5e3fc8a055846347d9d91fc0a61","103":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/TXGD.jpg?osCsid=ba198b8c5f27d78741a8b169d8825538","104":"http:\/\/www.nanokomputer.com\/images\/products\/DDR4 - Dual Channel\/16GB Kit (2 x 8GB)\/TXGD.jpg?osCsid=c5aa4f22c93da7da38f7f2575baf5739","105":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/32GB Kit (4 x 8GB)\/Corsair_Vengeane_RGB_Pro_Black_Quad.jpg?osCsid=fce7d461eb460291b63adacf9bd967f9","106":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Quad Channel\/32GB Kit (4x8GB)\/CMD32GX4M4C3200C14T.jpg?osCsid=599e8d865879d7abb609d9a0056c8610","107":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Quad Channel\/32GB Kit (4x8GB)\/CMD32GX4M2C3466C16W.jpg?osCsid=4e13c0d0b3af7441d0762a40481c19f8","108":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Quad Channel\/32GB Kit (4x8GB)\/Corsair_Vengeane_RGB_Pro_Black_Quad.jpg?osCsid=717b8b80b952b3cf74faf810a8c335a3","109":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_RipjawsV_quad_Red.jpg?osCsid=b60adce9704afd566c61894a601a853d","110":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_Trident_Z_quad_GTZ.jpg?osCsid=5fe8c08cd59d1c5b1c76963da3215a11","111":"http:\/\/www.nanokomputer.com\/images\/products\/32GB Kit (4 x 8GB)\/G.Skill - F4-4000C17Q-32GTZR.jpg?osCsid=fe02d33a3af000c66d159457dcbc8c27","112":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMK_Black_Dual.jpg?osCsid=8d6019a0ef75f63f88d9ed905efb8089","113":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMK_Black_Dual.jpg?osCsid=d0614794a9337b93202cac2224779678","114":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/32GB Kit (2x16GB)\/CMW32GX4M2C3200C16.jpg?osCsid=b6972889f957b97eb7f569fbd6481212","115":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Corsair_CMD_Dual.jpg?osCsid=cd23ced9bd655ee77fc09b41cfc42323","116":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/32GB Kit (2x16GB)\/Dominator_Platinum_RGB_Dual.jpg?osCsid=06f72f814ee9794bf5717228af193bf9","117":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/8GB Kit (2 x 4GB)\/BLS4G4D26BFSE2.jpg?osCsid=044f8e454aaa8487ab7942a28f65b2f2","118":"http:\/\/www.nanokomputer.com\/images\/products\/16GB Kit (2 x 8GB)\/BLT2K8G4D26BFT4K.jpg?osCsid=5a6ac04546aeacbb99fc78b1ae56c2be","119":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=9797f0cb8f3899382aeb4fd405eb1df9","120":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/F4-2666C15D-16GVR.jpg?osCsid=c253d72e44e74cbc456747a3856f3c24","121":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Trident Z_Dual.jpg?osCsid=23d2fa01a17925c5727201eec2948e43","122":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=482993327f98dfd01d9cb00fee6bc928","123":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/32GB Kit (2x16GB)\/GSKill_SniperX_SXKB_Dual.jpg?osCsid=7818ef7def88763d3d52006469ec6522","124":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/G.Skill_RipjawsV_dual_Black.jpg?osCsid=b724169f936e2e0bcaa7ff5f5764a0fc","125":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Trident Z_Dual.jpg?osCsid=f3383d08d1ff5d1839995da4ed049d53","126":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/32GB Kit (2x16GB)\/GSKill_SniperX_SXKB_Dual.jpg?osCsid=6999f5efb0280d7ae3397eae7ea6199d","127":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSkill_TridentZ_RGB_Dual.jpg?osCsid=cf19efa2ca58e65ce6b5394a18f0c1bc","128":"http:\/\/www.nanokomputer.com\/images\/products\/32GB Kit (2x16GB)\/Night Hawk RGB_Black.jpg?osCsid=5c40f3c20641cc64eeb23725a70da45d","129":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/Desktop Memory\/DDR4 - Dual Channel\/T-Force Night Hawk RGB White.jpg?osCsid=4c3a2c40b9ee3e18f6f681bdfac6b5d4","130":"http:\/\/www.nanokomputer.com\/images\/products\/32GB Kit (2x16GB)\/DELTA TUF Gaming.jpg?osCsid=f18954554d3ef88f448ee54e0db55332","131":"http:\/\/www.nanokomputer.com\/images\/products\/Memory\/GSKill_GVK_Quad.jpg?osCsid=e0e6c9179c2940cf34ece0417cb0248a","132":"http:\/\/www.nanokomputer.com\/images\/products\/64GB Kit (4x16GB)\/GSkill_TridentZ_RGB_Quad.jpg?osCsid=63545409dfc7b2e3011feb47a5a93e09"}}
+[
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    },
+    {
+        "ID": "[F4-4000C18Q2-64GTZR]",
+        "Nama Optical Drive": "G.Skill - F4-4000C18Q2-64GTZR",
+        "Deskripsi": "Trident Z RGB Series DDR4 - The World's Most Brilliant RGB MemoryTridentZ, 64GB (8x8GB) DDR4 4000 (PC4-32000), 18-19-19-39, 1.35V",
+        "Harga": "Rp.18.745.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/64GB Kit (4x16GB)/GSkill_TridentZ_RGB_Quad.jpg?osCsid=dcfede8639bbc62ccb407fd1a1a5959c"
+    }
+]

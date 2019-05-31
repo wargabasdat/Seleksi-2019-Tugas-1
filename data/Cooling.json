@@ -1,1 +1,814 @@
-{"ID":{"0":"[Shadow Rock LP]","1":"[Dark Rock 4]","2":"[Dark Rock Pro 4]","3":"[Dark Rock TF]","4":"[SHADOW ROCK 2]","5":"[Shadow Rock Slim]","6":"[Pure Rock]","7":"[Dark Rock 3]","8":"[Dark Rock Pro 3]","9":"[RR-X117-18FP-R1]","10":"[RR-T2MN-22FP-R1]","11":"[RR-T520-16PK]","12":"[RR-H410-20PK-R1]","13":"[RR-H411-20PW-R1]","14":"[RR-TX3E-28PK-R1]","15":"[RR-212L-16PR-R1]","16":"[RR-212TK-16PR-R1]","17":"[RR-212TR-16PR-R1]","18":"[MAP-T4PN-220PC-R1]","19":"[MAP-T4PN-220PC-R1]","20":"[MAM-T4PN-AFNPC-R1]","21":"[MAP-T6PN-218PC-R1]","22":"[MAP-D6PN-218PC-R1]","23":"[MAP-D6PN-AFNPC-R1]","24":"[RR-V8VC-16PR-R1]","25":"[MAZ-T8PN-418PR-R1]","26":"[M9i]","27":"[M9a]","28":"[M9 Plus]","29":"[C7]","30":"[C7 Cu]","31":"[C1]","32":"[H7]","33":"[H7 Plus]","34":"[H7 Quad Lumi]","35":"[H5 Universal]","36":"[H5 Ultimate]","37":"[R1 Universal]","38":"[R1 Ultimate]","39":"[ETS-N30R-HE]","40":"[ETS-N31]","41":"[ETS-T40F-TB]","42":"[ETS-T40F-BK]","43":"[ETS-T40F-W]","44":"[ETS-T50A-BVT]","45":"[ETS-T50A-WVS]","46":"[NH-C14S]","47":"[NH-D14]","48":"[NH-D15]","49":"[NH-D15S]","50":"[NH-D9DX i4 3U]","51":"[NH-D9L]","52":"[NH- L12]","53":"[NH-L12S]","54":"[NH-L9a]","55":"[NH-L9i]","56":"[NH-L9X65]","57":"[NH-L9X65 AM4]","58":"[NH-U12P SE2]","59":"[NH-U12S]","60":"[NH-U12S TR4-SP3]","61":"[NH-U14S]","62":"[NH-U14S TR4-SP3]","63":"[NH-U9 TR4-SP3]","64":"[NH-U9B SE2]","65":"[NH-U9S]","66":"[PH-TC12LS]","67":"[PH-TC14S]","68":"[PH-TC12DX]","69":"[PH-TC14PE]","70":"[PH-TC14PE_BL]","71":"[PH-TC14PE_RD]","72":"[PH-TC14PE_OR]","73":"[OP105246]","74":"[0P105250]","75":"[0P105245]","76":"[0R100001]","77":"[0R100004]","78":"[SST-AR04]","79":"[SST-AR05]","80":"[AXP-100H Muscle]","81":"[AXP-100RH]","82":"[True Spirit 120M BW Rev.A]","83":"[True Spirit 140 Direct]","84":"[True Spirit 140 Power]","85":"[Macho Direct]","86":"[Archon IB-E X2]","87":"[Macho Rev.B]","88":"[Silver Arrow IB-E-Extreme]","89":"[Silver Arrow ITX-R]","90":"[ICY T120 RGB]","91":"[Silent Loop 120mm]","92":"[MLW-D12M-A20PW-R1]","93":"[MLX-D12M-A20PC-R1]","94":"[RL-S12V-22PR-R1]","95":"[CW-9060007-WW]","96":"[CAPTAIN 120 EX]","97":"[Captain 120 EX RGB]","98":"[Captain 120 EX White]","99":"[SST-TD03-Lite-V2]","100":"[ROG RYUO 240]","101":"[ICY T240 RGB]","102":"[MLX-D24M-A20PW-R1]","103":"[MLW-D24M-A20PC-R1]","104":"[MLX-D24M-A20PC-R1]","105":"[CW-9060039-WW]","106":"[Captain 240 EX]","107":"[Captain 240 EX RGB]","108":"[CAPTAIN 240 EX WHITE]","109":"[RL-KRX52-02]","110":"[SST-TD02-Lite-V2]","111":"[CW-9060026-WW]","112":"[CW-9060032-WW]","113":"[CW-9060038-WW]","114":"[RL-KRX62-02]","115":"[ROG RYUJIN 360]"},"Nama Cooling":{"0":"be quite! - Shadow Rock LP","1":"be quite! - Dark Rock 4","2":"be quite! - Dark Rock Pro 4","3":"be quite! - Dark Rock TF","4":"be quite! - Shadow Rock 2","5":"be quite! - Shadow Rock Slim","6":"be quite! - Pure Rock","7":"be quite! - Dark Rock 3","8":"be quite! - Dark Rock Pro 3","9":"Cooler Master - X Dream i117","10":"Cooler Master - Blizzard T2 mini","11":"Cooler Master - GeminII M5 LED","12":"Cooler Master - Hyper H410R","13":"Cooler Master - Hyper H411R","14":"Cooler Master - Hyper TX3 Evo","15":"Cooler Master - Hyper 212 LED","16":"Cooler Master - Hyper 212 LED Turbo Black","17":"Cooler Master - Hyper 212 LED Turbo Red","18":"Cooler Master - MasterAir MA410P","19":"Cooler Master - MasterAir MA410M","20":"Cooler Master - MasterAir MA410M TUF Gaming Edition","21":"Cooler Master - MasterAir MA610P","22":"Cooler Master - MasterAir MA620P","23":"Cooler Master - MasterAir MA620P TUF Gaming Edition","24":"Cooler Master - V8 GTS","25":"Cooler Master -  MasterAir Maker 8","26":"Cryorig - M9i","27":"Cryorig - M9a","28":"Cryorig - M9 Plus","29":"Cryorig - C7","30":"Cryorig - C7 Cu","31":"Cryorig - C1","32":"Cryorig - H7","33":"Cryorig - H7 Plus","34":"Cryorig - H7 Quad Lumi","35":"Cryorig - H5 Universal","36":"Cryorig - H5 Ultimate","37":"Cryorig - R1 Universal","38":"Cryorig - R1 Ultimate","39":"Enermax - ETS-N30R-HE","40":"Enermax - ETS-N31","41":"Enermax - ETS-T40F-TB","42":"Enermax - ETS-T40F-BK","43":"Enermax - ETS-T40F-W","44":"Enermax - ETS-T50A-BVT","45":"Enermax - ETS-T50A-WVS","46":"Noctua - NH-C14S","47":"Noctua - NH-D14","48":"Noctua - NH-D15","49":"Noctua - NH-D15S","50":"Noctua - NH-D9DX i4 3U","51":"Noctua - NH-D9L","52":"Noctua - NH-L12","53":"Noctua - NH-L12S","54":"Noctua - NH-L9A AM4","55":"Noctua - NH-L9i","56":"Noctua - NH-L9X65","57":"Noctua - NH-L9X65 AM4","58":"Noctua - NH-U12P SE2","59":"Noctua - NH-U12S","60":"Noctua - NH-U12S TR4-SP3","61":"Noctua - NH-U14S","62":"Noctua - NH-U14S TR4-SP3","63":"Noctua - NH-U9 TR4-SP3","64":"Noctua - NH-U9B SE2","65":"Noctua - NH-U9S","66":"Phanteks - PH-TC12LS","67":"Phanteks - PH-TC14S","68":"Phanteks - PH-TC12DX\u00a0White","69":"Phanteks - PH-TC14PE","70":"Phanteks - PH-TC14PE_BL","71":"Phanteks - PH-TC14PE_RD","72":"Phanteks - PH-TC14PE_OR","73":"Raijintek - Aidos","74":"Raijintek - Ereboss","75":"Raijintek - Themis Evo","76":"Raijintek - Tisis","77":"Raijintek - Pallas","78":"SilverStone - SST-AR04","79":"SilverStone - SST-AR05","80":"Thermalright - AXP-100H Muscle","81":"Thermalright - AXP-100RH","82":"Thermalright - True Spirit 120M BW Rev.A","83":"Thermalright - True Spirit 140 Direct","84":"Thermalright - True Spirit 140 Power","85":"Thermalright - Macho Direct","86":"Thermalright - Archon IB-E X2","87":"Thermalright - Macho Rev.B","88":"Thermalright - Silver Arrow IB-E Extreme","89":"Thermalright - Silver Arrow ITX-R","90":"Aigo - ICY T120 RGB","91":"be quite! -  Silent Loop 120","92":"Cooler Master - MasterLiquid Lite 120","93":"Cooler Master - MasterLiquid ML120R RGB","94":"Cooler Master - Seidon 120V V3 Plus","95":"Corsair - H60","96":"Deep Cool - Captain 120 EX","97":"Deep Cool - Captain 120 EX RGB","98":"Deep Cool - Captain 120 EX White","99":"SilverStone - SST-TD03-Lite-V2","100":"Asus - ROG RYUO 240","101":"Aigo - ICY T240 RGB","102":"Cooler Master - MasterLiquid 240","103":"Cooler Master - MasterLiquid ML240L RGB","104":"Cooler Master - MasterLiquid ML240R RGB","105":"Corsair - H100i RGB Platinum","106":"Deep Cool - Captain 240 EX","107":"Deep Cool - Captain 240 EX RGB","108":"Deep Cool - Captain 240 EX White","109":"NZXT - Kraken X52","110":"SilverStone - SST-TD02-Lite-V2","111":"Corsair - H110i","112":"Corsair - H115i Pro RGB","113":"Corsair - H115i Platinum","114":"NZXT - Kraken X62","115":"Asus - ROG RYUJIN 360"},"Deskripsi":{"0":"CPU Cooler Height 50.4mm \/ 75.4mm with FanIntel: 775 \/ 115X \/ 1366 \/ LGA2011AMD: AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","1":"Intel: 775 \/ 1150 \/ 1151 \/ 1155 \/ 1156 \/ 1366 \/ LGA2011(-3) Square ILM \/ 2066AMD: AM2 (+) \/ AM3 (+) \/ AM4 \/ FM1 \/ FM2 (+)","2":"Intel: 775 \/ 1150 \/ 1151 \/ 1155 \/ 1156 \/ 1366 \/ LGA2011(-3) Square ILM \/ 2066AMD: AM2 (+) \/ AM3 (+) \/ AM4 \/ FM1 \/ FM2 (+)","3":"Intel: 775 \/ 1150 \/ 1151 \/ 1155 \/ 1156 \/ 1366 \/ LGA2011(-3) Square ILM \/ 2066AMD: AM2 (+) \/ AM3 (+) \/ AM4 \/ FM1 \/ FM2 (+)","4":"Intel: 775 \/ 1150 \/ 1151 \/ 1155 \/ 1156 \/ 1366 \/ LGA2011(-3) Square ILM \/ 2066AMD: AM2 (+) \/ AM3 (+) \/ AM4 \/ FM1 \/ FM2 (+)","5":"CPU Cooler Height 161mmIntel: LGA 775 \/ 115x \/ 1366 \/ 2011(-3)AMD: 754 \/ 939 \/ 940 \/ AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","6":"CPU Cooler Height 155mmIntel: LGA 775 \/ 115x \/ 1366 \/ LGA2011(-3)AMD: AM2(+) \/ AM3 (+) \/ FM1 \/ FM2 (+)","7":"CPU Cooler Height 160mmIntel: LGA 775 \/ 115x \/ 1366 \/ 2011(-3)AMD: 754 \/ 939 \/ 940 \/ AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","8":"CPU Cooler Height 163mmIntel: LGA 775 \/ 115x \/ 1366 \/ 2011(-3)AMD: 754 \/ 939 \/ 940 \/ AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","9":"CPU Cooler Height 60.4mmIntel: 775 \/ 115XAMD: AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","10":"Intel\u00ae Socket 1156 \/ 1155 \/ 1151 \/ 1150 \/ 775 socketAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","11":"CPU Cooler Height 61.5mmIntel: LGA 775 \/ 115x \/ 1366AMD: AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","12":"CPU Cooler Height 140mmIntel:\u00a0LGA 115x \/ 775 socketAMD: AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","13":"CPU Cooler Height 140mmIntel: LGA 2066 \/ 2011-3 \/ 2011 \/ 115x \/ 1366 \/ 775 socketAMD: AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","14":"CPU Cooler Height 140mmIntel:LGA 1366 \/ 1156 \/ 1155 \/ 1151 \/ 1150 \/ 775AMD:AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1","15":"Intel\u00ae LGA 2011-3 \/ 2011 \/ 1156 \/ 1155 \/ 1151 \/ 1150 \/ 775AMD\u00ae AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 socket","16":"Intel LGA 2011-3, 2011, LGA,1156, LGA,1155, LGA,1151, LGA,1150, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 2 x 120MM Fan Included","17":"Intel LGA 2011-3, 2011, LGA,1156, LGA,1155, LGA,1151, LGA,1150, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 2 x 120MM Fan Included","18":"Intel LGA 2011-3, 2011, LGA,1156, LGA,1155, LGA,1151, LGA,1150, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 1 x 120MM Fan Included","19":"Intel LGA 2011-3, 2011, LGA,1156, LGA,1155, LGA,1151, LGA,1150, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 2 x 120MM Fan Included","20":"Intel LGA 2011-3, 2011, LGA,1156, LGA,1155, LGA,1151, LGA,1150, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 2 x 120MM Fan Included","21":"Intel: LGA 2011-v3 \/ 2011 \/ 1366 \/ 115x \/ 775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","22":"Intel: LGA 2011-v3 \/ 2011 \/ 1366 \/ 115x \/ 775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","23":"Intel LGA 2011-3, 2011, LGA,1156, LGA,1155, LGA,1151, LGA,1150, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1 2 x 120MM Fan Included","24":"Intel LGA2011, LGA1366, LGA115x, LGA775 & AMD AMx, AMx+, FMx","25":"CPU Cooler Height 172mmIntel: LGA 2011-v3 \/ 2011 \/ 1366 \/ 115x \/ 775AMD AM3(+) \/ AM2(+) \/ FM2(+) \/ FM2 \/ FM1 socket","26":"1 x 90mm Fan IncludedIntel: All Socket LGA115x","27":"1 x 90mm Fan IncludedAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","28":"2 x 90mm Fan IncludedIntel LGA,1155, LGA,1151, LGA,1150AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","29":"1 x 90mm Fan IncludedIntel: All Socket LGA 115xAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","30":"1 x 90mm Fan IncludedIntel: All Socket LGA 115xAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","31":"1 x 120mm Fan IncludedIntel LGA 2011-3, 2011, LGA,115x, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","32":"1 x 120mm Fan IncludedIntel: All Socket LGA 115xAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","33":"2 x 120mm Fan IncludedIntel: All Socket LGA 115xAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","34":"1 x 120mm White LED Fan IncludedIntel LGA 2011-3, 2011, LGA,115xAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","35":"1 x 140mm Slim Fan IncludedIntel LGA 2011-3, 2011, LGA,115x, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","36":"1 x 140mm Fan IncludedIntel LGA 2011-3, 2011, LGA,115x, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","37":"2 x 140mm Fan IncludedIntel LGA 2011-3, 2011, LGA,115x, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","38":"2 x 140mm Fan IncludedIntel LGA 2011-3, 2011, LGA,115x, LGA,775AMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ FM2+ \/ FM2 \/ FM1","39":"CPU Cooler Height 137mmIntel: LGA 775 \/ 115x \/1366\/2011\/2011-3\/2066AMD: AM2\/AM2+\/AM3\/AM3+\/AM4\/FM1\/FM2\/FM2+","40":"CPU Cooler Height 125mmIntel: LGA 775\/115X\/1366AMD: AM4\/AM3\/AM3+\/AM2\/AM2+\/FM1\/FM2\/FM2+","41":"CPU Cooler Height 162mmIntel:\u00a0LGA 775 \/ 115x \/ 1366 \/ 2011 \/ 2011-3 Square ILMAMD: AM2 \/ AM2+ \/ AM3 \/ AM3+ \/ FM1 \/ FM2 \/ FM2+","42":"CPU Cooler Height 162mmIntel:\u00a0LGA 775 \/ 115x \/ 1366 \/ 2011 \/ 2011-3 Square ILMAMD: AM2 \/ AM2+ \/ AM3 \/ AM3+ \/ FM1 \/ FM2 \/ FM2+","43":"CPU Cooler Height 162mmIntel:\u00a0LGA 775 \/ 115x \/ 1366 \/ 2011 \/ 2011-3 Square ILMAMD: AM2 \/ AM2+ \/ AM3 \/ AM3+ \/ FM1 \/ FM2 \/ FM2+","44":"CPU Cooler Height 160mmIntel:\u00a0LGA 775 \/ 115X \/ 1366 \/ 2011 \/ 2011-3 Square ILMAMD: AM2 \/ AM2+ \/ AM3 \/ AM3+ \/ FM1 \/ FM2 \/ FM2+","45":"CPU Cooler Height 160mmIntel: LGA 775\/115X\/1366\/2011\/2011-3\/2066AMD: AM2\/AM2+\/AM3\/AM3+\/AM4\/FM1\/FM2\/FM2+","46":"Intel: All Socket LGA 2011-v3\/115x CPUAMD: All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","47":"Intel LGA1366, LGA1156, LGA775 & AMD AM2, AM2+, AM3","48":"Intel LGA2011, LGA115x Series & AMD AMx Series, FMx Series","49":"Intel: All Socket LGA 2011-v3\/115x CPUAMD: All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","50":"Intel: Intel LGA2011-0 & LGA2011-3 (Square ILM & Narrow ILM), LGA1356, LGA1366 (wtih Xeon backplate)","51":"Intel LGA2011, LGA115x & AMD AMx, AMx2+, FM1","52":"Noctua NF-F12 PWM & Noctua NF-B9 PWMMTTF: > 150.000 hAMD: AM4 with NM-AM4","53":"Noctua: 1x Noctua NF-A12x15 PWMMTTF: > 150.000 hAMD: AM2, AM2+, AM3, AM3+, AM4, FM1, FM2, FM2+","54":"AMD AM2(+), AM3(+), FM1, FM2, FM2+","55":"Intel LGA1150, LGA1155, LGA1156","56":"Intel: All Socket LGA 2011-v3\/115x CPUAMD: All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","57":"Noctua: NF-A9x14 PWMMTTF: > 150.000 hAMD: AM4","58":"Intel LGA1366, LGA1156, LGA775 & AMD AM2, AM2+, AM3","59":"Intel LGA2011, LGA1156, LGA1155, LGA775 & AMD AM2, AM2+, AM3, AM3+, FM1","60":"CPU Cooler Height 160mmAMD:\u00a0AMD TR4 & SP3","61":"Intel LGA2011, LGA1156, LGA1155, LGA775 & AMD AM2, AM2+, AM3, AM3+, FM1","62":"CPU Cooler Height 165mmAMD:\u00a0AMD TR4 & SP3","63":"AMD:\u00a0AMD TR4 & SP3","64":"Intel LGA1366, LGA1156, LGA775 & AMD AM2, AM2+, AM3","65":"Intel LGA2011, LGA115x & AMD AMx, AMx2+, FM1","66":"Compability: Intel Socket 2011\/115X\/1366\/775, AMD FM1\/FM2(+)\/AM2(+)","67":"Compatibility: Intel Socket 2011\/115X\/1366\/775, AMD FM1\/FM2(+)\/AM2(+)","68":"Compability: Intel Socket: LGA 2011\/115X\/1366\/775, AMD: FM1\/FM2\/AM3+\/AM3\/AM2+\/AM2 (stock back-plate required)","69":"Intel LGA2011, LGA1156, LGA1155, LGA775 & AMD AM2, AM2+, AM3, AM3+, FM1","70":"Intel LGA2011, LGA1156, LGA1155, LGA775 & AMD AM2, AM2+, AM3, AM3+, FM1","71":"Intel LGA2011, LGA1156, LGA1155, LGA775 & AMD AM2, AM2+, AM3, AM3+, FM1","72":"Intel LGA2011, LGA1156, LGA1155, LGA775 & AMD AM2, AM2+, AM3, AM3+, FM1","73":"Intel : All Socket LGA 775\/1150\/1155\/1156\/1366\/2011 CPU (Core\u2122 i3 \/ i5 \/ i7 CPU)AMD : All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","74":"Intel : All Socket LGA 775\/1150\/1155\/1156\/1366\/2011 CPU (Core\u2122 i3 \/ i5 \/ i7 CPU)AMD : All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","75":"Intel :All Socket LGA 775\/1150\/1155\/1156\/1366\/2011 CPU (Core\u2122 i3 \/ i5 \/ i7 CPU)AMD : All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","76":"Intel :All Socket LGA 775\/1150\/1155\/1156\/1366\/2011 CPU (Core\u2122 i3 \/ i5 \/ i7 CPU)AMD : All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","77":"Intel : All Socket LGA 775\/115x\/1366\/201x CPU (Core\u2122 i3 \/ i5 \/ i7 CPU)AMD : All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","78":"Intel: All Socket LGA 115x CPU","79":"Intel: All Socket 115x\/ AMD: All FM2+\/FM2\/FM1\/AM3+\/AM3\/AM2+\/AM2 CPU","80":"CPU Cooler Height 51.0mm \/ 65.0mm with Fan AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366AMD: AM2(+) \/ AM3(+) \/ AM4 \/ FM1 \/ FM2(+)","81":"CPU Cooler Height 65.00mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","82":"CPU Cooler Height 171.20mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","83":"CPU Cooler Height 161.48mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","84":"CPU Cooler Height 171.20mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","85":"CPU Cooler Height 158.00mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","86":"CPU Cooler Height 165.00mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","87":"CPU Cooler Height 162.00mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","88":"CPU Cooler Height 165.00mm, AMD AM4 ReadyIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ AM4\u00a0 \/ FM1 \/ FM2(+)","89":"CPU Cooler Height 150.00mmIntel: 775 \/ 115X \/ 1366 \/ LGA2011 (V3)AMD: AM2(+) \/ AM3(+) \/ FM1 \/ FM2(+)","90":"120mm Liquid CoolerIntel LGA: 1150, 1151, 1155, 1156, 1366, 2011, 2011-3, 2066 socketAMD: AM2, AM3, AM4, FM1, FM2","91":"Intel\u00ae: LGA 775 \/ 1150 \/ 1151 \/ 1155 \/ 1156 \/ 1366 \/ 2011(-3) Square ILM \/ 2066AMD\u2122: AM2(+) \/ AM3(+) \/ AM4 \/ FM1 \/ FM2(+) \/ TR4 (+ mounting kit bz007)","92":"Intel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1151 \/ 1150 \/ 1156 \/ 1155 \/ 775 socketAMD AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","93":"120mm Liquid CoolerIntel\u00ae LGA 2066 \/ 2011-v3 \/ 2011 \/ 1151 \/ 1150 \/ 1155 \/ 1156 \/ 1366 \/ 775 socketAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","94":"120mm Liquid CoolerIntel LGA 2066 \/ 2011-v3 \/ 2011 \/ 115x \/ 1366 \/ 775 socketAMD AM4 \/ AM3(+) \/ AM2(+) \/ FM2(+) \/ FM2 \/ FM1 socket","95":"Intel LGA2011, LGA1366, LGA1156, LGA1155 & AMD AM2, AM2+, AM3, AM3+, FM1, FM2","96":"120mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1156 \/ 1155\/1151 \/1150\u00a0 socketAMD\u00a0FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socke","97":"RGB 120mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1156 \/ 1155\/1151 \/1150\u00a0 socketAMD\u00a0FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socke","98":"120mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1156 \/ 1155\/1151 \/1150\u00a0 socketAMD\u00a0FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socke","99":"Intel: All Socket LGA 2011-v3\/1366\/115x\/775 CPUAMD: All FM2+\/FM2\/FM1\/AM3+\/AM4\/AM3\/AM2+\/AM2 CPU","100":"240mm Liquid CoolerIntel\u00ae LGA 1150\/1151\/1152\/1155\/1156\/1366\/2011\/2011-3\/2066 socketAMD\u00ae AM4, TR4* socket","101":"240mm Liquid CoolerIntel LGA: 1150, 1151, 1155, 1156, 1366, 2011, 2011-3, 2066 socketAMD: AM2, AM3, AM4, FM1, FM2","102":"240mm Liquid CoolerIntel LGA 2066 \/ 2011-v3 \/ 2011 \/ 115x \/ 1366 \/ 775 socketAMD AM4 \/ AM3(+) \/ AM2(+) \/ FM2(+) \/ FM2 \/ FM1 socket","103":"240mm Liquid CoolerIntel\u00ae LGA 2066 \/ 2011-v3 \/ 2011 \/ 1151 \/ 1150 \/ 1155 \/ 1156 \/ 1366 \/ 775 socketAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","104":"240mm Liquid CoolerIntel\u00ae LGA 2066 \/ 2011-v3 \/ 2011 \/ 1151 \/ 1150 \/ 1155 \/ 1156 \/ 1366 \/ 775 socketAMD\u00ae AM4 \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 \/ FM2+ \/ FM2 \/ FM1 socket","105":"240mm Liquid CoolerIntel LGA 115x, LGA 2011, LGA 2066\u00a0and AMD AMD AM4, AM3+, AM3, AM2+, AM2, TR4","106":"240mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1155 \/ 1151 \/ 1150 socketAMD FM2+ \/ FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socket","107":"RGB 240mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1155 \/ 1151 \/ 1150 socketAMD FM2+ \/ FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socket","108":"240mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1155 \/ 1151 \/ 1150 socketAMD FM2+ \/ FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socket","109":"RGB 240mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1155 \/ 1151 \/ 1150 socketAMD FM2+ \/ FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socket","110":"Intel: All Socket LGA 2011-v3\/1366\/115x\/775 CPUAMD: All FM2+\/FM2\/FM1\/AM4\/AM3+\/AM3\/AM2+\/AM2 CPU","111":"Intel LGA2011-3, LGA2011, LGA1366, LGA115x, AMD AM2, AM2+, AM3, AM3+, FM1, FM2","112":"280mm Liquid CoolerIntel LGA: 1150, 1151, 1155, 1156, 1366, 2011, 2011-3, 2066 socketAMD: AM2, AM3, AM4, FM1, FM2","113":"280mm Liquid CoolerIntel LGA 1150, 1151, 1155, 1156, 1366, 2011, 2011-3, 2066 and AMD AM2, AM3, AM4, FM1, FM2, sTR4 (threadripper)","114":"RGB 280mm Liquid CoolerIntel LGA 2011-v3 \/ 2011 \/ 1366 \/ 1155 \/ 1151 \/ 1150 socketAMD FM2+ \/ FM2 \/ FM1 \/ AM4* \/ AM3+ \/ AM3 \/ AM2+ \/ AM2 socket","115":"360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*"},"Harga":{"0":"Rp.650.000,-","1":"Rp.1.050.000,-","2":"Rp.1.280.000,-","3":"Rp.1.280.000,-","4":"Rp.690.000,-","5":"Rp.690.000,-","6":"Rp.550.000,-","7":"Rp.920.000,-","8":"Rp.1.280.000,-","9":"Rp.205.000,-","10":"Rp.199.000,-","11":"Rp.522.000,-","12":"Rp.346.000,-","13":"Rp.346.000,-","14":"Rp.418.000,-","15":"Rp.440.000,-","16":"Rp.560.000,-","17":"Rp.560.000,-","18":"Rp.684.000,-","19":"Rp.860.000,-","20":"Rp.926.000,-","21":"Rp.794.000,-","22":"Rp.893.000,-","23":"Rp.959.000,-","24":"Rp.1.275.000,-","25":"Rp.1.940.000,-","26":"Rp.390.000,-","27":"Rp.390.000,-","28":"Rp.460.000,-","29":"Rp.435.000,-","30":"Rp.730.000,-","31":"Rp.985.000,-","32":"Rp.560.000,-","33":"Rp.685.000,-","34":"Rp.885.000,-","35":"Rp.735.000,-","36":"Rp.735.000,-","37":"Rp.1.260.000,-","38":"Rp.1.260.000,-","39":"Rp.377.000,-","40":"Rp.272.000,-","41":"Rp.545.000,-","42":"Rp.650.000,-","43":"Rp.650.000,-","44":"Rp.697.000,-","45":"Rp.697.000,-","46":"Rp.1.185.000,-","47":"Rp.1.132.000,-","48":"Rp.1.258.000,-","49":"Rp.1.185.000,-","50":"Rp.906.000,-","51":"Rp.850.000,-","52":"Rp.875.000,-","53":"Rp.875.000,-","54":"Rp.628.000,-","55":"Rp.628.000,-","56":"Rp.665.000,-","57":"Rp.665.000,-","58":"Rp.885.000,-","59":"Rp.906.000,-","60":"Rp.1.006.000,-","61":"Rp.955.000,-","62":"Rp.1.090.000,-","63":"Rp.1.006.000,-","64":"Rp.728.000,-","65":"Rp.875.000,-","66":"Rp.550.000,-","67":"Rp.675.000,-","68":"Rp.750.000,-","69":"Rp.1.050.000,-","70":"Rp.1.050.000,-","71":"Rp.1.050.000,-","72":"Rp.1.050.000,-","73":"Rp.320.000,-","74":"Rp.480.000,-","75":"Rp.525.000,-","76":"Rp.799.000,-","77":"Rp.525.000,-","78":"Rp.549.000,-","79":"Rp.643.000,-","80":"Rp.529.000,-","81":"Rp.579.000,-","82":"Rp.469.000,-","83":"Rp.499.000,-","84":"Rp.649.000,-","85":"Rp.529.000,-","86":"Rp.1.199.000,-","87":"Rp.629.000,-","88":"Rp.1.149.000,-","89":"Rp.1.149.000,-","90":"Rp.749.000,-","91":"Rp.1.680.000,-","92":"Rp.657.000,-","93":"Rp.1.350.000,-","94":"Rp.643.000,-","95":"Rp.1.005.000,-","96":"Rp.885.000,-","97":"Rp.1.100.000,-","98":"Rp.900.000,-","99":"Rp.822.000,-","100":"Rp.3.350.000,-","101":"Rp.1.099.000,-","102":"Rp.1.170.000,-","103":"Rp.1.032.000,-","104":"Rp.1.483.000,-","105":"Rp.1.885.000,-","106":"Rp.1.150.000,-","107":"Rp.1.385.000,-","108":"Rp.1.265.000,-","109":"Rp.1.900.000,-","110":"Rp.1.031.000,-","111":"Rp.1.860.000,-","112":"Rp.2.235.000,-","113":"Rp.2.285.000,-","114":"Rp.2.180.000,-","115":"Rp.4.900.000,-"},"Image Link":{"0":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/beQuite_Shadow_Rock_LP.jpg?osCsid=e57a50d4d5051e35da4652ca4a72e581","1":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/be quiet! Dark Rock 4.jpg?osCsid=18ae6959360ecd49dc96399b6704e5a9","2":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/be quiet Dark Rock Pro 4.jpg?osCsid=ae9bf339eb1dbabbe352467389382a74","3":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Dark Rock TF.jpg?osCsid=ce982b43820a367f825455ffe1719eed","4":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Shadow Rock 2.jpg?osCsid=e087eaa7b2a293c88f6d6b3ff78882df","5":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/beQuite_Shadow_Rock_Slim.jpg?osCsid=bc1e4e8edaa1f93d864c2be52b8f4b28","6":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/beQuite_Pure__Rock.jpg?osCsid=9bbddd26d2477e655d7b5a5d77af624e","7":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/beQuite_Dark_Rock_3.jpg?osCsid=f0c53e5be6ba51b9c4af7380fcc2b4c1","8":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/beQuite_Dark_Rock_Pro_3.jpg?osCsid=458b20dabad125f09302eb24d5ca3108","9":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/CM_X Dream i117.jpg?osCsid=82498921b53827efffd6d1df284e63e8","10":"http:\/\/www.nanokomputer.com\/images\/products\/Socket 1155\/1156\/Blizzard T2 mini.jpg?osCsid=66c7e403311e21f5ff7fa708ed2fe360","11":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/CM_GeminII M5 LED.jpg?osCsid=99dd9fc7784d41205ca1137b3e0237c9","12":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Hyper H410R.jpg?osCsid=683683c0e3c08bc01d96d5faf0f95377","13":"http:\/\/www.nanokomputer.com\/images\/products\/Air CPU Coolers\/Hyper H411R.jpg?osCsid=d1fbff2194643787394a9ae0aab61a09","14":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/CM - Hyper TX3 EVO.jpg?osCsid=e7a6537f62310619eca1921b37e203e1","15":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/212 Led red.jpg?osCsid=c0a57e54b17e853ceab7aa94dac5cdf8","16":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/CM_Hyper_212_LED_Turbo_Black.jpg?osCsid=abcd035cea16bd37fa958dd3ecbaa067","17":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/CM_Hyper_212_LED_Turbo_Red.jpg?osCsid=6fdc6821b0e54a386bfd5e5983cba636","18":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/MasterAir MA410P.jpg?osCsid=e1f9004c7adfc8304445c2f60689d08f","19":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Product Name.jpg?osCsid=a60c808a9e2bc7983fd6d7880b2a38b5","20":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/MasterAir MA410M TUF Gaming Edition.jpg?osCsid=9ad72a689c0e048c5ec2777bb9b40a10","21":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/MasterAir MA610P.jpg?osCsid=cfc1b85b88afb88de87b307b3af3b908","22":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/MasterAir MA620P.jpg?osCsid=740e8992512b0b41fff22066222bde4a","23":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/MasterAir MA620P TUF Gaming Edition.jpg?osCsid=90a2f586c8568b21c5867f4944e003c4","24":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/V8_GTS.jpg?osCsid=b2a9528682ca65bee83ff86791657261","25":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Cooler_Master_MasterAir_Maker_8.jpg?osCsid=f30f9f6e14c0d2970ee140b4295753a0","26":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_M9.jpg?osCsid=83dfd5a72b3998afe5e2d54e05acd21b","27":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_M9.jpg?osCsid=f2645c23e1ceb6ff1ac069065fa86354","28":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_M9_Plus.jpg?osCsid=0c0dc632e3fc441244aaf478782cb6ac","29":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_C7.jpg?osCsid=c44d81f0b971c352ed771408eb3d3410","30":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_C7_Cu.jpg?osCsid=f683fcdde60ae0558b955606342e9b31","31":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_C1.jpg?osCsid=e9577f25bebfdf4866bd80398152c625","32":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Cryorig_H7.jpg?osCsid=fbbc306fcaf0014e1b08480154d126e3","33":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_H7_Plus.jpg?osCsid=86013169728b21e5ac797249ed4b1122","34":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_H7_Quad_Lumi.jpg?osCsid=cd2d9628376f1689bb06b817f86da3f7","35":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_H5_Universal.jpg?osCsid=587504327fce3a9513cd9a02e3547c0c","36":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_H5_Ultimate.jpg?osCsid=a25c1899909604c31dc7e378a68b6695","37":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_R1_Universal.jpg?osCsid=9f7aa3255a7716e44eee7dd1236d7dbf","38":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Cryorig_R1_Ultimate.jpg?osCsid=e0cbee75ca7c9387a6e8559ad6b3f908","39":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/ETS_N30.jpg?osCsid=1017bddd2de8ecd45ec4a7d43b2a885c","40":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/ETS-N31.jpg?osCsid=961c37a0ddfa353a4af8475c393e2331","41":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Enermax - ETS-T40F-TB.jpg?osCsid=0a0c10a75f3b023ad320eab2ceda7e62","42":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Enermax - ETS-T40F-BK.jpg?osCsid=64e3b5e22fda7b3fd5a4c9f6762fc5d8","43":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Enermax - ETS-T40F-W.jpg?osCsid=11014e4c35c73848c6987db9153269cf","44":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Enermax - ETS-T50A-BVT.jpg?osCsid=fc04c7f6896e5dc873abd2873f537e9b","45":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/ETS-T50A-WVS.jpg?osCsid=09cab1adef6d389934776c33299294d5","46":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Noctua_NH-C14S.jpg?osCsid=dc8b07a3202868e9ab477726dc23fbc7","47":"http:\/\/www.nanokomputer.com\/images\/products\/Accesories\/Cooling Devices\/CPU Cooler\/NH-D14 1.jpg?osCsid=c9941ef11cece7b38209bbd193a1c02c","48":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/NH-D15.jpg?osCsid=1a2d2fb4770b8114792bd3b27eb1c1b8","49":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/noctua_NH-D15S.jpg?osCsid=764ef03d41ef185be1e1229397fff3c7","50":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Noctua_NH-D9DX i4 3U.jpg?osCsid=3abe5ae98d15eabc397309750d23ff3d","51":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/Air Coolers\/NH-D9L.jpg?osCsid=eaafa0c9bc86c7bcdc4dfb3f30a54eb1","52":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/NH-L12 1.jpg?osCsid=c226afce18724e1f5da18b0dd5e13049","53":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/NH-L12S.jpg?osCsid=6e8b51a77631d480c2369f1383bf8516","54":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/Air Coolers\/NH-L9A.jpg?osCsid=6c917c9abc774a7c5d2fd6e9efe9b643","55":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/noctua_nh_l9i_2.jpg?osCsid=000e5838b94554cc0958a90cba664f39","56":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Noctua_NH-L9x65.jpg?osCsid=f6c34d53e97387a362f2a49dcf3c629b","57":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/NH-L9X65 AM4.jpg?osCsid=f3b2193227249e30a22f1ab297f30f2c","58":"http:\/\/www.nanokomputer.com\/images\/products\/Accesories\/Cooling Devices\/CPU Cooler\/NH-U12P SE2 1.jpg?osCsid=e94341b53bbf673599aba1d71409450a","59":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/NH_U12S.jpg?osCsid=c03c153657c233708cabeecea70d1b14","60":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/NH-U12S TR4-SP3.jpg?osCsid=d0631e266285699fa8dd8e6da3aa239b","61":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/NH_U14S.jpg?osCsid=cbe729c0f213615b2ddced2d1b634f0b","62":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/NH-U14S TR4-SP3.jpg?osCsid=4764e097fbfb5096f655204aa0b56940","63":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/NH-U9 TR4-SP3.jpg?osCsid=a1e47ecb454f9ebf33d8fdd81380394f","64":"http:\/\/www.nanokomputer.com\/images\/products\/Accesories\/Cooling Devices\/CPU Cooler\/NH-U9B SE2 1.jpg?osCsid=2a7a36ba40555a4d1ecd2a74f8da754b","65":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/Air Coolers\/NH-U9S.jpg?osCsid=3649701deb8d86b21dbb8fa5b5773f14","66":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Phanteks_PH-TC12LS\u00a0Black.jpg?osCsid=6248f237745f0c879e7e44fe4f99a85b","67":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Phanteks_PH-TC14S.jpg?osCsid=7df28d5640ee29bcecbdbb8c6728649f","68":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/Phanteks_PH-TC12DX\u00a0White.jpg?osCsid=7bf5e10fe8f61282a56f6b5833d7bfd7","69":"http:\/\/www.nanokomputer.com\/images\/products\/Socket 2011\/PH-TC14PE.jpg?osCsid=9403a28353b23710abf5a68689af4a36","70":"http:\/\/www.nanokomputer.com\/images\/products\/Socket 2011\/PH-TC14PE_BL.jpg?osCsid=99a6d4fa6989ef63b528716038674026","71":"http:\/\/www.nanokomputer.com\/images\/products\/Socket 2011\/PH-TC14PE_RD.jpg?osCsid=e90d1a897f58dfabd0f7bb21f504245c","72":"http:\/\/www.nanokomputer.com\/images\/products\/Socket 2011\/PH-TC14PE_OR.jpg?osCsid=a518714f5ef07228e713691722fbcd05","73":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Rajintek_aidos.jpg?osCsid=5b0640a8152887d2d26e0e61366d7025","74":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Rajintek_ereboss.jpg?osCsid=206fe247ef601ac368d06451927e6c99","75":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Rajintek_themis_evo.jpg?osCsid=4108222d1596b7c09ea78d3d8c7f3a2c","76":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Rajintek_tisis.jpg?osCsid=435f7d3c2d064b6375efb3eba0f7d915","77":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Air Coolers\/Rajintek_pallas.jpg?osCsid=e9d022ffe723fa88eae13eb2c8a6e7c8","78":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/silverstone_AR04.jpg?osCsid=51fc4a5a631bc8e73e152ac89003518f","79":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Air Coolers\/silverstone_AR05.jpg?osCsid=5a1d32f6dbb09a1c562565d9c1c5608a","80":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/AXP-100H Muscle.jpg?osCsid=cea0cc2d8a4d9402c2bfaef56df4e97c","81":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/AXP-100RH.jpg?osCsid=94a16f943fe52e9f682651c6664ebbc3","82":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/True Spirit 120M BW.jpg?osCsid=bc63dacfdf2e970d1bd8acf2605e148a","83":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/True Spirit 140 Direct.jpg?osCsid=765199734592eecfc0729f70964f03f0","84":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/True Spirit 140 Power.jpg?osCsid=7068054ebba53d55b08346244d57a8d2","85":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Macho Direct.jpg?osCsid=4c970b6f29f4aec4f1f0fb7fd5decaa8","86":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/ARCHON IB-E X2.jpg?osCsid=ac8cec91e1457865179057f7ec7a7696","87":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Macho Rev.B.jpg?osCsid=cbf4fd3e403dc413ccc2ef14d8e78485","88":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Silver Arrow IB-E Extreme.jpg?osCsid=798475111f88a7ffaf2f72cda3dd1ebf","89":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Air CPU Coolers\/Silver Arrow ITX-R.jpg?osCsid=8e8803e195ff6dc8c4f300bb5f1ceda6","90":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/All in One\/120mm\/Aigo 120.jpg?osCsid=c2477d976df89a6dae53d5dc1021ba9c","91":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Liquid CPU Coolers\/All in One\/120mm\/be quiet Silent Loop 120mm.jpg?osCsid=757cbecc9fbd0d0e26aec0cccac9b3de","92":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/All in One\/280mm\/CM_MasterLiquid_Lite_120.jpg?osCsid=d3263c17cfe97674c1ff539892b27cc8","93":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/All in One\/240mm\/MasterLiquid ML120R RGB.jpg?osCsid=fd9b0df72f22b0dabde2c5080ed1c08a","94":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/All in One\/120mm\/Seidon 120V V3 Plus.jpg?osCsid=0bedb0de3eb66225994588f41c29246f","95":"http:\/\/www.nanokomputer.com\/images\/products\/CPU Coolers\/h60_hero_fan.jpg?osCsid=a90090d7fa189fdfa36239088a44753b","96":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/120mm\/Captain 120EX.jpg?osCsid=bdd26e6bda113e5d98395843626e856c","97":"http:\/\/www.nanokomputer.com\/images\/products\/120mm\/DeepCool_Captain_120EX_RGB.jpg?osCsid=3c5d5d4027235cbdc74ba546678f4d58","98":"http:\/\/www.nanokomputer.com\/images\/products\/120mm\/DeepCool_Captain_120EX_White.jpg?osCsid=2bb0e11b7c1b5943a5f18c79fc25a7b6","99":"http:\/\/www.nanokomputer.com\/images\/products\/120mm\/silverstone_TD03-SLIM.jpg?osCsid=dffcc001e5621220ffd1ddcb5bb8fb44","100":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Liquid CPU Coolers\/All in One\/240mm\/RYUO 240 RGB AIO.jpg?osCsid=9867096ed1901bf80cd589e272ffc27c","101":"http:\/\/www.nanokomputer.com\/images\/products\/All in One\/240mm\/Aigo cooler 240.jpg?osCsid=ebb9c9794ea7aad09c44642349a8a034","102":"http:\/\/www.nanokomputer.com\/images\/products\/240mm\/CM_MasterLiquid 240.jpg?osCsid=87f46c07c08e21f6de9e32c27f01d821","103":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/All in One\/240mm\/MasterLiquid ML240L RGB.jpg?osCsid=def1281d9388724c775b7d5fe45eec56","104":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/All in One\/240mm\/MasterLiquid ML240R RGB.jpg?osCsid=897b44fc1ac118fb44380f2caa104455","105":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Liquid CPU Coolers\/All in One\/240mm\/Hydro Series H115i PLATINUM.jpg?osCsid=254d7b49f7040921c6bcb02ef57f4bf1","106":"http:\/\/www.nanokomputer.com\/images\/products\/240mm\/DeepCool_Captain_240EX_Black.jpg?osCsid=4a6f461d29b6cb45cce2824afd99997a","107":"http:\/\/www.nanokomputer.com\/images\/products\/240mm\/DeepCool_Captain_240EX_RGB.jpg?osCsid=366de70329bfb73f5ff5f4df1468eafa","108":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/240mm\/Captain 240IX.jpg?osCsid=a5e461a4e23230200f5bc97989d37fdd","109":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Liquid CPU Coolers\/All in One\/240mm\/NZXT_Kraken_X52.jpg?osCsid=83aeea1882e13adc07921c5d194078a2","110":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/CPU Water\/ Liquid Coolers\/SST-TD02-Lite-V2.jpg?osCsid=e5bd2f20906edaa0b156acbbd3403015","111":"http:\/\/www.nanokomputer.com\/images\/products\/280mm\/Corsair_H110i.jpg?osCsid=fef348ef9162483fe452d89c0473ab09","112":"http:\/\/www.nanokomputer.com\/images\/products\/All in One\/280mm\/H115i PRO RGB.jpg?osCsid=f851da838cd29fed1eb32527bcf84345","113":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Liquid CPU Coolers\/All in One\/360mm\/Hydro Series H115i PLATINUM.jpg?osCsid=4fb32a5f52f2d1fc47ee8057d96991ba","114":"http:\/\/www.nanokomputer.com\/images\/products\/280mm\/NZXT_Kraken_X62.jpg?osCsid=c3b6356ca35511991e871e06f817c3cc","115":"http:\/\/www.nanokomputer.com\/images\/products\/Cooling\/Liquid CPU Coolers\/All in One\/360mm\/Ryujin 360.jpg?osCsid=68d28fd0173c0523b1b253b57035de3a"}}
+[
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    },
+    {
+        "ID": "[ROG RYUJIN 360]",
+        "Nama Optical Drive": "Asus - ROG RYUJIN 360",
+        "Deskripsi": "360mm Liquid CoolerIntel: LGA 1150, 1151, 1152, 1155, 1156, 1366, 2011, 2011-3, 2066AMD: AM4, TR4*",
+        "Harga": "Rp.4.900.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Cooling/Liquid CPU Coolers/All in One/360mm/Ryujin 360.jpg?osCsid=5efa711a6baf48d26b240ef010586251"
+    }
+]
