@@ -1,7 +1,13 @@
 all: clean run
 
-clean: 
+clean:
+	@echo "Cleaning data..."
+	del /f data\*.json
+	@echo "Cleaning data finished"
 
-run: # run your binary
+run:
+	@echo "Running script..."
+	py src/Script.py
+	@echo "Running script done"
 
 # build tidak dibutuhkan karena menggunakan interpter (python)

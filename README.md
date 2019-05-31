@@ -53,18 +53,37 @@ Sebelum menjalankannya, dilakukan tahap ini untuk menginstalasi _python_ dan lib
 6. Install _requests_ dengan menuliskan _pip install requests_ pada CLI
 ```
 
-Setelah instalasi, terdapat 2 cara untuk menjalankan program ini, yaitu:<br/>
+Setelah instalasi, terdapat 1 cara untuk menjalankan program ini, yaitu:<br/>
 _Command Line Interface_
 ```
 1. Membuka folder _Seleksi-2019-Tugas-1_ pada CLI
-2. Memasukkan perintah python src/Script.py
+2. Hapus semua file yang terdapat dalam folder data, lalu kembali lagi ke folder sebelumnya
+3. Masuk ke dalam folder src
+4. Masukkan python Script.py (atau py Script.py jika python tidak dimasukkan ke environment)
+```
+
+__Linux (Ubuntu)__
+Sebelum menjalankan, dilakukan tahap instalasi python dan library yang dibutuhkan:
+```
+1. Install python: apt-get install python3.7
+2. Install pip: apt install python3-pip
+3. Install beautifulsoup: pip install beautifulsoup
+4. Install requests: pip install requests
+```
+
+Setelah instalasi, terdapat 2 cara untuk menjalankan program ini, yaitu:<br/>
+_Command Line Interface (Terminal)_
+```
+1. Membuka folder _Seleksi-2019-Tugas-1_ pada Terminal
+2. Hapus semua file yang terdapat dalam folder data, lalu kembali lagi ke folder sebelumnya
+3. Masuk ke dalam folder src
+4. Masukkan python3 Script.py
 ```
 _Makefile_
 ```
-1. Membuka folder _Seleksi-2019-Tugas-1_ pada CLI
-2. Memasukkan perintah 
+1. Membuka folder _Seleksi-2019-Tugas-1_ pada Terminal
+2. Masukkan 'make' dan Makefile akan menjalankan kode di dalamnya
 ```
-
 
 ## Ide dan inovasi dengan menggunakan data
 Data yang diperoleh dari hasil scraping ini dapat digunakan dan dikembangkan untuk:
@@ -123,15 +142,15 @@ __SeasonData.json__
 ## Referensi
 Library yang digunakan:
 ```
-1. requests             -> Melakukan HTTP Request terhadap website
+1. _requests_           -> Melakukan HTTP Request terhadap website
                         -> ref: https://2.python-requests.org/en/master/
-2. beautifulsoup (bs4)  -> Melakukan olah data pada hasil HTTP Request
+2. _beautifulsoup (bs4)_-> Melakukan olah data pada hasil HTTP Request
                         -> ref: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-3. json                 -> Menuliskan file ke format .json
+3. _json_               -> Menuliskan file ke format .json
                         -> ref: https://docs.python.org/3/library/json.html
-4. copy                 -> Memastikan kekonsistenan data saat membuat file JSON
+4. _copy_               -> Memastikan kekonsistenan data saat membuat file JSON
                         -> ref: https://docs.python.org/3/library/copy.html
-5. time                 -> Memberikan waktu sleep buat program sebagai interval waktu antar request
+5. _time_               -> Memberikan waktu sleep buat program sebagai interval waktu antar request
                         -> ref: https://docs.python.org/3/library/time.html
 ```
 
@@ -159,7 +178,8 @@ SeasonData<br/>
 
 __Screenshot program saat dieksekusi__<br/>
 Run<br/>
-![Run](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_run.png)
+![Run](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_run.png)<br/>
+Keterangan: File saat di-run masih bernama TestScraping
 
 
 ##### Author: Jan Meyer Saragih / 13517131
