@@ -51,12 +51,12 @@ JSON memiliki format sebuah key 'jobs' yang menyimpan data-data dari pekerjaan-p
 {
   "jobs": [
     {
-      "job_title": <i> title </i>
-      "company": <i> company </i>
-      "location": <i> location </i>
-      "salary": <i> salary </i>
-      "upload_date": <i> date </i>
-      "short_description": <i> description </i>
+      "job_title": title
+      "company": company
+      "location": location
+      "salary": salary
+      "upload_date": date
+      "short_description": description
     },
     ...
   ]
