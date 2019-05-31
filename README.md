@@ -7,7 +7,7 @@
 
 
 ## Description
-Script ini melakukan _data scraping_ pada laman http://www.nanokomputer.com/. NanoKomputer merupakan salah satu toko komputer terbesar dan terlengkap yang berada di wilayah Jakarta dengan tingkat kredibilitas yang tinggi. Beberapa komponen utama dalam perakitan PC yang akan dilakukan _data scraping_, yaitu :
+Script ini melakukan _data scraping_ pada laman _http://www.nanokomputer.com/_. NanoKomputer merupakan salah satu toko komputer terbesar dan terlengkap yang berada di wilayah Jakarta dengan tingkat kredibilitas yang tinggi. Beberapa komponen utama dalam perakitan PC yang akan dilakukan _data scraping_, yaitu :
 - Processor
 - Motherboard
 - Memory
@@ -29,6 +29,12 @@ Untuk setiap komponen akan didapatkan data informasi dari katalog NanoKomputer b
 ## Specification
 Program dibuat dalam bahasa pemograman python3, dan dapat dijalankan menggunakan sistem operasi linux. Untuk setiap kali melakukan _request_, program akan melakukan _sleep_ selama 5 detik agar tidak memberatkan server. Program akan mengambil data dari setiap laman part pc berupa id barang, nama barang, deskripsi barang, harga barang, dan link gambar barang yang dituju. Data yang diambil kemudian disimpan dalam suatu list dari _tuple_ data dan kemudian akan diexport ke dalam file dengan format _json_. Setiap komponen part PC akan diexport kedalam file _json_ masing-masing.
 
+- Runtime : Python3
+- Libraries :
+  - Requests
+  - BeautifulSoup
+  - Json
+  - Time
 
 ## How to Use
 Penginstallan library yang diperlukan dengan perintah pada Command Line Interface (CLI) :
@@ -87,7 +93,7 @@ Sampel struktur _json_ yang digunakan dengan orient column dan hasil penulisan f
 ![screenshotCode4](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code3.png)
 ![screenshotCode5](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code3.png)
 
-### Json Structure (with json formatter)
+### Json Structure
 ![screenshotJsonStructure1](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Json_Structure.png)
 
 
