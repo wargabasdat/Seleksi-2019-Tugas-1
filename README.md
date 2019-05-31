@@ -1,108 +1,67 @@
 <h1 align="center">
   <br>
-  Seleksi 1 Warga Basdat 2019
+  1000 Top Film Based on Popularity
   <br>
   <br>
 </h1>
+**Naufal Aditya Dirgandhavi**
+**13517064**
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
-
+## Description
+Sebagai seorang penikmat film, tentunya sering kebingungan untuk menentukan film apa yang bagus untuk ditonton. Untuk itu script ini ada untuk melakukan _data scraping_ mengurutkan 1000 film terbaik menurut [IMDb](https://www.imdb.com). Beberapa komponen yang akan dilakukan _data scraping_ yaitu :
+- Judul Film
+- Genre
+- Rating
+- Durasi film
 
 ## Specifications
+- Runtime : Python3
+- Libraries :
+  - Pandas
+  - BeautifulSoup
+  - Requests
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
-
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. <span style="color:blue;">Peserta juga diminta untuk membuat _simple build tools_ semacam `Makefile`, `npm scripts`, `runjs` yang bertujuan untuk membuat _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_.</span>
-
-> Template `makefile`
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+## How to use
+Jalankan script dengan menjalankan perintah ini di CLI:
 ```
-
-> Template `npm scripts`
-
-```javascript
-"scripts": {
-  "build": // if any (optional)
-  "clean": // delete node_modules
-}
+$ cd src
+$ python3 src/Scrap.py Comedy (bisa diganti sesuai preferensi)
+$ npm run start
 ```
+File hasil *scraping* akan ditulis ke dalam direktori ```/data```.
 
-> Template `runjs`
-```javascript
-import { run } from 'runjs'
+## Ideas and Innovation
+Data 1000 film terbaik ini dapat digunakan 
 
-export function clean () {
-}
-
-export function start () {
-}
-
-export function build () {
-  // if any (optional)
-}
+## JSON Structure
 ```
-
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
+[
+    {
+        "Film-List": [
+            "0" : {
+                "Title": "Game of Thrones",
+                "Genre": "Action, Adventure, Drama",
+                "Rating": "9.4",
+                "Runtime": "57 min"
+            },
+            ...
+        ]
+    },
+    ...
+]
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+## Screenshot
+#Source Code
+![](screenshots/Screenshot.png)
+#JSON Structure(With formatter)
+![](screenshots/JSON.png)
 
-12. <span style="color:blue">Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :</span>
-```
-- Description
-- Specification (optional)
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+## References
+Script ini menggunakan library dan framework:
+1. BeautifulSoup sebagai tools _data scraping_ untuk bahasa pemrograman python
+2. Requests untuk melakukan request pada suatu web dan mengambil data informasinya
+3. Pandas untuk mengelompokan data informasi menjadi suatu _dataframe_ dan di _export_ ke dalam file json
 
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+## Author
+Naufal Aditya Dirgandhavi
+13517064

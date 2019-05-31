@@ -1,7 +1,7 @@
 all: clean build run
 
-clean: # remove data and binary folder
+clean: rm data/data*
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+build: # compile to binary (using interpreter, not implementing)
 
-run: # run your binary
+run: python3 src/Scrap.py Comedy #genre could be change as preferences
