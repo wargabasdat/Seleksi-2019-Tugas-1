@@ -56,7 +56,18 @@ dan masih banyak lagi. Saya harapkan dari data yang didapatkan bisa memberikan i
 
 # JSON Structure
 Berikut adalah headers yang tersedia:
-'id','title', 'author', 'ISBN', 'series', 'avg_rating', 'pages', 'rating_count', 'review_count', 'book_format','published_date', 'publisher'
+'id',
+'title', 
+'author', 
+'ISBN', 
+'series', 
+'avg_rating', 
+'pages', 
+'rating_count', 
+'review_count', 
+'book_format',
+'published_date', 
+'publisher'
 
 contoh .json hasil:
     {
@@ -75,11 +86,11 @@ contoh .json hasil:
     }
 
 # Screenshots:
-![alt text](https://imgur.com/pnsDO2u)
+https://imgur.com/pnsDO2u
 
-![alt text](https://imgur.com/2By7yGU)
+https://imgur.com/2By7yGU
 
-![alt text](https://imgur.com/PwZzEX6)
+https://imgur.com/PwZzEX6
 
 # Reference:
   Python 3.7.
