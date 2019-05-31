@@ -4,6 +4,7 @@
   <br>
   <br>
 </h1>
+
 **Naufal Aditya Dirgandhavi**
 **13517064**
 
@@ -47,7 +48,6 @@ Data 1000 film terbaik ini dapat digunakan
             ...
         ]
     },
-    ...
 ]
 ```
 ## Screenshot
