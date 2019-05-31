@@ -9,7 +9,7 @@
             },
             "chartInfo": {
                 "lastWeek": "3",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 1
             }
         },
@@ -22,7 +22,7 @@
             },
             "chartInfo": {
                 "lastWeek": "2",
-                "timeSpent": "12",
+                "timeSpent": 12,
                 "highestPosition": 1
             }
         },
@@ -35,7 +35,7 @@
             },
             "chartInfo": {
                 "lastWeek": "4",
-                "timeSpent": "3",
+                "timeSpent": 3,
                 "highestPosition": 3
             }
         },
@@ -48,7 +48,7 @@
             },
             "chartInfo": {
                 "lastWeek": "1",
-                "timeSpent": "4",
+                "timeSpent": 4,
                 "highestPosition": 1
             }
         },
@@ -61,7 +61,7 @@
             },
             "chartInfo": {
                 "lastWeek": "6",
-                "timeSpent": "8",
+                "timeSpent": 8,
                 "highestPosition": 4
             }
         },
@@ -74,7 +74,7 @@
             },
             "chartInfo": {
                 "lastWeek": "8",
-                "timeSpent": "10",
+                "timeSpent": 10,
                 "highestPosition": 6
             }
         },
@@ -87,7 +87,7 @@
             },
             "chartInfo": {
                 "lastWeek": "7",
-                "timeSpent": "19",
+                "timeSpent": 19,
                 "highestPosition": 1
             }
         },
@@ -100,7 +100,7 @@
             },
             "chartInfo": {
                 "lastWeek": "15",
-                "timeSpent": "15",
+                "timeSpent": 15,
                 "highestPosition": 8
             }
         },
@@ -113,7 +113,7 @@
             },
             "chartInfo": {
                 "lastWeek": "10",
-                "timeSpent": "11",
+                "timeSpent": 11,
                 "highestPosition": 9
             }
         },
@@ -126,7 +126,7 @@
             },
             "chartInfo": {
                 "lastWeek": "5",
-                "timeSpent": "13",
+                "timeSpent": 13,
                 "highestPosition": 1
             }
         },
@@ -139,7 +139,7 @@
             },
             "chartInfo": {
                 "lastWeek": "13",
-                "timeSpent": "7",
+                "timeSpent": 7,
                 "highestPosition": 11
             }
         },
@@ -152,7 +152,7 @@
             },
             "chartInfo": {
                 "lastWeek": "9",
-                "timeSpent": "6",
+                "timeSpent": 6,
                 "highestPosition": 5
             }
         },
@@ -165,7 +165,7 @@
             },
             "chartInfo": {
                 "lastWeek": "11",
-                "timeSpent": "15",
+                "timeSpent": 15,
                 "highestPosition": 4
             }
         },
@@ -178,7 +178,7 @@
             },
             "chartInfo": {
                 "lastWeek": "12",
-                "timeSpent": "11",
+                "timeSpent": 11,
                 "highestPosition": 3
             }
         },
@@ -191,7 +191,7 @@
             },
             "chartInfo": {
                 "lastWeek": "14",
-                "timeSpent": "19",
+                "timeSpent": 19,
                 "highestPosition": 4
             }
         },
@@ -204,7 +204,7 @@
             },
             "chartInfo": {
                 "lastWeek": "16",
-                "timeSpent": "16",
+                "timeSpent": 16,
                 "highestPosition": 13
             }
         },
@@ -217,7 +217,7 @@
             },
             "chartInfo": {
                 "lastWeek": "23",
-                "timeSpent": "12",
+                "timeSpent": 12,
                 "highestPosition": 5
             }
         },
@@ -230,7 +230,7 @@
             },
             "chartInfo": {
                 "lastWeek": "39",
-                "timeSpent": "11",
+                "timeSpent": 11,
                 "highestPosition": 18
             }
         },
@@ -243,7 +243,7 @@
             },
             "chartInfo": {
                 "lastWeek": "18",
-                "timeSpent": "20",
+                "timeSpent": 20,
                 "highestPosition": 1
             }
         },
@@ -256,7 +256,7 @@
             },
             "chartInfo": {
                 "lastWeek": "19",
-                "timeSpent": "36",
+                "timeSpent": 36,
                 "highestPosition": 2
             }
         },
@@ -269,7 +269,7 @@
             },
             "chartInfo": {
                 "lastWeek": "27",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 21
             }
         },
@@ -282,7 +282,7 @@
             },
             "chartInfo": {
                 "lastWeek": "17",
-                "timeSpent": "10",
+                "timeSpent": 10,
                 "highestPosition": 7
             }
         },
@@ -295,7 +295,7 @@
             },
             "chartInfo": {
                 "lastWeek": "20",
-                "timeSpent": "21",
+                "timeSpent": 21,
                 "highestPosition": 4
             }
         },
@@ -308,7 +308,7 @@
             },
             "chartInfo": {
                 "lastWeek": "22",
-                "timeSpent": "12",
+                "timeSpent": 12,
                 "highestPosition": 7
             }
         },
@@ -321,7 +321,7 @@
             },
             "chartInfo": {
                 "lastWeek": "25",
-                "timeSpent": "26",
+                "timeSpent": 26,
                 "highestPosition": 15
             }
         },
@@ -334,7 +334,7 @@
             },
             "chartInfo": {
                 "lastWeek": "26",
-                "timeSpent": "29",
+                "timeSpent": 29,
                 "highestPosition": 4
             }
         },
@@ -347,7 +347,7 @@
             },
             "chartInfo": {
                 "lastWeek": "31",
-                "timeSpent": "11",
+                "timeSpent": 11,
                 "highestPosition": 27
             }
         },
@@ -360,7 +360,7 @@
             },
             "chartInfo": {
                 "lastWeek": "28",
-                "timeSpent": "9",
+                "timeSpent": 9,
                 "highestPosition": 11
             }
         },
@@ -373,7 +373,7 @@
             },
             "chartInfo": {
                 "lastWeek": "NEW",
-                "timeSpent": "1",
+                "timeSpent": 1,
                 "highestPosition": 29
             }
         },
@@ -386,7 +386,7 @@
             },
             "chartInfo": {
                 "lastWeek": "38",
-                "timeSpent": "3",
+                "timeSpent": 3,
                 "highestPosition": 30
             }
         },
@@ -399,7 +399,7 @@
             },
             "chartInfo": {
                 "lastWeek": "21",
-                "timeSpent": "13",
+                "timeSpent": 13,
                 "highestPosition": 21
             }
         },
@@ -412,7 +412,7 @@
             },
             "chartInfo": {
                 "lastWeek": "30",
-                "timeSpent": "6",
+                "timeSpent": 6,
                 "highestPosition": 30
             }
         },
@@ -425,7 +425,7 @@
             },
             "chartInfo": {
                 "lastWeek": "24",
-                "timeSpent": "18",
+                "timeSpent": 18,
                 "highestPosition": 1
             }
         },
@@ -438,7 +438,7 @@
             },
             "chartInfo": {
                 "lastWeek": "33",
-                "timeSpent": "46",
+                "timeSpent": 46,
                 "highestPosition": 2
             }
         },
@@ -451,7 +451,7 @@
             },
             "chartInfo": {
                 "lastWeek": "46",
-                "timeSpent": "3",
+                "timeSpent": 3,
                 "highestPosition": 35
             }
         },
@@ -464,7 +464,7 @@
             },
             "chartInfo": {
                 "lastWeek": "36",
-                "timeSpent": "35",
+                "timeSpent": 35,
                 "highestPosition": 1
             }
         },
@@ -477,7 +477,7 @@
             },
             "chartInfo": {
                 "lastWeek": "29",
-                "timeSpent": "22",
+                "timeSpent": 22,
                 "highestPosition": 2
             }
         },
@@ -490,7 +490,7 @@
             },
             "chartInfo": {
                 "lastWeek": "32",
-                "timeSpent": "26",
+                "timeSpent": 26,
                 "highestPosition": 10
             }
         },
@@ -503,7 +503,7 @@
             },
             "chartInfo": {
                 "lastWeek": "43",
-                "timeSpent": "15",
+                "timeSpent": 15,
                 "highestPosition": 19
             }
         },
@@ -516,7 +516,7 @@
             },
             "chartInfo": {
                 "lastWeek": "37",
-                "timeSpent": "34",
+                "timeSpent": 34,
                 "highestPosition": 3
             }
         },
@@ -529,7 +529,7 @@
             },
             "chartInfo": {
                 "lastWeek": "35",
-                "timeSpent": "27",
+                "timeSpent": 27,
                 "highestPosition": 9
             }
         },
@@ -542,7 +542,7 @@
             },
             "chartInfo": {
                 "lastWeek": "49",
-                "timeSpent": "52",
+                "timeSpent": 52,
                 "highestPosition": 1
             }
         },
@@ -555,7 +555,7 @@
             },
             "chartInfo": {
                 "lastWeek": "34",
-                "timeSpent": "8",
+                "timeSpent": 8,
                 "highestPosition": 7
             }
         },
@@ -568,7 +568,7 @@
             },
             "chartInfo": {
                 "lastWeek": "45",
-                "timeSpent": "3",
+                "timeSpent": 3,
                 "highestPosition": 44
             }
         },
@@ -581,7 +581,7 @@
             },
             "chartInfo": {
                 "lastWeek": "NEW",
-                "timeSpent": "1",
+                "timeSpent": 1,
                 "highestPosition": 45
             }
         },
@@ -594,7 +594,7 @@
             },
             "chartInfo": {
                 "lastWeek": "52",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 46
             }
         },
@@ -607,7 +607,7 @@
             },
             "chartInfo": {
                 "lastWeek": "68",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 47
             }
         },
@@ -620,7 +620,7 @@
             },
             "chartInfo": {
                 "lastWeek": "54",
-                "timeSpent": "24",
+                "timeSpent": 24,
                 "highestPosition": 2
             }
         },
@@ -633,7 +633,7 @@
             },
             "chartInfo": {
                 "lastWeek": "48",
-                "timeSpent": "46",
+                "timeSpent": 46,
                 "highestPosition": 4
             }
         },
@@ -646,7 +646,7 @@
             },
             "chartInfo": {
                 "lastWeek": "53",
-                "timeSpent": "6",
+                "timeSpent": 6,
                 "highestPosition": 50
             }
         },
@@ -659,7 +659,7 @@
             },
             "chartInfo": {
                 "lastWeek": "75",
-                "timeSpent": "63",
+                "timeSpent": 63,
                 "highestPosition": 3
             }
         },
@@ -672,7 +672,7 @@
             },
             "chartInfo": {
                 "lastWeek": "40",
-                "timeSpent": "20",
+                "timeSpent": 20,
                 "highestPosition": 8
             }
         },
@@ -685,7 +685,7 @@
             },
             "chartInfo": {
                 "lastWeek": "47",
-                "timeSpent": "63",
+                "timeSpent": 63,
                 "highestPosition": 1
             }
         },
@@ -698,7 +698,7 @@
             },
             "chartInfo": {
                 "lastWeek": "82",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 54
             }
         },
@@ -711,7 +711,7 @@
             },
             "chartInfo": {
                 "lastWeek": "41",
-                "timeSpent": "17",
+                "timeSpent": 17,
                 "highestPosition": 10
             }
         },
@@ -724,7 +724,7 @@
             },
             "chartInfo": {
                 "lastWeek": "60",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 56
             }
         },
@@ -737,7 +737,7 @@
             },
             "chartInfo": {
                 "lastWeek": "70",
-                "timeSpent": "27",
+                "timeSpent": 27,
                 "highestPosition": 16
             }
         },
@@ -750,7 +750,7 @@
             },
             "chartInfo": {
                 "lastWeek": "42",
-                "timeSpent": "18",
+                "timeSpent": 18,
                 "highestPosition": 16
             }
         },
@@ -763,7 +763,7 @@
             },
             "chartInfo": {
                 "lastWeek": "72",
-                "timeSpent": "43",
+                "timeSpent": 43,
                 "highestPosition": 1
             }
         },
@@ -776,7 +776,7 @@
             },
             "chartInfo": {
                 "lastWeek": "44",
-                "timeSpent": "6",
+                "timeSpent": 6,
                 "highestPosition": 40
             }
         },
@@ -789,7 +789,7 @@
             },
             "chartInfo": {
                 "lastWeek": "50",
-                "timeSpent": "3",
+                "timeSpent": 3,
                 "highestPosition": 50
             }
         },
@@ -802,7 +802,7 @@
             },
             "chartInfo": {
                 "lastWeek": "51",
-                "timeSpent": "24",
+                "timeSpent": 24,
                 "highestPosition": 2
             }
         },
@@ -815,7 +815,7 @@
             },
             "chartInfo": {
                 "lastWeek": "61",
-                "timeSpent": "133",
+                "timeSpent": 133,
                 "highestPosition": 1
             }
         },
@@ -828,7 +828,7 @@
             },
             "chartInfo": {
                 "lastWeek": "74",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 64
             }
         },
@@ -841,7 +841,7 @@
             },
             "chartInfo": {
                 "lastWeek": "64",
-                "timeSpent": "42",
+                "timeSpent": 42,
                 "highestPosition": 8
             }
         },
@@ -854,7 +854,7 @@
             },
             "chartInfo": {
                 "lastWeek": "73",
-                "timeSpent": "47",
+                "timeSpent": 47,
                 "highestPosition": 2
             }
         },
@@ -867,7 +867,7 @@
             },
             "chartInfo": {
                 "lastWeek": "NEW",
-                "timeSpent": "1",
+                "timeSpent": 1,
                 "highestPosition": 67
             }
         },
@@ -880,7 +880,7 @@
             },
             "chartInfo": {
                 "lastWeek": "66",
-                "timeSpent": "54",
+                "timeSpent": 54,
                 "highestPosition": 5
             }
         },
@@ -893,7 +893,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "82",
+                "timeSpent": 82,
                 "highestPosition": 5
             }
         },
@@ -906,7 +906,7 @@
             },
             "chartInfo": {
                 "lastWeek": "56",
-                "timeSpent": "36",
+                "timeSpent": 36,
                 "highestPosition": 1
             }
         },
@@ -919,7 +919,7 @@
             },
             "chartInfo": {
                 "lastWeek": "63",
-                "timeSpent": "29",
+                "timeSpent": 29,
                 "highestPosition": 4
             }
         },
@@ -932,7 +932,7 @@
             },
             "chartInfo": {
                 "lastWeek": "67",
-                "timeSpent": "28",
+                "timeSpent": 28,
                 "highestPosition": 1
             }
         },
@@ -945,7 +945,7 @@
             },
             "chartInfo": {
                 "lastWeek": "81",
-                "timeSpent": "49",
+                "timeSpent": 49,
                 "highestPosition": 3
             }
         },
@@ -958,7 +958,7 @@
             },
             "chartInfo": {
                 "lastWeek": "69",
-                "timeSpent": "158",
+                "timeSpent": 158,
                 "highestPosition": 1
             }
         },
@@ -971,7 +971,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "75",
+                "timeSpent": 75,
                 "highestPosition": 2
             }
         },
@@ -984,7 +984,7 @@
             },
             "chartInfo": {
                 "lastWeek": "95",
-                "timeSpent": "91",
+                "timeSpent": 91,
                 "highestPosition": 1
             }
         },
@@ -997,7 +997,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "16",
+                "timeSpent": 16,
                 "highestPosition": 18
             }
         },
@@ -1010,7 +1010,7 @@
             },
             "chartInfo": {
                 "lastWeek": "78",
-                "timeSpent": "24",
+                "timeSpent": 24,
                 "highestPosition": 6
             }
         },
@@ -1023,7 +1023,7 @@
             },
             "chartInfo": {
                 "lastWeek": "93",
-                "timeSpent": "121",
+                "timeSpent": 121,
                 "highestPosition": 6
             }
         },
@@ -1036,7 +1036,7 @@
             },
             "chartInfo": {
                 "lastWeek": "65",
-                "timeSpent": "65",
+                "timeSpent": 65,
                 "highestPosition": 1
             }
         },
@@ -1049,7 +1049,7 @@
             },
             "chartInfo": {
                 "lastWeek": "79",
-                "timeSpent": "12",
+                "timeSpent": 12,
                 "highestPosition": 41
             }
         },
@@ -1062,7 +1062,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "18",
+                "timeSpent": 18,
                 "highestPosition": 19
             }
         },
@@ -1075,7 +1075,7 @@
             },
             "chartInfo": {
                 "lastWeek": "76",
-                "timeSpent": "63",
+                "timeSpent": 63,
                 "highestPosition": 3
             }
         },
@@ -1088,7 +1088,7 @@
             },
             "chartInfo": {
                 "lastWeek": "71",
-                "timeSpent": "170",
+                "timeSpent": 170,
                 "highestPosition": 1
             }
         },
@@ -1101,7 +1101,7 @@
             },
             "chartInfo": {
                 "lastWeek": "83",
-                "timeSpent": "32",
+                "timeSpent": 32,
                 "highestPosition": 8
             }
         },
@@ -1114,7 +1114,7 @@
             },
             "chartInfo": {
                 "lastWeek": "NEW",
-                "timeSpent": "1",
+                "timeSpent": 1,
                 "highestPosition": 86
             }
         },
@@ -1127,7 +1127,7 @@
             },
             "chartInfo": {
                 "lastWeek": "NEW",
-                "timeSpent": "1",
+                "timeSpent": 1,
                 "highestPosition": 87
             }
         },
@@ -1140,7 +1140,7 @@
             },
             "chartInfo": {
                 "lastWeek": "NEW",
-                "timeSpent": "1",
+                "timeSpent": 1,
                 "highestPosition": 88
             }
         },
@@ -1153,7 +1153,7 @@
             },
             "chartInfo": {
                 "lastWeek": "87",
-                "timeSpent": "100",
+                "timeSpent": 100,
                 "highestPosition": 2
             }
         },
@@ -1166,7 +1166,7 @@
             },
             "chartInfo": {
                 "lastWeek": "96",
-                "timeSpent": "4",
+                "timeSpent": 4,
                 "highestPosition": 74
             }
         },
@@ -1179,7 +1179,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "42",
+                "timeSpent": 42,
                 "highestPosition": 2
             }
         },
@@ -1192,7 +1192,7 @@
             },
             "chartInfo": {
                 "lastWeek": "100",
-                "timeSpent": "61",
+                "timeSpent": 61,
                 "highestPosition": 1
             }
         },
@@ -1205,7 +1205,7 @@
             },
             "chartInfo": {
                 "lastWeek": "94",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 93
             }
         },
@@ -1218,7 +1218,7 @@
             },
             "chartInfo": {
                 "lastWeek": "80",
-                "timeSpent": "72",
+                "timeSpent": 72,
                 "highestPosition": 10
             }
         },
@@ -1231,7 +1231,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "50",
+                "timeSpent": 50,
                 "highestPosition": 1
             }
         },
@@ -1244,7 +1244,7 @@
             },
             "chartInfo": {
                 "lastWeek": "91",
-                "timeSpent": "3",
+                "timeSpent": 3,
                 "highestPosition": 87
             }
         },
@@ -1257,7 +1257,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "2",
+                "timeSpent": 2,
                 "highestPosition": 97
             }
         },
@@ -1270,7 +1270,7 @@
             },
             "chartInfo": {
                 "lastWeek": "62",
-                "timeSpent": "50",
+                "timeSpent": 50,
                 "highestPosition": 2
             }
         },
@@ -1283,7 +1283,7 @@
             },
             "chartInfo": {
                 "lastWeek": "R/E",
-                "timeSpent": "49",
+                "timeSpent": 49,
                 "highestPosition": 2
             }
         },
@@ -1296,7 +1296,7 @@
             },
             "chartInfo": {
                 "lastWeek": "58",
-                "timeSpent": "9",
+                "timeSpent": 9,
                 "highestPosition": 26
             }
         }
