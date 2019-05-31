@@ -28,10 +28,6 @@ def obtain_dataframe(url1, url2):
     list = scrape_table(url1) # Scrape first page
     for i in range (2,16): # Scrape page 2 - 15
         list = list + (scrape_table(url2+str(i)))
-
-    # Clean useless tuple
-    # list.remove('[]') 
-    # list.remove('[\xa0]')
         
     return pd.DataFrame(list)
 
@@ -68,6 +64,11 @@ df = df.rename(columns=df2.iloc[0])
 # Delete column that won't be used
 df = df.drop(columns = "Chart")
 df = df.drop(columns = "Detail]")
+
+# Delete rows with null values
+df = df.dropna(axis=0, how='any')
+
+print(df)
 
 # Export to JSON
 with open('data/out.json', 'w+') as f:
