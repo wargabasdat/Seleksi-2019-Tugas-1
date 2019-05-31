@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    Seleksi 1 Basis Data
+    Jawaban Tugas Seleksi 1 Basis Data
   <br>
   <br>
 </h1>
