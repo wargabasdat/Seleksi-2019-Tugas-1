@@ -1,7 +1,7 @@
-all: clean build run
+all: clean run
 
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
+clean: 
 
 run: # run your binary
+
+# build tidak dibutuhkan karena menggunakan interpter (python)

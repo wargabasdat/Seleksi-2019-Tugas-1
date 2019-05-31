@@ -1,63 +1,77 @@
 <h1 align="center">
   <br>
-  Seleksi 1 Warga Basdat 2019
+    Seleksi 1 Basis Data
   <br>
   <br>
 </h1>
 
-<h2 align="center">
+<p align="left">
   <br>
-  Data Scraping
+    Website yang di-scrape: https://www.formula1.com
   <br>
   <br>
-</h2>
+</p>
 
 
-## Specifications
+## Deskripsi
+Program ini dibuat sebagai tugas seleksi Lab Basis Data, Institut Teknologi Bandung. Program yang dijalankan melakukan data scraping pada website  _https://www.formula1.com_. Website tersebut merupakan website official dari autosport Formula 1. Dalam website tersebut, semua hasil balapan Formula 1 disimpan dari tahun 1950 hingga sekarang. Namun, dengan alasan jumlah data yang banyak, maka data yang di-scrape melalui Program ini hanya merupakan data balapan Formula 1 dari tahun 2000 hingga 2019.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
-
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+Program ini mengambil 3 data dari formula 1. Setelah itu ketiga jenis data tersebut disimpan dalam file JSON:
+```
+- Hasil balapan dalam Formula 1 (dalam bentuk urutan finish setiap balapan) -> RaceData.json
+- Hasil poin yang dicapai setiap pembalap dalam Formula 1 (dalam bentuk poin yang dicapai setiap pembalap tiap tahun) -> ResultData.json
+- Setiap balapan yang diselenggarakan oleh Formula 1 (dalam bentuk nama balapan tiap musimnya) -> SeasonData.json
 ```
 
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
+Sebelum memasukkan data ke JSON tersebut, program melakukan HTTP request GET pada website _https://www.formula1.com_ Setelah mendapatkan data dari website tersebut, program memproses data-data yang didapat, membentuk data dalam bentuk tuple, lalu menghasilkan file JSON. Adapun data-data yang disimpan di dalam file JSON dapat dilihat di bawah pada bagian _Struktur JSON_.
 
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
 
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
+## Spesifikasi
+Program ini dibuat dengan menggunakan bahasa pemrograman _Python3_, versi 3.7.
 
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
+Library python yang dibutuhkan untuk menjalankan program ini:
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+- Beautifulsoup
+- Requests
+- Json
+- Copy
+- Time
 ```
+
+Program dapat dijalankan menggunakan:
+- Makefile
+- Command Line Interface (CLI)
+
+
+## How to use
+Program dapat dijalankan dengan CLI (Command Line Iterface) atau dengan memanfaatkan _Makefile_ yang terdapat dalam folder yang sama dengan _README_ ini. Makefile akan menghapus data yang terdapat dalam folder _data_ dan menjalankan program dalam folder _src_ untuk mendapatkan hasil scraping yang nanti disimpan dalam folder _data_.
+
+__Windows__
+
+Sebelum menjalankannya, dilakukan tahap ini untuk menginstalasi _python_ dan library-library yang dibutuhkan:
+```
+1. Download _python3_ dari _https://www.python.org/downloads/_
+2. Masukkan path ke folder python ke environment (opsional)
+3. Download _get-pip.py_ sript
+4. Install _pip_ dengan menuliskan _python get-pip.py_ pada CLI
+5. Install _beautifulsoup_ dengan menuliskan _pip install beautifulsoup4_ pada CLI
+6. Install _requests_ dengan menuliskan _pip install requests_ pada CLI
+```
+
+Setelah instalasi, terdapat 2 cara u
+
+## Ide dan inovasi dengan menggunakan data
+- Data yang diperoleh mampu diguanakan untuk 
+
+## Struktur JSON
+
+## Referensi
+
+### Author
 
 12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
 ```
-- Description
+- Programion
 - Specification
 - How to use
 - Ideas and innovations in utilizing the data
@@ -67,16 +81,9 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
+<p align="left">
   <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
+    Jan Meyer Saragih
   <br>
   <br>
 </p>

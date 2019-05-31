@@ -1,0 +1,3762 @@
+[
+    {
+        "Year": 2000,
+        "Driver Classment Position": 1,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "108"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 2,
+        "Driver Name": "Mika Hakkinen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "89"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 3,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "73"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 4,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "62"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 5,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "24"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 6,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Benetton Playlife",
+        "Driver Points": "18"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 7,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "17"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 8,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 9,
+        "Driver Name": "Heinz-Harald Frentzen",
+        "Driver Nationality": "GER",
+        "Driver Team": "Jordan Mugen Honda",
+        "Driver Points": "11"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 10,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Jordan Mugen Honda",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 11,
+        "Driver Name": "Mika Salo",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 12,
+        "Driver Name": "Jos Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Arrows Supertec",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 13,
+        "Driver Name": "Eddie Irvine",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 14,
+        "Driver Name": "Ricardo Zonta",
+        "Driver Nationality": "BRA",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 15,
+        "Driver Name": "Alexander Wurz",
+        "Driver Nationality": "AUT",
+        "Driver Team": "Benetton Playlife",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 16,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Arrows Supertec",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 17,
+        "Driver Name": "Pedro Diniz",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 18,
+        "Driver Name": "Johnny Herbert",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 19,
+        "Driver Name": "Marc Gene",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Minardi Fondmetal",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 20,
+        "Driver Name": "Gaston Mazzacane",
+        "Driver Nationality": "ARG",
+        "Driver Team": "Minardi Fondmetal",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 21,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Prost Peugeot",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 22,
+        "Driver Name": "Jean Alesi",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Prost Peugeot",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2000,
+        "Driver Classment Position": 23,
+        "Driver Name": "Luciano Burti",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 1,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "123"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 2,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "65"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 3,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "56"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 4,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "49"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 5,
+        "Driver Name": "Mika Hakkinen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "37"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 6,
+        "Driver Name": "Juan Pablo Montoya",
+        "Driver Nationality": "COL",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "31"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 7,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 8,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 9,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Jordan Honda",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 10,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 11,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Benetton Renault",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 12,
+        "Driver Name": "Eddie Irvine",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 13,
+        "Driver Name": "Heinz-Harald Frentzen",
+        "Driver Nationality": "GER",
+        "Driver Team": "Prost Acer",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 14,
+        "Driver Name": "Olivier Panis",
+        "Driver Nationality": "FRA",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 15,
+        "Driver Name": "Jean Alesi",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Jordan Honda",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 16,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 17,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Benetton Renault",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2001,
+        "Driver Classment Position": 18,
+        "Driver Name": "Jos Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Arrows Asiatech",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 1,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "144"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 2,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "77"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 3,
+        "Driver Name": "Juan Pablo Montoya",
+        "Driver Nationality": "COL",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "50"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 4,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "42"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 5,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "41"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 6,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "24"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 7,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Renault",
+        "Driver Points": "14"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 8,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Renault",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 9,
+        "Driver Name": "Eddie Irvine",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 10,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 11,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Jordan Honda",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 12,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 13,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 14,
+        "Driver Name": "Olivier Panis",
+        "Driver Nationality": "FRA",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 15,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Jordan Honda",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 16,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Minardi Asiatech",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 17,
+        "Driver Name": "Mika Salo",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Toyota",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 18,
+        "Driver Name": "Heinz-Harald Frentzen",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 19,
+        "Driver Name": "Allan McNish",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Toyota",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 20,
+        "Driver Name": "Alex Yoong",
+        "Driver Nationality": "MAS",
+        "Driver Team": "Minardi Asiatech",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 21,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2002,
+        "Driver Classment Position": 22,
+        "Driver Name": "Enrique Bernoldi",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Arrows Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 1,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "93"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 2,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "91"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 3,
+        "Driver Name": "Juan Pablo Montoya",
+        "Driver Nationality": "COL",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "82"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 4,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "65"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 5,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "58"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 6,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "55"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 7,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "51"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 8,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Renault",
+        "Driver Points": "33"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 9,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "17"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 10,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "17"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 11,
+        "Driver Name": "Heinz-Harald Frentzen",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "13"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 12,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Jordan Ford",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 13,
+        "Driver Name": "Cristiano da Matta",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Toyota",
+        "Driver Points": "10"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 14,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 15,
+        "Driver Name": "Olivier Panis",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Toyota",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 16,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 17,
+        "Driver Name": "Marc Gene",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 18,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 19,
+        "Driver Name": "Ralph Firman",
+        "Driver Nationality": "IRL",
+        "Driver Team": "Jordan Ford",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 20,
+        "Driver Name": "Justin Wilson",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 21,
+        "Driver Name": "Antonio Pizzonia",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 22,
+        "Driver Name": "Jos Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 23,
+        "Driver Name": "Nicolas Kiesa",
+        "Driver Nationality": "DEN",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2003,
+        "Driver Classment Position": 24,
+        "Driver Name": "Zsolt Baumgartner",
+        "Driver Nationality": "HUN",
+        "Driver Team": "Jordan Ford",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 1,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "148"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 2,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "114"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 3,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "85"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 4,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "59"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 5,
+        "Driver Name": "Juan Pablo Montoya",
+        "Driver Nationality": "COL",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "58"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 6,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Toyota",
+        "Driver Points": "46"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 7,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "45"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 8,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "34"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 9,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "24"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 10,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "24"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 11,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "22"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 12,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 13,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 14,
+        "Driver Name": "Olivier Panis",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Toyota",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 15,
+        "Driver Name": "Antonio Pizzonia",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 16,
+        "Driver Name": "Christian Klien",
+        "Driver Nationality": "AUT",
+        "Driver Team": "Jaguar Cosworth",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 17,
+        "Driver Name": "Cristiano da Matta",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Toyota",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 18,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Jordan Ford",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 19,
+        "Driver Name": "Timo Glock",
+        "Driver Nationality": "GER",
+        "Driver Team": "Jordan Ford",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 20,
+        "Driver Name": "Zsolt Baumgartner",
+        "Driver Nationality": "HUN",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 21,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 22,
+        "Driver Name": "Ricardo Zonta",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Toyota",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 23,
+        "Driver Name": "Marc Gene",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 24,
+        "Driver Name": "Giorgio Pantano",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Jordan Ford",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2004,
+        "Driver Classment Position": 25,
+        "Driver Name": "Gianmaria Bruni",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 1,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "133"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 2,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "112"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 3,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "62"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 4,
+        "Driver Name": "Juan Pablo Montoya",
+        "Driver Nationality": "COL",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "60"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 5,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Renault",
+        "Driver Points": "58"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 6,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Toyota",
+        "Driver Points": "45"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 7,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Toyota",
+        "Driver Points": "43"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 8,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "38"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 9,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "37"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 10,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "36"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 11,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "28"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 12,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "RBR Cosworth",
+        "Driver Points": "24"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 13,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "11"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 14,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "Sauber Petronas",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 15,
+        "Driver Name": "Christian Klien",
+        "Driver Nationality": "AUT",
+        "Driver Team": "RBR Cosworth",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 16,
+        "Driver Name": "Tiago Monteiro",
+        "Driver Nationality": "POR",
+        "Driver Team": "Jordan Toyota",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 17,
+        "Driver Name": "Alexander Wurz",
+        "Driver Nationality": "AUT",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 18,
+        "Driver Name": "Narain Karthikeyan",
+        "Driver Nationality": "IND",
+        "Driver Team": "Jordan Toyota",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 19,
+        "Driver Name": "Christijan Albers",
+        "Driver Nationality": "NED",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 20,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 21,
+        "Driver Name": "Patrick Friesacher ",
+        "Driver Nationality": "AUT",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 22,
+        "Driver Name": "Antonio Pizzonia",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams BMW",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 23,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "BAR Honda",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 24,
+        "Driver Name": "Vitantonio Liuzzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "RBR Cosworth",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2005,
+        "Driver Classment Position": 25,
+        "Driver Name": "Robert Doornbos",
+        "Driver Nationality": "MON",
+        "Driver Team": "Minardi Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 1,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "134"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 2,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "121"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 3,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "80"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 4,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Renault",
+        "Driver Points": "72"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 5,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "65"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 6,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Honda",
+        "Driver Points": "56"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 7,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Honda",
+        "Driver Points": "30"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 8,
+        "Driver Name": "Juan Pablo Montoya",
+        "Driver Nationality": "COL",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "26"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 9,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "23"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 10,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Toyota",
+        "Driver Points": "20"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 11,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "19"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 12,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Toyota",
+        "Driver Points": "15"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 13,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "RBR Ferrari",
+        "Driver Points": "14"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 14,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Williams Cosworth",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 15,
+        "Driver Name": "Jacques Villeneuve",
+        "Driver Nationality": "CAN",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 16,
+        "Driver Name": "Robert Kubica",
+        "Driver Nationality": "POL",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 17,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams Cosworth",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 18,
+        "Driver Name": "Christian Klien",
+        "Driver Nationality": "AUT",
+        "Driver Team": "RBR Ferrari",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 19,
+        "Driver Name": "Vitantonio Liuzzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "STR Cosworth",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 20,
+        "Driver Name": "Scott Speed",
+        "Driver Nationality": "USA",
+        "Driver Team": "STR Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 21,
+        "Driver Name": "Tiago Monteiro",
+        "Driver Nationality": "POR",
+        "Driver Team": "MF1 Toyota",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 22,
+        "Driver Name": "Christijan Albers",
+        "Driver Nationality": "NED",
+        "Driver Team": "MF1 Toyota",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 23,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 24,
+        "Driver Name": "Robert Doornbos",
+        "Driver Nationality": "NED",
+        "Driver Team": "RBR Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 25,
+        "Driver Name": "Yuji Ide",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 26,
+        "Driver Name": "Sakon Yamamoto",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2006,
+        "Driver Classment Position": 27,
+        "Driver Name": "Franck Montagny",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 1,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "110"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 2,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "109"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 3,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "109"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 4,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "94"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 5,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "61"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 6,
+        "Driver Name": "Robert Kubica",
+        "Driver Nationality": "POL",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "39"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 7,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Renault",
+        "Driver Points": "30"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 8,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Renault",
+        "Driver Points": "21"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 9,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "20"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 10,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Red Bull Renault",
+        "Driver Points": "14"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 11,
+        "Driver Name": "Alexander Wurz",
+        "Driver Nationality": "AUT",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "13"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 12,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Renault",
+        "Driver Points": "10"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 13,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Toyota",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 14,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 15,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Honda",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 16,
+        "Driver Name": "Ralf Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Toyota",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 17,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 18,
+        "Driver Name": "Vitantonio Liuzzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 19,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Spyker Ferrari",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 20,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 21,
+        "Driver Name": "Scott Speed",
+        "Driver Nationality": "USA",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 22,
+        "Driver Name": "Kazuki Nakajima",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 23,
+        "Driver Name": "Anthony Davidson",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 24,
+        "Driver Name": "Sakon Yamamoto",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Spyker Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2007,
+        "Driver Classment Position": 25,
+        "Driver Name": "Christijan Albers",
+        "Driver Nationality": "NED",
+        "Driver Team": "Spyker Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 1,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "98"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 2,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "97"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 3,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "75"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 4,
+        "Driver Name": "Robert Kubica",
+        "Driver Nationality": "POL",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "75"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 5,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "61"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 6,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "60"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 7,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "53"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 8,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "35"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 9,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Toyota",
+        "Driver Points": "31"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 10,
+        "Driver Name": "Timo Glock",
+        "Driver Nationality": "GER",
+        "Driver Team": "Toyota",
+        "Driver Points": "25"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 11,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Renault",
+        "Driver Points": "21"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 12,
+        "Driver Name": "Nelson Piquet",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Renault",
+        "Driver Points": "19"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 13,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "17"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 14,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Honda",
+        "Driver Points": "11"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 15,
+        "Driver Name": "Kazuki Nakajima",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 16,
+        "Driver Name": "David Coulthard",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Red Bull Renault",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 17,
+        "Driver Name": "Sebastien Bourdais",
+        "Driver Nationality": "FRA",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 18,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Honda",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 19,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Force India Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 20,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 21,
+        "Driver Name": "Takuma Sato",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2008,
+        "Driver Classment Position": 22,
+        "Driver Name": "Anthony Davidson",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Super Aguri Honda",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 1,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Brawn Mercedes",
+        "Driver Points": "95"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 2,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "RBR Renault",
+        "Driver Points": "84"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 3,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Brawn Mercedes",
+        "Driver Points": "77"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 4,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "RBR Renault",
+        "Driver Points": "69.5"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 5,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "49"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 6,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "48"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 7,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "34.5"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 8,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Toyota",
+        "Driver Points": "32.5"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 9,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "26"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 10,
+        "Driver Name": "Timo Glock",
+        "Driver Nationality": "GER",
+        "Driver Team": "Toyota",
+        "Driver Points": "24"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 11,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "22"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 12,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "22"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 13,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "19"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 14,
+        "Driver Name": "Robert Kubica",
+        "Driver Nationality": "POL",
+        "Driver Team": "Sauber BMW",
+        "Driver Points": "17"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 15,
+        "Driver Name": "Giancarlo Fisichella",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 16,
+        "Driver Name": "Sebastien Buemi",
+        "Driver Nationality": "SUI",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 17,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 18,
+        "Driver Name": "Kamui Kobayashi",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Toyota",
+        "Driver Points": "3"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 19,
+        "Driver Name": "Sebastien Bourdais",
+        "Driver Nationality": "FRA",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 20,
+        "Driver Name": "Kazuki Nakajima",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Williams Toyota",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 21,
+        "Driver Name": "Nelson Piquet",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 22,
+        "Driver Name": "Vitantonio Liuzzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 23,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 24,
+        "Driver Name": "Jaime Alguersuari",
+        "Driver Nationality": "ESP",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2009,
+        "Driver Classment Position": 25,
+        "Driver Name": "Luca Badoer",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 1,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "RBR Renault",
+        "Driver Points": "256"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 2,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Ferrari",
+        "Driver Points": "252"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 3,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "RBR Renault",
+        "Driver Points": "242"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 4,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "240"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 5,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "214"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 6,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "144"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 7,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "142"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 8,
+        "Driver Name": "Robert Kubica",
+        "Driver Nationality": "POL",
+        "Driver Team": "Renault",
+        "Driver Points": "136"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 9,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "72"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 10,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Cosworth",
+        "Driver Points": "47"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 11,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "47"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 12,
+        "Driver Name": "Kamui Kobayashi",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "32"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 13,
+        "Driver Name": "Vitaly Petrov",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Renault",
+        "Driver Points": "27"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 14,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Williams Cosworth",
+        "Driver Points": "22"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 15,
+        "Driver Name": "Vitantonio Liuzzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "21"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 16,
+        "Driver Name": "Sebastien Buemi",
+        "Driver Nationality": "SUI",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 17,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 18,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 19,
+        "Driver Name": "Jaime Alguersuari",
+        "Driver Nationality": "ESP",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 20,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Lotus Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 21,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Lotus Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 22,
+        "Driver Name": "Karun Chandhok",
+        "Driver Nationality": "IND",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 23,
+        "Driver Name": "Bruno Senna",
+        "Driver Nationality": "BRA",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 24,
+        "Driver Name": "Lucas di Grassi",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Virgin Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 25,
+        "Driver Name": "Timo Glock",
+        "Driver Nationality": "GER",
+        "Driver Team": "Virgin Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 26,
+        "Driver Name": "Sakon Yamamoto",
+        "Driver Nationality": "JPN",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2010,
+        "Driver Classment Position": 27,
+        "Driver Name": "Christian Klien",
+        "Driver Nationality": "AUT",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 1,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "392"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 2,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "270"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 3,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "258"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 4,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Ferrari",
+        "Driver Points": "257"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 5,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "227"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 6,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "118"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 7,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "89"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 8,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "76"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 9,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "42"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 10,
+        "Driver Name": "Vitaly Petrov",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Renault",
+        "Driver Points": "37"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 11,
+        "Driver Name": "Nick Heidfeld",
+        "Driver Nationality": "GER",
+        "Driver Team": "Renault",
+        "Driver Points": "34"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 12,
+        "Driver Name": "Kamui Kobayashi",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "30"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 13,
+        "Driver Name": "Paul di Resta",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "27"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 14,
+        "Driver Name": "Jaime Alguersuari",
+        "Driver Nationality": "ESP",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "26"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 15,
+        "Driver Name": "Sebastien Buemi",
+        "Driver Nationality": "SUI",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "15"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 16,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "14"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 17,
+        "Driver Name": "Rubens Barrichello",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Cosworth",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 18,
+        "Driver Name": "Bruno Senna",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Renault",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 19,
+        "Driver Name": "Pastor Maldonado",
+        "Driver Nationality": "VEN",
+        "Driver Team": "Williams Cosworth",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 20,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 21,
+        "Driver Name": "Jarno Trulli",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 22,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 23,
+        "Driver Name": "Vitantonio Liuzzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 24,
+        "Driver Name": "Jerome d'Ambrosio",
+        "Driver Nationality": "BEL",
+        "Driver Team": "Virgin Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 25,
+        "Driver Name": "Timo Glock",
+        "Driver Nationality": "GER",
+        "Driver Team": "Virgin Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 26,
+        "Driver Name": "Narain Karthikeyan",
+        "Driver Nationality": "IND",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 27,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2011,
+        "Driver Classment Position": 28,
+        "Driver Name": "Karun Chandhok",
+        "Driver Nationality": "IND",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 1,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "281"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 2,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Ferrari",
+        "Driver Points": "278"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 3,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "207"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 4,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "190"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 5,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "188"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 6,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "179"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 7,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "122"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 8,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "96"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 9,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "93"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 10,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "66"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 11,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "63"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 12,
+        "Driver Name": "Kamui Kobayashi",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "60"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 13,
+        "Driver Name": "Michael Schumacher",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "49"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 14,
+        "Driver Name": "Paul di Resta",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "46"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 15,
+        "Driver Name": "Pastor Maldonado",
+        "Driver Nationality": "VEN",
+        "Driver Team": "Williams Renault",
+        "Driver Points": "45"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 16,
+        "Driver Name": "Bruno Senna",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Renault",
+        "Driver Points": "31"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 17,
+        "Driver Name": "Jean-Eric Vergne",
+        "Driver Nationality": "FRA",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "16"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 18,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "10"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 19,
+        "Driver Name": "Vitaly Petrov",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 20,
+        "Driver Name": "Timo Glock",
+        "Driver Nationality": "GER",
+        "Driver Team": "Marussia Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 21,
+        "Driver Name": "Charles Pic",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Marussia Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 22,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 23,
+        "Driver Name": "Jerome d'Ambrosio",
+        "Driver Nationality": "BEL",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 24,
+        "Driver Name": "Narain Karthikeyan",
+        "Driver Nationality": "IND",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2012,
+        "Driver Classment Position": 25,
+        "Driver Name": "Pedro de la Rosa",
+        "Driver Nationality": "ESP",
+        "Driver Team": "HRT Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 1,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "397"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 2,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Ferrari",
+        "Driver Points": "242"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 3,
+        "Driver Name": "Mark Webber",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "199"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 4,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "189"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 5,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "183"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 6,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "171"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 7,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "132"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 8,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Ferrari",
+        "Driver Points": "112"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 9,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "73"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 10,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "51"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 11,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "49"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 12,
+        "Driver Name": "Paul di Resta",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "48"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 13,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "29"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 14,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "20"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 15,
+        "Driver Name": "Jean-Eric Vergne",
+        "Driver Nationality": "FRA",
+        "Driver Team": "STR Ferrari",
+        "Driver Points": "13"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 16,
+        "Driver Name": "Esteban Gutierrez ",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 17,
+        "Driver Name": "Valtteri  Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Williams Renault",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 18,
+        "Driver Name": "Pastor Maldonado",
+        "Driver Nationality": "VEN",
+        "Driver Team": "Williams Renault",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 19,
+        "Driver Name": "Jules Bianchi",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Marussia Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 20,
+        "Driver Name": "Charles Pic",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 21,
+        "Driver Name": "Heikki Kovalainen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 22,
+        "Driver Name": "Giedo van der Garde",
+        "Driver Nationality": "NED",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2013,
+        "Driver Classment Position": 23,
+        "Driver Name": "Max Chilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Marussia Cosworth",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 1,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "384"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 2,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "317"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 3,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "238"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 4,
+        "Driver Name": "Valtteri  Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "186"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 5,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "167"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 6,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Ferrari",
+        "Driver Points": "161"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 7,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "134"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 8,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "126"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 9,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "96"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 10,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "59"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 11,
+        "Driver Name": "Kevin Magnussen",
+        "Driver Nationality": "DEN",
+        "Driver Team": "McLaren Mercedes",
+        "Driver Points": "55"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 12,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "55"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 13,
+        "Driver Name": "Jean-Eric Vergne",
+        "Driver Nationality": "FRA",
+        "Driver Team": "STR Renault",
+        "Driver Points": "22"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 14,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 15,
+        "Driver Name": "Daniil Kvyat",
+        "Driver Nationality": "RUS",
+        "Driver Team": "STR Renault",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 16,
+        "Driver Name": "Pastor Maldonado",
+        "Driver Nationality": "VEN",
+        "Driver Team": "Lotus Renault",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 17,
+        "Driver Name": "Jules Bianchi",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Marussia Ferrari",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 18,
+        "Driver Name": "Adrian Sutil",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 19,
+        "Driver Name": "Marcus Ericsson",
+        "Driver Nationality": "SWE",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 20,
+        "Driver Name": "Esteban Gutierrez ",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 21,
+        "Driver Name": "Max Chilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Marussia Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 22,
+        "Driver Name": "Kamui Kobayashi",
+        "Driver Nationality": "JPN",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2014,
+        "Driver Classment Position": 23,
+        "Driver Name": "Will Stevens",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Caterham Renault",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 1,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "381"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 2,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "322"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 3,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "278"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 4,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "150"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 5,
+        "Driver Name": "Valtteri  Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "136"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 6,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "121"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 7,
+        "Driver Name": "Daniil Kvyat",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "95"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 8,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing Renault",
+        "Driver Points": "92"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 9,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "78"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 10,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "58"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 11,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Lotus Mercedes",
+        "Driver Points": "51"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 12,
+        "Driver Name": "Max Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "STR Renault",
+        "Driver Points": "49"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 13,
+        "Driver Name": "Felipe Nasr",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "27"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 14,
+        "Driver Name": "Pastor Maldonado",
+        "Driver Nationality": "VEN",
+        "Driver Team": "Lotus Mercedes",
+        "Driver Points": "27"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 15,
+        "Driver Name": "Carlos Sainz",
+        "Driver Nationality": "ESP",
+        "Driver Team": "STR Renault",
+        "Driver Points": "18"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 16,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "16"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 17,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "11"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 18,
+        "Driver Name": "Marcus Ericsson",
+        "Driver Nationality": "SWE",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 19,
+        "Driver Name": "Roberto Merhi",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Marussia Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 20,
+        "Driver Name": "Alexander Rossi",
+        "Driver Nationality": "USA",
+        "Driver Team": "Marussia Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2015,
+        "Driver Classment Position": 21,
+        "Driver Name": "Will Stevens",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Marussia Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 1,
+        "Driver Name": "Nico Rosberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Mercedes",
+        "Driver Points": "385"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 2,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "380"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 3,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing TAG Heuer",
+        "Driver Points": "256"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 4,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "212"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 5,
+        "Driver Name": "Max Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Red Bull Racing TAG Heuer",
+        "Driver Points": "204"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 6,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "186"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 7,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "101"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 8,
+        "Driver Name": "Valtteri  Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "85"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 9,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "72"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 10,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "54"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 11,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "53"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 12,
+        "Driver Name": "Carlos Sainz",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Toro Rosso Ferrari",
+        "Driver Points": "46"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 13,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "29"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 14,
+        "Driver Name": "Daniil Kvyat",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Toro Rosso Ferrari",
+        "Driver Points": "25"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 15,
+        "Driver Name": "Jenson Button",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "21"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 16,
+        "Driver Name": "Kevin Magnussen",
+        "Driver Nationality": "DEN",
+        "Driver Team": "Renault",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 17,
+        "Driver Name": "Felipe Nasr",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 18,
+        "Driver Name": "Jolyon Palmer",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Renault",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 19,
+        "Driver Name": "Pascal Wehrlein",
+        "Driver Nationality": "GER",
+        "Driver Team": "MRT Mercedes",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 20,
+        "Driver Name": "Stoffel Vandoorne",
+        "Driver Nationality": "BEL",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 21,
+        "Driver Name": "Esteban Gutierrez ",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 22,
+        "Driver Name": "Marcus Ericsson",
+        "Driver Nationality": "SWE",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 23,
+        "Driver Name": "Esteban Ocon",
+        "Driver Nationality": "FRA",
+        "Driver Team": "MRT Mercedes",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2016,
+        "Driver Classment Position": 24,
+        "Driver Name": "Rio Haryanto",
+        "Driver Nationality": "INA",
+        "Driver Team": "MRT Mercedes",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 1,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "363"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 2,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "317"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 3,
+        "Driver Name": "Valtteri  Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Mercedes",
+        "Driver Points": "305"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 4,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "205"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 5,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing TAG Heuer",
+        "Driver Points": "200"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 6,
+        "Driver Name": "Max Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Red Bull Racing TAG Heuer",
+        "Driver Points": "168"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 7,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "100"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 8,
+        "Driver Name": "Esteban Ocon",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "87"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 9,
+        "Driver Name": "Carlos Sainz",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "54"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 10,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Renault",
+        "Driver Points": "43"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 11,
+        "Driver Name": "Felipe Massa",
+        "Driver Nationality": "BRA",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "43"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 12,
+        "Driver Name": "Lance Stroll",
+        "Driver Nationality": "CAN",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "40"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 13,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "28"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 14,
+        "Driver Name": "Kevin Magnussen",
+        "Driver Nationality": "DEN",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "19"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 15,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "17"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 16,
+        "Driver Name": "Stoffel Vandoorne",
+        "Driver Nationality": "BEL",
+        "Driver Team": "McLaren Honda",
+        "Driver Points": "13"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 17,
+        "Driver Name": "Jolyon Palmer",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Renault",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 18,
+        "Driver Name": "Pascal Wehrlein",
+        "Driver Nationality": "GER",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 19,
+        "Driver Name": "Daniil Kvyat",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Toro Rosso",
+        "Driver Points": "5"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 20,
+        "Driver Name": "Marcus Ericsson",
+        "Driver Nationality": "SWE",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 21,
+        "Driver Name": "Pierre Gasly",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Toro Rosso",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 22,
+        "Driver Name": "Antonio Giovinazzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2017,
+        "Driver Classment Position": 23,
+        "Driver Name": "Brendon Hartley",
+        "Driver Nationality": "NZL",
+        "Driver Team": "Toro Rosso",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 1,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "408"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 2,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "320"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 3,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Ferrari",
+        "Driver Points": "251"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 4,
+        "Driver Name": "Max Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Red Bull Racing TAG Heuer",
+        "Driver Points": "249"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 5,
+        "Driver Name": "Valtteri Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Mercedes",
+        "Driver Points": "247"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 6,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Red Bull Racing TAG Heuer",
+        "Driver Points": "170"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 7,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Renault",
+        "Driver Points": "69"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 8,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "62"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 9,
+        "Driver Name": "Kevin Magnussen",
+        "Driver Nationality": "DEN",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "56"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 10,
+        "Driver Name": "Carlos Sainz",
+        "Driver Nationality": "ESP",
+        "Driver Team": "Renault",
+        "Driver Points": "53"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 11,
+        "Driver Name": "Fernando Alonso",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Renault",
+        "Driver Points": "50"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 12,
+        "Driver Name": "Esteban Ocon",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Force India Mercedes",
+        "Driver Points": "49"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 13,
+        "Driver Name": "Charles Leclerc",
+        "Driver Nationality": "MON",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "39"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 14,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "37"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 15,
+        "Driver Name": "Pierre Gasly",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Scuderia Toro Rosso Honda",
+        "Driver Points": "29"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 16,
+        "Driver Name": "Stoffel Vandoorne",
+        "Driver Nationality": "BEL",
+        "Driver Team": "McLaren Renault",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 17,
+        "Driver Name": "Marcus Ericsson",
+        "Driver Nationality": "SWE",
+        "Driver Team": "Sauber Ferrari",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 18,
+        "Driver Name": "Lance Stroll",
+        "Driver Nationality": "CAN",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 19,
+        "Driver Name": "Brendon Hartley",
+        "Driver Nationality": "NZL",
+        "Driver Team": "Scuderia Toro Rosso Honda",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2018,
+        "Driver Classment Position": 20,
+        "Driver Name": "Sergey Sirotkin",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "1"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 1,
+        "Driver Name": "Lewis Hamilton",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Mercedes",
+        "Driver Points": "137"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 2,
+        "Driver Name": "Valtteri Bottas",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Mercedes",
+        "Driver Points": "120"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 3,
+        "Driver Name": "Sebastian Vettel",
+        "Driver Nationality": "GER",
+        "Driver Team": "Ferrari",
+        "Driver Points": "82"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 4,
+        "Driver Name": "Max Verstappen",
+        "Driver Nationality": "NED",
+        "Driver Team": "Red Bull Racing Honda",
+        "Driver Points": "78"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 5,
+        "Driver Name": "Charles Leclerc",
+        "Driver Nationality": "MON",
+        "Driver Team": "Ferrari",
+        "Driver Points": "57"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 6,
+        "Driver Name": "Pierre Gasly",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Red Bull Racing Honda",
+        "Driver Points": "32"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 7,
+        "Driver Name": "Carlos Sainz",
+        "Driver Nationality": "ESP",
+        "Driver Team": "McLaren Renault",
+        "Driver Points": "18"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 8,
+        "Driver Name": "Kevin Magnussen",
+        "Driver Nationality": "DEN",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "14"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 9,
+        "Driver Name": "Sergio Perez",
+        "Driver Nationality": "MEX",
+        "Driver Team": "Racing Point BWT Mercedes",
+        "Driver Points": "13"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 10,
+        "Driver Name": "Kimi RÃ¤ikkÃ¶nen",
+        "Driver Nationality": "FIN",
+        "Driver Team": "Alfa Romeo Racing Ferrari",
+        "Driver Points": "13"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 11,
+        "Driver Name": "Lando Norris",
+        "Driver Nationality": "GBR",
+        "Driver Team": "McLaren Renault",
+        "Driver Points": "12"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 12,
+        "Driver Name": "Daniil Kvyat",
+        "Driver Nationality": "RUS",
+        "Driver Team": "Scuderia Toro Rosso Honda",
+        "Driver Points": "9"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 13,
+        "Driver Name": "Daniel Ricciardo",
+        "Driver Nationality": "AUS",
+        "Driver Team": "Renault",
+        "Driver Points": "8"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 14,
+        "Driver Name": "Alexander Albon",
+        "Driver Nationality": "THA",
+        "Driver Team": "Scuderia Toro Rosso Honda",
+        "Driver Points": "7"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 15,
+        "Driver Name": "Nico Hulkenberg",
+        "Driver Nationality": "GER",
+        "Driver Team": "Renault",
+        "Driver Points": "6"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 16,
+        "Driver Name": "Lance Stroll",
+        "Driver Nationality": "CAN",
+        "Driver Team": "Racing Point BWT Mercedes",
+        "Driver Points": "4"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 17,
+        "Driver Name": "Romain Grosjean",
+        "Driver Nationality": "FRA",
+        "Driver Team": "Haas Ferrari",
+        "Driver Points": "2"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 18,
+        "Driver Name": "Antonio Giovinazzi",
+        "Driver Nationality": "ITA",
+        "Driver Team": "Alfa Romeo Racing Ferrari",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 19,
+        "Driver Name": "George Russell",
+        "Driver Nationality": "GBR",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "0"
+    },
+    {
+        "Year": 2019,
+        "Driver Classment Position": 20,
+        "Driver Name": "Robert Kubica",
+        "Driver Nationality": "POL",
+        "Driver Team": "Williams Mercedes",
+        "Driver Points": "0"
+    }
+]
