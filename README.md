@@ -67,8 +67,8 @@ Sebelum menjalankan, dilakukan tahap instalasi python dan library yang dibutuhka
 ```
 1. Install python: apt-get install python3.7
 2. Install pip: apt install python3-pip
-3. Install beautifulsoup: pip install beautifulsoup
-4. Install requests: pip install requests
+3. Install beautifulsoup: apt-get install python3-bs4
+4. Install requests: apt-get install python3-requests
 ```
 
 Setelah instalasi, terdapat 2 cara untuk menjalankan program ini, yaitu:<br/>
@@ -82,7 +82,8 @@ _Command Line Interface (Terminal)_
 _Makefile_
 ```
 1. Membuka folder _Seleksi-2019-Tugas-1_ pada Terminal
-2. Masukkan 'make' dan Makefile akan menjalankan kode di dalamnya
+2. Mengubah line 247 pada src/Script.py menjadi 'createJSON('data/', (seasonData, resultData, raceData))' karena direktori berbeda
+3. Masukkan 'make' dan Makefile akan menjalankan kode di dalamnya
 ```
 
 ## Ide dan inovasi dengan menggunakan data

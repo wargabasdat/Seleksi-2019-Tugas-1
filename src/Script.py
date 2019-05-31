@@ -225,7 +225,7 @@ def main():
     raceData = []
 
     # Meminta request untuk daftar balapan F1 dari season 2000 hingga 2019
-    for year in range (2019, 2020):
+    for year in range (2000, 2020):
         # Mengambil response dari tahun tersebut
         response_first = takeRequestSeason(year)
         response_second = takeRequestResult(year)
