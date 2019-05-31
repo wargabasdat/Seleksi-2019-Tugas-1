@@ -1,9 +1,9 @@
-#Description
+# Description
 Untuk memenuhi ketentuan tugas seleksi pertama warga basdat 2019, saya membuat beberapa proyek yaitu:
 1. GR_TopBooks_Spider (PROJECT UTAMA)
 2. GR_Trivia_Spider (PROJECT SAMPINGAN untuk fun & exploration ^^ )
 
-#1 GR_TopBooks_Spider
+# 1 GR_TopBooks_Spider
 Ini adalah program spider yang akan scraping data buku-buku secara lengkap dari www.goodreads.com. Andai kata anda masih belum familiar dengan nama tersebut, Goodreads adalah salah satu website terbesar dan paling digemari (termasuk saya) bagi para pembaca buku di seluruh dunia untuk eksplorasi buku baru, mencari data lengkap mengenai sebuah buku, melihat resensi buku dari reviewer yang professional tingkat dunia, platform untuk diskusi buku, penyedia komunitas untuk pembaca (dalam bentuk forum), quiz & trivia mengenai dunia literatur, dan lain-lain. Website goodreads adalah bagaikan pulau berharta karun bagi para data scraper dilihat dari data disana yang berlimpah-limpah.
 
 Program ini dibuat dengan menggunakan framework scrapy yang menganut library Twisted yang bersifat asynchronous. Spider scrapy diimplementasikan bersamaan dengan library beautifulsoup. Sebenarnya scrapy saja sudah cukup, namun saya ingin eksplorasi kedua library tersebut. Alhasil, scrapy digunakan untuk mengirim request, baik GET(mengambil HTML data dari page) dan POST(untuk login), dan beautifulsoup digunakan untuk extract dan parse HTML content hasil dari request.
@@ -54,7 +54,7 @@ Dengan data yang didapatkan, banyak hal yang dapat dilakukan, seperti:
 
 dan masih banyak lagi. Saya harapkan dari data yang didapatkan bisa memberikan insight yang lebih dalam mengenai dunia literatur baik bagi penulis dan pembaca.
 
-#JSON Structure
+# JSON Structure
 Berikut adalah headers yang tersedia:
 'id','title', 'author', 'ISBN', 'series', 'avg_rating', 'pages', 'rating_count', 'review_count', 'book_format','published_date', 'publisher'
 
@@ -75,6 +75,12 @@ contoh .json hasil:
     }
 
 # Screenshots:
+![alt text](https://imgur.com/pnsDO2u)
+
+![alt text](https://imgur.com/2By7yGU)
+
+![alt text](https://imgur.com/PwZzEX6)
+
 # Reference:
   Python 3.7.
   Scrapy
