@@ -124,27 +124,41 @@ __SeasonData.json__
 Library yang digunakan:
 ```
 1. requests             -> Melakukan HTTP Request terhadap website
+                        -> ref: https://2.python-requests.org/en/master/
 2. beautifulsoup (bs4)  -> Melakukan olah data pada hasil HTTP Request
+                        -> ref: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 3. json                 -> Menuliskan file ke format .json
+                        -> ref: https://docs.python.org/3/library/json.html
 4. copy                 -> Memastikan kekonsistenan data saat membuat file JSON
+                        -> ref: https://docs.python.org/3/library/copy.html
 5. time                 -> Memberikan waktu sleep buat program sebagai interval waktu antar request
+                        -> ref: https://docs.python.org/3/library/time.html
 ```
 
 
 ## Screenshot kode program
-Screenshot kode
+__Screenshot kode__
+Pencarian Link
 ![Pencarian link](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_1.png)
+Pembuat JSON
 ![Pembuat JSON](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_2.png)
+Pemanggil Request
 ![Pemanggil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_3.png)
+Kontrol Hasil Request
 ![Kontrol hasil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_4.png)
+Main
 ![Main](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_5.png)
 
-Screenshot json
+__Screenshot json__
+RaceData
 ![RaceData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_racedata.png)
+ResultData
 ![ResultData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_resultdata.png)
+SeasonData
 ![SeasonData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_seasondata.png)
 
-Screenshot program saat dieksekusi
+__Screenshot program saat dieksekusi__
+Run
 ![Run](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_run.png)
 
 
