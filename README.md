@@ -57,7 +57,8 @@ How to use runjs:
 
 Struktur JSON berdasarkan record file
 ```
-  {"Kolom1":content, Kolom2:content, Kolom3:content, Kolom4:content}
+  {"Kolom1":content1, Kolom2:content1, Kolom3:content1, Kolom4:content1}
+  {"Kolom1":content2, Kolom2:content2, Kolom3:content2, Kolom4:content2}
 ```
 
 ## Screenshot Program
