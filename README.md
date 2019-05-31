@@ -24,7 +24,9 @@ mvn exec:java -DHttpRequest -Dexec.args="https://www.kompas.com/"
 <br>  "category" : string,
 <br>  "imgHref" : string,
 <br>  "imgSrc" : string
-<br>}]
+<br>},
+<br>...
+<br>]
 
 ## Screenshots
 ![Screenshot](./screenshots/compile.PNG)
