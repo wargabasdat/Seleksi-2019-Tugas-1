@@ -1,3 +1,5 @@
+# Seleksi Tugas 1 2019 Basis Data
+
 ## Description
 
 A data scraping project for statistics on the Golden State Warriors' games in the NBA. The data includes game location, game date, points, rebounds, win or loss, field goals, assists, steals, blocks, and so on.
