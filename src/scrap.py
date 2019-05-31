@@ -1,11 +1,11 @@
 # import library to parse html
 from bs4 import BeautifulSoup
 # import library to get HTML file from URLs
-import requests
+from requests import get, exceptions
 # import library to write json file
 import json
 # import library to add concruency while scraping
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Get Product Name
 def getName(product):
@@ -29,7 +29,7 @@ def getLocation(product):
 
 # Get Product Brand
 def getBrand(url):
-    response = requests.get('https://www.bukalapak.com' + url, headers)
+    response = get('https://www.bukalapak.com' + url, headers)
     product_brand = BeautifulSoup(response.content, 'lxml').find('div', class_='js-collapsible-product-detail').a
     if product_brand is not None:
         return product_brand.string.strip().split(' ')[0]
@@ -47,9 +47,9 @@ def writeData(data, file):
 def getData(data, headers, page=1):
     url = f'https://www.bukalapak.com/c/handphone/hp-smartphone?page={page}'
     print(f'Loading Page {page}...')
-    response = requests.get(url, headers)
 
-    if response.ok:
+    try:
+        response = get(url, headers)
         products = BeautifulSoup(response.content, 'lxml').find_all(lambda tag: tag.name == 'li' and tag.get('class') == ['col-12--2'])
         product_detail = {}
         for index, product in enumerate(products, start=1):
@@ -75,8 +75,16 @@ def getData(data, headers, page=1):
 
             data.append(product_detail)
             product_detail = {}
-    else:
-        print(f'Connection Issue in page {page}')
+
+        print(f'Page {page} done')
+    except ConnectionError as err:
+        print("\nError connecting site : {0} \n".format(err))
+    except exceptions.ChunkedEncodingError:
+        print("\n Site data delayed, skipping retrieval..\n")
+    except TypeError:
+        print("\n Continent not found.\n")
+    except:
+        print("\n Unknown error\n")
 
     return data
 
