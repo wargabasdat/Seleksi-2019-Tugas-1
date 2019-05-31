@@ -125,7 +125,7 @@ $ python3 src/main.py
 
 ## Ideas and Innovations in Utilizing the Data
 
-Music chart data can be used to see the increase or decrease of a songs position. It can also be summarized by the end of the year making it a summary chart which is calculated from their component weekly charts. Component charts have become an increasingly important way to measure the commercial success of individual songs. Other than that, it can also measure the commercial success of an album or an artist.
+Music chart data can be used to see the increase or decrease of a song's ranking. It can also be summarized by the end of the year making it a summary chart which is calculated from their component weekly charts. Component charts have become an increasingly important way to measure the commercial success of individual songs. Other than that, it can also measure the commercial success of an album or an artist.
 
 
 ## JSON Structure
