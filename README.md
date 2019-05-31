@@ -13,10 +13,8 @@
 
 
 
-<br>
-<br>
 ### Scrape data buku dari [books.toscrape.com](http://books.toscrape.com)
-<br>
+
 
 #### Deskripsi dan Spesifikasi
 _Source code_ ini digunakan untuk mengambil data dari semua buku yang ada di [books.toscrape.com](http://books.toscrape.com).
@@ -45,14 +43,14 @@ Contoh _instance_ data JSON:
 ```
 <br>
 
-`category`: Jenis kategori atau _genre_ buku.
-`link`: link untuk melihat detail buku tersebut.
-`price_in_euro`: Harga buku dalam euro.
-`rating`: Rating buku.
-`stock`: Stok buku yang masih tersedia.
-`summary`: Pendahuluan dari buku.
-`title`: Judul buku.
-`upc`: Kode _UPC_ buku.
+`category`: Jenis kategori atau _genre_ buku.<br>
+`link`: link untuk melihat detail buku tersebut.<br>
+`price_in_euro`: Harga buku dalam euro.<br>
+`rating`: Rating buku.<br>
+`stock`: Stok buku yang masih tersedia.<br>
+`summary`: Pendahuluan dari buku.<br>
+`title`: Judul buku.<br>
+`upc`: Kode _UPC_ buku.<br>
 
 Data hasil _scrape_ akan disimpan di dalam dua file berbeda pada folder **_data_**, yaitu **_books.json_** dan **_books.normalized.csv_** .
 
@@ -62,4 +60,13 @@ Data hasil _scrape_ akan disimpan di dalam dua file berbeda pada folder **_data_
 2. `w2n`: Modul pembantu untuk merubah string jadi angka.
 3. `requests`: Modul untuk penanganan _request_ URL .
 5. `pandas.io.json`: Modul pandas untuk normalisasi JSON .
+
+#### _Screenshots_
+
+![SC1](https://github.com/abdashaffan/Seleksi-2019-Tugas-1/blob/master/screenshots/Screenshot_20190529_145619.png)
+![SC2](https://github.com/abdashaffan/Seleksi-2019-Tugas-1/blob/master/screenshots/Screenshot_20190529_145647.png)
+![SC3](https://github.com/abdashaffan/Seleksi-2019-Tugas-1/blob/master/screenshots/Screenshot_20190529_145700.png)
+![SC4](https://github.com/abdashaffan/Seleksi-2019-Tugas-1/blob/master/screenshots/Screenshot_20190529_145713.png)
+![SC5](https://github.com/abdashaffan/Seleksi-2019-Tugas-1/blob/master/screenshots/Screenshot_20190529_145721.png)
+![SC6](https://github.com/abdashaffan/Seleksi-2019-Tugas-1/blob/master/screenshots/Screenshot_20190529_145730.png)
 
