@@ -1,0 +1,21 @@
+# Java
+*.class
+
+# IntelliJ
+*.iml
+.idea/
+.settings/
+
+# maven
+target/
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# Package Files
+*.jar
+
+# VS Code
+.vscode/
