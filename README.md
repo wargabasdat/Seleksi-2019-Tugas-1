@@ -29,12 +29,13 @@ Untuk setiap komponen akan didapatkan data informasi dari katalog NanoKomputer b
 ## Specification
 Program dibuat dalam bahasa pemograman python3, dan dapat dijalankan menggunakan sistem operasi linux. Untuk setiap kali melakukan _request_, program akan melakukan _sleep_ selama 5 detik agar tidak memberatkan server. Program akan mengambil data dari setiap laman part pc berupa id barang, nama barang, deskripsi barang, harga barang, dan link gambar barang yang dituju. Data yang diambil kemudian disimpan dalam suatu list dari _tuple_ data dan kemudian akan diexport ke dalam file dengan format _json_. Setiap komponen part PC akan diexport kedalam file _json_ masing-masing.
 
-- Runtime : Python3
-- Libraries :
+- __Runtime__ : Python3
+- __Libraries__ :
   - Requests
   - BeautifulSoup
   - Json
   - Time
+  - Copy
 
 ## How to Use
 Penginstallan library yang diperlukan dengan perintah pada Command Line Interface (CLI) :
@@ -59,27 +60,27 @@ File hasil _data scraping_ scraping akan disimpan dalam direktori ```/data``` da
 ## Json Structure
 Sampel struktur _json_ yang digunakan dengan orient column dan hasil penulisan file dengan _json_ formatter :
 ```
-[
+{
     {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
+        "ID": "[Pentium G4400]",
+        "Nama Optical Drive": "Intel - Pentium G4400",
+        "Deskripsi": "Intel Pentium, Clock: 3.3GHz, 3.5MB Total CacheDual Core, Skylake-S, 54W, LGA1151",
+        "Harga": "Rp.990.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/Pentium.jpg?osCsid=b2fb5fb812a2123370d4e0f758e74671"
     },
     {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
+        "ID": "[BX80677G4560]",
+        "Nama Optical Drive": "Intel - Pentium G4560",
+        "Deskripsi": "The Best CPU for the MoneyIntel Pentium, Clock: 3.5GHz, 3.5MB Total CacheDual Core, Kaby Lake-S, 54W, LGA1151",
+        "Harga": "Rp.990.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/Pentium.jpg?osCsid=8d9311f8bccacfb1cec6c5b3c99fae63"
     },
     {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
+        "ID": "[BX80677G4600]",
+        "Nama Optical Drive": "Intel - Pentium G4600",
+        "Deskripsi": "Intel Pentium, Clock: 3.6GHz, 3.5MB Total CacheDual Core, Kaby Lake-S, 51W, LGA1151",
+        "Harga": "Rp.1.200.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/Pentium.jpg?osCsid=4b3f87176469abd265c847f44b00d3e1"
     }
 }
 ```
@@ -103,12 +104,14 @@ Library yang digunakan :
 - __requests__  untuk melakukan _request_ pada suatu web dan mengambil data informasinya  
 - __json__  untuk mengelompokan data informasi dan diexport ke dalam file _json_
 - __time__  untuk melakukan _delay_ pada setiap melakukan _request_
+- __copy__ untuk penggabungan data setiap record pada list agar selanjutnya diexport ke dalam file _json_
 
 Website referensi :
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - https://medium.com/python-pandemonium/6-things-to-develop-an-efficient-web-scraper-in-python-1dffa688793c
 - https://www.w3schools.com/python/python_json.asp
 - https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg?pbjreload=10
+- https://docs.python.org/2/library/copy.html
 
 
 <h2 align="center">

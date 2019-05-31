@@ -1,303 +1,303 @@
 [
     {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
+        "ID": "[Pentium G4400]",
+        "Nama Optical Drive": "Intel - Pentium G4400",
+        "Deskripsi": "Intel Pentium, Clock: 3.3GHz, 3.5MB Total CacheDual Core, Skylake-S, 54W, LGA1151",
+        "Harga": "Rp.990.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/Pentium.jpg?osCsid=b2fb5fb812a2123370d4e0f758e74671"
+    },
+    {
+        "ID": "[BX80677G4560]",
+        "Nama Optical Drive": "Intel - Pentium G4560",
+        "Deskripsi": "The Best CPU for the MoneyIntel Pentium, Clock: 3.5GHz, 3.5MB Total CacheDual Core, Kaby Lake-S, 54W, LGA1151",
+        "Harga": "Rp.990.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/Pentium.jpg?osCsid=8d9311f8bccacfb1cec6c5b3c99fae63"
+    },
+    {
+        "ID": "[BX80677G4600]",
+        "Nama Optical Drive": "Intel - Pentium G4600",
+        "Deskripsi": "Intel Pentium, Clock: 3.6GHz, 3.5MB Total CacheDual Core, Kaby Lake-S, 51W, LGA1151",
+        "Harga": "Rp.1.200.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/Pentium.jpg?osCsid=4b3f87176469abd265c847f44b00d3e1"
+    },
+    {
+        "ID": "[BX80684G5400]",
+        "Nama Optical Drive": "Intel - Pentium G5400",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetIntel Pentium, Clock: 3.7GHz, 4.5MB Total CacheDual Core, Coffee Lake-S, 54W, LGA1151",
+        "Harga": "Rp.990.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 1151/PentiumGold.jpg?osCsid=c697a12c1065ff8346ee0a4a50993f47"
+    },
+    {
+        "ID": "[BX80677I37100]",
+        "Nama Optical Drive": "Intel - Core i3 7100",
+        "Deskripsi": "Intel Core i3, Clock: 3.9GHz, 3.5MB Total CacheDual Core, Kaby Lake-S, 51W, LGA1151",
+        "Harga": "Rp.2.150.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i3.jpg?osCsid=0e4f8203b664e88e97bf01ee5a35b92a"
+    },
+    {
+        "ID": "[BX80684I38100]",
+        "Nama Optical Drive": "Intel - Core i3 8100",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetIntel Core i3, Clock: 3.6GHz, 7MB Total CacheQuad Core, Coffee Lake-S, 65W, LGA1151",
+        "Harga": "Rp.2.100.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i3_Coffe_Lake.jpg?osCsid=5ac2d86ce855fa4ac6b2d677a5e53bfa"
+    },
+    {
+        "ID": "[BX80684I38350K]",
+        "Nama Optical Drive": "Intel - Core i3 8350K",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetUnlocked Multiplier, Fan Not IncludedIntel Core i3, Clock: 4.0GHz, 9MB Total CacheQuad Core, Coffee Lake-S, 91W, LGA1151",
+        "Harga": "Rp.2.950.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i3_Coffe_Lake_8350K.jpg?osCsid=7b954a48549385f9877fad03d8cd41c5"
+    },
+    {
+        "ID": "[BX80677I57400]",
+        "Nama Optical Drive": "Intel - Core i5 7400",
+        "Deskripsi": "Intel Core i5, Clock / Turbo: 3.0GHz / 3.5GHz, 7MB Total CacheQuad Core, Kaby Lake-S, 65W, LGA1151",
+        "Harga": "Rp.2.829.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Kabylake.jpg?osCsid=c8a8370d80a259510f0a7f3d72d61984"
+    },
+    {
+        "ID": "[BX80677I57500]",
+        "Nama Optical Drive": "Intel - Core i5 7500",
+        "Deskripsi": "Intel Core i5, Clock / Turbo: 3.4GHz / 3.8GHz, 7MB Total CacheQuad Core, Kaby Lake-S, 65W, LGA1151",
+        "Harga": "Rp.3.355.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Kabylake.jpg?osCsid=9b9c80e8c0d6d7175b6ead528c296f2e"
+    },
+    {
+        "ID": "[BX80677I57600]",
+        "Nama Optical Drive": "Intel - Core i5 7600",
+        "Deskripsi": "Intel Core i5, Clock / Turbo: 3.5GHz / 4.1GHz, 7MB Total CacheQuad Core, Kaby Lake-S, 65W, LGA1151",
+        "Harga": "Rp.3.790.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Kabylake.jpg?osCsid=8a8bc11c695d07c9a427ecce8736d530"
+    },
+    {
+        "ID": "[BX80677I57600K]",
+        "Nama Optical Drive": "Intel - Core i5 7600K",
+        "Deskripsi": "Unlocked Multiplier, Fan Not IncludedIntel Core i5, Clock / Turbo: 3.8GHz / 4.2GHz, 7MB Total CacheQuad Core, Kaby Lake-S, 91W, LGA1151",
+        "Harga": "Rp.3.995.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Kabylake_Unlock.jpg?osCsid=0ff8ae086bda37ff0b681618a9419fa8"
+    },
+    {
+        "ID": "[BX80684I58400]",
+        "Nama Optical Drive": "Intel - Core i5 8400",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetIntel Core i5, Clock / Turbo : 2.8GHz / 4.0GHz, 10.5MB Total CacheHexa Core, Coffee Lake-S, 65W, LGA1151",
+        "Harga": "Rp.2.975.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Coffee_Lake.jpg?osCsid=b8a53251024a4e40efab8aec64ac1f7b"
+    },
+    {
+        "ID": "[BX80684I58500]",
+        "Nama Optical Drive": "Intel - Core i5 8500",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetIntel Core i5, Clock / Turbo : 3.0GHz / 4.1GHz, 10.5MB Total CacheHexa Core, Coffee Lake-S, 65W, LGA1151",
+        "Harga": "CALL",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Coffee_Lake.jpg?osCsid=a27be67d643585d297dd32063555b38b"
+    },
+    {
+        "ID": "[BX80684I58600]",
+        "Nama Optical Drive": "Intel - Core i5 8600",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetIntel Core i5, Clock / Turbo : 3.1GHz / 4.3GHz, 10.5MB Total CacheHexa Core, Coffee Lake-S, 65W, LGA1151",
+        "Harga": "CALL",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Coffee_Lake.jpg?osCsid=097e6e21bd2be24d971fe8cc0299a251"
+    },
+    {
+        "ID": "[BX80684I58600K]",
+        "Nama Optical Drive": "Intel - Core i5 8600K",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetUnlocked Multiplier, Fan Not IncludedIntel Core i5, Clock / Turbo: 3.6GHz / 4.3GHz, 10.5MB Total CacheHexa Core, Coffee Lake-S, 95W, LGA1151",
+        "Harga": "Rp.4.125.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel_Core_i5_Coffee_Lake_Unlock.jpg?osCsid=8fd237b24c7c21b018a8de7632674b68"
+    },
+    {
+        "ID": "[BX80677I77700]",
+        "Nama Optical Drive": "Intel - Core i7 7700",
+        "Deskripsi": "Intel Core i7, Clock / Turbo: 3.6GHz / 4.2GHz, 9MB Total CacheQuad Core, Kaby Lake-S, 65W, LGA1151",
+        "Harga": "Rp.5.010.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i7_Kaby_Lake.jpg?osCsid=5ad42c4458066e39347575ebbafeb187"
+    },
+    {
+        "ID": "[BX80677I77700K]",
+        "Nama Optical Drive": "Intel - Core i7 7700K",
+        "Deskripsi": "Unlocked Multiplier, Fan Not IncludedIntel Core i7, Clock / Turbo: 4.2GHz / 4.5GHz, 9MB Total CacheQuad Core, Kaby Lake-S, 91W, LGA1151",
+        "Harga": "Rp.5.970.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i7_Kaby_Lake_Unlock.jpg?osCsid=624faaa6f01ac9bb5b70e23420bb2b74"
+    },
+    {
+        "ID": "[BX80684I78700]",
+        "Nama Optical Drive": "Intel - Core i7 8700",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetIntel Core i7, Clock / Turbo : 3.2GHz / 4.6GHz, 13.5MB Total CacheHexa Core, Coffee Lake-S, 65W, LGA1151",
+        "Harga": "Rp.4.670.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i7_Coffee_Lake.jpg?osCsid=071dece1f9bcf2d407e8338e0a32aa5d"
+    },
+    {
+        "ID": "[BX80684I78700K]",
+        "Nama Optical Drive": "Intel - Core i7 8700K",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetUnlocked Multiplier, Fan Not IncludedIntel Core i7, Clock / Turbo: 3.7GHz / 4.7GHz, 13.5MB Total CacheHexa Core, Coffee Lake-S, 95W, LGA1151",
+        "Harga": "Rp.6.200.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/LGA 1151/Intel_Core_i7_Coffee_Lake_Unlock.jpg?osCsid=a3d35a90dc9b56b9b5ae9ab0abd298bd"
+    },
+    {
+        "ID": "[BX80684I59400F]",
+        "Nama Optical Drive": "Intel - Core i5 9400F",
+        "Deskripsi": "Only Compatible With Intel 300 Series Chipset, W/O Onboard GraphicIntel Core i5, Clock / Turbo : 2.90 GHz / 4.10 GHz, 10.5MB Total CacheHexa Core, Coffee Lake-S, 65W, LGA1151",
+        "Harga": "Rp.2.400.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/9400F.jpg?osCsid=0504bd8a146dd62d83a81012452e83df"
+    },
+    {
+        "ID": "[BX80684I59600K]",
+        "Nama Optical Drive": "Intel - Core i5 9600K",
+        "Deskripsi": "Only Compatible With Intel 300 Series ChipsetUnlocked Multiplier, Fan Not IncludedIntel Core i5, Clock / Turbo: 3.7GHz / 4.6GHz, 10.5MB Total CacheHexa Core, Coffee Lake-S, 95W, LGA 1151",
+        "Harga": "Rp.4.000.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel - Core i5 9600K.jpg?osCsid=725a4e346241d486d40fb3da1a79652a"
+    },
+    {
+        "ID": "[BX80684I99900K]",
+        "Nama Optical Drive": "Intel - Core i9 9900K",
+        "Deskripsi": "Intel Core i9, Clock / Turbo: 3.6GHz / 5.0GHz, 20.0MB Total CacheOcta Core, Coffee Lake-S, 95W, LGA1151",
+        "Harga": "Rp.8.150.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Intel - Core i9 9900K.jpg?osCsid=b51ba26a133c6bd7af35a8306f41f378"
+    },
+    {
+        "ID": "[BX80673I99820X]",
+        "Nama Optical Drive": "Intel - Core i9 9820X",
+        "Deskripsi": "Unlocked Multiplier, Fan Not IncludedIntel Core i9, Clock / Turbo: 3.3GHz / 4.2GHz, 26.5MB Total Cachedeca (10) Core, Skylake, 165W, LGA2066",
+        "Harga": "Rp.14.300.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 2066/Intel_Core_i9.jpg?osCsid=d1cf59c705fc35f065ef115a59069206"
+    },
+    {
+        "ID": "[BX80673I99900X]",
+        "Nama Optical Drive": "Intel - Core i9 9900X",
+        "Deskripsi": "Unlocked Multiplier, Fan Not IncludedIntel Core i9, Clock / Turbo: 3.50 GHz / 4.40 GHz, 29.25MB Total Cachedeca (10) Core, Skylake, 165W, LGA2066",
+        "Harga": "Rp.16.025.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 2066/9900x.jpg?osCsid=c1dce6f1b230be72878fad9b7e60752d"
+    },
+    {
+        "ID": "[BX80673I99940X]",
+        "Nama Optical Drive": "Intel - Core i9 9940X",
+        "Deskripsi": "Unlocked Multiplier, Fan Not IncludedIntel Core i9 X-Series, Clock / Turbo: 3.30 GHz / 4.50 GHz, 33.25MB Total CacheTetradeca (14) Core, Skylake X, 165W, LGA2066",
+        "Harga": "Rp.22.600.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 2066/9940X.jpg?osCsid=144c44bb35e3019eb674b512d9e8d748"
+    },
+    {
+        "ID": "[BX80673I99980X]",
+        "Nama Optical Drive": "Intel - Core i9 9980XE",
+        "Deskripsi": "Unlocked Multiplier, Fan Not IncludedIntel Core i9, Clock / Turbo: 3.00 GHz / 4.50 GHz, 42.75MB Total CacheOctadeca (18) Core, Skylake, 165W, LGA2066",
+        "Harga": "Rp.31.000.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/Intel/LGA 2066/9980XE.jpg?osCsid=d149567422880b274413a61136df0ee0"
+    },
+    {
+        "ID": "[FD4300WMHKBOX]",
+        "Nama Optical Drive": "AMD - FX-4300",
+        "Deskripsi": "Unlocked MultiplierAMD FX-Series, Clock / Turbo: 3.8GHz / 4.0GHz, 8MB Total CacheQuad Core, Vishera, 95W, AM3+",
+        "Harga": "Rp.1.010.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/AMD/Socket AM3+/amd_fx4.jpg?osCsid=d0ccbace7c42cbd6a4299f5bad115893"
+    },
+    {
+        "ID": "[YD200GC6FBBOX]",
+        "Nama Optical Drive": "AMD - Athlon 200GE",
+        "Deskripsi": "AMD Athlon\u2122 200GE with Radeon\u2122 Vega 3 GraphicsAMD Athlon, Clock : 3.2GHz, 5MB Total CacheDual Core, Raven Ridge, 35W, AM4",
+        "Harga": "Rp.785.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket AM4/YD200GC6FBBOX.jpg?osCsid=89b37fc39bc92b988039142a4508cfd2"
+    },
+    {
+        "ID": "[YD1200BBAEBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 3 1200",
+        "Deskripsi": "AMD Ryzen 3, Clock / Turbo: 3.1GHz / 3.4GHz, 10MB Total CacheQuad Core, Summit Ridge, 65W, AM4",
+        "Harga": "Rp.1.345.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/AMD_Ryzen_3.jpg?osCsid=bb135b7b8ecfff83d5daa149caf8f216"
+    },
+    {
+        "ID": "[YD2200C5FBBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 3 2200G",
+        "Deskripsi": "AMD Ryzen\u2122 3 2200G with Radeon\u2122 Vega 8 GraphicsAMD Ryzen 3, Clock / Turbo: 3.5GHz / 3.7Hz, 6MB Total CacheQuad Core, Raven Ridge, 65W, AM4",
+        "Harga": "Rp.1.405.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/AMD_2200G.jpg?osCsid=043025bf35279b1988c526d3036cdb80"
+    },
+    {
+        "ID": "[YD1600BBAEBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 5 1600",
+        "Deskripsi": "AMD Ryzen 5, Clock / Turbo: 3.2GHz / 3.6GHz, 19MB Total CacheHexa Core, Summit Ridge, 95W, AM4",
+        "Harga": "Rp.2.330.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/AMD_Ryzen_5_heatshink.jpg?osCsid=f264e9414df93b410ed8ff91614c5f7d"
+    },
+    {
+        "ID": "[YD2400C5FBBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 5 2400G",
+        "Deskripsi": "AMD Ryzen\u2122 5 2400G with Radeon\u2122 RX Vega 11 GraphicsAMD Ryzen 5, Clock / Turbo: 3.6GHz / 3.9Hz, 6MB Total CacheQuad Core, Raven Ridge, 65W, AM4",
+        "Harga": "Rp.2.245.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/AMD_Ryzen_2400G.jpg?osCsid=c0ea2c133d638a8eeb7fa3af4c5321b2"
+    },
+    {
+        "ID": "[YD2600BBAFBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 5 2600",
+        "Deskripsi": "AMD Ryzen 5, Clock / Turbo: 3.4GHz / 3.9GHz, 19MB Total CacheHexa Core, Pinnacle Ridge, 65W, AM4",
+        "Harga": "Rp.2.630.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Socket AM4/AMD_Ryzen_2_5.jpg?osCsid=8e5f50103984113423f5f7fc5bf0da0b"
+    },
+    {
+        "ID": "[]",
+        "Nama Optical Drive": "AMD - Ryzen 5 2600X",
+        "Deskripsi": "AMD Ryzen 5, Clock / Turbo: 3.6GHz / 4.2GHz, 19MB Total CacheHexa Core, Pinnacle Ridge, 95, AM4",
+        "Harga": "Rp.3.255.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Socket AM4/AMD_Ryzen_2_5.jpg?osCsid=086105b33b29f07d059de5c08ddf8d86"
+    },
+    {
+        "ID": "[YD1700BBAEBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 7 1700",
+        "Deskripsi": "AMD Ryzen 7, Clock / Turbo: 3.0GHz / 3.7GHz, 20MB Total CacheOcta Core, Summit Ridge, 65W, AM4",
+        "Harga": "Rp.3.750.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/AMD_Ryzen_7_1700.jpg?osCsid=a7002e707c17ad3b6392376359208940"
+    },
+    {
+        "ID": "[YD2700BBAFBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 7 2700",
+        "Deskripsi": "AMD Ryzen 7, Clock / Turbo: 3.2GHz / 4.1GHz, 20MB Total CacheOcta Core, Pinnacle Ridge, 65W, AM4",
+        "Harga": "Rp.4.280.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Socket AM4/AMD_Ryzen_2_7.jpg?osCsid=e7c9ea5aec60369e64fee78ec4bcd4d7"
+    },
+    {
+        "ID": "[YD270XBGAFBOX]",
+        "Nama Optical Drive": "AMD - Ryzen 7 2700X",
+        "Deskripsi": "AMD Ryzen 7, Clock / Turbo: 3.7GHz / 4.3GHz, 20MB Total CacheOcta Core, Pinnacle Ridge, 105W, AM4",
+        "Harga": "Rp.4.740.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Socket AM4/AMD_Ryzen_2_2700X.jpg?osCsid=aa76969e228740bfacf41e941411a8c0"
+    },
+    {
+        "ID": "[YD192XA8AEWOF]",
+        "Nama Optical Drive": "AMD - Ryzen Threadripper 1920X",
+        "Deskripsi": "AMD Ryzen Threadripper, Clock / Turbo: 3.5GHz / 4.0GHz, 39.5MB Total CacheDodeca (12) Core, Summit Ridge, 180W, TR4",
+        "Harga": "Rp.9.235.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Socket TR4/AMD_Ryzen_TR.jpg?osCsid=0c110067ac1fb27b85e6be325903dc06"
+    },
+    {
+        "ID": "[YD292XA8UC9AF]",
+        "Nama Optical Drive": "AMD - Ryzen Threadripper 2920X",
+        "Deskripsi": "AMD Ryzen Threadripper, Clock / Turbo: 3.5GHz / 4.3GHz, 38.0MB Total Cache12 Core, Colfax, 180W, TR4",
+        "Harga": "Rp.10.150.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket TR4/AMD Ryzen Threadripper 2950X.jpg?osCsid=efd08bc3028569fb46048a025bce9943"
+    },
+    {
+        "ID": "[YD297XAZUHCAF]",
+        "Nama Optical Drive": "AMD - Ryzen Threadripper 2970WX",
+        "Deskripsi": "AMD Ryzen Threadripper, Clock / Turbo: 3.0GHz / 4.2GHz, 76.0MB Total Cache24 Core, Colfax, 250W, TR4",
+        "Harga": "Rp.20.300.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket TR4/AMD Ryzen Threadripper 2950X.jpg?osCsid=2faa5152e7b5cc697d6eedff107d411b"
+    },
+    {
+        "ID": "[AD6300OKHLBOX]",
+        "Nama Optical Drive": "AMD - A4-6300",
+        "Deskripsi": "GPU Type: Radeon HD 8370DAMD A4-Series, Clock / Turbo: 3.7GHz / 3.9GHz, 1MB Total CacheDual Core, Richland, 65W, FM2",
+        "Harga": "Rp.425.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/AMD.jpg?osCsid=7346987e91967ffd7f23d68770b41aa4"
+    },
+    {
+        "ID": "[AD870KXBJCSBX]",
+        "Nama Optical Drive": "AMD - Athlon X4 870K",
+        "Deskripsi": "Unlock MultiplierAMD Athlon X4, Clock / Turbo: 3.9GHz / 4.1GHz, 4MB Total CacheQuad Core, Godavari, 95W, FM2+",
+        "Harga": "Rp.880.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD.jpg?osCsid=8f898d29492ea9e1caab98458774e47c"
     },
     {
         "ID": "[AD747KYBJCBOX]",
         "Nama Optical Drive": "AMD - A6-7470K",
         "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
         "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
-    },
-    {
-        "ID": "[AD747KYBJCBOX]",
-        "Nama Optical Drive": "AMD - A6-7470K",
-        "Deskripsi": "Unlock Multiplier, GPU Type: Radeon R5 SeriesAMD A6-Series, Clock / Turbo: 3.7GHz / 4.0GHz, 1MB Total CacheDual Core, Godavari, 65W, FM2+",
-        "Harga": "Rp.795.000,-",
-        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=907bec22473d2d59b938f3a118f60a48"
+        "Image Link": "http://www.nanokomputer.com/images/products/Processors/Desktop/AMD/Socket FM2+/AMD 1.jpg?osCsid=4c0ecf4905a898f5b74ee35409f73040"
     }
 ]

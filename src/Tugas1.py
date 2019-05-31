@@ -6,6 +6,7 @@ import requests
 import bs4
 import time
 import json
+import copy
 
 #Fungsi yang mengembalikan sebuah soup hasil dari konfigurasi text dari request get
 def requestAndGetSoup(link):
@@ -270,7 +271,7 @@ def exportJson(dataPartPC, filename):
         dataJson['Deskripsi'] = item[2]
         dataJson['Harga'] = item[3]
         dataJson['Image Link'] = item[4]
-        dataExport.append(dataJson)
+        dataExport.append(copy.deepcopy(dataJson))
 
     with open(filename, 'w') as fileout:
         json.dump(dataExport, fileout, indent = 4)
@@ -299,7 +300,7 @@ if __name__ == "__main__":
 
     #Export file json database for PowerSupply
     dataPowerSupply = getPowerSupply()
-    (dataPowerSupply,'PowerSupply.json')
+    exportJson(dataPowerSupply,'PowerSupply.json')
 
     #Export file json database for Cooling
     dataCooling = getCooling()
@@ -307,7 +308,7 @@ if __name__ == "__main__":
 
     #Export file json database for OpticalDrive
     dataOpticalDrive = getOpticalDrive()
-    exportJson(dataOpticalDrive,'OpticalDive.json')
+    exportJson(dataOpticalDrive,'OpticalDrive.json')
 
     #Export file json database for Cases
     dataCases = getCases()

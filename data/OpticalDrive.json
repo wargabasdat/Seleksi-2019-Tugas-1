@@ -1,0 +1,72 @@
+[
+    {
+        "ID": "[BW-16D1HT]",
+        "Nama Optical Drive": "Asus - BW-16D1HT with BLURAY MDISC support",
+        "Deskripsi": "Blu-ray Writer, Internal, SATA, Box",
+        "Harga": "Rp.1.365.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/Blu-Ray Burners/Asus - BW-16D1HT.jpg?osCsid=1845dfce45031306dec168b45bc12aa7"
+    },
+    {
+        "ID": "[BC-12D2HT]",
+        "Nama Optical Drive": "Asus - BC-12D2HT with BLURAY MDISC support",
+        "Deskripsi": "Blu-ray Combo, Internal, SATA, Box",
+        "Harga": "Rp.1.015.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/Blu-Ray Drives/Asus - BW-16D1HT.jpg?osCsid=350bde77fd84e291876980af59d15506"
+    },
+    {
+        "ID": "[DRW-24D5MT]",
+        "Nama Optical Drive": "Asus - DRW-24D5MT OEM with BLURAY MDISC support",
+        "Deskripsi": "DVD\u00b1RW 24X, Internal, SATA, OEM",
+        "Harga": "Rp.195.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/CD/DVD Burners/Asus_DRW-24D5MT.jpg?osCsid=7f75e21b16063cc186910da7269e9a36"
+    },
+    {
+        "ID": "[]",
+        "Nama Optical Drive": "LG - DVD\u00b1RW 24X OEM",
+        "Deskripsi": "DVD\u00b1RW 24X, Internal, SATA, OEM",
+        "Harga": "Rp.185.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Internal/LG_DVD_RW.jpg?osCsid=9e42e48a8c098347d229d4a357625998"
+    },
+    {
+        "ID": "[SDRW-08D2S-U Lite]",
+        "Nama Optical Drive": "Asus - SDRW-08D2S-U Lite with BLURAY MDISC support",
+        "Deskripsi": "DVD\u00b1RW 8X, External, USB, Box",
+        "Harga": "Rp.325.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/External Drives/Asus_SDRW-08D2S-U LITE.jpg?osCsid=dcbac1abfb4c1d3c7edc58f86c0cebeb"
+    },
+    {
+        "ID": "[SDRW-08U7M-U]",
+        "Nama Optical Drive": "Asus -  SDRW-08U7M-U with BLURAY MDISC support",
+        "Deskripsi": "DVD\u00b1RW 8X, External, USB, Box",
+        "Harga": "Rp.460.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/External Drives/Asus_SDRW-08U7M-U.jpg?osCsid=31ec584b1d50b6095edd0f8c1dd1e72b"
+    },
+    {
+        "ID": "[SDRW-08U7M-U]",
+        "Nama Optical Drive": "Asus -  SDRW-08U7M-U Gold with BLURAY MDISC support",
+        "Deskripsi": "DVD\u00b1RW 8X, External, USB, Box",
+        "Harga": "Rp.495.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/External Drives/Asus_SDRW-08U9M-U.jpg?osCsid=39bde70248e5a08cdf3009652fe3061e"
+    },
+    {
+        "ID": "[SDRW-S1 LITE]",
+        "Nama Optical Drive": "Asus - SDRW-S1 LITE with BLURAY MDISC support",
+        "Deskripsi": "DVD\u00b1RW 8X, External, USB, Box",
+        "Harga": "Rp.1.625.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/External Drives/Asus_Impresario SDRW-S1 LITE.jpg?osCsid=ee622a02ecf58db7f14f82d01ad9507c"
+    },
+    {
+        "ID": "[SBC-06D2X-U]",
+        "Nama Optical Drive": "Asus - SBC-06D2X-U with BLURAY MDISC support",
+        "Deskripsi": "Blu-ray Drive, External, USB, Box",
+        "Harga": "Rp.1.230.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/External Drives/Asus_SBC-06D2X-U.jpg?osCsid=912c649dc5db59703807e89b4652b2c5"
+    },
+    {
+        "ID": "[SBW-06D2X-U]",
+        "Nama Optical Drive": "Asus - SBW-06D2X-U with BLURAY MDISC support",
+        "Deskripsi": "Blu-ray Burner, External, USB, Box",
+        "Harga": "Rp.1.520.000,-",
+        "Image Link": "http://www.nanokomputer.com/images/products/Optical Drives/External Drives/Asus_SBC-06D2X-U.jpg?osCsid=381f381970087331bc80298ffb62e128"
+    }
+]
