@@ -38,7 +38,7 @@ Data 1000 film terbaik ini dapat digunakan untuk memberikan rekomendasi kepada p
 ```
 [
     {
-        "Film-List": [
+        "Film-List": {
             "0" : {
                 "Title": "Game of Thrones",
                 "Genre": "Action, Adventure, Drama",
@@ -46,16 +46,16 @@ Data 1000 film terbaik ini dapat digunakan untuk memberikan rekomendasi kepada p
                 "Runtime": "57 min"
             },
             ...
-        ]
-    },
+        }
+    }
 ]
 ```
 ## Screenshot
 
-#Source Code
+Source Code
 ![](screenshots/Screenshot.png)
 
-#JSON Structure(With formatter)
+JSON Structure(With formatter)
 ![](screenshots/JSON.png)
 
 ## References
