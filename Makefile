@@ -1,7 +1,7 @@
 all: clean build run
 
-clean: # remove data and binary folder
+clean: -
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+build: python script.py (in src folder)
 
-run: # run your binary
+run: python script.py (in src folder)
