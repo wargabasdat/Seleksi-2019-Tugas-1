@@ -29,7 +29,7 @@ libraries :
 ## How To Use
 1. Jalankan program dengan menggunakan
 ```
-$ python src/main.py
+$ python3 src/main.py
 '''
 2. Masukan tanggal awal dan akhir data yang diinginkan
 3. data akan diupdate ke dalam file json
