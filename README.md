@@ -143,7 +143,7 @@ The JSON Structure of the output file contains position, song info (title, artis
 			},
 			"chartInfo": {
 				"lastWeek": "3",
-				"timeSpent": "2",
+				"timeSpent": 2,
 				"highestPosition": 1
 			}
 		},
@@ -155,15 +155,17 @@ The JSON Structure of the output file contains position, song info (title, artis
 
 ## Screenshot Program
 
+![ScreenShot-issue1238-H100](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-1/master/screenshots/ScreenShot-issue1238-H100.png)
 
+![ScreenShot-issue1239-H100](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-1/master/screenshots/ScreenShot-issue1239-H100.png)
 
 
 ## Reference
 
-# Runtime
+### Runtime
 Python 3
 
-# Library used
+### Library used
 - requests
 - bs4
 - os
