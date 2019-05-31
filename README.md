@@ -63,7 +63,9 @@ Struktur JSON berdasarkan record file
 
 ## Screenshot Program
 
-
+![Screenshot1](screenshots/1.jpg?raw=true "Title")
+![Screenshot2](screenshots/2.jpg?raw=true "Title")
+![Screenshot3](screenshots/3.jpg?raw=true "Title")
 
 ## Reference
 
