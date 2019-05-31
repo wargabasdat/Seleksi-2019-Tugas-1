@@ -24,7 +24,7 @@ mvn exec:java -DHttpRequest -Dexec.args="https://www.kompas.com/"
 ```
 
 ## JSON Structure
-<br>[{
+[{
 <br>  "title" : string,
 <br>  "dateInfo" : string,
 <br>  "category" : string,
