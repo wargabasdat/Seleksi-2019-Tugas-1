@@ -59,17 +59,14 @@ JSON is stored in the form of an array of smartphone data
 ```
 
 ## Screenshot
-Start the program
 ![Start](screenshots/start.JPG?raw=true "Start program")
-
-Program finish
 ![Finish](screenshots/finish.JPG?raw=true "Program finish")
 
 ## Reference
-[BeuatifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[requests](https://realpython.com/python-requests/)
-[concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
+- [BeuatifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [requests](https://realpython.com/python-requests/)
+- [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
 
 ## Author
-Muhammad Fikri Hizbullah
+Muhammad Fikri Hizbullah<br />
 13517104
