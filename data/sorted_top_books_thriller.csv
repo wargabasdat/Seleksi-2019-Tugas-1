@@ -1,0 +1,54 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_date,publisher
+1,Patriot Games,Tom Clancy,0425134350,(Jack Ryan Universe #2),4.13,503,170261,1158,Paperback,May 1st 1992,Berkley
+32,Casino Royale,Ian Fleming,014200202X,(James Bond (Original Series) #1),3.74,181,55521,3688,Paperback,August 27th 2002,Penguin
+33,I Let You Go,Clare Mackintosh,0751554154,NULL,4.07,371,85675,10369,Paperback,November 9th 2014,Sphere
+34,The Silent Patient,Alex Michaelides,1250301696,NULL,4.06,323,64987,9783,Hardcover,February 5th 2019,Celadon Books
+35,Tell No One,Harlan Coben,0440236703,NULL,4.11,370,100557,4563,Mass Market Paperback,August 25th 2009,Dell Publishing Company
+36,The Girl Before,J.P. Delaney,0425285049,NULL,3.69,341,92175,8805,Hardcover,January 24th 2017,Ballantine Books
+37,One Shot,Lee Child,0440241022,(Jack Reacher #9),4.21,466,82925,3033,Paperback,March 28th 2006,Dell Publishing Company
+38,61 Hours,Lee Child,0385340583,(Jack Reacher #14),4.10,383,62781,3725,Hardcover,May 18th 2010,Delacorte Press
+39,Running Blind,Lee Child,0515130974,(Jack Reacher #4),4.09,512,68909,2937,Paperback,July 1st 2001,Jove
+40,Clear and Present Danger,Tom Clancy,0425144372,(Jack Ryan Universe #6),4.10,688,120248,723,Mass Market Paperback,August 1st 1994,Berkley Pub Group
+41,Sphere,Michael Crichton,0345418972,NULL,3.79,371,150854,2778,Paperback,June 23rd 1997,Ballantine Books
+42,The Spy Who Came In from the Cold,John le Carré,NULL,(George Smiley),4.07,224,60570,3689,Paperback,November 27th 2001,Scribner
+43,Into the Darkest Corner,Elizabeth Haynes,0062197266,NULL,4.10,450,53962,5408,Paperback,January 2nd 2013,Harper
+44,The Chalk Man,C.J. Tudor,1524760986,NULL,3.71,280,39243,6205,Hardcover,January 9th 2018,Crown Publishing Group (NY)
+45,Odd Thomas,Dean Koontz,0553384287,(Odd Thomas #1),3.96,446,230662,6979,Paperback,August 29th 2006,Bantam
+46,NOS4A2,Joe Hill,0062200577,NULL,4.07,692,78070,9572,Hardcover,April 30th 2013,William Morrow
+94,The Brethren,John Grisham,0385339674,NULL,3.73,384,79705,1724,Paperback,December 27th 2005,Delta
+98,The Ice Twins,S.K. Tremayne,0007563035,NULL,3.66,373,28392,3558,Hardcover,January 29th 2015,Harper Collins
+99,The Wheel of Darkness,Douglas Preston,0446580287,(Aloysius Pendergast #8),3.93,388,22946,1139,Hardcover,August 28th 2007,Grand Central Publishing
+100,Hidden Bodies,Caroline Kepnes,1476785635,(You #2),3.77,442,28343,4089,Paperback,November 1st 2016,Atria/Emily Bestler Books
+101,Night School,Lee Child,0804192979,(Jack Reacher #21),3.97,14,44143,3361,Audio CD,November 7th 2016,Books on Tape
+102,Jack & Jill,James Patterson,0446692654,(Alex Cross #3),3.96,466,62354,1469,Paperback,August 1st 2003,Grand Central Publishing
+218,Red Russia,Tanya Thompson,NULL,NULL,3.97,196,646,55,Kindle Edition,November 11th 2017,Thompson Books
+219,The Affair,Lee Child,0593065700,(Jack Reacher #16),4.13,427,67539,3746,Hardcover,September 29th 2011,Bantam Press
+220,The Death of Mrs. Westaway,Ruth Ware,1501156217,NULL,3.82,368,58289,7788,Hardcover,May 29th 2018,Gallery/Scout Press
+221,The Sum of All Fears,Tom Clancy,0425184226,(Jack Ryan Universe #7),4.01,928,51046,682,Paperback,May 7th 2002,Berkley
+222,The Alienist,Caleb Carr,0812976142,(Dr. Laszlo Kreizler #1),4.06,498,129167,6270,Paperback,October 24th 2006,Random House
+223,Career of Evil,Robert Galbraith,NULL,(Cormoran Strike #3),4.22,498,135403,12791,Kindle Edition,June 2018,Mulholland Books
+224,The Grownup,Gillian Flynn,0804188971,NULL,3.55,64,77374,9510,Hardcover,November 3rd 2015,Crown
+225,The Godfather,Mario Puzo,NULL,(Mario Puzo's Mafia),4.37,448,296721,7257,Paperback,March 1st 2002,NAL
+226,The 7½ Deaths of Evelyn Hardcastle,Stuart Turton,1492657964,NULL,3.96,432,43808,9030,Hardcover,September 18th 2018,Sourcebooks Landmark
+227,Before the Fall,Noah Hawley,NULL,NULL,3.74,401,96161,11071,Kindle Edition,May 31st 2016,Grand Central Publishing
+228,1st to Die,James Patterson,0446696617,(Women's Murder Club #1),4.07,424,270450,5771,Paperback,May 20th 2005,Grand Central Publishing
+229,Pet Sematary,Stephen King,NULL,NULL,3.96,580,351487,9652,Kindle Edition,May 13th 2014,Scribner
+230,End of Watch,Stephen King,1501129740,(Bill Hodges Trilogy #3),4.09,432,69795,7037,Hardcover,June 7th 2016,Scribner
+231,Reliquary,Douglas Preston,0765354950,(Aloysius Pendergast #2),4.02,464,35099,1288,Mass Market Paperback,August 1st 2005,Tor Books
+233,The Breakdown,B.A. Paris,1250122465,NULL,3.90,328,58854,7759,Hardcover,July 18th 2017,St. Martin's Press
+234,The Cardinal of the Kremlin,Tom Clancy,0425116840,(Jack Ryan Universe #5),4.03,547,44182,612,Mass Market Paperback,August 1989,Berkley Publishing Group
+235,Nothing to Lose,Lee Child,0385340567,(Jack Reacher #12),3.92,416,46251,2297,Hardcover,June 3rd 2008,Delacorte Press
+236,Blindsighted,Karin Slaughter,0380820889,(Grant County #1),4.10,418,58139,2628,Paperback,October 1st 2002,Harper
+237,No Country for Old Men,Cormac McCarthy,0375706674,NULL,4.13,309,126644,7204,Paperback,July 11th 2006,Vintage
+238,The Last Time I Lied,Riley Sager,NULL,NULL,4.07,384,30442,4639,Kindle Edition,July 3rd 2018,Dutton
+239,The Camel Club,David Baldacci,NULL,(Camel Club #1),4.04,606,71313,2586,Paperback,September 1st 2006,Warner Vision
+240,Sandstorm,James Rollins,0060580674,(Sigma Force #1),3.95,608,39216,1728,Mass Market Paperback,May 1st 2005,HarperCollins Publishers
+241,Never Go Back,Lee Child,0385344341,(Jack Reacher #18),4.04,400,52049,3958,Hardcover,September 3rd 2013,Delacorte Press
+242,Hannibal,Thomas  Harris,0099297701,(Hannibal Lecter #3),3.75,564,74254,2521,Paperback,May 18th 2000,Arrow
+243,Bird Box,Josh Malerman,NULL,(Bird Box #1),4.03,262,98263,13692,Hardcover,May 13th 2014,Ecco
+244,The Wife Between Us,Greer Hendricks,1250130921,NULL,3.84,346,127456,15019,Hardcover,January 9th 2018,St. Martin's Press
+245,The Client,John Grisham,0385339089,NULL,3.99,483,358933,2226,Paperback,March 16th 2010,Delta
+246,Sometimes I Lie,Alice Feeney,0008225354,NULL,3.84,387,54376,8026,Paperback,March 23rd 2017,HQ
+247,The Hypnotist,Lars Kepler,0374173958,(Joona Linna #1),3.67,503,38393,3503,Hardcover,June 21st 2011,Sarah Crichton Books
+248,The Lying Game,Ruth Ware,1501156004,NULL,3.52,370,68217,6860,Hardcover,July 25th 2017,Gallery/Scout Press
+249,Watchers,Dean Koontz,NULL,NULL,4.17,624,131073,3325,Paperback,January 28th 2003,Berkley

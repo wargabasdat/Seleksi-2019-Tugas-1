@@ -1,108 +1,87 @@
-<h1 align="center">
-  <br>
-  Seleksi 1 Warga Basdat 2019
-  <br>
-  <br>
-</h1>
+#Description:
+Untuk memenuhi ketentuan tugas seleksi pertama warga basdat 2019, saya membuat beberapa proyek yaitu:
+1. GR_TopBooks_Spider (PROJECT UTAMA)
+2. GR_Trivia_Spider (PROJECT SAMPINGAN untuk fun & exploration ^^ )
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+#1 GR_TopBooks_Spider
+Ini adalah program spider yang akan scraping data buku-buku secara lengkap dari www.goodreads.com. Andai kata anda masih belum familiar dengan nama tersebut, Goodreads adalah salah satu website terbesar dan paling digemari (termasuk saya) bagi para pembaca buku di seluruh dunia untuk eksplorasi buku baru, mencari data lengkap mengenai sebuah buku, melihat resensi buku dari reviewer yang professional tingkat dunia, platform untuk diskusi buku, penyedia komunitas untuk pembaca (dalam bentuk forum), quiz & trivia mengenai dunia literatur, dan lain-lain. Website goodreads adalah bagaikan pulau berharta karun bagi para data scraper dilihat dari data disana yang berlimpah-limpah.
 
+Program ini dibuat dengan menggunakan framework scrapy yang menganut library Twisted yang bersifat asynchronous. Spider scrapy diimplementasikan bersamaan dengan library beautifulsoup. Sebenarnya scrapy saja sudah cukup, namun saya ingin eksplorasi kedua library tersebut. Alhasil, scrapy digunakan untuk mengirim request, baik GET(mengambil HTML data dari page) dan POST(untuk login), dan beautifulsoup digunakan untuk extract dan parse HTML content hasil dari request.
 
-## Specifications
+Hal yang akan dilakukan program adalah:
+1. Melakukan sign-in ke Goodreads dengan credentials account yang diberikan (atau jika tidak, akan otomatis digunakan default dummy account). HAL INI PENTING, karena apparently, website Goodreads ada bug (intentional?) yang menyebabkan kita tidak bisa melihat top books dari genre apapun pada page selain page pertama. (Goodreads, I love you, but this kind of nonsense really makes me wanna pull my hair out...)
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
+2. Program akan mengirim request ke "https://www.goodreads.com/shelf/show/<genre>" untuk mendapatkan html content dari top books dalam genre yang dispesifikasi user. Genre akan diberikan melalui command line arguments.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
+3. Dari page tersebut, program akan melacak hyperlink dari setiap judul buku di page tersebut dan akan mengirimkan request kesana secara iterative. Hal ini karena laman yang didedikasikan ke buku-buku secara individual memiliki informasi yang jauh lebih lengkap dari halaman top books listing.
 
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+4. Di page individual book details, program akan menggunakan beautifulsoup untuk meng-ekstrak setiap informasi dari laman tersebut. Juga digunakan Regex untuk parsing raw data sehingga data yang disimpan di .csv & .json adalah data yang atomik dan tidak perlu diformatting lagi. Data type juga sudah dikonversi secara sesuai dengan semantiknya.
 
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
+5. Setelah seluruh data telah diekstraksi secara asynchronous, data ditulis ke suatu file .csv. Lalu program spider akan ditutup.
 
-5. <span style="color:blue;">Peserta juga diminta untuk membuat _simple build tools_ semacam `Makefile`, `npm scripts`, `runjs` yang bertujuan untuk membuat _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_.</span>
+6. Setelah program spider ditutup, akan dijalankan data_organizer.py yang akan mengkonversi .csv menjadi .json, dan melakukan sort tabel hasil berdasarkan id.
 
-> Template `makefile`
+# Specification
+1. Disarankan untuk menggunakan UNIX environment seperti linux dalam menjalankan makefile.
+2. Install scrapy dulu dengan pip: 
+    pip install Scrapy
+3. Install Beautifulsoup:
+    pip install beautifulsoup4
 
-```Makefile
-all: clean build run
+# How to use
+Disediakan makefile (MAKEFILE YANG DIBUAT DISESUAIKAN DENGAN ENVIRONMENT UNIX), hanya perlu menjalankan command:
 
-clean: # remove data and binary folder
+    make genre=DESIRED_GENRE 
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+contoh: make genre=fantasy, make genre=thriller
 
-run: # run your binary
+Jika ingin menambahkan detil lanjut, disediakan beberapa parameter untuk dimodifikasi di command line:
 
-```
+    make username=YOUR_USERNAME password=YOUR_PASSWORD genre=DESIRED_GENRE init_pnum_=PAGE_MULAI last_pnum=PAGE_AKHIR
 
-> Template `npm scripts`
+secara default, program menerima parameter: 
+    
+    make username=13517068@std.stei.itb.ac.id password=testgrspider genre=horror init_pnum=1 last_pnum=5
 
-```javascript
-"scripts": {
-  "build": // if any (optional)
-  "clean": // delete node_modules
-}
-```
+# Ideas and innovations in utilizing the data
+Dengan data yang didapatkan, banyak hal yang dapat dilakukan, seperti:
+1. Apakah popular books == quality books? (Analisis apakah buku-buku yang terpopuler di laman topbooks memiliki average ratings yang tinggi berdasarkan ratings count)
+2. Apakah buku yang populer didominasi oleh buku-buku tua atau buku-buku baru? (Analisis banyaknya entry buku di top books list berdasarkan published date) Hal ini akan meng-ekspos jika adanya bias pembaca, reviewer, dan pengkritik pada buku-buku lama yang dianggap sebagai lebih menyerupai 'literatur' daripada buku zaman sekarang yang, menurut banyak opini, sebagai 'dumbed down literature'.
+3. Genre buku manakah yang paling populer, paling tinggi average ratingsnya, dan paling banyak review_countnya.
+4. Format buku manakah yang populer: Paperback(cover tipis), Hardcover(cover tebal), Audiobook, Kindle Edition & E-books, etc.?
+5. Apakah banyaknya halaman pada suatu buku mempengaruhi average ratings dari buku tersebut? (Hal ini penting, karena bagi banyak penulis, ketebalan buku yang pas sangatlah sulit ditentukan dan tidak ada konvensi yang selalu benar. Ketebalan yang terlalu tebal berisiko membuat pembaca bosan dan move-on ke buku lain, dan terlalu tipis akan membuat kesan tulisan yang 'rushed' dan aspek-aspek yang underdeveloped)
+6. Penulis manakah yang memiliki karya terbanyak pada halaman top books? Data ini dapat mengungkapkan kemampuan penulis yang sesungguhnya, terutama kecepatan menulis dari berbagai author dalam menghasilkan quality books(buku yang populer). (Yes, I am looking at you, Mr. Stephen King) 
 
-> Template `runjs`
-```javascript
-import { run } from 'runjs'
+dan masih banyak lagi. Saya harapkan dari data yang didapatkan bisa memberikan insight yang lebih dalam mengenai dunia literatur baik bagi penulis dan pembaca.
 
-export function clean () {
-}
+#JSON Structure
+Berikut adalah headers yang tersedia:
+'id','title', 'author', 'ISBN', 'series', 'avg_rating', 'pages', 'rating_count', 'review_count', 'book_format','published_date', 'publisher'
 
-export function start () {
-}
+contoh .json hasil:
+    {
+        "id": "241",
+        "title": "The Phantom of the Opera",
+        "author": "Gaston Leroux",
+        "ISBN": "0060809248",
+        "series": "NULL",
+        "avg_rating": "3.97",
+        "pages": "360",
+        "rating_count": "181121",
+        "review_count": "5613",
+        "book_format": "Paperback",
+        "published_date": "December 30th 1987",
+        "publisher": "Harper Perennial"
+    }
 
-export function build () {
-  // if any (optional)
-}
-```
+# Screenshots:
+# Reference:
+  Python 3.7.
+  Scrapy
+  Beautifulsoup
 
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
+  Selenium (Trivia project)
+  Chromedriver (Trivia project)
 
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-12. <span style="color:blue">Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :</span>
-```
-- Description
-- Specification (optional)
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+# Author:
+  Abel Stanley, NIM: 13517068

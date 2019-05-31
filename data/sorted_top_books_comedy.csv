@@ -1,0 +1,100 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_date,publisher
+1,Pyramids,Terry Pratchett,0061020656,(Discworld #7),3.90,341,60988,1624,Mass Market Paperback,2008,Harper
+2,The Girl with the Lower Back Tattoo,Amy Schumer,1501139886,NULL,3.73,323,84651,7780,Hardcover,August 16th 2016,Gallery Books
+3,Chelsea Chelsea Bang Bang,Chelsea Handler,0446552445,NULL,3.81,244,61519,2990,Hardcover,March 9th 2010,Grand Central Publishing
+4,Furiously Happy: A Funny Book About Horrible Things,Jenny  Lawson,1250077001,NULL,3.93,329,100302,11513,Hardcover,September 22nd 2015,Flatiron Books
+5,Holidays on Ice,David Sedaris,0316191299,NULL,3.93,176,100721,5268,Paperback,December 28th 1998,Little Brown & Co (P)
+6,Hogfather,Terry Pratchett,0552154288,(Discworld #20),4.24,432,67526,2035,Paperback,October 2nd 2006,Corgi
+7,Fool,Christopher Moore,0060590319,(Fool #1),3.97,311,47824,3388,Hardcover,February 10th 2009,HarperCollins William Morrow
+8,Eric,Terry Pratchett,0380821214,(Discworld #9),3.75,217,51931,1528,Mass Market Paperback,July 2008,Harper
+9,Moving Pictures,Terry Pratchett,0552152943,(Discworld #10),3.94,396,58488,1359,Paperback,April 1st 2005,Corgi
+10,Men at Arms,Terry Pratchett,0061092193,(Discworld #15),4.38,377,73127,1617,Mass Market Paperback,May 27th 2003,HarperPrism
+11,Freaks I've Met,Donald Jans,NULL,NULL,4.35,208,1639,289,Hardcover,August 15th 2015,Sheabeau Publishing
+12,Witches Abroad,Terry Pratchett,0061020613,(Discworld #12),4.23,374,64346,1698,Mass Market Paperback,July 30th 2002,HarperTorch
+13,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,Jonas Jonasson,NULL,(The Hundred-Year-Old Man #1),3.83,396,178810,20143,Kindle Edition,September 11th 2012,Hachette Books
+14,Diary of a Wimpy Kid,Jeff Kinney,0810993139,(Diary of a Wimpy Kid #1),3.97,217,337227,15831,Hardcover,April 1st 2007,Amulet Books
+15,Soul Music,Terry Pratchett,057506689X,(Discworld #16),4.04,424,58433,1480,Hardcover,1999,Gollancz
+16,Bloodsucking Fiends,Christopher Moore,0060735414,(A Love Story #1),3.94,300,56262,2388,Paperback,June 1st 2004,HarperCollins
+17,You Suck,Christopher Moore,0060590297,(A Love Story #2),3.83,328,44133,2719,Hardcover,January 16th 2007,William Morrow
+18,Feet of Clay,Terry Pratchett,0552153257,(Discworld #19),4.29,411,61400,1371,Paperback,October 1st 2005,Corgi
+19,John Dies at the End,David  Wong,0978970764,(John Dies at the End #1),3.91,362,54433,5647,Paperback,August 1st 2007,Permuted Press
+20,Redshirts,John Scalzi,0765316994,NULL,3.84,320,76056,9122,Hardcover,June 5th 2012,Tor Books
+21,Lords and Ladies,Terry Pratchett,055215315X,(Discworld #14),4.17,400,59822,1284,Paperback,August 1st 2005,Corgi
+22,The Stupidest Angel: A Heartwarming Tale of Christmas Terror,Christopher Moore,0060842350,(Pine Cove #3),3.82,306,38393,2968,Hardcover,October 28th 2008,William Morrow
+23,The Fifth Elephant,Terry Pratchett,0552154229,(Discworld #24),4.27,464,54232,1237,Paperback,November 6th 2008,Corgi
+24,Food: A Love Story,Jim Gaffigan,0804140413,NULL,3.70,340,23390,3362,Hardcover,October 21st 2014,Crown Archetype
+25,Twelfth Night,William Shakespeare,0743482778,NULL,3.98,220,145344,3171,Paperback,July 1st 2004,Simon
+26,Jingo,Terry Pratchett,0552154164,(Discworld #21),4.14,461,49178,1192,Paperback,February 12th 2006,Corgi Books
+27,Carpe Jugulum,Terry Pratchett,0061051586,(Discworld #23),4.15,296,47200,1133,Hardcover,September 8th 1999,Harper Voyager
+28,Making Money,Terry Pratchett,0061161640,(Discworld #36),4.25,394,51838,1728,Hardcover,September 18th 2007,Harper
+30,The Taming of the Shrew,William Shakespeare,074347757X,NULL,3.80,291,144687,2878,Paperback,January 1st 2004,Simon
+31,Thief of Time,Terry Pratchett,0061031321,(Discworld #26),4.27,378,54189,1378,Paperback,2008,HarperTorch
+32,"The Bedwetter: Stories of Courage, Redemption, and Pee",Sarah Silverman,NULL,NULL,3.52,240,32935,2097,Hardcover,April 20th 2010,Harper Collins
+33,Thud!,Terry Pratchett,0552152676,(Discworld #34),4.31,439,56786,1534,Paperback,October 2nd 2006,Corgi
+34,Two for the Dough,Janet Evanovich,0140255559,(Stephanie Plum #2),4.11,326,138237,4419,Paperback,June 1996,Penguin Books
+35,The Truth,Terry Pratchett,0413771164,(Discworld #25),4.28,336,48849,1232,Paperback,February 21st 2002,Bloomsbury Methuen Drama
+36,Earth (The Book): A Visitor's Guide to the Human Race,Jon Stewart,044657922X,NULL,3.91,246,25141,1164,Hardcover,September 21st 2010,Grand Central Publishing
+37,Maskerade,Terry Pratchett,0575058080,(Discworld #18),4.09,285,45878,1145,Hardcover,1995,Gollancz
+38,The Wee Free Men,Terry Pratchett,0060012382,(Discworld #30),4.27,390,83186,3712,Mass Market Paperback,2004,HarperTrophy
+39,The Last Continent,Terry Pratchett,0552154180,(Discworld #22),4.00,416,43465,1002,Paperback,February 1st 2006,Corgi
+40,Three Men in a Boat,Jerome K. Jerome,0140621334,(Three Men #1),3.89,185,48006,3890,Mass Market Paperback,October 1st 1994,Penguin Books
+41,Go the F**k to Sleep,Adam Mansbach,NULL,NULL,4.26,17,80852,3494,Kindle Edition,December 6th 2011,Akashic Books
+42,Practical Demonkeeping,Christopher Moore,0060735422,(Pine Cove #1),3.82,256,39070,1562,Paperback,May 25th 2004,Perennial / William Morrow / HarperCollins
+43,Four to Score,Janet Evanovich,0312966970,(Stephanie Plum #4),4.17,313,120461,2764,Mass Market Paperback,June 15th 1999,St. Martin's Press
+44,Unseen Academicals,Terry Pratchett,0061161705,(Discworld #37),3.99,417,41239,1814,Hardcover,October 6th 2009,HarperCollins
+45,Born a Crime: Stories From a South African Childhood,Trevor Noah,0385689225,NULL,4.46,304,205938,22484,Hardcover,November 15th 2016,Doubleday Canada
+46,Hot Six,Janet Evanovich,0312976275,(Stephanie Plum #6),4.19,336,110989,2285,Paperback,June 15th 2001,St. Martin's Paperbacks
+47,Squirrel Seeks Chipmunk: A Modest Bestiary,David Sedaris,0316038393,NULL,3.35,159,54565,5299,Hardcover,September 28th 2010,"Little, Brown and Company"
+48,I Hope They Serve Beer in Hell,Tucker Max,0806527285,(Tucker Max #1),3.51,288,52382,4408,Paperback,January 1st 2006,Citadel
+49,Confessions of a Shopaholic,Sophie Kinsella,0440241413,(Shopaholic #1),3.63,368,595514,11756,Paperback,November 4th 2003,Dell Publishing Company
+50,Brain Droppings,George Carlin,0786891122,NULL,4.11,272,15010,466,Paperback,April 22nd 1998,Hachette Books
+51,The Hitchhiker's Guide to the Galaxy,Douglas Adams,0345418913,(Hitchhiker's Guide to the Galaxy #1),4.22,193,1224985,25650,Paperback,June 23rd 1997,Del Rey
+52,Bossypants,Tina Fey,NULL,NULL,3.95,283,738730,37533,Kindle Edition,April 5th 2011,Reagan Arthur Books
+53,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,0060853980,NULL,4.25,412,412758,19254,Mass Market Paperback,November 28th 2006,William Morrow
+54,Is Everyone Hanging Out Without Me? (And Other Concerns),Mindy Kaling,0307886263,NULL,3.85,222,373850,21070,Hardcover,November 1st 2011,Crown Archetype
+55,Yes Please,Amy Poehler,0062268341,NULL,3.82,329,364097,23510,Hardcover,October 28th 2014,Dey St.
+56,The Restaurant at the End of the Universe,Douglas Adams,NULL,(Hitchhiker's Guide to the Galaxy #2),4.22,250,203203,4880,Paperback,April 26th 2005,Del Rey
+57,Me Talk Pretty One Day,David Sedaris,0349113912,NULL,3.98,272,569098,16383,Paperback,2001,"Little, Brown and Company"
+58,The Color of Magic,Terry Pratchett,0060855924,(Discworld #1),3.99,228,272739,8181,Hardcover,September 13th 2005,Harper
+59,"Life, the Universe and Everything",Douglas Adams,0345418905,(Hitchhiker's Guide to the Galaxy #3),4.20,224,177058,2951,Paperback,April 26th 2005,Del Rey
+60,Assuming Names: A Con Artist's Masquerade,Tanya Thompson,NULL,NULL,3.51,280,13606,222,ebook,March 2014,Thompson Books
+61,"So Long, and Thanks for All the Fish",Douglas Adams,NULL,(Hitchhiker's Guide to the Galaxy #4),4.09,225,128555,2473,Kindle Edition,December 25th 2008,Del Rey
+62,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,0380813815,NULL,4.26,444,139911,11297,Paperback,May 25th 2004,William Morrow / HarperCollins / Harper Perennial
+63,The Princess Bride,William Goldman,0345418263,NULL,4.26,398,708789,18102,Paperback,July 15th 2003,Ballantine Books (Ballantine Reader's Circle)
+64,Mort,Terry Pratchett,0061020680,(Discworld #4),4.23,243,169436,4080,Mass Market Paperback,February 6th 2001,Harpertorch
+65,The Importance of Being Earnest,Oscar Wilde,158049580X,NULL,4.17,76,275202,7904,Paperback,January 1st 2005,Prestwick House Inc.
+66,Mostly Harmless,Douglas Adams,0345379330,(Hitchhiker's Guide to the Galaxy #5),3.97,288,96379,2214,Paperback,October 19th 1993,Del Rey
+67,Red Russia,Tanya Thompson,NULL,NULL,3.97,196,646,55,Kindle Edition,November 11th 2017,Thompson Books
+68,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,0345453743,(Hitchhiker's Guide to the Galaxy #1-5 & short story),4.38,815,258974,4853,Paperback,April 30th 2002,Del Rey Books
+69,The Light Fantastic,Terry Pratchett,0061020702,(Discworld #2),3.97,241,104810,3032,Mass Market Paperback,February 2nd 2000,HarperTorch
+70,America (The Book): A Citizen's Guide to Democracy Inaction,Jon Stewart,0713998946,NULL,4.02,228,84718,1419,Hardcover,2004,Allen Lane
+71,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Allie Brosh,1451666179,NULL,4.18,371,152649,11344,Paperback,October 29th 2013,Gallery Books
+72,Guards! Guards!,Terry Pratchett,0061020648,(Discworld #8),4.33,376,142172,3421,Mass Market Paperback,August 2001,HarperTorch
+73,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,0061173398,NULL,3.85,264,144100,6865,Hardcover,May 1st 2007,HarperCollins Publishers
+74,Bridget Jones's Diary,Helen Fielding,014028009X,(Bridget Jones #1),3.76,288,830194,9006,Paperback,June 1st 1999,Penguin Books
+75,Equal Rites,Terry Pratchett,0060855908,(Discworld #3),4.02,228,122460,3416,Paperback,September 13th 2005,Harper Perennial
+76,Dress Your Family in Corduroy and Denim,David Sedaris,0965904830,NULL,4.10,257,225520,6177,Paperback,2004,"Little, Brown & Co."
+77,Dad Is Fat,Jim Gaffigan,0385349068,NULL,3.77,288,56543,6832,ebook,May 7th 2013,Crown Archetype
+78,Dirk Gently's Holistic Detective Agency,Douglas Adams,NULL,(Dirk Gently #1),3.98,306,108017,3067,Mass Market Paperback,2002,Pocket Books
+79,Catch-22,Joseph Heller,0684833395,(Catch-22 #1),3.98,453,659150,16051,Paperback,September 4th 2004,Simon & Schuster
+80,Sh*t My Dad Says,Justin Halpern,0061992704,(Sh*t My Dad Says #1),3.99,159,130651,7973,Hardcover,May 4th 2010,It Books
+81,When You Are Engulfed in Flames,David Sedaris,0316143472,NULL,4.05,323,170313,9434,Hardcover,June 3rd 2008,Little Brown and Company
+82,A Midsummer Night's Dream,William Shakespeare,0743477545,NULL,3.94,298,405629,6969,Paperback,July 2016,Simon & Schuster Paperbacks
+83,Naked,David Sedaris,0316777730,NULL,4.09,304,220657,5465,Paperback,1998,Back Bay Books
+84,A Dirty Job,Christopher Moore,0060590270,(Grim Reaper #1),4.07,387,95470,6271,Hardcover,March 21st 2006,William Morrow
+85,Modern Romance,Aziz Ansari,1594206279,NULL,3.83,279,145630,12472,Hardcover,June 16th 2015,Penguin Press
+86,Why Not Me?,Mindy Kaling,0804138168,NULL,3.90,240,147406,9558,Paperback,September 27th 2016,Three Rivers Press
+87,A Confederacy of Dunces,John Kennedy Toole,0802130208,NULL,3.89,394,210153,13635,Paperback,January 1994,Grove Press
+88,Wyrd Sisters,Terry Pratchett,0061020664,(Discworld #6),4.13,265,80974,2614,Mass Market Paperback,February 6th 2001,Hartorch
+89,Born Standing Up: A Comic's Life,Steve Martin,1416553649,NULL,3.87,207,74654,4761,Hardcover,February 29th 2008,Scribner Book Company
+90,Small Gods,Terry Pratchett,0552152978,(Discworld #13),4.29,400,91835,2494,Paperback,August 1st 2005,Corgi
+91,My Horizontal Life: A Collection of One-Night Stands,Chelsea Handler,1582346186,NULL,3.79,213,94744,6165,Paperback,June 6th 2005,Bloomsbury USA
+92,Sourcery,Terry Pratchett,0061020672,(Discworld #5),3.89,276,70103,1791,Mass Market Paperback,April 2008,Harper
+93,One for the Money,Janet Evanovich,0312362080,(Stephanie Plum #1),4.04,320,448671,13981,Paperback,2006,Griffin
+94,Going Postal,Terry Pratchett,0060502932,(Discworld #33),4.38,394,92693,2718,Mass Market Paperback,September 27th 2005,HarperTorch
+95,The Rosie Project,Graeme Simsion,1476729085,(Don Tillman #1),4.02,297,380526,35563,Hardcover,October 1st 2013,Simon & Schuster
+96,Seriously... I'm Kidding,Ellen DeGeneres,0446585025,NULL,3.72,241,92436,6928,Hardcover,October 4th 2011,Grand Central Publishing
+97,Let's Explore Diabetes with Owls,David Sedaris,0316154695,NULL,3.81,275,107775,8823,Hardcover,April 23rd 2013,"Little, Brown and Company"
+98,The Long Dark Tea-Time of the Soul,Douglas Adams,0671742515,(Dirk Gently #2),4.06,307,71854,1728,Mass Market Paperback,February 15th 1991,Pocket Books
+99,Reaper Man,Terry Pratchett,0552152951,(Discworld #11),4.29,352,72680,2243,Paperback,April 1st 2005,Corgi
+100,Much Ado About Nothing,William Shakespeare,0743482751,NULL,4.06,246,199672,3244,Paperback,2004,Simon

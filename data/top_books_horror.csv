@@ -1,0 +1,251 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_date,publisher
+26,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,0451528956,NULL,3.80,144,319387,10481,Paperback,September 2nd 2003,Signet Classics
+25,Horns,Joe Hill,0061147958,NULL,3.92,370,89583,8014,Hardcover,March 1st 2010,William Morrow
+1,The Shining,Stephen King,0450040186,(The Shining #1),4.21,447,964207,18960,Paperback,July 1st 1980,New English Library (Hodder & Stoughton)
+24,Cell,Stephen King,1416524517,NULL,3.65,449,174468,5463,Mass Market Paperback,December 2006,Pocket Star Books
+27,The Little Stranger,Sarah Waters,NULL,NULL,3.53,512,38034,5470,Paperback,May 4th 2010,Riverhead Books
+20,Bird Box,Josh Malerman,NULL,(Bird Box #1),4.03,262,98263,13692,Hardcover,May 13th 2014,Ecco
+19,NOS4A2,Joe Hill,0062200577,NULL,4.07,692,78070,9572,Hardcover,April 30th 2013,William Morrow
+18,Christine,Stephen King,2253147699,NULL,3.76,411,177215,2790,Paperback,June 13th 2001,LGF
+17,Needful Things,Stephen King,045057458X,NULL,3.90,790,183746,3223,Paperback,1992,Hodder & Stoughton Ltd
+16,House of Leaves,Mark Z. Danielewski,038560310X,NULL,4.12,705,106193,9544,Paperback,March 7th 2000,Random House
+15,Heart-Shaped Box,Joe Hill,0061147931,NULL,3.83,376,90791,7654,Hardcover,February 13th 2007,William Morrow
+14,Doctor Sleep,Stephen King,1476727651,(The Shining #2),4.10,531,141894,15243,Hardcover,September 24th 2013,Scribner
+13,Cujo,Stephen King,0307348245,NULL,3.70,432,197893,3808,Paperback,June 6th 2006,Plaza y Janés
+172,The Great God Pan,Arthur Machen,1871592119,NULL,3.75,82,7907,715,Paperback,January 1st 1995,Creation Books
+171,Tick Tock,Dean Koontz,0345405137,NULL,3.72,352,29635,953,Paperback,September 20th 1996,Random House (NY)
+21,The Exorcist,William Peter Blatty,0061007226,(The Exorcist #1),4.16,385,157500,3991,Mass Market Paperback,February 1st 1994,HarperTorch
+170,Midnight,Dean Koontz,0425194515,NULL,3.81,496,22568,511,Paperback,February 3rd 2004,Berkley
+169,Anno Dracula,Kim Newman,0857680838,(Anno Dracula #1),3.79,547,11343,1053,Paperback,May 24th 2011,Titan Books
+168,Lasher,Anne Rice,0099471434,(Lives of the Mayfair Witches #2),3.85,883,53750,899,Paperback,November 4th 2004,Arrow
+250,Deadline,Mira Grant,031608106X,(Newsflesh #2),4.10,584,22546,2175,Paperback,June 1st 2011,Orbit
+23,Let the Right One In,John Ajvide Lindqvist,1847241697,NULL,4.07,513,78080,5445,Hardcover,August 2nd 2007,Quercus Publishing
+22,Night Shift,Stephen King,0450042685,NULL,3.99,409,131714,2733,Paperback,April 1979,New English Library
+249,The Library at Mount Char,Scott  Hawkins,0553418629,NULL,4.09,388,25012,4777,Paperback,March 15th 2016,Broadway Books
+248,The Omen,David Seltzer,0451219422,(The Omen #1),4.00,272,55786,395,Paperback,June 6th 2006,Signet
+247,Relic,Douglas Preston,0765354942,(Aloysius Pendergast #1),4.02,480,84685,3082,Paperback,August 1st 2005,Tor Books
+246,The Ballad of Black Tom,Victor LaValle,0765387867,NULL,3.91,149,9572,1630,Paperback,February 16th 2016,Tor.com
+245,The Winter People,Jennifer  McMahon,0385538499,NULL,3.77,317,40286,5826,Hardcover,February 11th 2014,Doubleday
+244,The Running Man,Richard Bachman,0451197968,NULL,3.86,317,86873,2633,Paperback,August 1999,Signet
+243,Song of Susannah,Stephen King,1416521496,(The Dark Tower #6),3.99,544,115303,3304,Mass Market Paperback,June 1st 2006,Pocket Books
+242,The Girl Next Door,Jack Ketchum,0843955430,NULL,3.97,370,19360,2125,Paperback,June 1st 2005,Leisure Books
+241,The Phantom of the Opera,Gaston Leroux,0060809248,NULL,3.97,360,181121,5613,Paperback,December 30th 1987,Harper Perennial
+240,The Road,Cormac McCarthy,0307265439,NULL,3.96,241,638251,42486,Hardcover,September 26th 2006,Alfred A. Knopf
+239,Summer of Night,Dan Simmons,0446362662,(Seasons of Horror #1),4.02,600,17693,1179,Mass Market Paperback,March 1st 1992,Warner Books
+238,Ring,Kōji Suzuki,1932234411,(Ring #1),3.82,282,12951,971,Paperback,April 25th 2004,Vertical
+237,Carrion Comfort,Dan Simmons,0446359203,NULL,3.90,884,17052,926,Paperback,October 1st 1990,Warner Books
+236,My Best Friend's Exorcism,Grady Hendrix,NULL,NULL,3.92,337,14135,2659,Kindle Edition,May 17th 2016,Quirk Books
+235,The Dark Tower,Stephen King,NULL,(The Dark Tower #7),4.28,1050,126510,5070,Paperback,September 1st 2006,Pocket Books
+232,Wolves of the Calla,Stephen King,141651693X,(The Dark Tower #5),4.19,931,137754,3758,Mass Market Paperback,February 1st 2006,Pocket Books
+231,Head Games,Joe Hill,1600104835,(Locke & Key #2),4.34,160,29094,1759,Hardcover,February 2015,IDW Publishing
+230,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,0553212281,NULL,4.16,448,205086,1170,Mass Market Paperback,September 28th 2004,Bantam Classics
+229,The Monstrumologist,Rick Yancey,1416984488,(The Monstrumologist #1),3.88,434,16750,2647,Hardcover,September 22nd 2009,Simon
+228,The Forest of Hands and Teeth,Carrie Ryan,0575090855,(The Forest of Hands and Teeth #1),3.59,310,77988,8634,Paperback,July 2009,Gollancz
+227,Scary Stories to Tell in the Dark,Alvin Schwartz,0590431978,(Scary Stories #1),4.07,111,45762,1974,Paperback,October 1st 1989,"Scholastic, Inc."
+234,Perfume: The Story of a Murderer,Patrick Süskind,0140120831,NULL,4.02,263,272929,12281,Paperback,1987,Penguin Books
+233,Flowers in the Attic,V.C. Andrews,0743496310,(Dollanganger #1),3.80,389,138818,7028,Paperback,1979,Pocket Books
+226,Cycle of the Werewolf,Stephen King,0451822196,NULL,3.64,128,42172,1465,Paperback,April 9th 1985,Signet Books
+225,20th Century Ghosts,Joe Hill,0061147974,NULL,3.95,316,29217,2151,Hardcover,October 16th 2007,William Morrow
+224,From a Buick 8,Stephen King,0743211375,NULL,3.44,356,55037,1570,Hardcover,September 24th 2002,Scribner
+223,Swan Song,Robert R. McCammon,0671741039,NULL,4.28,956,50158,3021,Mass Market Paperback,June 1st 1987,Pocket Books
+222,The Waste Lands,Stephen King,0670032565,(The Dark Tower #3),4.24,422,162835,5000,Hardcover,June 23rd 2003,Viking Adult
+221,The Fireman,Joe Hill,006220064X,NULL,3.90,768,41661,6170,Paperback,January 3rd 2017,William Morrow Paperbacks
+220,The Troop,Nick Cutter,1476717710,NULL,3.74,358,19760,3577,Hardcover,February 25th 2014,Gallery Books
+219,Black House,Stephen King,034547063X,(The Talisman #2),4.00,688,50051,1510,Paperback,September 30th 2003,Ballantine Books
+218,The Call of Cthulhu and Other Weird Stories,H.P. Lovecraft,0141182342,NULL,4.22,420,33153,1240,Paperback,October 1st 1999,Penguin Classics
+217,Watchers,Dean Koontz,NULL,NULL,4.17,624,131073,3325,Paperback,January 28th 2003,Berkley
+216,Horrorstör,Grady Hendrix,1594745269,NULL,3.61,248,18704,3620,Paperback,September 23rd 2014,Quirk
+214,The Regulators,Richard Bachman,0451191013,NULL,3.70,498,66277,1182,Mass Market Paperback,September 1997,Signet
+215,Pride and Prejudice and Zombies,Seth Grahame-Smith,1594743347,(Pride and Prejudice and Zombies #1),3.29,320,120577,12710,Paperback,May 1st 2009,Quirk Classics
+213,The Ruins,Scott B. Smith,1400043875,NULL,3.54,319,27490,3183,Hardcover,July 18th 2006,Alfred A. Knopf
+212,The Graveyard Book,Neil Gaiman,0060530928,NULL,4.13,307,388061,28147,Hardcover,September 30th 2008,HarperCollins
+211,Odd Thomas,Dean Koontz,0553384287,(Odd Thomas #1),3.96,446,230662,6979,Paperback,August 29th 2006,Bantam
+210,The Drawing of the Three,Stephen King,0451210859,(The Dark Tower #2),4.23,463,190564,6852,Paperback,August 5th 2003,Signet
+209,The Cask of Amontillado,Edgar Allan Poe,1594561869,NULL,4.09,20,55660,1196,Paperback,February 2nd 2004,BookSurge
+208,The Raven,Edgar Allan Poe,0486290727,NULL,4.28,64,85190,1826,Paperback,April 25th 1996,Dover Publications
+207,The Girl from the Well,Rin Chupeco,140229218X,(The Girl from the Well #1),3.78,267,6279,1287,Hardcover,August 5th 2014,Sourcebooks Fire
+206,End of Watch,Stephen King,1501129740,(Bill Hodges Trilogy #3),4.09,432,69795,7037,Hardcover,June 7th 2016,Scribner
+205,Fevre Dream,George R.R. Martin,0553383051,NULL,3.86,334,19546,1878,Paperback,September 28th 2004,Bantam
+204,"Wytches, Volume 1",Scott Snyder,1632153807,(Wytches #1),3.83,192,11243,1579,Paperback,June 24th 2015,Image Comics
+203,The Yellow Wall-Paper,Charlotte Perkins Gilman,1558611584,NULL,4.11,64,72004,3696,Paperback,September 1st 1996,The Feminist Press at CUNY
+202,The Lottery and Other Stories,Shirley Jackson,0374529531,NULL,4.06,302,57765,1841,Paperback,March 16th 2005,"Farrar, Straus and Giroux"
+201,The Mummy,Anne Rice,009947137X,(Ramses the Damned #1),3.83,480,41111,1054,Paperback,2004,Arrow
+200,The Tell-Tale Heart,Edgar Allan Poe,0871917726,NULL,4.23,54,48340,1578,Hardcover,1998,Books of Wonder
+199,Clockworks,Joe Hill,1613772270,(Locke & Key #5),4.50,160,21003,1259,Hardcover,July 2013,IDW Publishing
+198,14,Peter Clines,NULL,(Threshold #1),3.94,372,27245,3321,Kindle Edition,June 5th 2012,Permuted Press
+197,Battle Royale,Koushun Takami,156931778X,NULL,4.25,617,47150,4463,Paperback,February 26th 2003,"VIZ, LLC"
+196,Preludes & Nocturnes,Neil Gaiman,1563892278,(The Sandman #1),4.26,233,177729,5294,Hardcover,December 1st 1998,Vertigo
+195,Strange Weather,Joe Hill,0062663119,NULL,3.90,432,13160,2080,Hardcover,October 24th 2017,William Morrow
+194,Weaveworld,Clive Barker,0007117140,NULL,4.13,721,26356,1052,Paperback,August 20th 2001,Harper Voyager
+193,Night Film,Marisha Pessl,0812979788,NULL,3.78,640,65859,9471,Paperback,July 1st 2014,Random House Trade Paperbacks
+192,The Fall of the House of Usher,Edgar Allan Poe,1594561796,(Izbrana dela #1),3.95,36,39187,1064,Paperback,February 2nd 2004,BookSurge Classics
+191,The Pit and the Pendulum,Edgar Allan Poe,0146000110,NULL,4.16,56,53834,767,Paperback,September 1995,Penguin
+190,Lovecraft Country,Matt Ruff,0062292080,NULL,4.06,400,10490,1516,ebook,February 16th 2016,Harper
+189,Meddling Kids,Edgar Cantero,0385541996,NULL,3.58,322,15292,3062,Hardcover,July 11th 2017,Doubleday Books
+188,The Call of Cthulhu,H.P. Lovecraft,NULL,NULL,4.03,43,30363,1620,Kindle Edition,April 1st 2011,"Amazon Digital Services, Inc."
+187,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,1400049628,NULL,3.86,270,92744,3737,Paperback,September 16th 2003,Three Rivers Press
+186,Joyland,Stephen King,1781162646,NULL,3.91,283,97475,10681,Paperback,June 4th 2013,Hard Case Crime
+185,Hex,Thomas Olde Heuvelt,0765378809,NULL,3.72,384,13196,2406,Hardcover,April 26th 2016,Tor
+184,Jaws,Peter Benchley,1400064562,(Jaws #1),3.97,320,122641,2984,Hardcover,May 31st 2005,Random House
+183,Haunted,Chuck Palahniuk,1400032822,NULL,3.59,419,79471,4058,Paperback,April 11th 2006,Anchor
+182,Memnoch the Devil,Anne Rice,096319254X,(The Vampire Chronicles #5),3.74,354,71884,1546,Hardcover,March 1999,B E Trice Pub
+181,Annihilation,Jeff VanderMeer,0374104093,(Southern Reach #1),3.67,195,124444,15042,Paperback,February 4th 2014,"Farrar, Straus and Giroux"
+180,The Terror,Dan Simmons,0316017442,NULL,4.05,769,34733,3807,Hardcover,January 8th 2007,"Little, Brown and Company"
+179,John Dies at the End,David  Wong,0978970764,(John Dies at the End #1),3.91,362,54433,5647,Paperback,August 1st 2007,Permuted Press
+178,Feed,Mira Grant,0316081051,(Newsflesh #1),3.86,599,48018,5827,Mass Market Paperback,May 1st 2010,Orbit
+177,Through the Woods,Emily Carroll,1442465956,NULL,3.91,208,48700,6285,Hardcover,July 15th 2014,Margaret K. McElderry Books
+176,The Complete Stories and Poems,Edgar Allan Poe,0385074077,NULL,4.38,821,195129,2117,Hardcover,August 15th 1984,"Doubleday & Company, Inc."
+175,The Hellbound Heart,Clive Barker,0061002828,NULL,4.03,164,33508,1521,Paperback,November 1st 1991,HarperTorch
+174,Welcome to Lovecraft,Joe Hill,1600102379,(Locke & Key #1),4.14,168,63935,3856,Hardcover,February 2013,IDW Publishing
+173,The Outsider,Stephen King,1501180983,NULL,4.03,561,94777,10643,Hardcover,May 22nd 2018,Scribner
+167,Broken Monsters,Lauren Beukes,031621681X,NULL,3.58,464,16674,2479,Paperback,June 16th 2015,Mulholland Books
+166,Girl of Nightmares,Kendare Blake,0765328666,(Anna #2),3.88,332,25476,3416,Hardcover,August 7th 2012,Tor Teen
+165,Keys to the Kingdom,Joe Hill,1600108865,(Locke & Key #4),4.42,152,22733,1339,Hardcover,February 2013,IDW Publishing
+164,'Salem's Lot,Stephen King,0385516487,NULL,4.25,594,86020,741,Hardcover,November 1st 2005,Doubleday
+163,"The Walking Dead, Vol. 2: Miles Behind Us",Robert Kirkman,1582404135,(The Walking Dead (Collected Editions) #2),4.24,136,32916,1480,Comics,November 24th 2004,Image Comics
+162,Necroscope,Brian Lumley,031285787X,(Necroscope #1),3.99,383,17491,604,Hardcover,December 1st 1994,Tor Books
+161,I Am Not a Serial Killer,Dan Wells,NULL,(John Cleaver #1),3.78,272,27095,3756,Kindle Edition,March 30th 2010,Tor Books
+160,At the Mountains of Madness and Other Tales of Terror,H.P. Lovecraft,0345329457,NULL,4.25,184,21260,518,Mass Market Paperback,September 13th 1991,Del Rey Books
+159,The Eyes of the Dragon,Stephen King,0751504572,NULL,3.93,427,92611,3784,Paperback,May 13th 1993,Time Warner Paperbacks
+158,The Great and Secret Show,Clive Barker,006093316X,(Book of the Art #1),4.05,658,27417,643,Paperback,November 3rd 1999,HarperPerennial
+157,The Wasp Factory,Iain Banks,0684853159,NULL,3.83,192,62096,3778,Paperback,1998,Simon & Schuster (NYC)
+156,Cabal,Clive Barker,0743417321,NULL,3.93,358,16651,477,Paperback,January 1st 2001,Gallery Books
+155,Alice,Christina Henry,0425266796,(The Chronicles of Alice #1),3.88,291,16513,2811,Paperback,August 4th 2015,Ace
+154,The Damnation Game,Clive Barker,0425188930,NULL,3.82,433,16734,448,Mass Market Paperback,November 5th 2002,Berkley Books
+153,The Island of Doctor Moreau,H.G. Wells,0553214322,NULL,3.72,153,82283,3551,Paperback,May 1st 1994,Bantam Classics
+152,Intensity,Dean Koontz,0553582917,NULL,4.05,436,67027,2714,Paperback,October 31st 2000,Bantam
+151,The Night Eternal,Guillermo del Toro,0061558265,(The Strain Trilogy #3),3.68,371,25528,2123,Hardcover,October 25th 2011,HarperCollins Publishers
+150,Crown of Shadows,Joe Hill,1600106951,(Locke & Key #3),4.41,152,25486,1379,Hardcover,February 2013,IDW Publishing
+149,Into the Drowning Deep,Mira Grant,0316379409,(Rolling in the Deep #1),4.03,440,7688,1888,Hardcover,November 14th 2017,Orbit
+148,The Vampire Armand,Anne Rice,0345434803,(The Vampire Chronicles #6),3.76,457,61177,881,Mass Market Paperback,October 3rd 2000,Ballantine Books
+147,The Cabin at the End of the World,Paul Tremblay,0062679104,NULL,3.32,272,16453,3117,Hardcover,June 26th 2018,William Morrow
+146,The Ritual,Adam Nevill,0230754929,NULL,3.62,418,10879,1539,Paperback,May 28th 2011,Pan Publishing
+145,11/22/63,Stephen King,1451627289,NULL,4.31,849,365374,34467,Hardcover,November 8th 2011,Scribner
+144,The Legend of Sleepy Hollow,Washington Irving,0809594080,NULL,3.73,108,41076,2629,Paperback,March 1st 2004,Wildside Press
+143,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,0446563080,(Abraham Lincoln: Vampire Hunter #1),3.70,336,124138,12212,Hardcover,March 2nd 2010,Grand Central Publishing
+142,Hearts in Atlantis,Stephen King,0340818670,NULL,3.82,640,78348,1891,Paperback,2001,New English Library
+141,The Twelve,Justin Cronin,0345504984,(The Passage #2),4.00,568,79929,7339,Hardcover,October 16th 2012,The Random House Publishing Group
+140,Wizard and Glass,Stephen King,0340829788,(The Dark Tower #4),4.25,845,144858,5220,Paperback,October 2003,New English Library
+139,The Fall,Guillermo del Toro,0061558222,(The Strain Trilogy #2),3.81,308,34173,2306,Hardcover,September 21st 2010,William Morrow
+138,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,NULL,(Miss Peregrine's Peculiar Children #1),3.91,352,847852,58450,Hardcover,June 7th 2011,Quirk
+137,A Monster Calls,Patrick Ness,1406361801,NULL,4.37,237,173150,30363,Paperback,May 7th 2015,Walker Books
+136,Slade House,David Mitchell,NULL,NULL,3.81,241,44302,5981,Kindle Edition,October 27th 2015,Random House
+135,Phantoms,Dean Koontz,0425181103,NULL,3.94,448,62626,1172,Paperback,February 5th 2002,Berkley
+134,The Bazaar of Bad Dreams,Stephen King,1501111671,NULL,3.92,495,38778,4275,Hardcover,November 3rd 2015,Scribner
+133,Mr. Mercedes,Stephen King,1476754454,(Bill Hodges Trilogy #1),3.95,436,194574,14921,Hardcover,June 3rd 2014,Scribner
+132,Sleeping Beauties,Stephen King,150116340X,NULL,3.74,702,45728,5839,Hardcover,September 26th 2017,Scribner
+131,The Tale of the Body Thief,Anne Rice,0345419634,(The Vampire Chronicles #4),3.72,468,76440,1326,Paperback,2005,Ballantine Books
+130,Psycho,Robert Bloch,0747545251,(Psycho #1),4.11,208,46557,1992,Paperback,January 31st 1999,Bloomsbury Publishing PLC
+129,Hannibal,Thomas  Harris,0099297701,(Hannibal Lecter #3),3.75,564,74254,2521,Paperback,May 18th 2000,Arrow
+128,The Ocean at the End of the Lane,Neil Gaiman,0062255657,NULL,4.00,181,415616,43219,Hardcover,June 18th 2013,William Morrow Books
+127,Carmilla,J. Sheridan Le Fanu,0809510839,NULL,3.84,108,32652,2350,Paperback,September 5th 2000,Wildside Press
+126,"The Walking Dead, Vol. 1: Days Gone Bye",Robert Kirkman,1582406723,(The Walking Dead (Collected Editions) #1),4.27,144,191055,3803,Comics,February 19th 2013,Image Comics
+125,At the Mountains of Madness,H.P. Lovecraft,0812974417,NULL,3.89,224,27491,2070,Paperback,June 14th 2005,Modern Library
+124,Just After Sunset,Stephen King,1416584080,NULL,3.87,539,43388,2401,Hardcover,November 11th 2008,Scribner
+123,The Witching Hour,Anne Rice,0099471426,(Lives of the Mayfair Witches #1),4.11,1207,95648,3355,Paperback,November 4th 2004,Arrow
+122,The Long Walk,Richard Bachman,0451196716,NULL,4.11,370,97097,5489,Paperback,April 1st 1999,Signet
+121,The Amityville Horror,Jay Anson,0553116606,NULL,3.84,315,95339,2022,Mass Market Paperback,1978,Bantam Books
+120,Dolores Claiborne,Stephen King,1101138173,NULL,3.85,384,112913,2388,ebook,December 1st 1993,Signet Book
+119,The Talisman,Stephen King,0375507779,(The Talisman #1),4.13,656,98788,2898,Hardcover,September 15th 2001,Random House
+118,The Woman in Black,Susan Hill,1567921892,(The Woman in Black #1),3.70,138,40848,4873,Paperback,December 1st 2001,David R. Godine Publisher
+117,Rose Madder,Stephen King,0340640146,NULL,3.69,608,86415,2122,Paperback,1995,Hodder and Stoughton
+116,The Turn of the Screw,Henry James,0140620613,NULL,3.44,131,80844,5850,Paperback,1994,Penguin Books
+115,Hell House,Richard Matheson,0727860992,NULL,3.79,301,32839,2016,Hardcover,July 1st 2004,Severn House Publishers
+114,American Psycho,Bret Easton Ellis,0679735771,NULL,3.82,399,205875,8869,Paperback,March 1991,Vintage Contemporaries / Random House
+113,Duma Key,Stephen King,1416552510,NULL,3.94,611,90989,4982,Hardcover,January 2008,Scribner
+112,The Queen of the Damned,Anne Rice,0345419626,(The Vampire Chronicles #3),3.88,448,126402,2102,Paperback,November 29th 1997,Ballantine Books
+111,Revival,Stephen King,1476770387,NULL,3.76,405,85048,9811,Hardcover,November 11th 2014,Scribner Book Company
+110,Nightmares and Dreamscapes,Stephen King,0450610098,NULL,3.93,864,67330,1159,Paperback,1994,Hodder and Stoughton
+109,The Girl Who Loved Tom Gordon,Stephen King,1416524290,NULL,3.58,264,115269,4153,Paperback,November 1st 2005,Pocket Books
+108,Different Seasons,Stephen King,0751514624,NULL,4.35,560,156685,3852,Mass Market Paperback,February 16th 1995,Warner Books
+107,Ghost Story,Peter Straub,0671685635,NULL,3.95,567,62803,1772,Paperback,September 1st 1989,"Pocket Books / Simon & Schuster, Inc."
+106,A Head Full of Ghosts,Paul Tremblay,0062363239,NULL,3.81,286,31033,4724,Hardcover,June 2nd 2015,William Morrow
+105,Anna Dressed in Blood,Kendare Blake,0765328658,(Anna #1),3.95,316,87224,9403,Hardcover,October 17th 2011,Tor Teen
+104,"Full Dark, No Stars",Stephen King,1439192561,NULL,4.05,368,81601,5913,Hardcover,November 2010,Scribner
+103,Everything's Eventual: 14 Dark Tales,Stephen King,1416524355,NULL,3.96,605,78135,2089,Paperback,November 1st 2005,Pocket Books
+102,I Am Legend,Richard Matheson,NULL,NULL,4.06,162,77952,4893,Kindle Edition,May 14th 2011,
+101,The Mist,Stephen King,0451223292,NULL,3.94,230,100008,2070,Paperback,October 2nd 2007,Signet
+100,The Green Mile,Stephen King,0451933028,(The Green Mile #1-6),4.44,592,220621,6207,Paperback,September 1st 1996,Penguin Signet
+99,The City of Mirrors,Justin Cronin,034550500X,(The Passage #3),4.20,602,39384,4487,Hardcover,May 24th 2016,Ballantine Books
+98,The Hunger,Alma Katsu,0735212511,NULL,3.65,376,6890,1280,Hardcover,March 6th 2018,G.P. Putnam’s Sons
+97,Pines,Blake Crouch,1612183956,(Wayward Pines #1),3.90,305,76505,6462,Paperback,August 21st 2012,Thomas & Mercer
+96,The Bad Place,Dean R. Koontz,0425195481,NULL,3.89,427,31036,633,Paperback,July 6th 2004,Berkley
+95,The Willows,Algernon Blackwood,1587156520,NULL,4.10,105,5866,555,Paperback,June 1st 2002,Borgo Press
+94,The Masque of the Red Death,Edgar Allan Poe,1594567395,(Izbrana dela #2),4.08,76,23564,813,Paperback,April 30th 2004,BookSurge Classics
+93,Strangers,Dean Koontz,0425181111,NULL,4.00,704,40144,688,Paperback,October 1st 2002,Berkley
+92,Necronomicon: The Best Weird Tales,H.P. Lovecraft,0575081562,NULL,4.29,878,10994,460,Hardcover,March 27th 2008,"Gollancz, Great Britain"
+91,"The Walking Dead, Vol. 4: The Heart's Desire",Robert Kirkman,1582405301,(The Walking Dead (Collected Editions) #4),4.22,136,25469,971,Comics,April 21st 2009,Image Comics
+90,The Keep,F. Paul Wilson,0765357054,(Adversary Cycle #1),3.99,403,16332,594,Paperback,August 1st 2006,Tor Books
+89,The Taking,Dean Koontz,0553584502,NULL,3.78,410,33846,1624,Mass Market Paperback,April 26th 2005,Bantam
+88,A Living Nightmare,Darren Shan,0316905712,(Cirque du Freak #1),4.07,272,47333,3198,Mass Market Paperback,June 1st 2002,"Little, Brown Young Readers"
+87,The Fog,James Herbert,0330376152,NULL,3.89,345,21867,359,Paperback,April 1st 1999,Macmillan UK
+86,The Thief of Always,Clive Barker,0060177241,NULL,4.19,225,25121,1597,Hardcover,November 1992,HarperCollins Publishers
+85,The Grownup,Gillian Flynn,0804188971,NULL,3.55,64,77374,9510,Hardcover,November 3rd 2015,Crown
+84,Infected,Scott Sigler,0307406105,(Infected #1),3.84,342,18102,1580,Hardcover,April 1st 2008,Crown
+83,"Uzumaki: Spiral into Horror, Vol. 1",Junji Ito,1569317143,(Uzumaki #1),4.31,208,12063,857,Paperback,October 6th 2001,Viz Media
+82,Penpal,Dathan Auerbach,098554550X,NULL,3.87,243,11832,1542,Paperback,June 2012,1000Vultures
+81,The Butterfly Garden,Dot Hutchison,NULL,(The Collector #1),4.06,288,93326,8740,Kindle Edition,June 1st 2016,Thomas & Mercer
+80,Hannibal Rising,Thomas  Harris,0385339410,(Hannibal Lecter #4),3.48,336,30122,1538,Hardcover,December 5th 2006,Delacorte Press
+79,Guilty Pleasures,Laurell K. Hamilton,0425197549,"(Anita Blake, Vampire Hunter #1)",4.02,355,125232,5325,Paperback,August 3rd 2004,Berkley
+78,Patient Zero,Jonathan Maberry,0312382855,(Joe Ledger #1),3.99,421,23985,1958,Paperback,March 3rd 2009,St. Martin's Griffin
+77,This Book Is Full of Spiders,David  Wong,0312546343,(John Dies at the End #2),4.26,406,22254,1989,Hardcover,October 2nd 2012,St. Martin’s Press
+76,Darkly Dreaming Dexter,Jeff Lindsay,NULL,(Dexter #1),3.90,288,171704,6131,Paperback,September 19th 2006,Vintage Books
+75,Books of Blood: Volume One,Clive Barker,0425083896,(Books of Blood #1),4.02,210,18762,524,Mass Market Paperback,June 1986,Berkley Books
+74,Lisey's Story,Stephen King,0743289412,NULL,3.67,513,62523,3353,Hardcover,October 24th 2006,Scribner
+73,Four Past Midnight,Stephen King,0450542882,NULL,3.92,930,90863,1285,Mass Market Paperback,1991,New English Library
+72,Red Dragon,Thomas  Harris,0525945563,(Hannibal Lecter #1),4.03,348,238422,4179,Hardcover,May 22nd 2000,Dutton
+71,The Picture of Dorian Gray,Oscar Wilde,0375751513,NULL,4.07,367,817269,24650,Paperback,June 1st 2004,Random House: Modern Library
+70,Song of Kali,Dan Simmons,0575076593,NULL,3.61,320,9428,727,Paperback,March 10th 2005,Gollancz
+69,The Elementals,Michael McDowell,0380783606,NULL,4.04,292,5885,837,Paperback,October 1st 1981,Avon Books
+68,Lord of the Flies,William Golding,0140283331,NULL,3.67,182,1953559,32484,Paperback,October 1st 1999,Penguin Books
+67,Forever Odd,Dean Koontz,0553588265,(Odd Thomas #2),3.97,364,65240,2624,Paperback,October 31st 2006,Bantam Books
+66,Gwendy's Button Box,Stephen King,1587676109,NULL,3.90,171,33003,4074,Hardcover,May 16th 2017,Cemetery Dance Publications
+65,The Bloody Chamber and Other Stories,Angela Carter,014017821X,NULL,3.99,128,32851,2797,Paperback,1990,Penguin Books
+64,The Stepford Wives,Ira Levin,0060080841,NULL,3.74,144,25261,1886,Paperback,July 23rd 2002,Perennial
+63,Taltos,Anne Rice,NULL,(Lives of the Mayfair Witches #3),3.79,533,47167,656,Kindle Edition,November 17th 2010,Ballantine Books
+62,Lightning,Dean Koontz,0425192032,NULL,4.07,384,51344,1892,Mass Market Paperback,September 2nd 2003,Berkley
+61,Alpha & Omega,Joe Hill,1613778538,(Locke & Key #6),4.45,192,20525,1740,Hardcover,January 2014,IDW Publishing
+60,The Case of Charles Dexter Ward,H.P. Lovecraft,0345354907,NULL,4.19,127,13496,596,Paperback,April 19th 1994,Del Rey Books
+59,Lost Souls,Poppy Z. Brite,0440212812,NULL,3.89,355,15747,693,Paperback,September 10th 1993,Dell
+58,The Rats,James Herbert,0333761189,(Rats #1),3.94,208,14984,691,Hardcover,1999,Macmillan
+57,Prodigal Son,Dean Koontz,141591561X,(Dean Koontz's Frankenstein #1),4.02,469,31878,1570,Audio Cassette,January 28th 2005,Books on Tape
+56,"The Walking Dead, Vol. 3: Safety Behind Bars",Robert Kirkman,1582404879,(The Walking Dead (Collected Editions) #3),4.31,136,28408,1176,Comics,June 18th 2005,Image Comics
+55,The Other,Thomas Tryon,0440167361,NULL,4.00,281,18581,573,Mass Market Paperback,October 1st 1987,Dell
+54,Rot & Ruin,Jonathan Maberry,1442402326,(Rot & Ruin #1),4.10,458,31058,3555,Hardcover,September 14th 2010,Simon & Schuster Books For Young Readers
+53,Danse Macabre,Stephen King,042518160X,NULL,3.63,400,23069,753,Paperback,September 1st 2001,Berkley
+52,The Lottery,Shirley Jackson,1563127873,NULL,4.09,30,48415,2338,Paperback,1990,Perfection Learning
+51,The Deep,Nick Cutter,1476717737,NULL,3.36,394,8664,1605,Hardcover,January 13th 2015,Gallery Books
+50,Finders Keepers,Stephen King,1501100076,(Bill Hodges Trilogy #2),4.04,431,90541,8545,Hardcover,June 2nd 2015,Scribner
+49,Something Wicked This Way Comes,Ray Bradbury,0380729407,(Green Town #2),3.95,293,85032,5742,Mass Market Paperback,March 1st 1998,Avon
+48,I Am Legend and Other Stories,Richard Matheson,031286504X,NULL,4.00,317,111531,4648,Paperback,September 15th 1997,Orb Books
+47,Gerald's Game,Stephen King,0831727527,NULL,3.49,332,119029,3462,Hardcover,September 1st 1992,Smithmark Publishers
+46,The Vampire Lestat,Anne Rice,0345476883,(The Vampire Chronicles #2),4.07,481,163179,3418,Paperback,August 31st 2004,Ballantine Books
+45,Insomnia,Stephen King,8497597729,NULL,3.81,890,124072,2868,Pasta blanda,February 28th 2005,Debolsillo
+44,Dreamcatcher,Stephen King,2226131906,NULL,3.62,688,139014,2214,Paperback,March 1st 2002,Albin Michel
+43,Desperation,Stephen King,NULL,NULL,3.81,547,110685,2228,Mass Market Paperback,August 1st 1997,Signet Book
+42,Rosemary's Baby,Ira Levin,0451194004,(Rosemary's Baby #1),3.99,308,97531,2981,Hardcover,September 1st 1997,Signet
+41,The Passage,Justin Cronin,0345504968,(The Passage #1),4.04,766,168161,18479,Hardcover,June 8th 2010,Ballantine Books
+40,Skeleton Crew,Stephen King,0751504386,NULL,3.95,612,100349,1659,Paperback,May 13th 1993,Warner Books
+39,The Gunslinger,Stephen King,NULL,(The Dark Tower #1),3.96,231,455325,16873,Paperback,July 2003,Plume
+38,The Dark Half,Stephen King,045052468X,NULL,3.76,469,111866,1784,Paperback,October 7th 1990,New English Library
+37,Under the Dome,Stephen King,1439148503,NULL,3.90,1074,232895,13991,Hardcover,November 10th 2009,Scribner
+36,The Silence of the Lambs,Thomas  Harris,0099446782,(Hannibal Lecter #2),4.18,338,407273,4866,Paperback,2002,Arrow
+35,Thinner,Richard Bachman,0451190750,NULL,3.70,320,155982,2120,Mass Market Paperback,September 1st 1996,Signet
+34,The Tommyknockers,Stephen King,NULL,NULL,3.52,747,111439,2292,Mass Market Paperback,April 20th 1993,Signet
+33,Bag of Bones,Stephen King,067102423X,NULL,3.89,736,157030,3669,Mass Market Paperback,June 1999,Pocket Books
+32,Coraline,Neil Gaiman,0061139378,NULL,4.05,162,413086,17218,Paperback,August 29th 2006,William Morrow Paperbacks
+31,The Girl With All the Gifts,M.R. Carey,0356500152,(The Girl With All the Gifts #1),3.94,461,164575,18326,Paperback,June 19th 2014,Orbit
+30,We Have Always Lived in the Castle,Shirley Jackson,0143039970,NULL,4.02,146,83948,10228,Paperback,October 31st 2006,Penguin Books
+29,Firestarter,Stephen King,0451167805,NULL,3.87,416,168445,2494,Paperback,August 1st 1981,Berkley Books
+28,The Dead Zone,Stephen King,0451155750,NULL,3.91,402,155460,3161,Mass Market Paperback,August 1980,Signet/New American Library
+12,Interview with the Vampire,Anne Rice,0345476875,(The Vampire Chronicles #1),3.99,342,440439,9138,Paperback,August 31st 2004,Ballantine Books
+11,World War Z: An Oral History of the Zombie War,Max Brooks,0307346609,(Zомби),4.01,342,388642,23945,Hardcover,September 12th 2006,Crown
+10,The Haunting of Hill House,Shirley Jackson,0143039989,NULL,3.86,208,109305,10192,Paperback,November 28th 2006,Penguin Classics
+9,Misery,Stephen King,0450417395,NULL,4.15,370,422749,8874,Paperback,November 1st 1988,New English Library
+8,The Stand (Complete and Uncut),Stephen King,0385199570,NULL,4.34,1153,543824,16602,Hardcover,May 1st 1990,Doubleday Books
+7,'Salem's Lot,Stephen King,0450031063,NULL,4.01,483,288786,8157,Paperback,1991,New English Library
+6,Frankenstein,Mary Wollstonecraft Shelley,NULL,NULL,3.78,288,1019363,26672,Paperback,March 8th 2018,Penguin Classics
+5,Pet Sematary,Stephen King,NULL,NULL,3.96,580,351487,9652,Kindle Edition,May 13th 2014,Scribner
+4,Carrie,Stephen King,1416524304,NULL,3.95,253,443832,11093,Mass Market Paperback,November 1st 2005,Pocket Books
+3,Dracula,Bram Stoker,0393970124,NULL,3.99,488,810972,21105,Paperback,May 12th 1986,Norton
+2,It,Stephen King,0450411435,NULL,4.23,1116,660142,19994,Paperback,October 1st 1987,New English Library
