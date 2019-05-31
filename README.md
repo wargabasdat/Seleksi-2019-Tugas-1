@@ -7,10 +7,25 @@
 
 <h2 align="center">
   <br>
-  Data Scraping
+  themusicnetwork Chart Scraping
   <br>
   <br>
 </h2>
+
+## Description
+
+This program scrapes music chart data from https://themusicnetwork.com. A music chart, also known as a record chart, is a ranking of recorded music according to certain criteria during a given period of time, in this case, a week.
+
+The data result includes:
+- Position or ranking
+- Song info:
+	- Song title
+	- Song artist
+	- Song label
+- Chart info:
+	- Position or ranking last week
+	- Time spent on the chart (week)
+	- Highest position the song has reached
 
 
 ## Specifications
@@ -74,7 +89,7 @@ export function build () {
 
 11. JSON harus dinormalisasi dan harus di-_preprocessing_
 ```
-Preprocessing contohnya :
+Preprocessing contohnya:
 - Cleaning
 - Parsing
 - Transformation
@@ -93,16 +108,71 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
+
+## How to Use
+
+1. Run this script from the root of this repository
+```sh
+python3 src/main.py
+```
+
+2. Input the music chart link you want to scrape
+
+3. Input a file name where you want to save the data
+
+4. Data can be found in data
+
+
+## Ideas and Innovations in Utilizing the Data
+
+Music chart data can be used to see the increase or decrease of a songs position. It can also be summarized by the end of the year making it a summary chart which is calculated from their component weekly charts. Component charts have become an increasingly important way to measure the commercial success of individual songs. Other than that, it can also measure the commercial success of an album or an artist.
+
+
+## JSON Structure
+
+The JSON Structure of the output file contains position, song info (title, artist and label) and chart info (position last week, time spent on the chart and highest position)
+```
+{
+	"songs": [
+		{
+			"position": 1,
+			"songInfo": {
+				"title": "I Don't Care",
+				"artist": "Ed Sheeran & Justin Bieber",
+				"label": "WMA/UMA"
+			},
+			"chartInfo": {
+				"lastWeek": "3",
+				"timeSpent": "2",
+				"highestPosition": 1
+			}
+		},
+		...
+	]
+}
+```
+
+
+## Screenshot Program
+
+
+
+
+## Reference
+
+# Runtime
+Python 3
+
+# Library used
+- requests
+- bs4
+- os
+- json
+
 
 <p align="center">
   <br>
-  Basdat Industries - Lab Basdat 2019
+  Tasya Lailinissa Diandraputri - 13517141
   <br>
   <br>
 </p>
