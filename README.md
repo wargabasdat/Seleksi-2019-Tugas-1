@@ -131,12 +131,21 @@ Library yang digunakan:
 ```
 
 
-## Screenshot Program
+## Screenshot kode program
 Screenshot kode
+![Pencarian link](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_1.png)
+![Pembuat JSON](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_2.png)
+![Pemanggil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_3.png)
+![Kontrol hasil request](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_4.png)
+![Main](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_script_5.png)
 
 Screenshot json
+![RaceData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_racedata.png)
+![ResultData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_resultdata.png)
+![SeasonData](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_json_seasondata.png)
 
 Screenshot program saat dieksekusi
+![Run](https://github.com/Meyjan/Seleksi-2019-Tugas-1/blob/master/screenshots/ss_run.png)
 
 
 ##### Author: Jan Meyer Saragih / 13517131
