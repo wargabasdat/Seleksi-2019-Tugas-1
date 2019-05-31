@@ -1,0 +1,4 @@
+"scripts": {
+    "build": "python src/main.py",
+    "clean": "rimraf data/*"
+}

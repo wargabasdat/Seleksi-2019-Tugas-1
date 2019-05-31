@@ -18,50 +18,72 @@
 
 ## Description
 
+Berikut adalah data scraping pada website http://www.duniainvestasi.com yang memiliki daftar saham perusahaan-perusahaan. Data scraping dilakukan dengan me-request data tabel daftar saham pada laman web. Setelah data di-scrape, data di-clean dari data yang tidak diinginkan. Kemudian, data diformat ke dalam file JSON. Tools yang digunakan dalam data scraping kali ini adalah python.
 
+## Requirement
 
-## Specification
-
+- Python 3.x
+- Node.js version >= 8.2
 
 ## How to use
 
 How to use makefile:
+```
 1. Open Command Prompt
 2. Move to master/root folder
 3. Type "make"
+```
 
 How to use npm scripts:
+```
 1. Open Command Prompt
 2. Move to master/root folder
-3.
+3. Type "npm run scripts"
+```
 
 How to use runjs:
+```
+1. Open Command Prompt
+2. Move to master/root folder
+3. Type "npx run runfile.js"
+```
 
+## Ideas and Innovations
 
-
-## Ideas and innovations in utilizing the data
-
-
+- Data dibersihkan dari kolom kosong
+- Baris yang mengandung None/Null dihapus
 
 ## JSON Structure
 
+Struktur JSON berdasarkan record file
+```
+  {"Kolom1":content, Kolom2:content, Kolom3:content, Kolom4:content}
+```
 
-
-## Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+## Screenshot Program
 
 
 
 ## Reference
 
-Library used 
+Library used:
+```
 Pandas
 Requests
 BeautifulSoup
-Re
+Regular Expression
+```
 
+Referensi bacaan
+```
 https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e578278162
 https://stackoverflow.com/
+```
 
+Sumber data
+```
+http://www.duniainvestasi.com
+```
 
 ## Author
 Muhammad Hendry Prasetya - 13517105
