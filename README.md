@@ -7,10 +7,14 @@
 
 <h2 align="center">
   <br>
-  Data Scraping
+  Data Scraping from xe.com
   <br>
   <br>
 </h2>
+
+## Description
+Program ini melakukan data scraping terhadap website xe.com. Website ini berisi data currency rate berbagai mata uang di dunia.
+Data yang diperoleh dari scraping melalui program ini adalah currency rate berbagai mata uang terhadap mata uang USD (US Dollar) dari tanggal yang ditentukan hingga tanggal yang ditentukan melalui input ke program.
 
 
 ## Specifications
@@ -67,16 +71,52 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
+## How To Use
+1. Jalankan program dengan menggunakan
+```
+$ python src/main.py
+'''
+2. Masukan tanggal awal dan akhir data yang diinginkan
+3. data akan diupdate ke dalam file json
+```
+
+### Ideas and inovation in utilizing the data
+Dari data hasil scraping ini dapat digunakan untuk banyak hal.
+1. Melakukan pengamatan terhadap ekonomi suatu negara yang dapat dikembangkan ke banyak hal.
+  Memprediksi peluang impor dan ekspor yang tepat, investasi ke luar negeri
+2. Mengetahui perbandingan kekuatan mata uang suatu negara terhadap USD.
+  Melalui data ini juga dapat digunakan untuk melakukan investasi dengan menggunakan valuta asing
+dan banyak lagi.
+
+
+### JSON Structure
+Example :
+```
+  {{"Date":"2019-05-27","Currency Code":"USD","Units per USD":"1.0000000000","USD per Unit":"1.0000000000"}}
+```
+```
+  {{"Currency Code":"KYD","Currency Name":"Caymanian Dollar"}}
+```
+
+
+### Screenshot
+
+
+
+### Reference
+1. https://realpython.com/python-web-scraping-practical-introduction/
+2. https://hackernoon.com/introduction-to-web-scraping-using-python-89b15b57150c
+
+library used :
+1. bs4
+2. json
+3. numpy
+4. pandas
+5. requests
 
 <p align="center">
   <br>
-  Basdat Industries - Lab Basdat 2019
+  Samantha Olivia Tandri - 13517123
   <br>
   <br>
 </p>
