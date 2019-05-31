@@ -1,82 +1,70 @@
 <h1 align="center">
   <br>
-  Seleksi 1 Warga Basdat 2019
+  Online Smartphone Sales in Indonesia
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+## Description
+This script is *web scraping* script to obtain smartphone sales data in Indonesia. Data was taken from one of the well-known e-commerce namely [Bukalapak](https://www.bukalapak.com/). It aims to get information about: 
+- Name
+- Price
+- Condition
+- Seller 
+- Place
+- Brand
 
+## Specification
+- Runtime : - Python
+- Libraries : 
+  - BeautifulSoup
+  - lxml
+  - requests
 
-## Specifications
+## How to Use
+You can run this script using
+```bash
+$ cd src
+$ python scrap.py
+```
+The results of scraping will be stored in the JSON file to the ```/data``` directory
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
+## Ideas and Innovations in Utilizing the Data
+For buyers, this data can be used to provide information about which smartphone is according to their wishes. Buyers can compare prices and location of sales because it can affect the cost of shipping later. 
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
+For smartphone manufacturers, this data can be used to see the spread of smartphones that he sells in Indonesia both in terms of price and sales. This data can be used as a reference for marketing sales.
 
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+## JSON Structure
+JSON is stored in the form of an array of smartphone data
+```json
+[
+    {
+      "name": "Realme 3 ram 3gb",
+      "price": 1820000,
+      "condition": "Baru",
+      "seller": "CAHAYA PONSEL",
+      "location": "Kab. Bekasi",
+      "brand": "Realme"
+    },
+    {
+        "name": "Vivo v 15 resmi",
+        "price": 3619000,
+        "condition": "Baru",
+        "seller": "BinTanG cell",
+        "location": "Jakarta Timur",
+        "brand": "Vivo"
+    },
+    ...
+]
 ```
 
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
+## Screenshot
 
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
+## Reference
+[BeuatifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[requests](https://realpython.com/python-requests/)
+[concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
 
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
-```
-- Description
-- Specification
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+## Author
+Muhammad Fikri Hizbullah
+13517104
