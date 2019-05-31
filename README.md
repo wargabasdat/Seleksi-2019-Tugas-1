@@ -112,8 +112,8 @@ Preprocessing contohnya:
 ## How to Use
 
 1. Run this script from the root of this repository
-```sh
-python3 src/main.py
+```
+$ python3 src/main.py
 ```
 
 2. Input the music chart link you want to scrape
