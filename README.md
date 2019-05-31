@@ -105,8 +105,6 @@ Example :
 
 
 ### Reference
-1. https://realpython.com/python-web-scraping-practical-introduction/
-2. https://hackernoon.com/introduction-to-web-scraping-using-python-89b15b57150c
 
 library used :
 1. bs4
