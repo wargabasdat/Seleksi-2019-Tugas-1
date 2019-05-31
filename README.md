@@ -5,12 +5,7 @@
   <br>
 </h1>
 
-<p align="left">
-  <br>
-    Website yang di-scrape: https://www.formula1.com
-  <br>
-  <br>
-</p>
+#### Website yang di-scrape: https://www.formula1.com
 
 
 ## Deskripsi
@@ -39,18 +34,18 @@ Library python yang dibutuhkan untuk menjalankan program ini:
 ```
 
 Program dapat dijalankan menggunakan:
-- Makefile
-- Command Line Interface (CLI)
+- Makefile: melakukan pembersihan folder data sebelum menjalankan program
+- Command Line Interface (CLI): menjalankan program secara langsung
 
 
 ## How to use
-Program dapat dijalankan dengan CLI (Command Line Iterface) atau dengan memanfaatkan _Makefile_ yang terdapat dalam folder yang sama dengan _README_ ini. Makefile akan menghapus data yang terdapat dalam folder _data_ dan menjalankan program dalam folder _src_ untuk mendapatkan hasil scraping yang nanti disimpan dalam folder _data_.
+Program dapat dijalankan langsung dengan CLI (Command Line Iterface) atau dengan memanfaatkan _Makefile_ yang terdapat dalam folder yang sama dengan _README_ ini. Makefile akan menghapus data yang terdapat dalam folder _data_ dan menjalankan program dalam folder _src_ untuk mendapatkan hasil scraping yang nanti disimpan dalam folder _data_.
 
-__Windows__
+__Perintah di bawah ini dijalankan pada OS Windows__
 
 Sebelum menjalankannya, dilakukan tahap ini untuk menginstalasi _python_ dan library-library yang dibutuhkan:
 ```
-1. Download _python3_ dari _https://www.python.org/downloads/_
+1. Download _python3_ dari https://www.python.org/downloads/
 2. Masukkan path ke folder python ke environment (opsional)
 3. Download _get-pip.py_ sript
 4. Install _pip_ dengan menuliskan _python get-pip.py_ pada CLI
@@ -58,32 +53,90 @@ Sebelum menjalankannya, dilakukan tahap ini untuk menginstalasi _python_ dan lib
 6. Install _requests_ dengan menuliskan _pip install requests_ pada CLI
 ```
 
-Setelah instalasi, terdapat 2 cara u
+Setelah instalasi, terdapat 2 cara untuk menjalankan program ini, yaitu:
+_Command Line Interface_
+```
+1. Membuka folder _Seleksi-2019-Tugas-1_ pada CLI
+2. Memasukkan perintah python src/Script.py
+```
+_Makefile_
+```
+1. Membuka folder _Seleksi-2019-Tugas-1_ pada CLI
+2. Memasukkan perintah 
+```
+
 
 ## Ide dan inovasi dengan menggunakan data
-- Data yang diperoleh mampu diguanakan untuk 
+Data yang diperoleh dari hasil scraping ini dapat digunakan dan dikembangkan untuk:
+```
+- Mencari hasil balapan dari setiap balapan Formula 1 dari tahun 2000 hingga 2019
+- Mendapatkan hasil klasemen setiap musim balapan Formula 1 dari tahun 2000 hingga 2019
+- Tracking perjalanan karir salah Formula 1 salah seorang driver yang tercatat pada data
+- Mencari juara dunia, baik pembalap maupun konstruktor, dari tahun 2000 hingga 2019
+- Membandingkan pentingnya meraih posisi 1 bagi pembalap untuk dapat mendapatkan gelar dunia sebelum aturan perubahan poin (tahun 2000 - 2009) dan setelah aturan perubahan poin (2010 - 2019)
+```
+
 
 ## Struktur JSON
 
+__RaceData.json__
+```
+[
+    {
+        "Year": <Tahun balapan>,
+        "Race Nation": <Nama negara balapan>,
+        "Driver Race Position": <Posisi pembalap>,
+        "Driver Name": <Nama pembalap>,
+        "Driver Finish Time": <Waktu yang dibutuhkan oleh pembalap tersebut untuk menyelesaikan balapan (relatif terhadap pemimpin)>
+    }
+]
+```
+Keterangan: _DNF_ pada <Driver Finish Time> berarti pembalap tersebut tidak menyelsaikan balapan
+
+__ResultData.json__
+```
+[
+    {
+        "Year": <Tahun balapan>
+        "Driver Classment Position": <Posisi pembalap pada klasemen>
+        "Driver Name": <Nama pembalap>
+        "Driver Nationality": <Asal negara pembalap>
+        "Driver Team": <Tim pembalap (konstruktor)>
+        "Driver Points": <Poin yang didapat pembalap>
+    }
+]
+```
+
+__SeasonData.json__
+```
+[
+    {
+        "Year": <Tahun balapan>
+        "Race Nation": <Nama negara balapan>
+        "Race Name": <Nama balapan tersebut>
+        "Race Date": <Tanggal balapan>
+    }
+]
+```
+
+
 ## Referensi
-
-### Author
-
-12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
+Library yang digunakan:
 ```
-- Programion
-- Specification
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+1. requests             -> Melakukan HTTP Request terhadap website
+2. beautifulsoup (bs4)  -> Melakukan olah data pada hasil HTTP Request
+3. json                 -> Menuliskan file ke format .json
+4. copy                 -> Memastikan kekonsistenan data saat membuat file JSON
+5. time                 -> Memberikan waktu sleep buat program sebagai interval waktu antar request
 ```
 
-<p align="left">
-  <br>
-    Jan Meyer Saragih
-  <br>
-  <br>
-</p>
+
+## Screenshot Program
+Screenshot kode
+
+Screenshot json
+
+Screenshot program saat dieksekusi
+
+
+##### Author: Jan Meyer Saragih / 13517131
