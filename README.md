@@ -91,8 +91,8 @@ Sampel struktur _json_ yang digunakan dengan orient column dan hasil penulisan f
 ![screenshotCode1](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code1.png)
 ![screenshotCode2](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code2.png)
 ![screenshotCode3](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code3.png)
-![screenshotCode4](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code3.png)
-![screenshotCode5](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code3.png)
+![screenshotCode4](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code4.png)
+![screenshotCode5](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Code5.png)
 
 ### Json Structure
 ![screenshotJsonStructure1](https://github.com/willysantoso05/Seleksi-2019-Tugas-1/blob/master/screenshots/Json_Structure.png)
