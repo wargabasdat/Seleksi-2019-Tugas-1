@@ -6,16 +6,10 @@ Data scraping is done using the assist from Jsoup and Jackson. Jsoup will conver
 ## Setup
 Install [Maven](http://maven.apache.org/).
 
-Clean your project with:
-
-```
-mvn clean
-```
-
 Build your project with:
 
 ```
-mvn package
+mvn clean package
 ```
 
 ## Request Json file
