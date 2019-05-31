@@ -17,11 +17,13 @@
 
 
 #### Deskripsi dan Spesifikasi
-_Source code_ ini digunakan untuk mengambil data dari semua buku yang ada di [books.toscrape.com](http://books.toscrape.com).
+_Source code_ ini digunakan untuk mengambil data dari semua buku yang ada di [books.toscrape.com](http://books.toscrape.com), dan dijalankan menggunakan `python3`.
 
 #### _How to Use_
 1. _Download_ atau _clone repository_ dari [sini](https://github.com/abdashaffan/Seleksi-2019-Tugas-1).
-2. Masuk ke dalam  _root_ repository ini (**_/Seleksi-2019-Tugas-1_**), lalu jalankan perintah `make` pada terminal anda.
+2. Masuk ke dalam  _root_ repository ini (**_/Seleksi-2019-Tugas-1_**). 
+3. Install _dependencies_ dengan perintah `pip install -r requirements.txt` 
+4. Jalankan perintah `make` pada terminal anda.
 
 #### _Using the data_
 
