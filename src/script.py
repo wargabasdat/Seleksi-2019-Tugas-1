@@ -3,7 +3,7 @@ from urllib.request import urlopen as uReq
 import json
 
 #open file
-filename = "../data/result.json"
+filename = "data/result.json"
 f = open(filename,"w")
 
 #initialize json data
