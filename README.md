@@ -1,82 +1,75 @@
-<h1 align="center">
-  <br>
-  Seleksi 1 Warga Basdat 2019
-  <br>
-  <br>
-</h1>
+## Description
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+A data scraping project for statistics on the Golden State Warriors' games in the NBA. The data includes game location, game date, points, rebounds, win or loss, field goals, assists, steals, blocks, and so on.
 
+## Specification
 
-## Specifications
+* Runtime: Python 3
+* Libaries:
+  * Selenium
+  * ChromeDriver
+  * Pandas
+  * JSON
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
+## How to use
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
-
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. Peserta juga diminta untuk membuat `_Makefile` sesuai _template_ yang disediakan, sehingga _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+Using Makefile,
+```python
+$ make
 ```
 
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+Using manual method, 
+```python
+$ python3 Scraping.py
 ```
 
-12. Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :
+## Ideas and Innovations in Utilizing the Data
+
+This data can be used to analyze the team's performance for both a loss or a win. What was the reason for both of those, and the trends that happen during the season. 
+
+## Screenshot
+
+![Alt text](screenshots/Screenshot.png)
+
+## JSON Structure
+
+A sample data from the .json file:
 ```
-- Description
-- Specification
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+{
+  "MATCH UP":"Apr 10, 2019 - GSW @ MEM",
+  "W\/L":"L",
+  "MIN":48.0,
+  "PTS":117.0,
+  "FGM":46.0,
+  "FGA":92.0,
+  "FG%":50.0,
+  "3PM":13.0,
+  "3PA":30.0,
+  "3P%":43.3,
+  "FTM":12.0,
+  "FTA":14.0,
+  "FT%":85.7,
+  "OREB":9.0,
+  "DREB":30.0,
+  "REB":39.0,
+  "AST":32.0,
+  "TOV":14.0,
+  "STL":3.0,
+  "BLK":5.0,
+  "PF":17.0,
+  "+\/-":-15.0
+}
 ```
 
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
+## References
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+* https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+* https://stackoverflow.com/questions/39257147/convert-pandas-dataframe-to-json-format
+* https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html
+* https://github.com/TheDancerCodes/Selenium-Webscraping-Example
+
+## Author
+
+Full Name: Kevin Nathaniel Wijaya
+
+Email: 13517072@std.stei.itb.ac.id
