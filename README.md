@@ -27,7 +27,7 @@ Berikut adalah data scraping pada website http://www.duniainvestasi.com yang mem
 
 ## How to use
 
-- How to use makefile:
+- How to use makefile (Recommended):
 ```
 1. Open Command Prompt
 2. Move to master/root folder
