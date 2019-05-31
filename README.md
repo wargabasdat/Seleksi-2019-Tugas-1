@@ -36,7 +36,7 @@ For smartphone manufacturers, this data can be used to see the spread of smartph
 
 ## JSON Structure
 JSON is stored in the form of an array of smartphone data
-```json
+```
 [
     {
       "name": "Realme 3 ram 3gb",
@@ -59,6 +59,11 @@ JSON is stored in the form of an array of smartphone data
 ```
 
 ## Screenshot
+Start the program
+![Start](screenshots/start.JPG?raw=true "Start program")
+
+Program finish
+![Finish](screenshots/finish.JPG?raw=true "Program finish")
 
 ## Reference
 [BeuatifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
