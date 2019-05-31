@@ -1,7 +1,9 @@
 all: clean build run
 
-clean: # remove data and binary folder
+clean: # remove data
+    - rm -f data/*
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+build: # do nothing
 
-run: # run your binary
+run: # run python interpreter
+    py src/main.py
