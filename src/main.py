@@ -29,9 +29,9 @@ def obtain_dataframe(url1, url2):
     for i in range (2,16): # Scrape page 2 - 15
         list = list + (scrape_table(url2+str(i)))
 
-    #Clean useless tuple
-    list.remove('[]') 
-    list.remove('[\xa0]')
+    # Clean useless tuple
+    # list.remove('[]') 
+    # list.remove('[\xa0]')
         
     return pd.DataFrame(list)
 
@@ -69,8 +69,6 @@ df = df.rename(columns=df2.iloc[0])
 df = df.drop(columns = "Chart")
 df = df.drop(columns = "Detail]")
 
-print(df)
-
 # Export to JSON
-with open('../data/out.json', 'w') as f:
+with open('data/out.json', 'w+') as f:
     f.write(df.to_json(orient='records', lines=True))
