@@ -1,43 +1,65 @@
 <h1 align="center">
   <br>
-  Seleksi 1 Warga Basdat 2019
+  Scraping Data PegiPegi
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+## Description
+PegiPegi adalah perusahaan yang melayani pemesanan hotel, tiket pesawat dan tiket kereta api yang berbasis web. Pegi pegi secara fokus membantu kebutuhan liburan atau perjalanan bisnis masyakarat Indonesia.
 
-
-## Specifications
-
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1BokKV8Qky7Hmry0dSRsmlT3LKs6jFWEy-BPt32Oc9-o/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __20 Mei 2019 pukul 20.00 WIB__
-
-3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
-
-5. <span style="color:blue;">Peserta juga diminta untuk membuat _simple build tools_ semacam `Makefile`, `npm scripts`, `runjs` yang bertujuan untuk membuat _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_.</span>
-
-> Template `makefile`
-
-```Makefile
-all: clean build run
-
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+## How to use
+Langkah-Langkah untuk pengguna windows:
+1. Buka cmd
+2. Buka direktori yang dimaksud
+3. Gunakan perintah make all
+```cmd
+   $ make all
 ```
 
+## Ideas and Innovations in Utilizing the Data
+Data yang diperoleh dari PegiPegi.com ini dapat digunakan untuk membandingkan harga sewa kamar dan fasilitas yang ditawarkan oleh masing-masing hotel.
+
+## JSON Structure
+```Json
+1. Nama Hotel
+2. Bintang
+3. Alamat Hotel
+4. Fasilitas & Layanan Hotel
+  * Spa
+  * Sauna
+  * Jacuzzi
+  * Fitness
+  * Gymnasium
+  * Field
+  * Tennis
+  * Indoor pool
+  * Outdoor pool
+  * Table tennis
+  * Kids club
+  * Billiard
+  * Game corner
+  * Karaoke
+  * Banquet hall
+  * BBQ
+  * Dry room
+  * Restaurant
+  * Coffee Shop
+  * Convenience store
+  * Bar
+  * Lounge
+  * Business center
+  * Conference room
+  * Non-smoking rooms
+  * Ice-making machine
+  * Morning Call
+  * Layanan Kamar
+  * Cleaning service
+  * Massage
+  * Rental cycle
+  * Voltage Converter
+  * Parking Area
+```
 > Template `npm scripts`
 
 ```javascript
