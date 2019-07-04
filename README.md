@@ -12,8 +12,9 @@ PegiPegi adalah perusahaan yang melayani pemesanan hotel, tiket pesawat dan tike
 Langkah-Langkah untuk pengguna windows:
 1. Buka cmd
 2. Buka direktori yang dimaksud
-3. Gunakan perintah make all
+3. Gunakan perintah make run atau make all
 ```cmd
+   $ make run
    $ make all
 ```
 

@@ -182,111 +182,6 @@
         ]
     },
     {
-        "Nama Hotel": "Same Hotel Malang",
-        "Bintang": 3,
-        "Alamat Hotel": "Jalan Pattimura 19, Malang, Indonesia",
-        "Fasilitas & Layanan Hotel": {
-            "Spa": "tidak",
-            "Sauna": "tidak",
-            "Jacuzzi": "tidak",
-            "Fitness": "tidak",
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Indoor pool": "tidak",
-            "Outdoor pool": "tidak",
-            "Table tennis": "tidak",
-            "Kids club": "tidak",
-            "Billiard": "tidak",
-            "Game corner": "tidak",
-            "Karaoke": "tidak",
-            "Banquet hall": "ya",
-            "BBQ": "tidak",
-            "Dry room": "tidak",
-            "Restaurant": "ya",
-            "Coffee Shop": "tidak",
-            "Convenience store": "tidak",
-            "Bar": "tidak",
-            "Lounge": "tidak",
-            "Business center": "tidak",
-            "Conference room": "ya",
-            "Non-smoking rooms": "ya",
-            "Ice-making machine": "tidak",
-            "Morning Call": "ya",
-            "Layanan Kamar": "ya",
-            "Cleaning service": "ya",
-            "Massage": "tidak",
-            "Rental cycle": "tidak",
-            "Voltage Converter": "tidak",
-            "Parking Area": "ya"
-        },
-        "Aktivitas Olah Raga": {
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Golf": "tidak",
-            "Putting golf": "tidak",
-            "Fishing": "tidak",
-            "Paraglider": "tidak",
-            "Horse riding": "tidak",
-            "Diving": "tidak",
-            "Rafting": "tidak",
-            "Canoe": "tidak"
-        },
-        "Internet & Wifi": {
-            "Koneksi LAN (semua kamar)": "ya",
-            "Bebas akses Wi-Fi di lobby": "ya",
-            "Koneksi dial-up": "tidak",
-            "Kabel LAN": "tidak",
-            "Wireless LAN": "tidak",
-            "Tersedia rental PC": "tidak",
-            "Koneksi internet gratis": "ya"
-        },
-        "Fasilitas Kamar": {
-            "Bath and Toilet: All rooms": "tidak",
-            "Shower: All rooms": "ya",
-            "Bathtub: All rooms": "tidak",
-            "Air conditioner: All rooms": "ya",
-            "TV": "ya",
-            "VCR atau DVD": "tidak",
-            "BS broadcast": "tidak",
-            "Refrigerator": "tidak",
-            "Mini Bar": "tidak",
-            "Kitchen: All rooms": "tidak",
-            "Trouser press (*including rental)": "tidak",
-            "Safety box": "ya",
-            "Face towel, Hand towel": "tidak",
-            "Toothbrush and/or Toothpaste": "ya",
-            "Bath towel": "ya",
-            "Shampoo": "ya",
-            "Hair Conditioner": "tidak",
-            "Body soap": "ya",
-            "Soap": "tidak",
-            "Pajamas": "tidak",
-            "Bathrobe": "tidak",
-            "Sandal": "ya",
-            "Hair Dryer": "tidak",
-            "Razor and/or Shaver": "tidak",
-            "Shower cap": "ya",
-            "Cottonbud": "ya",
-            "Shower Toilet": "tidak",
-            "Comb": "tidak"
-        },
-        "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Deluxe Twin or Double",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "351240"
-            }
-        ]
-    },
-    {
         "Nama Hotel": "The Singhasari Resort Batu",
         "Bintang": 5,
         "Alamat Hotel": "Jl. IR.Soekarno No.120, Batu, Malang, Jawa Timur, Indonesia",
@@ -553,17 +448,6 @@
         },
         "Pilihan Kamar": [
             {
-                "Nama Kamar": "Deluxe Room  Kamar saja",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "247934"
-            },
-            {
                 "Nama Kamar": "Deluxe Room\n \n - WEEKDAYS",
                 "Info Kamar": {
                     "Maksimal Orang": "2",
@@ -711,17 +595,6 @@
                     "Refundable": "tidak"
                 },
                 "Harga": "435537"
-            },
-            {
-                "Nama Kamar": "Executive Suite",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "483471"
             }
         ]
     },
@@ -818,6 +691,17 @@
         },
         "Pilihan Kamar": [
             {
+                "Nama Kamar": "Deluxe Twin Room",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "306929"
+            },
+            {
                 "Nama Kamar": "Suite Family",
                 "Info Kamar": {
                     "Maksimal Orang": "3",
@@ -827,111 +711,6 @@
                     "Refundable": "tidak"
                 },
                 "Harga": "822133"
-            }
-        ]
-    },
-    {
-        "Nama Hotel": "The Balava Hotel",
-        "Bintang": 4,
-        "Alamat Hotel": "Jl. Kolonel Sugiono No.6 Malang, Jawa Timur, Indonesia",
-        "Fasilitas & Layanan Hotel": {
-            "Spa": "ya",
-            "Sauna": "tidak",
-            "Jacuzzi": "tidak",
-            "Fitness": "tidak",
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Indoor pool": "tidak",
-            "Outdoor pool": "ya",
-            "Table tennis": "ya",
-            "Kids club": "tidak",
-            "Billiard": "ya",
-            "Game corner": "tidak",
-            "Karaoke": "tidak",
-            "Banquet hall": "ya",
-            "BBQ": "ya",
-            "Dry room": "tidak",
-            "Restaurant": "ya",
-            "Coffee Shop": "ya",
-            "Convenience store": "ya",
-            "Bar": "ya",
-            "Lounge": "tidak",
-            "Business center": "ya",
-            "Conference room": "ya",
-            "Non-smoking rooms": "ya",
-            "Ice-making machine": "tidak",
-            "Morning Call": "ya",
-            "Layanan Kamar": "ya",
-            "Cleaning service": "ya",
-            "Massage": "ya",
-            "Rental cycle": "tidak",
-            "Voltage Converter": "tidak",
-            "Parking Area": "ya"
-        },
-        "Aktivitas Olah Raga": {
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Golf": "tidak",
-            "Putting golf": "tidak",
-            "Fishing": "tidak",
-            "Paraglider": "tidak",
-            "Horse riding": "tidak",
-            "Diving": "tidak",
-            "Rafting": "tidak",
-            "Canoe": "tidak"
-        },
-        "Internet & Wifi": {
-            "Koneksi LAN (semua kamar)": "ya",
-            "Bebas akses Wi-Fi di lobby": "ya",
-            "Koneksi dial-up": "tidak",
-            "Kabel LAN": "tidak",
-            "Wireless LAN": "tidak",
-            "Tersedia rental PC": "tidak",
-            "Koneksi internet gratis": "ya"
-        },
-        "Fasilitas Kamar": {
-            "Bath and Toilet: All rooms": "ya",
-            "Shower: All rooms": "ya",
-            "Bathtub: All rooms": "tidak",
-            "Air conditioner: All rooms": "ya",
-            "TV": "ya",
-            "VCR atau DVD": "tidak",
-            "BS broadcast": "tidak",
-            "Refrigerator": "tidak",
-            "Mini Bar": "ya",
-            "Kitchen: All rooms": "tidak",
-            "Trouser press (*including rental)": "tidak",
-            "Safety box": "ya",
-            "Face towel, Hand towel": "ya",
-            "Toothbrush and/or Toothpaste": "ya",
-            "Bath towel": "ya",
-            "Shampoo": "ya",
-            "Hair Conditioner": "tidak",
-            "Body soap": "ya",
-            "Soap": "ya",
-            "Pajamas": "tidak",
-            "Bathrobe": "tidak",
-            "Sandal": "ya",
-            "Hair Dryer": "tidak",
-            "Razor and/or Shaver": "tidak",
-            "Shower cap": "ya",
-            "Cottonbud": "tidak",
-            "Shower Toilet": "tidak",
-            "Comb": "tidak"
-        },
-        "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Superior Room",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "21",
-                    "Refundable": "tidak"
-                },
-                "Harga": "607438"
             }
         ]
     },
@@ -1153,6 +932,17 @@
                     "Refundable": "tidak"
                 },
                 "Harga": "1889669"
+            },
+            {
+                "Nama Kamar": "Catalya Deluxe",
+                "Info Kamar": {
+                    "Maksimal Orang": "8",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "2627107"
             }
         ]
     },
@@ -1249,39 +1039,6 @@
         },
         "Pilihan Kamar": [
             {
-                "Nama Kamar": "Superior Twin (Non Breakfast 2 people) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "25",
-                    "Refundable": "tidak"
-                },
-                "Harga": "329752"
-            },
-            {
-                "Nama Kamar": "Deluxe Twin (Non Breakfast 2 people) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "30",
-                    "Refundable": "tidak"
-                },
-                "Harga": "376033"
-            },
-            {
-                "Nama Kamar": "Superior Twin Room (Free Breakfast 2 pax) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "409090"
-            },
-            {
                 "Nama Kamar": "Petite Deluxe (Non Breakfast 2 people) Non-Smoking",
                 "Info Kamar": {
                     "Maksimal Orang": "2",
@@ -1315,17 +1072,6 @@
                 "Harga": "473107"
             },
             {
-                "Nama Kamar": "Superior King (Non Breakfast 2 people) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "25",
-                    "Refundable": "tidak"
-                },
-                "Harga": "864644"
-            },
-            {
                 "Nama Kamar": "Superior King Room (Free Breakfast 2 pax) Non-Smoking",
                 "Info Kamar": {
                     "Maksimal Orang": "2",
@@ -1335,39 +1081,6 @@
                     "Refundable": "tidak"
                 },
                 "Harga": "929900"
-            },
-            {
-                "Nama Kamar": "Family Room (Free Breakfast 4 pax) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "4",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "32",
-                    "Refundable": "tidak"
-                },
-                "Harga": "1408446"
-            },
-            {
-                "Nama Kamar": "Family Room (Non Breakfast 4 people) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "4",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "32",
-                    "Refundable": "tidak"
-                },
-                "Harga": "1408446"
-            },
-            {
-                "Nama Kamar": "Family Room (Non Breakfast 2 people) Non-Smoking",
-                "Info Kamar": {
-                    "Maksimal Orang": "4",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "32",
-                    "Refundable": "tidak"
-                },
-                "Harga": "1408446"
             },
             {
                 "Nama Kamar": "Family Room (Free Breakfast 2 pax) Non-Smoking",
@@ -1591,48 +1304,48 @@
         },
         "Pilihan Kamar": [
             {
-                "Nama Kamar": "Standard King / Twin Room Only\n \n - Hot Deal -10%",
+                "Nama Kamar": "Family Room Only\n \n - Hot Deal -10%",
                 "Info Kamar": {
-                    "Maksimal Orang": "2",
+                    "Maksimal Orang": "3",
                     "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "557851"
-            },
-            {
-                "Nama Kamar": "Standard King / Twin Room Only",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "619834"
-            },
-            {
-                "Nama Kamar": "Standard Twin / King\n \n - Hot Deal -10%",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
+                    "Wifi Gratis": "tidak",
                     "Ukuran": null,
                     "Refundable": "tidak"
                 },
                 "Harga": "632231"
             },
             {
-                "Nama Kamar": "Standard Twin / King",
+                "Nama Kamar": "Family Room Only",
                 "Info Kamar": {
-                    "Maksimal Orang": "2",
+                    "Maksimal Orang": "3",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "702479"
+            },
+            {
+                "Nama Kamar": "Family Room\n \n - Hot Deal -10%",
+                "Info Kamar": {
+                    "Maksimal Orang": "3",
                     "Sarapan": "ya",
                     "Wifi Gratis": "ya",
                     "Ukuran": null,
                     "Refundable": "tidak"
                 },
-                "Harga": "702479"
+                "Harga": "706611"
+            },
+            {
+                "Nama Kamar": "Family Room",
+                "Info Kamar": {
+                    "Maksimal Orang": "3",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "785123"
             }
         ]
     },
@@ -1749,114 +1462,6 @@
                     "Refundable": "tidak"
                 },
                 "Harga": "1446281"
-            }
-        ]
-    },
-    {
-        "Nama Hotel": "eL Hotel Grande Malang",
-        "Bintang": 0,
-        "Alamat Hotel": "Jl Bukit Palem Raya No 1&3 Green Hills Residence, Ngijo, Karangploso, Malang",
-        "Fasilitas & Layanan Hotel": {
-            "Spa": "tidak",
-            "Sauna": "tidak",
-            "Jacuzzi": "ya",
-            "Fitness": "tidak",
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Indoor pool": "tidak",
-            "Outdoor pool": "ya",
-            "Table tennis": "tidak",
-            "Kids club": "tidak",
-            "Billiard": "ya",
-            "Game corner": "tidak",
-            "Karaoke": "tidak",
-            "Banquet hall": "ya",
-            "BBQ": "tidak",
-            "Dry room": "tidak",
-            "Restaurant": "tidak",
-            "Coffee Shop": "ya",
-            "Convenience store": "tidak",
-            "Bar": "tidak",
-            "Lounge": "tidak",
-            "Business center": "tidak",
-            "Conference room": "tidak",
-            "Non-smoking rooms": "tidak",
-            "Ice-making machine": "tidak",
-            "Morning Call": "ya",
-            "Layanan Kamar": "ya",
-            "Cleaning service": "ya",
-            "Massage": "tidak",
-            "Rental cycle": "tidak",
-            "Voltage Converter": "tidak",
-            "Parking Area": "tidak"
-        },
-        "Aktivitas Olah Raga": {
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Golf": "tidak",
-            "Putting golf": "tidak",
-            "Fishing": "tidak",
-            "Paraglider": "tidak",
-            "Horse riding": "tidak",
-            "Diving": "tidak",
-            "Rafting": "tidak",
-            "Canoe": "tidak"
-        },
-        "Internet & Wifi": null,
-        "Fasilitas Kamar": {
-            "Bath and Toilet: All rooms": "ya",
-            "Shower: All rooms": "tidak",
-            "Bathtub: All rooms": "tidak",
-            "Air conditioner: All rooms": "ya",
-            "TV": "ya",
-            "VCR atau DVD": "tidak",
-            "BS broadcast": "tidak",
-            "Refrigerator": "tidak",
-            "Mini Bar": "tidak",
-            "Kitchen: All rooms": "tidak",
-            "Trouser press (*including rental)": "tidak",
-            "Safety box": "tidak",
-            "Face towel, Hand towel": "ya",
-            "Toothbrush and/or Toothpaste": "ya",
-            "Bath towel": "ya",
-            "Shampoo": "ya",
-            "Hair Conditioner": "tidak",
-            "Body soap": "ya",
-            "Soap": "tidak",
-            "Pajamas": "tidak",
-            "Bathrobe": "tidak",
-            "Sandal": "tidak",
-            "Hair Dryer": "tidak",
-            "Razor and/or Shaver": "tidak",
-            "Shower cap": "ya",
-            "Cottonbud": "tidak",
-            "Shower Toilet": "ya",
-            "Comb": "tidak"
-        },
-        "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Standard Twin Room Only",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "268595"
-            },
-            {
-                "Nama Kamar": "Standard Twin Room Breakfast",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": "18",
-                    "Refundable": "tidak"
-                },
-                "Harga": "363636"
             }
         ]
     },
@@ -2369,125 +1974,6 @@
         ]
     },
     {
-        "Nama Hotel": "Dewarna Hotel Sutoyo",
-        "Bintang": 3,
-        "Alamat Hotel": "Jl. Letjen Sutoyo 22, Malang Center, Malang, Indonesia",
-        "Fasilitas & Layanan Hotel": {
-            "Spa": "tidak",
-            "Sauna": "tidak",
-            "Jacuzzi": "tidak",
-            "Fitness": "tidak",
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Indoor pool": "tidak",
-            "Outdoor pool": "tidak",
-            "Table tennis": "tidak",
-            "Kids club": "tidak",
-            "Billiard": "tidak",
-            "Game corner": "tidak",
-            "Karaoke": "tidak",
-            "Banquet hall": "tidak",
-            "BBQ": "tidak",
-            "Dry room": "tidak",
-            "Restaurant": "tidak",
-            "Coffee Shop": "tidak",
-            "Convenience store": "tidak",
-            "Bar": "tidak",
-            "Lounge": "tidak",
-            "Business center": "tidak",
-            "Conference room": "tidak",
-            "Non-smoking rooms": "ya",
-            "Ice-making machine": "tidak",
-            "Morning Call": "ya",
-            "Layanan Kamar": "tidak",
-            "Cleaning service": "ya",
-            "Massage": "tidak",
-            "Rental cycle": "tidak",
-            "Voltage Converter": "tidak",
-            "Parking Area": "tidak"
-        },
-        "Aktivitas Olah Raga": {
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Golf": "tidak",
-            "Putting golf": "tidak",
-            "Fishing": "tidak",
-            "Paraglider": "tidak",
-            "Horse riding": "tidak",
-            "Diving": "tidak",
-            "Rafting": "tidak",
-            "Canoe": "tidak"
-        },
-        "Internet & Wifi": null,
-        "Fasilitas Kamar": {
-            "Bath and Toilet: All rooms": "ya",
-            "Shower: All rooms": "ya",
-            "Bathtub: All rooms": "tidak",
-            "Air conditioner: All rooms": "ya",
-            "TV": "ya",
-            "VCR atau DVD": "tidak",
-            "BS broadcast": "tidak",
-            "Refrigerator": "tidak",
-            "Mini Bar": "tidak",
-            "Kitchen: All rooms": "tidak",
-            "Trouser press (*including rental)": "tidak",
-            "Safety box": "tidak",
-            "Face towel, Hand towel": "ya",
-            "Toothbrush and/or Toothpaste": "ya",
-            "Bath towel": "ya",
-            "Shampoo": "ya",
-            "Hair Conditioner": "tidak",
-            "Body soap": "ya",
-            "Soap": "ya",
-            "Pajamas": "tidak",
-            "Bathrobe": "tidak",
-            "Sandal": "tidak",
-            "Hair Dryer": "tidak",
-            "Razor and/or Shaver": "tidak",
-            "Shower cap": "ya",
-            "Cottonbud": "tidak",
-            "Shower Toilet": "ya",
-            "Comb": "tidak"
-        },
-        "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Superior Room Breakfast",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "309917"
-            },
-            {
-                "Nama Kamar": "Deluxe Twin Room",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "330579"
-            },
-            {
-                "Nama Kamar": "Deluxe Double Room",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "351240"
-            }
-        ]
-    },
-    {
         "Nama Hotel": "OYO 421 Alianda Guest House Syariah",
         "Bintang": 2,
         "Alamat Hotel": "Jl. Ir. Soekarno No.32, Beji, Junrejo, Kota Batu, Jawa Timur 65315, Indonesia, Malang",
@@ -2571,6 +2057,17 @@
             "Comb": "tidak"
         },
         "Pilihan Kamar": [
+            {
+                "Nama Kamar": "Standard Twin Room",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "157852"
+            },
             {
                 "Nama Kamar": "Suite Family Room",
                 "Info Kamar": {
@@ -2903,103 +2400,6 @@
         ]
     },
     {
-        "Nama Hotel": "Azcarya Villa",
-        "Bintang": 3,
-        "Alamat Hotel": "Perumahan Panderman Hill, Jalan Semangka Blok EE No. 637, Batu, Malang, Indonesia",
-        "Fasilitas & Layanan Hotel": {
-            "Spa": "tidak",
-            "Sauna": "tidak",
-            "Jacuzzi": "tidak",
-            "Fitness": "tidak",
-            "Gymnasium": "tidak",
-            "Field": "ya",
-            "Tennis": "tidak",
-            "Indoor pool": "tidak",
-            "Outdoor pool": "ya",
-            "Table tennis": "tidak",
-            "Kids club": "tidak",
-            "Billiard": "tidak",
-            "Game corner": "tidak",
-            "Karaoke": "tidak",
-            "Banquet hall": "tidak",
-            "BBQ": "tidak",
-            "Dry room": "tidak",
-            "Restaurant": "tidak",
-            "Coffee Shop": "tidak",
-            "Convenience store": "tidak",
-            "Bar": "tidak",
-            "Lounge": "tidak",
-            "Business center": "ya",
-            "Conference room": "ya",
-            "Non-smoking rooms": "ya",
-            "Ice-making machine": "tidak",
-            "Morning Call": "tidak",
-            "Layanan Kamar": "tidak",
-            "Cleaning service": "ya",
-            "Massage": "tidak",
-            "Rental cycle": "tidak",
-            "Voltage Converter": "tidak",
-            "Parking Area": "ya"
-        },
-        "Aktivitas Olah Raga": {
-            "Gymnasium": "tidak",
-            "Field": "tidak",
-            "Tennis": "tidak",
-            "Golf": "tidak",
-            "Putting golf": "tidak",
-            "Fishing": "tidak",
-            "Paraglider": "tidak",
-            "Horse riding": "tidak",
-            "Diving": "tidak",
-            "Rafting": "tidak",
-            "Canoe": "tidak"
-        },
-        "Internet & Wifi": null,
-        "Fasilitas Kamar": {
-            "Bath and Toilet: All rooms": "tidak",
-            "Shower: All rooms": "tidak",
-            "Bathtub: All rooms": "tidak",
-            "Air conditioner: All rooms": "tidak",
-            "TV": "ya",
-            "VCR atau DVD": "ya",
-            "BS broadcast": "tidak",
-            "Refrigerator": "ya",
-            "Mini Bar": "tidak",
-            "Kitchen: All rooms": "tidak",
-            "Trouser press (*including rental)": "tidak",
-            "Safety box": "tidak",
-            "Face towel, Hand towel": "tidak",
-            "Toothbrush and/or Toothpaste": "tidak",
-            "Bath towel": "ya",
-            "Shampoo": "ya",
-            "Hair Conditioner": "tidak",
-            "Body soap": "ya",
-            "Soap": "tidak",
-            "Pajamas": "tidak",
-            "Bathrobe": "tidak",
-            "Sandal": "tidak",
-            "Hair Dryer": "tidak",
-            "Razor and/or Shaver": "tidak",
-            "Shower cap": "tidak",
-            "Cottonbud": "tidak",
-            "Shower Toilet": "tidak",
-            "Comb": "tidak"
-        },
-        "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Mala Villa",
-                "Info Kamar": {
-                    "Maksimal Orang": "8",
-                    "Sarapan": "tidak",
-                    "Wifi Gratis": "tidak",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "2892562"
-            }
-        ]
-    },
-    {
         "Nama Hotel": "Ubud Hotel & Cottages Malang",
         "Bintang": 3,
         "Alamat Hotel": "Jl. Bendungan Sigura-gura Barat No. 6, Malang, Jawa TImur, Indonesia",
@@ -3091,28 +2491,6 @@
             "Comb": "tidak"
         },
         "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Deluxe Room",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "25",
-                    "Refundable": "tidak"
-                },
-                "Harga": "595041"
-            },
-            {
-                "Nama Kamar": "Suite Room Hotel",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": "45",
-                    "Refundable": "tidak"
-                },
-                "Harga": "909090"
-            },
             {
                 "Nama Kamar": "Suite Cottage",
                 "Info Kamar": {
@@ -3229,17 +2607,6 @@
             "Comb": "tidak"
         },
         "Pilihan Kamar": [
-            {
-                "Nama Kamar": "Superior Room",
-                "Info Kamar": {
-                    "Maksimal Orang": "2",
-                    "Sarapan": "ya",
-                    "Wifi Gratis": "ya",
-                    "Ukuran": null,
-                    "Refundable": "tidak"
-                },
-                "Harga": "355372"
-            },
             {
                 "Nama Kamar": "Deluxe Room",
                 "Info Kamar": {
@@ -3669,7 +3036,681 @@
                     "Ukuran": "10",
                     "Refundable": "tidak"
                 },
-                "Harga": "264234"
+                "Harga": "258007"
+            }
+        ]
+    },
+    {
+        "Nama Hotel": "The Grand Kost",
+        "Bintang": 1,
+        "Alamat Hotel": "Jl. Simpang Borobudur Utara IV No. 50, Malang, Indonesia",
+        "Fasilitas & Layanan Hotel": {
+            "Spa": "tidak",
+            "Sauna": "tidak",
+            "Jacuzzi": "tidak",
+            "Fitness": "tidak",
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Indoor pool": "tidak",
+            "Outdoor pool": "tidak",
+            "Table tennis": "tidak",
+            "Kids club": "tidak",
+            "Billiard": "tidak",
+            "Game corner": "tidak",
+            "Karaoke": "tidak",
+            "Banquet hall": "tidak",
+            "BBQ": "tidak",
+            "Dry room": "tidak",
+            "Restaurant": "tidak",
+            "Coffee Shop": "tidak",
+            "Convenience store": "tidak",
+            "Bar": "tidak",
+            "Lounge": "tidak",
+            "Business center": "tidak",
+            "Conference room": "tidak",
+            "Non-smoking rooms": "tidak",
+            "Ice-making machine": "tidak",
+            "Morning Call": "tidak",
+            "Layanan Kamar": "tidak",
+            "Cleaning service": "ya",
+            "Massage": "tidak",
+            "Rental cycle": "tidak",
+            "Voltage Converter": "tidak",
+            "Parking Area": "tidak"
+        },
+        "Aktivitas Olah Raga": {
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Golf": "tidak",
+            "Putting golf": "tidak",
+            "Fishing": "tidak",
+            "Paraglider": "tidak",
+            "Horse riding": "tidak",
+            "Diving": "tidak",
+            "Rafting": "tidak",
+            "Canoe": "tidak"
+        },
+        "Internet & Wifi": {
+            "Koneksi LAN (semua kamar)": "ya",
+            "Bebas akses Wi-Fi di lobby": "ya",
+            "Koneksi dial-up": "tidak",
+            "Kabel LAN": "tidak",
+            "Wireless LAN": "ya",
+            "Tersedia rental PC": "tidak",
+            "Koneksi internet gratis": "ya"
+        },
+        "Fasilitas Kamar": {
+            "Bath and Toilet: All rooms": "ya",
+            "Shower: All rooms": "ya",
+            "Bathtub: All rooms": "tidak",
+            "Air conditioner: All rooms": "tidak",
+            "TV": "tidak",
+            "VCR atau DVD": "tidak",
+            "BS broadcast": "tidak",
+            "Refrigerator": "tidak",
+            "Mini Bar": "tidak",
+            "Kitchen: All rooms": "tidak",
+            "Trouser press (*including rental)": "tidak",
+            "Safety box": "tidak",
+            "Face towel, Hand towel": "ya",
+            "Toothbrush and/or Toothpaste": "ya",
+            "Bath towel": "ya",
+            "Shampoo": "ya",
+            "Hair Conditioner": "tidak",
+            "Body soap": "ya",
+            "Soap": "tidak",
+            "Pajamas": "tidak",
+            "Bathrobe": "tidak",
+            "Sandal": "tidak",
+            "Hair Dryer": "tidak",
+            "Razor and/or Shaver": "tidak",
+            "Shower cap": "tidak",
+            "Cottonbud": "tidak",
+            "Shower Toilet": "tidak",
+            "Comb": "tidak"
+        },
+        "Pilihan Kamar": [
+            {
+                "Nama Kamar": "double grand promo apps",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "106519"
+            }
+        ]
+    },
+    {
+        "Nama Hotel": "Hotel Santosa Malang",
+        "Bintang": 0,
+        "Alamat Hotel": "Jl. KH Agus Salim No.24, Malang",
+        "Fasilitas & Layanan Hotel": {
+            "Spa": "tidak",
+            "Sauna": "tidak",
+            "Jacuzzi": "tidak",
+            "Fitness": "tidak",
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Indoor pool": "tidak",
+            "Outdoor pool": "tidak",
+            "Table tennis": "tidak",
+            "Kids club": "tidak",
+            "Billiard": "tidak",
+            "Game corner": "tidak",
+            "Karaoke": "tidak",
+            "Banquet hall": "tidak",
+            "BBQ": "tidak",
+            "Dry room": "tidak",
+            "Restaurant": "tidak",
+            "Coffee Shop": "tidak",
+            "Convenience store": "tidak",
+            "Bar": "tidak",
+            "Lounge": "tidak",
+            "Business center": "tidak",
+            "Conference room": "tidak",
+            "Non-smoking rooms": "tidak",
+            "Ice-making machine": "tidak",
+            "Morning Call": "ya",
+            "Layanan Kamar": "ya",
+            "Cleaning service": "ya",
+            "Massage": "tidak",
+            "Rental cycle": "tidak",
+            "Voltage Converter": "tidak",
+            "Parking Area": "ya"
+        },
+        "Aktivitas Olah Raga": {
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Golf": "tidak",
+            "Putting golf": "tidak",
+            "Fishing": "tidak",
+            "Paraglider": "tidak",
+            "Horse riding": "tidak",
+            "Diving": "tidak",
+            "Rafting": "tidak",
+            "Canoe": "tidak"
+        },
+        "Internet & Wifi": null,
+        "Fasilitas Kamar": {
+            "Bath and Toilet: All rooms": "ya",
+            "Shower: All rooms": "tidak",
+            "Bathtub: All rooms": "tidak",
+            "Air conditioner: All rooms": "tidak",
+            "TV": "tidak",
+            "VCR atau DVD": "tidak",
+            "BS broadcast": "tidak",
+            "Refrigerator": "tidak",
+            "Mini Bar": "tidak",
+            "Kitchen: All rooms": "tidak",
+            "Trouser press (*including rental)": "tidak",
+            "Safety box": "tidak",
+            "Face towel, Hand towel": "tidak",
+            "Toothbrush and/or Toothpaste": "tidak",
+            "Bath towel": "tidak",
+            "Shampoo": "tidak",
+            "Hair Conditioner": "tidak",
+            "Body soap": "tidak",
+            "Soap": "tidak",
+            "Pajamas": "tidak",
+            "Bathrobe": "tidak",
+            "Sandal": "tidak",
+            "Hair Dryer": "tidak",
+            "Razor and/or Shaver": "tidak",
+            "Shower cap": "tidak",
+            "Cottonbud": "tidak",
+            "Shower Toilet": "tidak",
+            "Comb": "tidak"
+        },
+        "Pilihan Kamar": [
+            {
+                "Nama Kamar": "Standard 2 Bed Room Only / No Refund",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "163636"
+            },
+            {
+                "Nama Kamar": "Standard 3 Bed Room Only / No Refund",
+                "Info Kamar": {
+                    "Maksimal Orang": "3",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "240909"
+            },
+            {
+                "Nama Kamar": "Moderate 2 Bed Room Only / No Refund",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "272727"
+            },
+            {
+                "Nama Kamar": "Moderate 3 Bed Room Only / No Refund",
+                "Info Kamar": {
+                    "Maksimal Orang": "3",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "409091"
+            },
+            {
+                "Nama Kamar": "Moderate 4 Bed Room Only / No Refund",
+                "Info Kamar": {
+                    "Maksimal Orang": "4",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "545455"
+            },
+            {
+                "Nama Kamar": "Superior Room Only / No Refund",
+                "Info Kamar": {
+                    "Maksimal Orang": "4",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "tidak",
+                    "Ukuran": null,
+                    "Refundable": "tidak"
+                },
+                "Harga": "681818"
+            }
+        ]
+    },
+    {
+        "Nama Hotel": "OYO 888 Grand Ijen Guest House",
+        "Bintang": 2,
+        "Alamat Hotel": "Jl. Panglima Sudirman No. 4, Ngaglik, Batu, Malang, Jawa Timur, Indonesia",
+        "Fasilitas & Layanan Hotel": {
+            "Spa": "tidak",
+            "Sauna": "tidak",
+            "Jacuzzi": "tidak",
+            "Fitness": "tidak",
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Indoor pool": "tidak",
+            "Outdoor pool": "tidak",
+            "Table tennis": "tidak",
+            "Kids club": "tidak",
+            "Billiard": "tidak",
+            "Game corner": "tidak",
+            "Karaoke": "tidak",
+            "Banquet hall": "tidak",
+            "BBQ": "tidak",
+            "Dry room": "tidak",
+            "Restaurant": "tidak",
+            "Coffee Shop": "tidak",
+            "Convenience store": "tidak",
+            "Bar": "tidak",
+            "Lounge": "tidak",
+            "Business center": "tidak",
+            "Conference room": "tidak",
+            "Non-smoking rooms": "ya",
+            "Ice-making machine": "tidak",
+            "Morning Call": "tidak",
+            "Layanan Kamar": "tidak",
+            "Cleaning service": "ya",
+            "Massage": "tidak",
+            "Rental cycle": "tidak",
+            "Voltage Converter": "tidak",
+            "Parking Area": "ya"
+        },
+        "Aktivitas Olah Raga": {
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Golf": "tidak",
+            "Putting golf": "tidak",
+            "Fishing": "tidak",
+            "Paraglider": "tidak",
+            "Horse riding": "tidak",
+            "Diving": "tidak",
+            "Rafting": "tidak",
+            "Canoe": "tidak"
+        },
+        "Internet & Wifi": null,
+        "Fasilitas Kamar": {
+            "Bath and Toilet: All rooms": "ya",
+            "Shower: All rooms": "ya",
+            "Bathtub: All rooms": "tidak",
+            "Air conditioner: All rooms": "tidak",
+            "TV": "ya",
+            "VCR atau DVD": "tidak",
+            "BS broadcast": "tidak",
+            "Refrigerator": "tidak",
+            "Mini Bar": "tidak",
+            "Kitchen: All rooms": "tidak",
+            "Trouser press (*including rental)": "tidak",
+            "Safety box": "tidak",
+            "Face towel, Hand towel": "ya",
+            "Toothbrush and/or Toothpaste": "ya",
+            "Bath towel": "ya",
+            "Shampoo": "ya",
+            "Hair Conditioner": "tidak",
+            "Body soap": "ya",
+            "Soap": "ya",
+            "Pajamas": "tidak",
+            "Bathrobe": "tidak",
+            "Sandal": "tidak",
+            "Hair Dryer": "tidak",
+            "Razor and/or Shaver": "tidak",
+            "Shower cap": "tidak",
+            "Cottonbud": "tidak",
+            "Shower Toilet": "tidak",
+            "Comb": "tidak"
+        },
+        "Pilihan Kamar": [
+            {
+                "Nama Kamar": "Suite Double",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "20",
+                    "Refundable": "tidak"
+                },
+                "Harga": "280621"
+            },
+            {
+                "Nama Kamar": "Suite Family",
+                "Info Kamar": {
+                    "Maksimal Orang": "3",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "27",
+                    "Refundable": "tidak"
+                },
+                "Harga": "438470"
+            }
+        ]
+    },
+    {
+        "Nama Hotel": "The Shalimar Boutique Hotel",
+        "Bintang": 5,
+        "Alamat Hotel": "Jl Cerme 16 Malang, Jawa Timur, Indonesia",
+        "Fasilitas & Layanan Hotel": {
+            "Spa": "ya",
+            "Sauna": "tidak",
+            "Jacuzzi": "tidak",
+            "Fitness": "ya",
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Indoor pool": "tidak",
+            "Outdoor pool": "ya",
+            "Table tennis": "tidak",
+            "Kids club": "tidak",
+            "Billiard": "tidak",
+            "Game corner": "tidak",
+            "Karaoke": "tidak",
+            "Banquet hall": "ya",
+            "BBQ": "tidak",
+            "Dry room": "tidak",
+            "Restaurant": "ya",
+            "Coffee Shop": "ya",
+            "Convenience store": "tidak",
+            "Bar": "tidak",
+            "Lounge": "ya",
+            "Business center": "ya",
+            "Conference room": "ya",
+            "Non-smoking rooms": "ya",
+            "Ice-making machine": "tidak",
+            "Morning Call": "ya",
+            "Layanan Kamar": "ya",
+            "Cleaning service": "ya",
+            "Massage": "ya",
+            "Rental cycle": "tidak",
+            "Voltage Converter": "tidak",
+            "Parking Area": "ya"
+        },
+        "Aktivitas Olah Raga": {
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Golf": "tidak",
+            "Putting golf": "tidak",
+            "Fishing": "tidak",
+            "Paraglider": "tidak",
+            "Horse riding": "tidak",
+            "Diving": "tidak",
+            "Rafting": "tidak",
+            "Canoe": "tidak"
+        },
+        "Internet & Wifi": {
+            "Koneksi LAN (semua kamar)": "ya",
+            "Bebas akses Wi-Fi di lobby": "ya",
+            "Koneksi dial-up": "tidak",
+            "Kabel LAN": "tidak",
+            "Wireless LAN": "tidak",
+            "Tersedia rental PC": "tidak",
+            "Koneksi internet gratis": "ya"
+        },
+        "Fasilitas Kamar": {
+            "Bath and Toilet: All rooms": "ya",
+            "Shower: All rooms": "ya",
+            "Bathtub: All rooms": "tidak",
+            "Air conditioner: All rooms": "ya",
+            "TV": "ya",
+            "VCR atau DVD": "tidak",
+            "BS broadcast": "tidak",
+            "Refrigerator": "ya",
+            "Mini Bar": "ya",
+            "Kitchen: All rooms": "tidak",
+            "Trouser press (*including rental)": "tidak",
+            "Safety box": "ya",
+            "Face towel, Hand towel": "tidak",
+            "Toothbrush and/or Toothpaste": "ya",
+            "Bath towel": "ya",
+            "Shampoo": "ya",
+            "Hair Conditioner": "ya",
+            "Body soap": "ya",
+            "Soap": "tidak",
+            "Pajamas": "tidak",
+            "Bathrobe": "ya",
+            "Sandal": "ya",
+            "Hair Dryer": "ya",
+            "Razor and/or Shaver": "ya",
+            "Shower cap": "ya",
+            "Cottonbud": "ya",
+            "Shower Toilet": "ya",
+            "Comb": "ya"
+        },
+        "Pilihan Kamar": [
+            {
+                "Nama Kamar": "Superior Deluxe Room\n \n - Special Deal",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "36",
+                    "Refundable": "tidak"
+                },
+                "Harga": "1615702"
+            },
+            {
+                "Nama Kamar": "Executive Room\n \n - Best Deal",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "36",
+                    "Refundable": "tidak"
+                },
+                "Harga": "1931818"
+            },
+            {
+                "Nama Kamar": "Presidential Suite",
+                "Info Kamar": {
+                    "Maksimal Orang": "4",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "92",
+                    "Refundable": "tidak"
+                },
+                "Harga": "7438016"
+            }
+        ]
+    },
+    {
+        "Nama Hotel": "The Grand Palace Hotel Malang",
+        "Bintang": 3,
+        "Alamat Hotel": "Jl.Ade Irma Suryani No.23,Malang",
+        "Fasilitas & Layanan Hotel": {
+            "Spa": "tidak",
+            "Sauna": "tidak",
+            "Jacuzzi": "tidak",
+            "Fitness": "tidak",
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Indoor pool": "tidak",
+            "Outdoor pool": "tidak",
+            "Table tennis": "tidak",
+            "Kids club": "tidak",
+            "Billiard": "tidak",
+            "Game corner": "tidak",
+            "Karaoke": "tidak",
+            "Banquet hall": "ya",
+            "BBQ": "tidak",
+            "Dry room": "tidak",
+            "Restaurant": "ya",
+            "Coffee Shop": "ya",
+            "Convenience store": "tidak",
+            "Bar": "ya",
+            "Lounge": "tidak",
+            "Business center": "ya",
+            "Conference room": "tidak",
+            "Non-smoking rooms": "ya",
+            "Ice-making machine": "tidak",
+            "Morning Call": "ya",
+            "Layanan Kamar": "ya",
+            "Cleaning service": "ya",
+            "Massage": "tidak",
+            "Rental cycle": "tidak",
+            "Voltage Converter": "tidak",
+            "Parking Area": "ya"
+        },
+        "Aktivitas Olah Raga": {
+            "Gymnasium": "tidak",
+            "Field": "tidak",
+            "Tennis": "tidak",
+            "Golf": "tidak",
+            "Putting golf": "tidak",
+            "Fishing": "tidak",
+            "Paraglider": "tidak",
+            "Horse riding": "tidak",
+            "Diving": "tidak",
+            "Rafting": "tidak",
+            "Canoe": "tidak"
+        },
+        "Internet & Wifi": {
+            "Koneksi LAN (semua kamar)": "ya",
+            "Bebas akses Wi-Fi di lobby": "ya",
+            "Koneksi dial-up": "tidak",
+            "Kabel LAN": "tidak",
+            "Wireless LAN": "tidak",
+            "Tersedia rental PC": "tidak",
+            "Koneksi internet gratis": "ya"
+        },
+        "Fasilitas Kamar": {
+            "Bath and Toilet: All rooms": "ya",
+            "Shower: All rooms": "ya",
+            "Bathtub: All rooms": "tidak",
+            "Air conditioner: All rooms": "ya",
+            "TV": "ya",
+            "VCR atau DVD": "tidak",
+            "BS broadcast": "tidak",
+            "Refrigerator": "tidak",
+            "Mini Bar": "tidak",
+            "Kitchen: All rooms": "tidak",
+            "Trouser press (*including rental)": "tidak",
+            "Safety box": "ya",
+            "Face towel, Hand towel": "tidak",
+            "Toothbrush and/or Toothpaste": "ya",
+            "Bath towel": "ya",
+            "Shampoo": "ya",
+            "Hair Conditioner": "ya",
+            "Body soap": "ya",
+            "Soap": "tidak",
+            "Pajamas": "tidak",
+            "Bathrobe": "tidak",
+            "Sandal": "ya",
+            "Hair Dryer": "ya",
+            "Razor and/or Shaver": "tidak",
+            "Shower cap": "ya",
+            "Cottonbud": "tidak",
+            "Shower Toilet": "ya",
+            "Comb": "ya"
+        },
+        "Pilihan Kamar": [
+            {
+                "Nama Kamar": "Superior Double or TwinRoom Only\n \n - HAPPY DEAL",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "17.5",
+                    "Refundable": "tidak"
+                },
+                "Harga": "322314"
+            },
+            {
+                "Nama Kamar": "Superior Double or TwinRoom Only",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "17.5",
+                    "Refundable": "tidak"
+                },
+                "Harga": "537190"
+            },
+            {
+                "Nama Kamar": "Deluxe Double or Twin Room Only\n \n - HAPPY DEAL",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "23",
+                    "Refundable": "tidak"
+                },
+                "Harga": "352066"
+            },
+            {
+                "Nama Kamar": "Deluxe Double or Twin Room Only",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "tidak",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "23",
+                    "Refundable": "tidak"
+                },
+                "Harga": "586777"
+            },
+            {
+                "Nama Kamar": "Superior Double or Twin Room Breakfast\n \n - HAPPY DEAL",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "17.5",
+                    "Refundable": "tidak"
+                },
+                "Harga": "352066"
+            },
+            {
+                "Nama Kamar": "Superior Double or Twin Room Breakfast",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "17.5",
+                    "Refundable": "tidak"
+                },
+                "Harga": "586777"
+            },
+            {
+                "Nama Kamar": "Deluxe Double or Twin Room Breakfast\n \n - HAPPY DEAL",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "23",
+                    "Refundable": "tidak"
+                },
+                "Harga": "391736"
+            },
+            {
+                "Nama Kamar": "Deluxe Double or Twin Room Breakfast",
+                "Info Kamar": {
+                    "Maksimal Orang": "2",
+                    "Sarapan": "ya",
+                    "Wifi Gratis": "ya",
+                    "Ukuran": "23",
+                    "Refundable": "tidak"
+                },
+                "Harga": "652893"
             }
         ]
     }
