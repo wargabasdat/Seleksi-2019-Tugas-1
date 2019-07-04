@@ -22,43 +22,111 @@ Data yang diperoleh dari PegiPegi.com ini dapat digunakan untuk membandingkan ha
 
 ## JSON Structure
 ```Json
-1. Nama Hotel
-2. Bintang
-3. Alamat Hotel
-4. Fasilitas & Layanan Hotel
-  * Spa
-  * Sauna
-  * Jacuzzi
-  * Fitness
-  * Gymnasium
-  * Field
-  * Tennis
-  * Indoor pool
-  * Outdoor pool
-  * Table tennis
-  * Kids club
-  * Billiard
-  * Game corner
-  * Karaoke
-  * Banquet hall
-  * BBQ
-  * Dry room
-  * Restaurant
-  * Coffee Shop
-  * Convenience store
-  * Bar
-  * Lounge
-  * Business center
-  * Conference room
-  * Non-smoking rooms
-  * Ice-making machine
-  * Morning Call
-  * Layanan Kamar
-  * Cleaning service
-  * Massage
-  * Rental cycle
-  * Voltage Converter
-  * Parking Area
+{
+        "Nama Hotel": ,
+        "Bintang": ,
+        "Alamat Hotel": ,
+        "Fasilitas & Layanan Hotel": {
+            "Spa": ,
+            "Sauna": ,
+            "Jacuzzi": ,
+            "Fitness": ,
+            "Gymnasium": ,
+            "Field": ,
+            "Tennis": ,
+            "Indoor pool": ,
+            "Outdoor pool": ,
+            "Table tennis": ,
+            "Kids club": ,
+            "Billiard": ,
+            "Game corner": ,
+            "Karaoke": ,
+            "Banquet hall": ,
+            "BBQ": ,
+            "Dry room": ,
+            "Restaurant": ,
+            "Coffee Shop": ,
+            "Convenience store": ,
+            "Bar": ,
+            "Lounge": ,
+            "Business center": ,
+            "Conference room": ,
+            "Non-smoking rooms": ,
+            "Ice-making machine": ,
+            "Morning Call": ,
+            "Layanan Kamar": ,
+            "Cleaning service": ,
+            "Massage": ,
+            "Rental cycle": ,
+            "Voltage Converter": ,
+            "Parking Area": 
+        },
+        "Aktivitas Olah Raga": {
+            "Gymnasium": ,
+            "Field": ,
+            "Tennis": ,
+            "Golf": ,
+            "Putting golf": ,
+            "Fishing": ,
+            "Paraglider": ,
+            "Horse riding": ,
+            "Diving": ,
+            "Rafting": ,
+            "Canoe": 
+        },
+        "Internet & Wifi": {
+            "Koneksi LAN (semua kamar)": ,
+            "Bebas akses Wi-Fi di lobby": ,
+            "Koneksi dial-up": ,
+            "Kabel LAN": ,
+            "Wireless LAN": ,
+            "Tersedia rental PC": ,
+            "Koneksi internet gratis": 
+        },
+        "Fasilitas Kamar": {
+            "Bath and Toilet: All rooms": ,
+            "Shower: All rooms": ,
+            "Bathtub: All rooms": ,
+            "Air conditioner: All rooms": ,
+            "TV": ,
+            "VCR atau DVD": ,
+            "BS broadcast": ,
+            "Refrigerator": ,
+            "Mini Bar": ,
+            "Kitchen: All rooms": ,
+            "Trouser press (*including rental)": ,
+            "Safety box": ,
+            "Face towel, Hand towel": ,
+            "Toothbrush and/or Toothpaste": ,
+            "Bath towel": ,
+            "Shampoo": ,
+            "Hair Conditioner": ,
+            "Body soap": ,
+            "Soap": ,
+            "Pajamas": ,
+            "Bathrobe": ,
+            "Sandal": ,
+            "Hair Dryer": ,
+            "Razor and/or Shaver": ,
+            "Shower cap": ,
+            "Cottonbud": ,
+            "Shower Toilet": ,
+            "Comb": 
+        },
+        "Pilihan Kamar": [
+            {
+                "Nama Kamar": ,
+                "Info Kamar": {
+                    "Maksimal Orang": ,
+                    "Sarapan": ,
+                    "Wifi Gratis": ,
+                    "Ukuran": null,
+                    "Refundable": 
+                },
+                "Harga": 
+            }
+        ]
+    }
 ```
 > Template `npm scripts`
 
