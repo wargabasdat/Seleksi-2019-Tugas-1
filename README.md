@@ -137,11 +137,11 @@ Data yang diperoleh dari PegiPegi.com ini dapat digunakan untuk membandingkan ha
 
 ## Reference
 Library yang digunakan antara lain.
-    * requests
-    * bs4
-    * lxml
-    * time
-    * json
-    * re
+* requests
+* bs4
+* lxml
+* time
+* json
+* re
 
 ### Gama Pradipta Wirawan / 13517049
