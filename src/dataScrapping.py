@@ -1,12 +1,11 @@
 #Name : Gama Pradipta Wirawan
 #Email : gamapradipta88@gmail.com
-#Data Source : PegiPegi.com
+#Data Source : PegiPegi
 
 #import libraries
 import requests
 from bs4 import BeautifulSoup
 from lxml import html
-from sys import argv
 import time
 import json
 import re

@@ -120,7 +120,7 @@ Data yang diperoleh dari PegiPegi.com ini dapat digunakan untuk membandingkan ha
                     "Maksimal Orang": ,
                     "Sarapan": ,
                     "Wifi Gratis": ,
-                    "Ukuran": null,
+                    "Ukuran": ,
                     "Refundable": 
                 },
                 "Harga": 
@@ -128,71 +128,19 @@ Data yang diperoleh dari PegiPegi.com ini dapat digunakan untuk membandingkan ha
         ]
     }
 ```
-> Template `npm scripts`
+## Screenshots
+> Source Code
+![Source Code](/screenshots/dataScrapping.png)
+> Json
+![Json](/screenshots/data.png)
 
-```javascript
-"scripts": {
-  "build": // if any (optional)
-  "clean": // delete node_modules
-}
-```
+## Reference
+Library yang digunakan antara lain.
+    * requests
+    * bs4
+    * lxml
+    * time
+    * json
+    * re
 
-> Template `runjs`
-```javascript
-import { run } from 'runjs'
-
-export function clean () {
-}
-
-export function start () {
-}
-
-export function build () {
-  // if any (optional)
-}
-```
-
-6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
-
-7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
-
-9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
-
-10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
-
-11. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-12. <span style="color:blue">Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :</span>
-```
-- Description
-- Specification (optional)
-- How to use
-- Ideas and innovations in utilizing the data
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-<h1 align="center">
-  <br>
-  Selamat Ber-Eksplorasi!
-  <br>
-  <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+### Gama Pradipta Wirawan / 13517049
