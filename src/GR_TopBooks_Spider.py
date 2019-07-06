@@ -9,11 +9,20 @@
 4. Scraped data from GR website is going to be stored in .json file as requested by the assignment. However, it also makes a .csv file for easier view, and in case it is needed...
 
 5. Scrapy's spider runs asynchronously, id given to each entry does not reflect the real order of the data as shown in the webpage. 
+
+6. On windows environment, Scrapy does not support python3!!!
+
+7. Inputting path to terminal with whitespaces in it will cause problems. Surround that path with double quotes instead!
+
+8. Install specific package with pip: use ==x.y.z (version number). To get information about current version, do: pip show <package_name>
+
+9. Avoid having both python 2.7 n 3.7 at once? Causes scrapy to always pick 2.7 no matter what I am running out of my patience...
 '''
 #-------------------------------------------------------------------------------------------------------------------
 #Dependencies-------------------------------------------------------------------------------------------------------
 import csv, json #for writing csvs and jsons:
-import scrapy #framework for asynchronous html data extractor and parser
+import scrapy #framework for asynchronous html data extractor and parser (VERSION: >=1.6 )
+#Twisted : version >= 1.89.0
 from scrapy.http import Request #send http requests with scrapy framework. it is not included with default import!!!
 from bs4 import BeautifulSoup as bs #beautiful soup to parse html data received
 import io #to write to file, especially with utf-8 encoding
@@ -37,7 +46,7 @@ import re #complex string splitting
 #Static Variables:---------------------------------------------------------------------------------------------------
 base_url = "https://www.goodreads.com/shelf/show/"
 # Input from bash: self.username, self.password, self.genre, self.init_page_num, self.last_page_num
-fieldnames = ['id','title', 'author', 'ISBN', 'series', 'avg_rating', 'pages', 'rating_count', 'review_count', 'book_format','published_date', 'publisher'] #headers for .csv
+fieldnames = ['id','title', 'author', 'ISBN', 'series', 'avg_rating', 'pages', 'rating_count', 'review_count', 'book_format','published_year', 'publisher'] #headers for .csv
 #-------------------------------------------------------------------------------------------------------------------
 
 #Goodreads TopBooks Spider Class------------------------------------------------------------------------------------
@@ -55,7 +64,7 @@ class GoodreadsSpider(scrapy.Spider):
     def parse(self, response):
         with io.open('data/top_books_' + self.genre +'.csv', 'w', encoding = "utf-8") as f:
             writer = csv.DictWriter(f, fieldnames = fieldnames)
-            writer.writerow({'id':'id','title':'title', 'author':'author', 'ISBN':'ISBN', 'series':'series', 'avg_rating':'avg_rating', 'pages':'pages', 'rating_count':'rating_count', 'review_count':'review_count', 'book_format':'book_format',  'published_date' : 'published_date', 'publisher':'publisher'}) #write header to csv
+            writer.writerow({'id':'id','title':'title', 'author':'author', 'ISBN':'ISBN', 'series':'series', 'avg_rating':'avg_rating', 'pages':'pages', 'rating_count':'rating_count', 'review_count':'review_count', 'book_format':'book_format',  'published_year' : 'published_year', 'publisher':'publisher'}) #write header to csv
         #test if input parameters is given or not. If not given, set to default value. AL
         #username
         try:
@@ -123,7 +132,7 @@ class GoodreadsSpider(scrapy.Spider):
         book_author = bsoup.find('a', class_='authorName').findChild('span', itemprop ='name').get_text().rstrip().lstrip()
         #fill Book ISBN: Special Touch is needed. Not all books has ISBN, like books from hundred of years ago. Books without ISBN will be filled with 'NULL' value
         listtemp = bsoup.find('div', id='bookDataBox', class_='uitext').findChildren('div', class_='clearFloats') #get all contents from the small data box on website
-        book_ISBN = 'NULL'
+        book_ISBN = None
         for x in listtemp:
             temp = x.findChild('div', class_='infoBoxRowTitle', text='ISBN')
             if  temp != None: #This book has ISBN
@@ -135,12 +144,19 @@ class GoodreadsSpider(scrapy.Spider):
             #not all books are in series (some are standalones). Thus, books without series are assigned 'none' value
             book_series = bsoup.find('h2', id='bookSeries').findChild('a', class_='greyText').get_text().rstrip().lstrip() #find child returns the first child node. Find children returns ResultSet object. Pay attention!
         except:
-            book_series = 'NULL'
+            book_series = None
         #fill book average rating data:
         book_rating = bsoup.find('span', itemprop='ratingValue').get_text().rstrip().lstrip()
         #fill book pages data. Special touch: need to parse string as the data gotten contains 'pages' word too. Also, page data is converted to Int.
-        temp = bsoup.find('span', itemprop='numberOfPages').get_text().rstrip().lstrip()
-        book_pages = int(''.join(filter(str.isdigit, temp))) #get only numeric vals
+        try:
+            temp = bsoup.find('span', itemprop='numberOfPages').get_text().rstrip().lstrip()
+            book_pages = int(''.join(filter(str.isdigit, temp))) #get only numeric vals
+        except: #special case when there's no page number on the book page
+            print("----------------------------------------")
+            print("No page number!!!")
+            print(book_title)
+            book_pages = None
+            print("----------------------------------------")
         #fill book rating count data. Special touch: need to parse string as the data gotten contains 'ratings' word too. Also, rating count data is converted to Int.
         temp = bsoup.find('meta', itemprop='ratingCount').get_text().rstrip().lstrip()
         book_rating_count = int(''.join(filter(str.isdigit, temp))) #get only numeric vals
@@ -148,11 +164,43 @@ class GoodreadsSpider(scrapy.Spider):
         temp = bsoup.find('meta', itemprop='reviewCount').get_text().rstrip().lstrip()
         book_review_count = int(''.join(filter(str.isdigit, temp))) #get only numeric vals
         #fill book format: Paperback/Digital/Kindle Edition/Hardcover/Audiobook/etc.
-        book_format = bsoup.find('span', itemprop='bookFormat').get_text().rstrip().lstrip()
+        try:
+            book_format = bsoup.find('span', itemprop='bookFormat').get_text().rstrip().lstrip()
+        except: #Special case when there is no book format listed on goodreads page
+            print("----------------------------------------")
+            print("No book format!!!")
+            print(book_title)
+            print(book_author)
+            print("----------------------------------------")
+            book_format = None
         #publishing details : published date and book's publisher. need special string parsing cause raw data collected is in jumbled string form.
-        book_publishing_details = re.split(r'\s{2,}', bsoup.find('div', id='details', class_='uitext').findChildren('div', class_='row')[1].find(text=True,recursive=False).rstrip().lstrip().strip('\r\n').replace('\n','')) # [1] : 'published' text, useless. [2]: published date. [3]: publisher data
-        book_published_date = book_publishing_details[1]
-        book_publisher = book_publishing_details[2][3:]
+        try:
+            book_publishing_details = re.split(r'\s{2,}', bsoup.find('div', id='details', class_='uitext').findChildren('div', class_='row')[1].find(text=True,recursive=False).rstrip().lstrip().strip('\r\n').replace('\n','')) # [1] : 'published' text, useless. [2]: published date. [3]: publisher data
+        except:
+            print("----------------------------------------")
+            print("No publishing details at all???")
+            print(book_title)
+            print(book_author)
+            print("----------------------------------------")
+        try:
+            book_published_year = book_publishing_details[1]
+        except: #Special case when there is no published year listed on goodreads page
+            print("----------------------------------------")
+            print("No publishing year!!!")
+            print(book_title)
+            print(book_author)
+            print("----------------------------------------")
+            book_published_year = None
+        try:
+            book_publisher = book_publishing_details[2][3:]
+        except: #Special case when there is no publisher listed on goodreads page
+            print("----------------------------------------")
+            print("No publisher details!!!")
+            print(book_title)
+            print(book_author)
+            print("----------------------------------------")
+            book_publisher = None
+        
         #write to csv:
         with io.open('data/top_books_' + self.genre +'.csv', 'a', encoding = "utf-8") as f: #use utf-8, as there are some fancy characters in book's or author's names.
             writer = csv.DictWriter(f, fieldnames = fieldnames)
@@ -167,7 +215,7 @@ class GoodreadsSpider(scrapy.Spider):
                         'rating_count': book_rating_count,
                         'review_count' : book_review_count,
                         'book_format' : book_format,
-                        'published_date' : book_published_date,
+                        'published_year' : book_published_year,
                         'publisher' : book_publisher})
 
 #-------------------------------------------------------------------------------------------------------------------
