@@ -1,7 +1,7 @@
 all : clean run
 
 clean : 
-	rm data/data.json
+	del data\data.json
 
 run:
 	python src/dataScrapping.py

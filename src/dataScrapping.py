@@ -13,9 +13,9 @@ def getFacility(facSoup):
     facList = {}
     for fac in facSoup.findAll('li'):
         if (fac.get("class")==['noactive']):
-            facList[fac.find('span').text.strip()]='tidak'
+            facList[fac.find('span').text.strip()]=False
         else:
-            facList[fac.find('span').text.strip()]='ya'
+            facList[fac.find('span').text.strip()]=True
     return facList
 
 def getRoomInfo(roomSoup):
@@ -24,27 +24,27 @@ def getRoomInfo(roomSoup):
     data['Nama Kamar'] = contentLeft.find('div',{'class':'title'}).text.strip()
     infoList = {}
     infoList['Maksimal Orang'] = None
-    infoList['Sarapan'] = 'tidak'
-    infoList['Wifi Gratis'] = 'tidak'
+    infoList['Sarapan'] = False
+    infoList['Wifi Gratis'] = False
     infoList['Ukuran'] = None
-    infoList['Refundable'] = 'ya'
+    infoList['Refundable'] = True
     infoContainer = roomSoup.findAll('div',{'class':'info'})
     for info in infoContainer:
         infoText = info.find('span').text.strip()
         if 'orang' in infoText:
-            infoList['Maksimal Orang'] = re.sub("\D","",infoText)
+            infoList['Maksimal Orang'] = int(re.sub("\D","",infoText))
         elif 'sarapan' in infoText and (not('Tidak' in infoText)):
-            infoList['Sarapan'] = 'ya'
+            infoList['Sarapan'] = True
         elif 'koneksi' in infoText and (not('Tidak' in infoText)):
-            infoList['Wifi Gratis'] = 'ya'
+            infoList['Wifi Gratis'] = True
         elif 'm²' in infoText:
-            infoList['Ukuran'] = infoText.strip('m²').strip()
+            infoList['Ukuran'] = int(infoText.strip('m²').strip())
         elif 'Refundable' in infoText and ('Non' in infoText):
-            infoList['Refundable'] = 'tidak'
+            infoList['Refundable'] = False
         else:
             pass
     data['Info Kamar'] = infoList
-    data['Harga'] = re.sub("\D","",roomSoup.find('div',{'class':'normalPrice'}).text)
+    data['Harga'] = int(re.sub("\D","",roomSoup.find('div',{'class':'normalPrice'}).text))
     return data
 
 
