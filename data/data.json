@@ -1,0 +1,56 @@
+[
+    {
+        "Nama Kos": "(AVAILABLE) New Kost TB Simatupang, blkg Gedung Antam",
+        "Harga per Bulan": 2000000,
+        "Lokasi Kos": {
+            "Provinsi": "DKI Jakarta",
+            "Kota": "Kota Jakarta Selatan",
+            "Kecamatan": "Jagakarsa",
+            "Alamat": "TB Simatupang, belakang Gdg. Antam dan Trihamas"
+        },
+        "Tipe Kos": {
+            "Jenis Kos": "Kos Campur",
+            "Umur Bangunan": "0",
+            "Jam Bertamu": "Bebas",
+            "Pelihara Binatang": "Tidak"
+        },
+        "Jumlah Kamar": 12,
+        "Ukuran Kamar": "3.5x4",
+        "Luas Kamar": 14,
+        "Fasilitas Kamar": {
+            "AC": "ya",
+            "Internet/ Wifi": "ya",
+            "TV": "tidak",
+            "Lemari Pakaian": "ya",
+            "Kamar Mandi Dalam": "ya",
+            "Water Heater": "ya",
+            "Kasur": "tidak",
+            "Meja Belajar": "ya",
+            "Kursi Belajar": "ya",
+            "Kulkas": "tidak"
+        },
+        "Fasilitas Bangunan": {
+            "Ruang Tamu": "tidak",
+            "Ruang Makan": "tidak",
+            "Keamanan 24 Jam": "ya",
+            "Parkir Mobil": "ya",
+            "Parkir Motor": "ya",
+            "Dapur": "ya",
+            "Pembantu": "ya",
+            "Mesin Cuci": "ya"
+        },
+        "Fasilitas Sekitar": {
+            "ATM": "ya",
+            "Mini Market": "ya",
+            "Tempat Ibadah": "ya",
+            "Warteg": "ya",
+            "Restoran": "tidak",
+            "Laundry Shop": "ya",
+            "Rumah Sakit": "ya",
+            "GYM": "tidak",
+            "Mall": "tidak"
+        }
+    }
+]
+
+
