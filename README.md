@@ -98,12 +98,13 @@ contoh .json hasil:
     }
 
 # Screenshots:
+Goodreads page:
 ![1](screenshots/GR_topbooks.png)
-
+Scrapy spider successfully crawled the page:
 ![2](screenshots/Success.png)
-
+.csv visualized for easy viewing:
 ![3](screenshots/csv_preview_result.png)
-
+.json file sample format:
 ![3](screenshots/json_Example.png)
 # Reference:
   Python 3.7.
