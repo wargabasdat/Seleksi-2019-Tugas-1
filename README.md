@@ -98,12 +98,13 @@ contoh .json hasil:
     }
 
 # Screenshots:
-![1](https://imgur.com/pnsDO2u)
+![1](screenshots/GR_topbooks.png)
 
-![2](https://imgur.com/2By7yGU)
+![2](screenshots/Success.png)
 
-![3](https://imgur.com/PwZzEX6)
+![3](screenshots/csv_preview_result.png)
 
+![3](screenshots/json_Example.png)
 # Reference:
   Python 3.7.
   Scrapy
