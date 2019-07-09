@@ -98,11 +98,11 @@ contoh .json hasil:
     }
 
 # Screenshots:
-https://imgur.com/pnsDO2u
+![1](https://imgur.com/pnsDO2u)
 
-https://imgur.com/2By7yGU
+![2](https://imgur.com/2By7yGU)
 
-https://imgur.com/PwZzEX6
+![3](https://imgur.com/PwZzEX6)
 
 # Reference:
   Python 3.7.
