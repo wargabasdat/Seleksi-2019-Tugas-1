@@ -38,7 +38,7 @@ def getRoomInfo(roomSoup):
         elif 'koneksi' in infoText and (not('Tidak' in infoText)):
             infoList['Wifi Gratis'] = True
         elif 'm²' in infoText:
-            infoList['Ukuran'] = int(infoText.strip('m²').strip())
+            infoList['Ukuran'] = float(infoText.strip('m²').strip())
         elif 'Refundable' in infoText and ('Non' in infoText):
             infoList['Refundable'] = False
         else:
@@ -73,16 +73,12 @@ def getData(url):
         data[facility.find('div',{'class':'contentLeft'}).text.strip()] = getFacility(facility)
     return data
     
-
-if __name__ == "__main__":
-    header = {'user-agent' : 'gamapradipta88@gmail.com'}
-    # specify the url
-    url = 'https://www.pegipegi.com/hotel/malang/'
+def getPage(url,data):
+    global header
     #query the website and return the html to the variable 'response'
     response = requests.get(url, headers = header)
     #parse the html using beautiful soup and store in variable 'soup'
     soup = BeautifulSoup(response.text,'html.parser')
-    data = []
     for link in soup.findAll('a',{'class':'overflowLink'}) :
         try:
             print(link['href'])
@@ -92,6 +88,24 @@ if __name__ == "__main__":
         except KeyError:
             print("error")
             pass
+    searchNext = soup.findAll('a',class_="buttonNav", text=">")
+    if len(searchNext) !=0:
+        nextUrl = searchNext[0]['href']
+        print(nextUrl)
+    else:
+        nextUrl = None
+    return nextUrl, data
+
+if __name__ == "__main__":
+    header = {'user-agent' : 'gamapradipta88@gmail.com'}
+    # specify the url
+    url = 'https://www.pegipegi.com/hotel/malang/'
+    #query the website and return the html to the variable 'response'
+    response = requests.get(url, headers = header)
+    #parse the html using beautiful soup and store in variable 'soup'
+    data = []
+    while url is not None:
+        url,data = getPage(url,data)
     
     with open("data/data.json","w") as outfile:
         json.dump(data,outfile,indent = 4)
