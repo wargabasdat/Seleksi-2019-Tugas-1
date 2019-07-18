@@ -1,98 +1,64 @@
-import time
-import re
-import requests
 from bs4 import BeautifulSoup
+import requests
 import json
+import re
 
-def ambil_data(url,header):
+def getData(url,header):
     response = requests.get(url, headers = header)
     soup = BeautifulSoup(response.text, "html.parser")
+
     data = {}
     nameTheater = soup.find("h1")
     data["Nama Theater"] = nameTheater.text.strip()
     
     detTheater = soup.find("p", {"style": "line-height: 18pt;"})
-    data["Detail Theater"] = detTheater.text.strip()
-    
+    tempString = detTheater.text.strip()[:-9]
+    x = re.search(r"Telp", tempString)
+    if x != None:
+        data["Alamat Theater"] = tempString[:x.start()]
+        data["Telepon"] = tempString[x.start()+6:]
+
+    else:
+        data["Alamat Theater"] = tempString
+        data["Telepon"] = ""
+
     dateTheater = soup.find("span", {"class" : "right"})
     data["Tanggal"] = dateTheater.text.strip()
     
     movie = {}
     movieList = soup.find("div", {"class" : "mtom20"})
     nameList = movieList.find_all("div", {"class" : "rowl clearfix"})
-    film = {}
+    data["Daftar Film"] = []
     i = 1
 
     for name in nameList:
         movie = {}
+
         nameMovie = name.find("h2")
+        tempString = nameMovie.text.strip()
+        x = re.search(r"\)", tempString)
+        if x != None:
+            movie["Judul Film"] = tempString[:x.start()+1]
+            movie["Kategori"] = tempString[x.start()+1:]
+        else:
+            movie["Judul Film"] = tempString
+            movie["Kategori"] = ""
+
         genreMovie = name.find("p")
-        priceMovie = name.findNext("p", {"class" : "htm"})
-        movie["Judul Film"] = nameMovie.text.strip()
         movie["Genre Film"] = genreMovie.text.strip()[:-12]
         movie["Durasi"] = genreMovie.text.strip()[-9:]
+        
+        priceMovie = name.findNext("p", {"class" : "htm"})
         movie["Harga"] = priceMovie.text.strip()[18:]
-        film["Film "+str(i)] = movie
+        data["Daftar Film"].append(movie)
         i = i+1
-    data["Daftar Film"] = film
 
+        movie["Jadwal"] = []
+        temp = name.find("ul")
+        scheduleList = temp.find_all("li")
+        for schedule in scheduleList:
+            movie["Jadwal"].append(schedule.text.strip())
 
-    """
-    jenis = tipe.find("td", {"class" : "col-md-7"})
-    tipe_kos["Jenis Kos"] = jenis.text.strip()
-    umur = jenis.findNext("td", {"class" : "col-md-7"})
-    if umur:
-        tipe_kos["Umur Bangunan"] = umur.text.strip()
-        jam = umur.findNext("td", text = "Jam Bertamu").findNextSibling().findNextSibling()
-        tipe_kos["Jam Bertamu"] = jam.text.strip()
-    else:
-        tipe_kos["Umur Bangunan"] = "-"
-        jam = jenis.findNext("td", text = "Jam Bertamu").findNextSibling().findNextSibling()
-        tipe_kos["Jam Bertamu"] = jam.text.strip()
-    pelihara = jam.findNext("td", text = "Pelihara Binatang").findNextSibling().findNextSibling()
-    tipe_kos["Pelihara Binatang"] = pelihara.text.strip()
-
-    data["Tipe Kos"] = tipe_kos
-
-    jumlah = soup.find("div", {"class" : "dataListing dataRight"})
-    data["Jumlah Kamar"] = int(re.findall("\d+", jumlah.text.strip())[0])
-    ukuran = jumlah.findNext("div", {"class" : "dataListing dataRight"})
-    data["Ukuran Kamar"] = ukuran.text.strip()
-    luas = ukuran.findNext("div", {"class" : "dataListing dataRight"})
-    data["Luas Kamar"] = int(re.findall("\d+", luas.text.strip())[0])
-    
-    fk = {}
-    list_fk = ["AC", "Internet/ Wifi", "TV", "Lemari Pakaian", "Kamar Mandi Dalam", "Water Heater", "Kasur", "Meja Belajar", "Kursi Belajar", "Kulkas"]
-    for fasilitas in list_fk:
-        fk[fasilitas] = "tidak"
-    fasilitas_kamar = soup.findAll("div", {"class" : "row text-left"})
-    for fasilitas in fasilitas_kamar:
-        if fasilitas.text.strip() in list_fk:
-            fk[fasilitas.text.strip()] = "ya"
-    data["Fasilitas Kamar"] = fk
-
-    fb = {}
-    list_fb = ["Ruang Tamu", "Ruang Makan", "Keamanan 24 Jam", "Parkir Mobil", "Parkir Motor", "Dapur", "Pembantu", "Mesin Cuci"]
-    for fasilitas in list_fb:
-        fb[fasilitas] = "tidak"
-    fasilitas_bangunan = soup.find("h3", text = "Fasilitas Bangunan")
-    fbs = fasilitas_bangunan.find_next_siblings("div", {"class" : "col-md-3 col-xs-6 fasilitas"})
-    for fasilitas in fbs:
-        if fasilitas.text.strip() in list_fb:
-            fb[fasilitas.p.text.strip()] = "ya"
-    data["Fasilitas Bangunan"] = fb
-    
-    fs = {}
-    list_fs = ["ATM", "Mini Market", "Tempat Ibadah", "Warteg", "Restoran", "Laundry Shop", "Rumah Sakit", "GYM", "Mall"]
-    for fasilitas in list_fs:
-        fs[fasilitas] = "tidak"
-    fasilitas_sekitar = soup.find("h3", text = "Fasilitas Sekitar")
-    fss = fasilitas_sekitar.find_next_siblings("div", {"class" : "col-md-3 col-xs-6 fasilitas"})
-    for fasilitas in fss:
-        if fasilitas.text.strip() in list_fs:
-            fs[fasilitas.p.text.strip()] = "ya"
-    data["Fasilitas Sekitar"] = fs
-    """
     return data
 
 if __name__ == "__main__":
@@ -106,8 +72,7 @@ if __name__ == "__main__":
     thlist = list.find_all("a", {"class" : "mojadwal"}, href = True)
     for i in range (len(thlist)):
         print(thlist[i]["href"])
-        hasil.append(ambil_data(thlist[i]["href"],header))
-        #time.sleep(2)
+        hasil.append(getData(thlist[i]["href"],header))
 
-    with open("data.json", "w") as outfile:
+    with open("../data/data.json", "w") as outfile:
         json.dump(hasil, outfile, indent = 4)

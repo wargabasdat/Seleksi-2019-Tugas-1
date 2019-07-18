@@ -1,560 +1,1208 @@
 [
     {
         "Nama Theater": "BRAGA XXI",
-        "Detail Theater": "BRAGA CITY WALK Lantai 2. Jl. Braga 99-101\u00a0. Bandung. Telp. (022) 844 60121 Show map",
-        "Tanggal": "Selasa, 16 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+        "Alamat Theater": "BRAGA CITY WALK Lantai 2. Jl. Braga 99-101\u00a0. Bandung. ",
+        "Telepon": "(022) 844 60121",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:30",
+                    "14:00",
+                    "16:30",
+                    "19:00",
+                    "21:30"
+                ]
+            },
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:45",
+                    "12:00",
+                    "14:10",
+                    "14:25",
+                    "16:35",
+                    "16:50",
+                    "19:00",
+                    "19:15",
+                    "21:25",
+                    "21:40"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 30.000"
-            },
-            "Film 3": {
-                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)SU",
-                "Genre Film": "Drama,Family",
-                "Durasi": "101 Menit",
-                "Harga": "Rp 30.000"
-            },
-            "Film 4": {
-                "Judul Film": "ANNABELLE COMES HOME (Regular 2D)13+",
-                "Genre Film": "Horror, Mystery, Thriller",
-                "Durasi": "106 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:30",
+                    "14:10",
+                    "16:50",
+                    "19:30",
+                    "22:10"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "BTC XXI",
-        "Detail Theater": "BANDUNG TRADE CENTRE P2 Lantai 3. Jl. Dr. Djundjunan No. 143-149. Bandung. Telp. (022) 6126521 Show map",
-        "Tanggal": "Selasa, 16 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+        "Alamat Theater": "BANDUNG TRADE CENTRE P2 Lantai 3. Jl. Dr. Djundjunan No. 143-149. Bandung. ",
+        "Telepon": "(022) 6126521",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:30",
+                    "13:00",
+                    "14:00",
+                    "15:30",
+                    "16:30",
+                    "19:00",
+                    "21:30"
+                ]
+            },
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:30",
+                    "12:00",
+                    "13:55",
+                    "14:25",
+                    "16:20",
+                    "16:50",
+                    "18:45",
+                    "19:15",
+                    "21:10",
+                    "21:40"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+            {
+                "Judul Film": "DILARANG MENYANYI DI KAMAR MANDI (Regular 2D)",
+                "Kategori": "17+",
+                "Genre Film": "Comed",
+                "Durasi": " 96 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "12:45",
+                    "14:50",
+                    "16:55",
+                    "19:00",
+                    "21:05"
+                ]
+            },
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 30.000"
-            },
-            "Film 3": {
-                "Judul Film": "IKUT AKU KE NERAKA (Regular 2D)17+",
-                "Genre Film": "Horro",
-                "Durasi": " 90 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "18:00",
+                    "20:40"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CGV 23 Paskal",
-        "Detail Theater": "23 Paskal Shopping Center - Pasir Kaliki Bandung Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "THE LION KING (Regular 2D)SU",
+        "Alamat Theater": "23 Paskal Shopping Center - Pasir Kaliki Bandung",
+        "Telepon": "",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "10:30",
+                    "13:00",
+                    "15:25",
+                    "17:50",
+                    "20:15",
+                    "22:40"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "THE LION KING (2D Gold Class)SU",
+            {
+                "Judul Film": "THE LION KING (2D Gold Class)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 80.000"
+                "Harga": "Rp 80.000",
+                "Jadwal": [
+                    "11:00",
+                    "16:15",
+                    "21:30"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "THE LION KING (2D Starium)SU",
+            {
+                "Judul Film": "THE LION KING (2D Starium)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 45.000"
+                "Harga": "Rp 45.000",
+                "Jadwal": [
+                    "11:45",
+                    "14:10",
+                    "16:35",
+                    "19:00",
+                    "21:30"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "THE LION KING (2D Velvet)SU",
+            {
+                "Judul Film": "THE LION KING (2D Velvet)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 80.000"
+                "Harga": "Rp 80.000",
+                "Jadwal": [
+                    "14:00",
+                    "19:15",
+                    "21:45"
+                ]
             },
-            "Film 5": {
-                "Judul Film": "A DOG'S JOURNEY (Regular 2D)13+",
+            {
+                "Judul Film": "A DOG'S JOURNEY (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "DRAMA",
                 "Durasi": "108 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:05",
+                    "16:00"
+                ]
             },
-            "Film 6": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Velvet)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Velvet)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 80.000"
+                "Harga": "Rp 80.000",
+                "Jadwal": [
+                    "11:15",
+                    "16:30"
+                ]
             },
-            "Film 7": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:30",
+                    "14:10",
+                    "16:50",
+                    "19:30",
+                    "22:10"
+                ]
             },
-            "Film 8": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Gold Class)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Gold Class)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 80.000"
+                "Harga": "Rp 80.000",
+                "Jadwal": [
+                    "13:30",
+                    "18:45"
+                ]
             },
-            "Film 9": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:45",
+                    "14:15",
+                    "16:40",
+                    "19:05",
+                    "21:30"
+                ]
             },
-            "Film 10": {
-                "Judul Film": "CRAWL (Regular 2D)17+",
+            {
+                "Judul Film": "CRAWL (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "Action, Adventure, Thrille",
                 "Durasi": " 87 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:50",
+                    "19:25"
+                ]
             },
-            "Film 11": {
-                "Judul Film": "PARASITE (Regular 2D)17+",
+            {
+                "Judul Film": "PARASITE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "THRILLER",
                 "Durasi": "131 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "13:20",
+                    "18:15"
+                ]
             },
-            "Film 12": {
-                "Judul Film": "THE HUSTLE (Regular 2D)17+",
+            {
+                "Judul Film": "THE HUSTLE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "COMED",
                 "Durasi": " 94 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "13:50",
+                    "21:20"
+                ]
             },
-            "Film 13": {
-                "Judul Film": "(EXTENDED) AVENGERS: ENDGAME (Regular 2D)13+",
+            {
+                "Judul Film": "(EXTENDED)",
+                "Kategori": " AVENGERS: ENDGAME (Regular 2D)13+",
                 "Genre Film": "ACTION",
                 "Durasi": "188 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "15:50",
+                    "21:00"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CGV BEC Mall",
-        "Detail Theater": "Istana BEC Bandung Lantai 3A. Jln Purnawarman No 7 - 11 Bandung Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)SU",
+        "Alamat Theater": "Istana BEC Bandung Lantai 3A. Jln Purnawarman No 7 - 11 Bandung",
+        "Telepon": "",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Drama,Family",
                 "Durasi": "101 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "09:15",
+                    "09:30",
+                    "11:40",
+                    "13:00",
+                    "15:45"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "THE LION KING (Regular 2D)SU",
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "10:30",
+                    "11:45",
+                    "12:15",
+                    "14:10",
+                    "14:40",
+                    "16:35",
+                    "17:05",
+                    "19:00",
+                    "19:35",
+                    "19:55",
+                    "21:25",
+                    "22:00",
+                    "22:20"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "THE LION KING (3D)SU",
+            {
+                "Judul Film": "THE LION KING (3D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "15:05",
+                    "17:30"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
-                "Genre Film": "Drama",
-                "Durasi": "113 Menit",
-                "Harga": "Rp 35.000"
-            },
-            "Film 5": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
-                "Genre Film": "Action, Adventure, Comedy",
-                "Durasi": "129 Menit",
-                "Harga": "Rp 35.000"
-            },
-            "Film 6": {
-                "Judul Film": "PARASITE (Regular 2D)17+",
+            {
+                "Judul Film": "PARASITE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "THRILLER",
                 "Durasi": "131 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:15",
+                    "13:55",
+                    "16:35",
+                    "17:55",
+                    "19:15",
+                    "21:55"
+                ]
             },
-            "Film 7": {
-                "Judul Film": "CRAWL (Regular 2D)17+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
+                "Genre Film": "Drama",
+                "Durasi": "113 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:25",
+                    "13:45",
+                    "16:05",
+                    "18:25",
+                    "20:45"
+                ]
+            },
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Action, Adventure, Comedy",
+                "Durasi": "129 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:25",
+                    "14:05",
+                    "16:40",
+                    "19:15",
+                    "21:50"
+                ]
+            },
+            {
+                "Judul Film": "CRAWL (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "Action, Adventure, Thrille",
                 "Durasi": " 87 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "13:50",
+                    "20:35"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CGV Kings Shopping Center",
-        "Detail Theater": "Jl. Kepatihan No.17, Balonggede, Regol, Kota Bandung, Jawa Barat 40251 Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+        "Alamat Theater": "Jl. Kepatihan No.17, Balonggede, Regol, Kota Bandung, Jawa Barat 40251",
+        "Telepon": "",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "10:30",
+                    "12:55",
+                    "13:55",
+                    "15:20",
+                    "17:45",
+                    "20:10"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "THE LION KING (Regular 2D)SU",
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "10:45",
+                    "11:45",
+                    "13:15",
+                    "14:10",
+                    "15:45",
+                    "16:35",
+                    "18:15",
+                    "19:00",
+                    "20:45",
+                    "21:25",
+                    "21:50"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:15",
+                    "16:20",
+                    "19:05"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CGV Metro Indah Mall",
-        "Detail Theater": "Jalan Soekarno Hatta, Kawasan Niaga MTC, No.590, Sekejati, Buahbatu, Kota Bandung, Jawa Barat 40286 Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "THE LION KING (Regular 2D)SU",
+        "Alamat Theater": "Jalan Soekarno Hatta, Kawasan Niaga MTC, No.590, Sekejati, Buahbatu, Kota Bandung, Jawa Barat 40286",
+        "Telepon": "",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "10:30",
+                    "12:00",
+                    "12:55",
+                    "14:25",
+                    "15:20",
+                    "16:50",
+                    "17:45",
+                    "19:15",
+                    "20:10",
+                    "21:40",
+                    "22:35"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "THE LION KING (2D Satin Suite)SU",
+            {
+                "Judul Film": "THE LION KING (2D Satin Suite)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 50.000"
+                "Harga": "Rp 50.000",
+                "Jadwal": [
+                    "13:20",
+                    "18:20",
+                    "23:20"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Satin Suite)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Satin Suite)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 50.000"
+                "Harga": "Rp 50.000",
+                "Jadwal": [
+                    "10:45",
+                    "15:45",
+                    "20:45"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:15",
+                    "13:50",
+                    "16:25",
+                    "19:00",
+                    "21:35"
+                ]
             },
-            "Film 5": {
-                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)SU",
+            {
+                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Drama,Family",
                 "Durasi": "101 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:05",
+                    "15:55"
+                ]
             },
-            "Film 6": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:30",
+                    "13:50",
+                    "16:10",
+                    "18:30",
+                    "20:50"
+                ]
             },
-            "Film 7": {
-                "Judul Film": "PARASITE (Regular 2D)17+",
+            {
+                "Judul Film": "PARASITE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "THRILLER",
                 "Durasi": "131 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "13:15",
+                    "18:05",
+                    "20:45"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CGV Miko Mall",
-        "Detail Theater": "Miko Mall Lantai 3A, Bandung. Jl. Kopo Cirangrang No 599 Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "THE LION KING (Regular 2D)SU",
+        "Alamat Theater": "Miko Mall Lantai 3A, Bandung. Jl. Kopo Cirangrang No 599",
+        "Telepon": "",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "10:30",
+                    "11:45",
+                    "12:55",
+                    "14:10",
+                    "15:20",
+                    "16:35",
+                    "17:20",
+                    "17:45",
+                    "19:00",
+                    "19:40",
+                    "20:10",
+                    "21:25",
+                    "22:00",
+                    "22:35"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
-                "Genre Film": "Drama",
-                "Durasi": "113 Menit",
-                "Harga": "Rp 30.000"
-            },
-            "Film 3": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
-                "Genre Film": "Action, Adventure, Comedy",
-                "Durasi": "129 Menit",
-                "Harga": "Rp 30.000"
-            },
-            "Film 4": {
-                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)SU",
+            {
+                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Drama,Family",
                 "Durasi": "101 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "10:30"
+                ]
             },
-            "Film 5": {
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
+                "Genre Film": "Drama",
+                "Durasi": "113 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "10:45",
+                    "12:40",
+                    "13:05",
+                    "15:00",
+                    "15:25",
+                    "17:45",
+                    "20:05",
+                    "22:25"
+                ]
+            },
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Action, Adventure, Comedy",
+                "Durasi": "129 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:00",
+                    "11:30",
+                    "13:35",
+                    "16:10",
+                    "18:00",
+                    "18:45",
+                    "21:20",
+                    "22:30"
+                ]
+            },
+            {
+                "Judul Film": "PINTU MERAH (Regular 2D)",
+                "Kategori": "17+",
+                "Genre Film": "Horro",
+                "Durasi": " 77 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "11:05",
+                    "14:55",
+                    "18:45",
+                    "22:35"
+                ]
+            },
+            {
+                "Judul Film": "DILARANG MENYANYI DI KAMAR MANDI (Regular 2D)",
+                "Kategori": "17+",
+                "Genre Film": "Comed",
+                "Durasi": " 96 Menit",
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "12:50",
+                    "16:40",
+                    "20:30"
+                ]
+            },
+            {
                 "Judul Film": "NAKEE 2 (Regular 2D)",
+                "Kategori": "",
                 "Genre Film": "HORR",
                 "Durasi": "- 0 Menit",
-                "Harga": "Rp 30.000"
-            },
-            "Film 6": {
-                "Judul Film": "IKUT AKU KE NERAKA (Regular 2D)17+",
-                "Genre Film": "Horro",
-                "Durasi": " 90 Menit",
-                "Harga": "Rp 30.000"
+                "Harga": "Rp 30.000",
+                "Jadwal": [
+                    "14:05",
+                    "16:00",
+                    "20:35"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CGV Paris Van Java",
-        "Detail Theater": "Paris Van Java Bandung. Jl. Sukajadi 137 - 139 Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+        "Alamat Theater": "Paris Van Java Bandung. Jl. Sukajadi 137 - 139",
+        "Telepon": "",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "10:30",
+                    "11:00",
+                    "13:00",
+                    "13:25",
+                    "15:35",
+                    "15:50",
+                    "17:40",
+                    "18:00",
+                    "18:15",
+                    "20:25",
+                    "20:40"
+                ]
+            },
+            {
+                "Judul Film": "THE LION KING (2D Velvet)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 75.000",
+                "Jadwal": [
+                    "10:30",
+                    "13:10",
+                    "15:50",
+                    "18:30",
+                    "21:10"
+                ]
+            },
+            {
+                "Judul Film": "THE LION KING (4DX3D 4DX)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 80.000",
+                "Jadwal": [
+                    "11:30",
+                    "13:55",
+                    "16:20",
+                    "18:45",
+                    "21:10"
+                ]
+            },
+            {
+                "Judul Film": "THE LION KING (3D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 45.000",
+                "Jadwal": [
+                    "12:00",
+                    "14:25",
+                    "16:50",
+                    "19:15",
+                    "21:40"
+                ]
+            },
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "10:30",
+                    "13:10",
+                    "16:00",
+                    "18:40",
+                    "21:20"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Velvet)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (2D Velvet)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 75.000"
+                "Harga": "Rp 75.000",
+                "Jadwal": [
+                    "11:15",
+                    "14:05",
+                    "16:55",
+                    "19:45",
+                    "22:35"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "THE LION KING (2D Velvet)SU",
-                "Genre Film": "Animation, Adventure, Drama",
-                "Durasi": "118 Menit",
-                "Harga": "Rp 75.000"
-            },
-            "Film 4": {
-                "Judul Film": "THE LION KING (Regular 2D)SU",
-                "Genre Film": "Animation, Adventure, Drama",
-                "Durasi": "118 Menit",
-                "Harga": "Rp 40.000"
-            },
-            "Film 5": {
-                "Judul Film": "THE LION KING (4DX3D 4DX)SU",
-                "Genre Film": "Animation, Adventure, Drama",
-                "Durasi": "118 Menit",
-                "Harga": "Rp 80.000"
-            },
-            "Film 6": {
-                "Judul Film": "THE LION KING (3D)SU",
-                "Genre Film": "Animation, Adventure, Drama",
-                "Durasi": "118 Menit",
-                "Harga": "Rp 45.000"
-            },
-            "Film 7": {
-                "Judul Film": "THE HUSTLE (Regular 2D)17+",
+            {
+                "Judul Film": "THE HUSTLE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "COMED",
                 "Durasi": " 94 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "10:45",
+                    "14:40",
+                    "18:35"
+                ]
             },
-            "Film 8": {
-                "Judul Film": "0.0 MHZ (Regular 2D)17+",
+            {
+                "Judul Film": "0.0 MHZ (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "HORROR",
                 "Durasi": "102 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:00",
+                    "13:15",
+                    "22:20"
+                ]
             },
-            "Film 9": {
-                "Judul Film": "PARASITE (Regular 2D)17+",
+            {
+                "Judul Film": "PARASITE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "THRILLER",
                 "Durasi": "131 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:15",
+                    "13:55",
+                    "16:35",
+                    "19:15",
+                    "21:55"
+                ]
             },
-            "Film 10": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "11:45",
+                    "14:10",
+                    "16:35",
+                    "19:00",
+                    "21:25"
+                ]
             },
-            "Film 11": {
-                "Judul Film": "CRAWL (Regular 2D)17+",
+            {
+                "Judul Film": "CRAWL (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "Action, Adventure, Thrille",
                 "Durasi": " 87 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "12:45",
+                    "16:40"
+                ]
             },
-            "Film 12": {
-                "Judul Film": "A DOG'S JOURNEY (Regular 2D)13+",
+            {
+                "Judul Film": "A DOG'S JOURNEY (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "DRAMA",
                 "Durasi": "108 Menit",
-                "Harga": "Rp 40.000"
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "15:25",
+                    "20:05"
+                ]
+            },
+            {
+                "Judul Film": "(EXTENDED)",
+                "Kategori": " AVENGERS: ENDGAME (Regular 2D)13+",
+                "Genre Film": "ACTION",
+                "Durasi": "188 Menit",
+                "Harga": "Rp 40.000",
+                "Jadwal": [
+                    "20:35"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "Cinemaxx Istana Plaza",
-        "Detail Theater": "Jalan Pasirkaliki No.121-123, Pamoyanan, Cicendo, Pamoyanan, Cicendo, Kota Bandung, Jawa Barat. Telp. 022-2056 4002 Show map",
-        "Tanggal": "Rabu, 17 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Cinemaxx Regular 2D)SU",
+        "Alamat Theater": "Jalan Pasirkaliki No.121-123, Pamoyanan, Cicendo, Pamoyanan, Cicendo, Kota Bandung, Jawa Barat. ",
+        "Telepon": "022-2056 4002",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Cinemaxx Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:00",
+                    "13:30",
+                    "16:05",
+                    "18:40",
+                    "21:20"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "DUA GARIS BIRU (Cinemaxx Regular 2D)13+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Cinemaxx Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "10:30",
+                    "11:15",
+                    "13:35",
+                    "15:00",
+                    "15:55",
+                    "18:15",
+                    "20:35",
+                    "21:40",
+                    "22:55"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "0.0 MHZ (Cinemaxx Regular 2D)17+",
+            {
+                "Judul Film": "0.0 MHZ (Cinemaxx Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "HORROR",
                 "Durasi": "102 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "12:50",
+                    "17:20",
+                    "19:30"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "THE LION KING (Cinemaxx Regular 2D)SU",
+            {
+                "Judul Film": "THE LION KING (Cinemaxx Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Animation, Adventure, Drama",
                 "Durasi": "118 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "10:30",
+                    "12:55",
+                    "15:20",
+                    "17:45",
+                    "20:10",
+                    "22:35"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "CIWALK XXI",
-        "Detail Theater": "CIWALK Lantai 2. Jl. Cihampelas 160. Bandung. Telp. (022) 2061017 Show map",
-        "Tanggal": "Selasa, 16 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+        "Alamat Theater": "CIWALK Lantai 2. Jl. Cihampelas 160. Bandung. ",
+        "Telepon": "(022) 2061017",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:30",
+                    "11:45",
+                    "12:30",
+                    "13:00",
+                    "14:00",
+                    "14:15",
+                    "15:00",
+                    "15:30",
+                    "16:30",
+                    "16:45",
+                    "17:30",
+                    "18:00",
+                    "19:00",
+                    "19:15",
+                    "20:00",
+                    "20:30",
+                    "21:30",
+                    "21:45"
+                ]
+            },
+            {
+                "Judul Film": "THE LION KING (Premiere)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 60.000",
+                "Jadwal": [
+                    "11:35",
+                    "12:35",
+                    "14:05",
+                    "15:05",
+                    "16:35",
+                    "17:35",
+                    "19:05",
+                    "20:05",
+                    "21:35"
+                ]
+            },
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "13:00",
+                    "15:40",
+                    "18:20",
+                    "21:00"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Premiere)SU",
-                "Genre Film": "Action, Adventure, Comedy",
-                "Durasi": "129 Menit",
-                "Harga": "Rp 60.000"
-            },
-            "Film 3": {
-                "Judul Film": "CRAWL (Regular 2D)17+",
+            {
+                "Judul Film": "CRAWL (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "Action, Adventure, Thrille",
                 "Durasi": " 87 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "12:45",
+                    "16:50",
+                    "20:55"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "CRAWL (Premiere)17+",
-                "Genre Film": "Action, Adventure, Thrille",
-                "Durasi": " 87 Menit",
-                "Harga": "Rp 60.000"
-            },
-            "Film 5": {
-                "Judul Film": "THE HUSTLE (Regular 2D)17+",
+            {
+                "Judul Film": "THE HUSTLE (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "COMED",
                 "Durasi": " 94 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "14:45",
+                    "18:50"
+                ]
             },
-            "Film 6": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 35.000"
-            },
-            "Film 7": {
-                "Judul Film": "ANNABELLE COMES HOME (Regular 2D)13+",
-                "Genre Film": "Horror, Mystery, Thriller",
-                "Durasi": "106 Menit",
-                "Harga": "Rp 35.000"
-            },
-            "Film 8": {
-                "Judul Film": "AVENGERS: ENDGAME (Regular 2D)13+",
-                "Genre Film": "Action, Adventure, Fantasy",
-                "Durasi": "185 Menit",
-                "Harga": "Rp 35.000"
-            },
-            "Film 9": {
-                "Judul Film": "TOY STORY 4 (Regular 2D)SU",
-                "Genre Film": "Animation, Adventure, Comedy",
-                "Durasi": "100 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:45",
+                    "12:00",
+                    "14:10",
+                    "14:25",
+                    "16:35",
+                    "16:50",
+                    "19:00",
+                    "19:15",
+                    "21:25",
+                    "21:40"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "EMPIRE XXI",
-        "Detail Theater": "BANDUNG INDAH PLAZA Lantai 3. Jl. Merdeka 56. Bandung. Telp. (022) 424 0719 Show map",
-        "Tanggal": "Selasa, 16 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
-                "Genre Film": "Action, Adventure, Comedy",
-                "Durasi": "129 Menit",
-                "Harga": "Rp 35.000"
+        "Alamat Theater": "BANDUNG INDAH PLAZA Lantai 3. Jl. Merdeka 56. Bandung. ",
+        "Telepon": "(022) 424 0719",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:30",
+                    "12:30",
+                    "14:00",
+                    "15:00",
+                    "16:30",
+                    "17:30",
+                    "19:00",
+                    "20:00",
+                    "21:30"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Drama",
                 "Durasi": "113 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:45",
+                    "12:00",
+                    "14:10",
+                    "14:25",
+                    "16:35",
+                    "16:50",
+                    "19:00",
+                    "19:15",
+                    "21:25",
+                    "21:40"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)SU",
+            {
+                "Judul Film": "DILARANG MENYANYI DI KAMAR MANDI (Regular 2D)",
+                "Kategori": "17+",
+                "Genre Film": "Comed",
+                "Durasi": " 96 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "12:45",
+                    "14:50",
+                    "16:55",
+                    "19:00",
+                    "21:05"
+                ]
+            },
+            {
+                "Judul Film": "IQRO - MY UNIVERSE (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Drama,Family",
                 "Durasi": "101 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "12:15",
+                    "14:25",
+                    "16:35"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "ANNABELLE COMES HOME (Regular 2D)13+",
+            {
+                "Judul Film": "ANNABELLE COMES HOME (Regular 2D)",
+                "Kategori": "13+",
                 "Genre Film": "Horror, Mystery, Thriller",
                 "Durasi": "106 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "18:45",
+                    "21:00"
+                ]
             },
-            "Film 5": {
-                "Judul Film": "CRAWL (Regular 2D)17+",
+            {
+                "Judul Film": "CRAWL (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "Action, Adventure, Thrille",
                 "Durasi": " 87 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "12:45",
+                    "14:45",
+                    "16:45",
+                    "18:45",
+                    "20:45"
+                ]
             },
-            "Film 6": {
-                "Judul Film": "AVENGERS: ENDGAME (Regular 2D)13+",
-                "Genre Film": "Action, Adventure, Fantasy",
-                "Durasi": "185 Menit",
-                "Harga": "Rp 35.000"
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Action, Adventure, Comedy",
+                "Durasi": "129 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "13:00",
+                    "15:40",
+                    "18:20",
+                    "21:00"
+                ]
             }
-        }
+        ]
     },
     {
         "Nama Theater": "FESTIVAL CITYLINK XXI",
-        "Detail Theater": "FESTIVAL CITYLINK Lantai 3\u00a0. Jl. Peta No. 241. Bandung. Telp. (022) 6128708 Show map",
-        "Tanggal": "Selasa, 16 Juli 2019",
-        "Daftar Film": {
-            "Film 1": {
-                "Judul Film": "DUA GARIS BIRU (Regular 2D)13+",
-                "Genre Film": "Drama",
-                "Durasi": "113 Menit",
-                "Harga": "Rp 35.000"
+        "Alamat Theater": "FESTIVAL CITYLINK Lantai 3\u00a0. Jl. Peta No. 241. Bandung. ",
+        "Telepon": "(022) 6128708",
+        "Tanggal": "Kamis, 18 Juli 2019",
+        "Daftar Film": [
+            {
+                "Judul Film": "THE LION KING (Regular 2D)",
+                "Kategori": "SU",
+                "Genre Film": "Animation, Adventure, Drama",
+                "Durasi": "118 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:30",
+                    "12:30",
+                    "14:00",
+                    "15:00",
+                    "16:30",
+                    "17:30",
+                    "19:00",
+                    "20:00",
+                    "21:30"
+                ]
             },
-            "Film 2": {
-                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)SU",
+            {
+                "Judul Film": "SPIDER-MAN: FAR FROM HOME (Regular 2D)",
+                "Kategori": "SU",
                 "Genre Film": "Action, Adventure, Comedy",
                 "Durasi": "129 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "13:00",
+                    "15:40",
+                    "18:20",
+                    "21:00"
+                ]
             },
-            "Film 3": {
-                "Judul Film": "ANNABELLE COMES HOME (Regular 2D)13+",
-                "Genre Film": "Horror, Mystery, Thriller",
-                "Durasi": "106 Menit",
-                "Harga": "Rp 35.000"
+            {
+                "Judul Film": "DUA GARIS BIRU (Regular 2D)",
+                "Kategori": "13+",
+                "Genre Film": "Drama",
+                "Durasi": "113 Menit",
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "11:45",
+                    "12:00",
+                    "14:10",
+                    "14:25",
+                    "16:35",
+                    "16:50",
+                    "19:00",
+                    "19:15",
+                    "21:25",
+                    "21:40"
+                ]
             },
-            "Film 4": {
-                "Judul Film": "THE HUSTLE (Regular 2D)17+",
-                "Genre Film": "COMED",
-                "Durasi": " 94 Menit",
-                "Harga": "Rp 35.000"
-            },
-            "Film 5": {
-                "Judul Film": "CRAWL (Regular 2D)17+",
+            {
+                "Judul Film": "CRAWL (Regular 2D)",
+                "Kategori": "17+",
                 "Genre Film": "Action, Adventure, Thrille",
                 "Durasi": " 87 Menit",
-                "Harga": "Rp 35.000"
+                "Harga": "Rp 35.000",
+                "Jadwal": [
+                    "12:45",
+                    "14:45",
+                    "16:45",
+                    "18:45",
+                    "20:45"
+                ]
             }
-        }
+        ]
     }
 ]
