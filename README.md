@@ -39,9 +39,13 @@ Data yang diperoleh dari <i>jadwalnonton.com</i> dapat digunakan sebagai informa
 ## Screenshots
 
 <strong>Source code</strong>
-<img src="https://github.com/mahantiindah/Seleksi-2019-Tugas-1/blob/master/screenshots/src.png" title="source code">
+<img src="https://github.com/aisyahizzah/Seleksi-2019-Tugas-1/blob/master/screenshots/src-01.jpg" title="source code">
+<img src="https://github.com/aisyahizzah/Seleksi-2019-Tugas-1/blob/master/screenshots/src-02.jpg" title="source code">
+<img src="https://github.com/aisyahizzah/Seleksi-2019-Tugas-1/blob/master/screenshots/src-03.jpg" title="source code">
 
 <strong>Data JSON</strong>
+<img src="https://github.com/aisyahizzah/Seleksi-2019-Tugas-1/blob/master/screenshots/json.jpg" title="source code">
+
 
 ## Reference
 
