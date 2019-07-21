@@ -22,19 +22,19 @@ Data yang diperoleh dari <i>jadwalnonton.com</i> dapat digunakan sebagai informa
 
 ## JSON Structure
 
-----Nama Kota
-----Daftar Teater
---------Nama Teater
---------Alamat Teater
---------Telepon
---------Tanggal
-----------Daftar Film
-------------Judul
-------------Tipe
-------------Kategori
-------------Durasi
-------------Harga
-------------Jadwal
+----Nama Kota <br>
+----Daftar Teater <br>
+--------Nama Teater <br>
+--------Alamat Teater <br>
+--------Telepon <br>
+--------Tanggal <br>
+----------Daftar Film <br>
+------------Judul <br>
+------------Tipe <br>
+------------Kategori <br>
+------------Durasi <br>
+------------Harga <br>
+------------Jadwal <br>
 
 ## Screenshots
 
