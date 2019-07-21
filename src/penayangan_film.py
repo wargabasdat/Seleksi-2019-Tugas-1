@@ -75,7 +75,6 @@ if __name__ == "__main__":
     url = "https://jadwalnonton.com/bioskop/"
     response = requests.get(url, headers = header)
     soup = BeautifulSoup(response.text, "html.parser")
-  
     result = []
     city = soup.find("ul", {"class" : "ctlist"})
     cityList = city.find_all("a", href = True)

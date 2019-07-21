@@ -28,7 +28,7 @@ Data yang diperoleh dari <i>jadwalnonton.com</i> dapat digunakan sebagai informa
 --------Alamat Teater <br>
 --------Telepon <br>
 --------Tanggal <br>
-----------Daftar Film <br>
+--------Daftar Film <br>
 ------------Judul <br>
 ------------Tipe <br>
 ------------Kategori <br>
@@ -42,7 +42,6 @@ Data yang diperoleh dari <i>jadwalnonton.com</i> dapat digunakan sebagai informa
 <img src="https://github.com/mahantiindah/Seleksi-2019-Tugas-1/blob/master/screenshots/src.png" title="source code">
 
 <strong>Data JSON</strong>
-<img src="https://github.com/mahantiindah/Seleksi-2019-Tugas-1/blob/master/screenshots/data.png" title="data json">
 
 ## Reference
 
