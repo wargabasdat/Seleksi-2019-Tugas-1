@@ -24,8 +24,65 @@ In the midst of the hustle and bustle of assignments, entertaining ourself is a 
 ## Ideas and Innovations in Utilizing the Data
 Data I get from readmanhua can help me decide which manga worth to read. I think this advantage can be felt by other Chinese manga lovers.
 
+ 
 ## JSON Structure
 JSON Structure that I use is :
+
+3. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+
+4. Pada _repository_ tugas 1, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. _repository_ terdiri dari _folder_ `src`, `data` dan `screenshots`. _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__, _folder_ `data` berisi _file_ json hasil _scraper_ sedangkan  _folder_ `screenshot` berisi tangkapan layar program.
+
+5. <span style="color:blue;">Peserta juga diminta untuk membuat _simple build tools_ semacam `Makefile`, `npm scripts`, `runjs` yang bertujuan untuk membuat _program_ dengan gampang di-_build_, di-_run_, dan di-_clean_.</span>
+
+> Template `makefile`
+
+```Makefile
+all: clean build run
+
+clean: # remove data and binary folder
+
+build: # compile to binary (if you use interpreter, then do not implement it)
+
+run: # run your binary
+
+```
+
+> Template `npm scripts`
+
+```javascript
+"scripts": {
+  "build": // if any (optional)
+  "clean": // delete node_modules
+}
+```
+
+> Template `runjs`
+```javascript
+import { run } from 'runjs'
+
+export function clean () {
+}
+
+export function start () {
+}
+
+export function build () {
+  // if any (optional)
+}
+```
+
+6. Deadline pengumpulan tugas 1 adalah __31 Mei 2019 Pukul 23.59__
+
+7. Hasil data scraping ini nantinya akan disimpan dalam DBMS  dan digunakan sebagai bahan tugas analisis dan visualisasi data
+
+8. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](http://bit.ly/DataScrapingGuidance)
+
+9. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_, __NB : BINARY TIDAK DIUPLOAD__
+
+10. Mohon memperhatikan __etika__ dalam melakukan _scraping_
+
+11. JSON harus dinormalisasi dan harus di-_preprocessing_
+
 ```
 [
 ...
@@ -257,8 +314,22 @@ JSON Structure that I use is :
 ![ss src](https://github.com/bluejaden99/TUGAS_SELEKSI_1_13517037/blob/master/screenshots/source.png)
 ## References
 
+
  - Libraries used are json, time, requests, re, and BeautifulSoup.
  - [https://www.youtube.com/watch?v=XQgXKtPSzUI&t=124s](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=124s)
+
+12. <span style="color:blue">Berikan `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus memuat minimal konten :</span>
+```
+- Description
+- Specification (optional)
+- How to use
+- Ideas and innovations in utilizing the data
+- JSON Structure
+- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+- Reference (Library used, etc)
+- Author
+```
+
 
 
 >**DESYA ANUGRAH S.P - 13517037**
