@@ -1,7 +1,7 @@
 all: clean build run
 
-clean: # remove data and binary folder
+clean: mvn clean # remove target/goal folder
 
-build: # compile to binary (if you use interpreter, then do not implement it)
+build: mvn package # add target/goal folder
 
-run: # run your binary
+run: mvn exec:java -DHttpRequest -Dexec.args="https://www.kompas.com/" # create json file from get request of www.kompas.com
